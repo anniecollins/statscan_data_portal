@@ -1,16 +1,16 @@
 Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
-All,NA,2018,gs1dax01,187.25691145936202,13.263842561795128,138.57638062475928,235.93744229396475,-,Arts & culture,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1dax02,80.6985892122212,9.56008368543913,65.5777558493403,95.81942257510208,-,Sports & Recreation,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da202,137.8682433270321,11.416832388500142,107.0180451521509,168.7184415019133,-,Education and research,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da203,178.94559039921998,5.011060004213381,161.3704543691975,196.52072642924247,-,Health,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da204,133.34074078268938,5.15001679118635,119.88152984538385,146.7999517199949,-,Social services,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da205,151.3678878418715,8.707569929525942,125.5346517604018,177.20112392334119,-,Environment,Average donation by subsector,CA (without QC),
+All,NA,2018,gs1dax01,187.25691145936202,13.263842561795128,138.57638062475928,235.93744229396475,-,Arts & culture,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1dax02,80.6985892122212,9.56008368543913,65.5777558493403,95.81942257510208,-,Sports & Recreation,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da202,137.8682433270321,11.416832388500142,107.0180451521509,168.7184415019133,-,Education and research,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da203,178.94559039921998,5.011060004213381,161.3704543691975,196.52072642924247,-,Health,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da204,133.34074078268938,5.15001679118635,119.88152984538385,146.7999517199949,-,Social services,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da205,151.3678878418715,8.707569929525942,125.5346517604018,177.20112392334119,-,Environment,Average donation by subsector,CA (without QC),NA
 All,NA,2018,gs1da206,270.6175954886761,21.136270965283703,158.51065772386377,382.7245332534884,-,Development and housing,Average donation by subsector,CA (without QC),*
-All,NA,2018,gs1da207,163.8466268230393,12.315705596161356,124.29677192427565,203.39648172180293,-,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da208,206.23638161375425,8.258738821538113,172.8532477875018,239.6195154400067,-,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da209,341.16620710178233,6.270280651914872,299.23850334477623,383.09391085878843,-,International,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da210,861.5500207065022,4.446972522228706,786.4581308982494,936.6419105147551,-,Religion,Average donation by subsector,CA (without QC),
-All,NA,2018,gs1da211,77.9514717178839,14.694934967966889,55.500244844015405,100.4026985917524,-,Business and professional,Average donation by subsector,CA (without QC),
+All,NA,2018,gs1da207,163.8466268230393,12.315705596161356,124.29677192427565,203.39648172180293,-,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da208,206.23638161375425,8.258738821538113,172.8532477875018,239.6195154400067,-,Philanthropic intermediaries,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da209,341.16620710178233,6.270280651914872,299.23850334477623,383.09391085878843,-,International,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da210,861.5500207065022,4.446972522228706,786.4581308982494,936.6419105147551,-,Religion,Average donation by subsector,CA (without QC),NA
+All,NA,2018,gs1da211,77.9514717178839,14.694934967966889,55.500244844015405,100.4026985917524,-,Business and professional,Average donation by subsector,CA (without QC),NA
 All,NA,2018,gs1da212,101.98719415353524,19.911810516566632,62.18523170938557,141.78915659768492,-,Not elsewhere classified,Average donation by subsector,CA (without QC),*
 All,NA,2018,gs1dax01,181.23518507858674,12.445609582857163,137.02658325611375,225.44378690105972,-,Arts & culture,Average donation by subsector,CA,NA
 All,NA,2018,gs1dax02,75.96848608131432,9.88638408513989,61.2481053941113,90.68886676851736,-,Sports & Recreation,Average donation by subsector,CA,NA
@@ -3475,3 +3475,496 @@ Immigration status,Native-born,2018,gs1da212,75.80676301022984,59.14197523785487
 Immigration status,Naturalized,2018,gs1da212,27.77541316646121,41.10278057623072,5.399548764989767,50.15127756793265,8,Not elsewhere classified,Average donation by subsector,QC,...
 Immigration status,Non-Canadian,2018,gs1da212,291.48231987220584,112.79574270860064,-352.91394820322876,935.8785879476404,2,Not elsewhere classified,Average donation by subsector,QC,...
 Immigration status,Unknown,2018,gs1da212,27.886382408203367,9.785232229824874,22.53813601817783,33.234628798228904,3,Not elsewhere classified,Average donation by subsector,QC,...
+Age group,15 to 24 years,2018,gs1dax01,43.504110217697914,41.10216425806325,8.457737767102834,78.550482668293,14,Arts & culture,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1dax01,118.499275226692,32.4007732424436,43.24708236693064,193.75146808645337,57,Arts & culture,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1dax01,117.52137617362217,31.323888256166693,45.37066346678155,189.6720888804628,87,Arts & culture,Average donation by subsector,CA (without QC),*
+Age group,45 to 54 years,2018,gs1dax01,223.11686057086018,41.47129932329812,41.76244932930905,404.4712718124113,85,Arts & culture,Average donation by subsector,CA (without QC),...
+Age group,55 to 64 years,2018,gs1dax01,289.09453687409484,23.766549146775816,154.42973285076206,423.7593408974276,143,Arts & culture,Average donation by subsector,CA (without QC),*
+Age group,65 to 74 years,2018,gs1dax01,274.69819646749596,29.32277345173083,116.8248030221925,432.5715899127994,163,Arts & culture,Average donation by subsector,CA (without QC),*
+Age group,75 years and over,2018,gs1dax01,164.73893542215941,18.982889967747283,103.44652844857207,226.03134239574678,87,Arts & culture,Average donation by subsector,CA (without QC),*
+Gender,Male gender,2018,gs1dax01,150.30221067859895,22.16622301310391,85.00341708452187,215.60100427267605,256,Arts & culture,Average donation by subsector,CA (without QC),*
+Gender,Female gender,2018,gs1dax01,219.38182684511798,16.443703701890115,148.67711082361927,290.0865428666167,380,Arts & culture,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1dax01,108.50634626589876,54.849094569616156,-8.140417298800472,225.153109830598,17,Arts & culture,Average donation by subsector,CA (without QC),...
+Education,Graduated from High school,2018,gs1dax01,153.59460140141633,53.5158557144707,-7.509470150614305,314.69867295344693,82,Arts & culture,Average donation by subsector,CA (without QC),...
+Education,Post-secondary diploma,2018,gs1dax01,188.15591714873815,22.598857006881236,104.8161186990305,271.4957155984458,177,Arts & culture,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1dax01,207.46277357100726,16.744216785814668,139.37751222572837,275.54803491628616,311,Arts & culture,Average donation by subsector,CA (without QC),*
+Marital status,Married,2018,gs1dax01,198.41841369556036,15.808801958080377,136.93909823695617,259.89772915416455,328,Arts & culture,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1dax01,539.1413948024403,67.26402994072792,-171.63607353141776,1249.9188631362986,34,Arts & culture,Average donation by subsector,CA (without QC),...
+Marital status,Widowed,2018,gs1dax01,195.83421720524467,22.51520850511658,109.4145398531534,282.2538945573359,66,Arts & culture,Average donation by subsector,CA (without QC),*
+Marital status,Separated,2018,gs1dax01,86.08855383027365,17.172284226769722,57.11367880530271,115.0634288552446,17,Arts & culture,Average donation by subsector,CA (without QC),*
+Marital status,Divorced,2018,gs1dax01,316.1141708496082,45.23622758593429,35.84299450931974,596.3853471898966,69,Arts & culture,Average donation by subsector,CA (without QC),...
+Marital status,"Single, never married",2018,gs1dax01,82.37066769377698,16.716722050985585,55.38259949795298,109.35873588960098,122,Arts & culture,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1dax01,187.97194647446548,19.45107859733207,116.31062403489949,259.6332689140315,327,Arts & culture,Average donation by subsector,CA (without QC),*
+Labour force status,Unemployed,2018,gs1dax01,54.71226311083515,50.86557758471064,0.16703647424600376,109.2574897474243,11,Arts & culture,Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1dax01,216.53642005178702,19.736070455240107,132.7758295721314,300.29701053144265,252,Arts & culture,Average donation by subsector,CA (without QC),*
+Labour force status,Unable to determine,2018,gs1dax01,138.2832082688121,32.4240278764635,50.404330538291916,226.1620859993323,46,Arts & culture,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1dax01,83.22686586122195,13.26417395406728,61.590125170587925,104.86360655185598,132,Arts & culture,Average donation by subsector,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,gs1dax01,150.3504870600247,30.612116300226834,60.14223141307676,240.55874270697265,154,Arts & culture,Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1dax01,178.741168081269,19.162347003745758,111.61043602897966,245.8719001335583,153,Arts & culture,Average donation by subsector,CA (without QC),*
+Personal income category,"$75,000 to $99,999",2018,gs1dax01,235.86537653773834,46.836312252862534,19.34689245565565,452.383860619821,81,Arts & culture,Average donation by subsector,CA (without QC),...
+Personal income category,"$100,000 to $124,999",2018,gs1dax01,236.06430490298655,43.53191600411229,34.65190871596235,437.47670109001075,57,Arts & culture,Average donation by subsector,CA (without QC),...
+Personal income category,"$125,000 and more",2018,gs1dax01,658.1019632365889,34.56301370933844,212.28880662971045,1103.9151198434672,59,Arts & culture,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least once a week,2018,gs1dax01,155.69141112482097,28.974374902607593,67.27623402938922,244.10658822025272,107,Arts & culture,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1dax01,143.6819069316161,24.095196857020635,75.82709468936147,211.53671917387075,57,Arts & culture,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least 3 times a year,2018,gs1dax01,364.28196772184293,51.55663586258969,-3.8218622780038913,732.3857977216898,63,Arts & culture,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,Once or twice a year,2018,gs1dax01,212.93623859210874,31.790705714466228,80.25856799850919,345.6139091857083,94,Arts & culture,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1dax01,155.7330480975662,15.081987751624851,109.69812110665481,201.7679750884776,272,Arts & culture,Average donation by subsector,CA (without QC),
+Immigration status,Native-born,2018,gs1dax01,203.6650322540772,16.760002652281266,136.76310259252062,270.5669619156338,466,Arts & culture,Average donation by subsector,CA (without QC),*
+Immigration status,Naturalized,2018,gs1dax01,164.7233998922514,24.91744162130664,84.27695841227974,245.16984137222306,109,Arts & culture,Average donation by subsector,CA (without QC),*
+Immigration status,Non-Canadian,2018,gs1dax01,108.39889380959043,28.869287384073093,47.06380405387622,169.73398356530464,16,Arts & culture,Average donation by subsector,CA (without QC),*
+Immigration status,Unknown,2018,gs1dax01,180.36075553931553,34.70312838820194,57.68499364544053,303.0365174331905,45,Arts & culture,Average donation by subsector,CA (without QC),...
+Age group,15 to 24 years,2018,gs1dax02,92.11412603482984,38.231847714479194,23.090206906094963,161.1380451635647,50,Sports & Recreation,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1dax02,121.85931165859287,32.96584842185803,43.123724770253105,200.59489854693265,217,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1dax02,66.79967121909239,22.15801729044033,37.78929821187945,95.81004422630534,359,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Age group,45 to 54 years,2018,gs1dax02,94.38543387104282,12.476789023680778,71.30436595065119,117.46650179143445,415,Sports & Recreation,Average donation by subsector,CA (without QC),
+Age group,55 to 64 years,2018,gs1dax02,67.8676318888937,15.943390166179979,46.660034947382584,89.07522883040481,565,Sports & Recreation,Average donation by subsector,CA (without QC),
+Age group,65 to 74 years,2018,gs1dax02,60.403433169223696,14.032773850034955,43.7902351846282,77.01663115381919,458,Sports & Recreation,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1dax02,68.53897524001879,23.100596024304473,37.50703836240535,99.57091211763222,224,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Gender,Male gender,2018,gs1dax02,88.01845928946994,9.490324531848675,71.64641476353073,104.39050381540916,1025,Sports & Recreation,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1dax02,73.56674691330367,17.237581029928435,48.71219351383152,98.42130031277583,1263,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Education,Less than High School,2018,gs1dax02,95.31418481915637,30.517638639144117,38.30346097372156,152.32490866459116,124,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Education,Graduated from High school,2018,gs1dax02,76.34209452290328,21.335929403929065,44.41762218329421,108.26656686251235,469,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Education,Post-secondary diploma,2018,gs1dax02,79.27329230094867,21.678397509006782,45.59095956307589,112.95562503882144,780,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1dax02,86.47562470324033,11.739708308496603,66.57809757939215,106.3731518270885,690,Sports & Recreation,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1dax02,75.44489894761952,13.816463076862231,55.01459381748021,95.87520407775884,1331,Sports & Recreation,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1dax02,93.18353652787151,27.056458368179165,43.768601612927085,142.59847144281594,172,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1dax02,72.9019360802579,14.457205685809111,52.244733285984275,93.55913887453153,214,Sports & Recreation,Average donation by subsector,CA (without QC),
+Marital status,Separated,2018,gs1dax02,94.91976907287027,46.40644912698798,8.585522595398487,181.25401555034205,57,Sports & Recreation,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1dax02,77.10370320352379,22.6714426438488,42.84250995034045,111.36489645670713,200,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Marital status,"Single, never married",2018,gs1dax02,98.65788257800072,21.93748233375985,56.238273162236936,141.0774919937645,314,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1dax02,93.96317022541352,12.71916495687711,70.53899264350686,117.38734780732018,1306,Sports & Recreation,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1dax02,44.704987291801416,47.20764743730149,3.3415687045872104,86.06840587901561,35,Sports & Recreation,Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1dax02,59.9864422676975,12.62237407495322,45.14615721735085,74.82672731804415,735,Sports & Recreation,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1dax02,66.15838145238938,19.05339935611881,41.45221101610139,90.86455188867737,212,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1dax02,101.12850279423883,23.113324991851073,55.31599198530225,146.9410136031754,474,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Personal income category,"$25,000 to $49,999",2018,gs1dax02,61.579068838859975,17.160248461064807,40.86789184158409,82.29024583613585,638,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1dax02,60.04847453079269,11.443039933180788,46.580835003520804,73.51611405806457,521,Sports & Recreation,Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1dax02,86.37671879034808,15.371644991885333,60.353252752971144,112.40018482772501,327,Sports & Recreation,Average donation by subsector,CA (without QC),
+Personal income category,"$100,000 to $124,999",2018,gs1dax02,81.35118691595424,24.85203334025168,41.72576382949687,120.97661000241162,141,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1dax02,123.60094492448873,21.592989627836577,71.29119327990563,175.91069656907183,187,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1dax02,51.318435036323756,21.969159470369988,29.221352574437386,73.41551749821012,351,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1dax02,89.61422706825496,20.617737415599777,53.40109749829017,125.82735663821975,216,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least 3 times a year,2018,gs1dax02,77.3592262356293,17.61827049738741,50.646175946773866,104.07227652448472,225,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1dax02,99.69301561596998,22.292947051155316,56.13377411942474,143.25225711251522,336,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1dax02,82.12409638126175,17.55951528980216,53.860252954628876,110.38793980789463,968,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1dax02,84.24179733631446,11.741900824033356,64.85464052701462,103.6289541456143,1871,Sports & Recreation,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1dax02,66.1111127241523,22.02997596256225,37.56568326899787,94.65654217930674,200,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Immigration status,Non-Canadian,2018,gs1dax02,70.41925589136676,45.07653018623191,8.20498712213,132.6335246606035,23,Sports & Recreation,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1dax02,77.31944233087575,22.84243194431599,42.70326207445588,111.93562258729561,194,Sports & Recreation,Average donation by subsector,CA (without QC),*
+Age group,15 to 24 years,2018,gs1da202,51.832010337765645,36.34864295125271,14.905833428023605,88.75818724750769,60,Education and research,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da202,76.96401706225213,27.047954353728226,36.16307008356876,117.7649640409355,200,Education and research,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da202,152.0301552654616,24.719965429670303,78.37117721571937,225.6891333152038,446,Education and research,Average donation by subsector,CA (without QC),*
+Age group,45 to 54 years,2018,gs1da202,112.1903186758243,21.366890752368086,65.20687968405933,159.17375766758926,418,Education and research,Average donation by subsector,CA (without QC),*
+Age group,55 to 64 years,2018,gs1da202,199.06786738997226,27.111248010005433,93.28903599334346,304.84669878660105,528,Education and research,Average donation by subsector,CA (without QC),*
+Age group,65 to 74 years,2018,gs1da202,113.96931770142494,16.24984757929516,77.67109749125292,150.26753791159695,463,Education and research,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1da202,230.56185156186953,29.458574363001215,97.44063813002555,363.6830649937135,199,Education and research,Average donation by subsector,CA (without QC),*
+Gender,Male gender,2018,gs1da202,157.96149010894098,17.57381443001046,103.5531659734918,212.36981424439017,910,Education and research,Average donation by subsector,CA (without QC),*
+Gender,Female gender,2018,gs1da202,122.19968272777443,14.225421615277526,88.12880544175161,156.27056001379725,1404,Education and research,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da202,60.493688184351704,34.66573094349785,19.392108249185966,101.59526811951744,116,Education and research,Average donation by subsector,CA (without QC),...
+Education,Graduated from High school,2018,gs1da202,73.5539784367005,31.249406450110083,28.503850162045424,118.60410671135558,396,Education and research,Average donation by subsector,CA (without QC),*
+Education,Post-secondary diploma,2018,gs1da202,98.7725200867664,24.4419231097699,51.45525887867044,146.08978129486238,729,Education and research,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1da202,222.44588757650249,15.270150819339351,155.8701787955281,289.0215963574769,888,Education and research,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da202,145.1417238538152,14.275820282001039,104.53093366325237,185.75251404437802,1425,Education and research,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da202,119.81208101946886,36.61413969227476,33.83206203465406,205.79210000428367,169,Education and research,Average donation by subsector,CA (without QC),...
+Marital status,Widowed,2018,gs1da202,200.7044531847224,27.839895071782482,91.18968360608896,310.21922276335584,180,Education and research,Average donation by subsector,CA (without QC),*
+Marital status,Separated,2018,gs1da202,74.0329069014419,24.346577397453157,38.70557726378838,109.36023653909544,62,Education and research,Average donation by subsector,CA (without QC),*
+Marital status,Divorced,2018,gs1da202,172.88012133430527,31.797093008921074,65.13922930463369,280.6210133639769,180,Education and research,Average donation by subsector,CA (without QC),*
+Marital status,"Single, never married",2018,gs1da202,99.80912408303323,26.102003934140956,48.747786634553854,150.8704615315126,298,Education and research,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da202,150.68392681403662,15.482904052013305,104.95748135521262,196.41037227286063,1304,Education and research,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da202,43.00891102920037,29.735268391764833,17.943293975519502,68.07452808288124,40,Education and research,Average donation by subsector,CA (without QC),*
+Labour force status,Not in labour force,2018,gs1da202,119.08305706019539,14.47390291947056,85.3011843194775,152.86492980091327,775,Education and research,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da202,143.01953977112262,32.86456150724698,50.89585315028286,235.1432263919624,195,Education and research,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1da202,86.2353659709111,35.427937016006375,26.355700456309307,146.1150314855129,491,Education and research,Average donation by subsector,CA (without QC),...
+Personal income category,"$25,000 to $49,999",2018,gs1da202,138.01497683680944,24.77209983418627,71.00536079449405,205.02459287912484,616,Education and research,Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1da202,141.97771744752902,20.316665978049205,85.44228462900054,198.5131502660575,489,Education and research,Average donation by subsector,CA (without QC),*
+Personal income category,"$75,000 to $99,999",2018,gs1da202,131.32668950139623,19.834829079743248,80.27271582595519,182.3806631768373,359,Education and research,Average donation by subsector,CA (without QC),*
+Personal income category,"$100,000 to $124,999",2018,gs1da202,234.07576696133918,27.796068410720082,106.55294404391095,361.5985898787674,168,Education and research,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da202,262.00367914965443,21.81519148789406,149.9787932198713,374.02856507943756,191,Education and research,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1da202,172.51475099608413,23.389568011667176,93.42931240808127,251.600189584087,434,Education and research,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1da202,120.07535966437591,33.84805449064455,40.416204035641925,199.7345152931099,213,Education and research,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least 3 times a year,2018,gs1da202,102.0296274022356,23.373943807654225,55.28772467018097,148.77153013429023,227,Education and research,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da202,91.9994256331593,19.88170831743588,56.14961177612847,127.84923949019014,332,Education and research,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da202,143.43898893083704,19.682833496051018,88.10360532521607,198.77437253645803,935,Education and research,Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1da202,132.169559984374,13.435191909576494,97.36602082063575,166.97309914811223,1819,Education and research,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da202,124.28395813934017,15.117039428862562,87.46004708665771,161.10786919202263,293,Education and research,Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da202,318.4913074532348,79.94283196899647,-180.53702529181703,817.5196401982867,38,Education and research,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da202,166.64506671983165,33.2340069205458,58.09670866545814,275.19342477420514,164,Education and research,Average donation by subsector,CA (without QC),*
+Age group,15 to 24 years,2018,gs1da203,79.92119333113486,19.64516495186511,49.148484284930575,110.69390237733914,152,Health,Average donation by subsector,CA (without QC),*
+Age group,25 to 34 years,2018,gs1da203,141.58127571179614,23.961831817682196,75.08858189717675,208.0739695264155,638,Health,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da203,177.17400042852336,8.911994235454108,146.22668516152288,208.12131569552383,1025,Health,Average donation by subsector,CA (without QC),
+Age group,45 to 54 years,2018,gs1da203,179.31636815164302,12.265539684363173,136.20868449945246,222.42405180383358,1142,Health,Average donation by subsector,CA (without QC),
+Age group,55 to 64 years,2018,gs1da203,199.14363603276027,8.021883453281921,167.83307342340305,230.4541986421175,1641,Health,Average donation by subsector,CA (without QC),
+Age group,65 to 74 years,2018,gs1da203,188.90182027454304,9.143473274053035,155.0489549363534,222.7546856127327,1505,Health,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1da203,249.3969089360476,16.45638870861683,168.95660653953126,329.8372113325639,879,Health,Average donation by subsector,CA (without QC),
+Gender,Male gender,2018,gs1da203,186.97914644033716,7.38177261065961,159.9269877168635,214.03130516381083,2756,Health,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1da203,172.76837502976767,7.016548866625339,149.0089518010927,196.52779825844263,4226,Health,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da203,113.72089212749962,15.749703978713955,78.61655760055126,148.825226654448,449,Health,Average donation by subsector,CA (without QC),
+Education,Graduated from High school,2018,gs1da203,133.79245617235043,10.84697502063208,105.34860761535695,162.2363047293439,1398,Health,Average donation by subsector,CA (without QC),
+Education,Post-secondary diploma,2018,gs1da203,153.50043960454806,6.557227679095336,133.7726704195639,173.22820878953223,2236,Health,Average donation by subsector,CA (without QC),
+Education,University Diploma,2018,gs1da203,238.65359118537077,9.733981187618678,193.12265633001874,284.1845260407228,2244,Health,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da203,177.18405070867607,5.356354140204528,158.58280625479293,195.7852951625592,4127,Health,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da203,147.24583890010538,24.86180460495171,75.4955307508002,218.99614704941058,473,Health,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1da203,352.3290207199415,13.046122761509976,262.23873410812166,442.4193073317614,699,Health,Average donation by subsector,CA (without QC),
+Marital status,Separated,2018,gs1da203,180.40633499484966,13.364865671343276,133.14951726999726,227.66315271970205,195,Health,Average donation by subsector,CA (without QC),
+Marital status,Divorced,2018,gs1da203,156.1500971422599,10.074844926053157,125.3161786607894,186.98401562373041,545,Health,Average donation by subsector,CA (without QC),
+Marital status,"Single, never married",2018,gs1da203,153.94092442703794,20.125678826377598,93.21799442184692,214.66385443222896,943,Health,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da203,171.84377794128355,6.933276828328962,148.4919735636747,195.1955823188924,3676,Health,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da203,85.94897154446458,22.576599312495844,47.917134760374466,123.9808083285547,91,Health,Average donation by subsector,CA (without QC),*
+Labour force status,Not in labour force,2018,gs1da203,192.2985812839836,8.457962506871864,160.4206649226993,224.1764976452679,2589,Health,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da203,204.50586131554346,14.450523307540614,146.58467802724493,262.427044603842,626,Health,Average donation by subsector,CA (without QC),
+Personal income category,"Less than $25,000",2018,gs1da203,136.60366948711462,8.024337771632027,115.11944616975774,158.0878928044715,1556,Health,Average donation by subsector,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,gs1da203,160.1376797179991,13.15062738095808,118.8625834413126,201.4127759946856,2008,Health,Average donation by subsector,CA (without QC),
+Personal income category,"$50,000 to $74,999",2018,gs1da203,143.53550102388837,6.6534107703263485,124.81783226240846,162.2531697853683,1556,Health,Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1da203,175.97995105092423,10.792037845993228,138.7566621293607,213.20323997248775,897,Health,Average donation by subsector,CA (without QC),
+Personal income category,"$100,000 to $124,999",2018,gs1da203,219.3936687445217,12.810814616137337,164.3066932817132,274.4806442073302,429,Health,Average donation by subsector,CA (without QC),
+Personal income category,"$125,000 and more",2018,gs1da203,504.3952446821226,14.480206634688445,361.24442673672377,647.5460626275215,536,Health,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a week,2018,gs1da203,159.6898074982328,9.323808756140815,130.50756612041786,188.87204887604773,1205,Health,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a month,2018,gs1da203,180.20271981383223,11.81980027076204,138.4562678624065,221.94917176525797,623,Health,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least 3 times a year,2018,gs1da203,257.00904923882905,19.98605106767189,156.33361794185356,357.68448053580454,651,Health,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da203,196.07717158065142,20.209647337470017,118.4106491714091,273.74369398989376,949,Health,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da203,163.57067230155494,5.808920174268079,144.94770253556126,182.1936420675486,2980,Health,Average donation by subsector,CA (without QC),
+Immigration status,Native-born,2018,gs1da203,183.04811877366674,6.236138841464535,160.67486562150518,205.4213719258283,5388,Health,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da203,165.06621108233088,9.157134740612758,135.44069816242083,194.69172400224093,928,Health,Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da203,111.03965221891292,20.480588192860118,66.46698641974724,155.6123180180786,97,Health,Average donation by subsector,CA (without QC),*
+Immigration status,Unknown,2018,gs1da203,201.01756931694257,15.477519209564758,140.0381253540906,261.99701327979454,569,Health,Average donation by subsector,CA (without QC),
+Age group,15 to 24 years,2018,gs1da204,57.77774998470579,22.29675054414165,32.528394819206646,83.02710515020493,147,Social services,Average donation by subsector,CA (without QC),*
+Age group,25 to 34 years,2018,gs1da204,118.79674002378711,19.969059571546477,72.30131450640707,165.29216554116715,526,Social services,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da204,109.52371388210909,11.618132216140655,84.58393678655878,134.4634909776594,790,Social services,Average donation by subsector,CA (without QC),
+Age group,45 to 54 years,2018,gs1da204,140.51703852881332,14.297428196185166,101.14072962438202,179.89334743324463,902,Social services,Average donation by subsector,CA (without QC),
+Age group,55 to 64 years,2018,gs1da204,160.52131630802384,10.809302303170048,126.51352191281555,194.52911070323213,1305,Social services,Average donation by subsector,CA (without QC),
+Age group,65 to 74 years,2018,gs1da204,147.560098249491,7.443144379887255,126.03359593805739,169.08660056092464,1237,Social services,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1da204,171.15367404283646,11.281118212715768,133.3105947744864,208.99675331118652,717,Social services,Average donation by subsector,CA (without QC),
+Gender,Male gender,2018,gs1da204,144.49209924617185,7.367003927424729,123.62879491381301,165.35540357853068,2240,Social services,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1da204,124.3415691274657,6.936763925482184,107.43632879217154,141.24680946275987,3384,Social services,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da204,66.55466346119067,13.101075956042848,49.46499854937922,83.64432837300212,387,Social services,Average donation by subsector,CA (without QC),
+Education,Graduated from High school,2018,gs1da204,90.42318637476343,9.437695511630679,73.6971183219862,107.14925442754067,1098,Social services,Average donation by subsector,CA (without QC),
+Education,Post-secondary diploma,2018,gs1da204,127.61552184435217,10.79900084805116,100.60486365967077,154.62618002903358,1822,Social services,Average donation by subsector,CA (without QC),
+Education,University Diploma,2018,gs1da204,185.1269379213734,7.2308935577881535,158.89020965361254,211.36366618913428,1779,Social services,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da204,146.49061925022943,6.794104347682318,126.98363566062105,165.9976028398378,3123,Social services,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da204,84.1127435128865,15.832865237409724,58.011006784585994,110.214480241187,387,Social services,Average donation by subsector,CA (without QC),
+Marital status,Widowed,2018,gs1da204,156.72898454283865,10.31012181528714,125.05802603141801,188.39994305425927,571,Social services,Average donation by subsector,CA (without QC),
+Marital status,Separated,2018,gs1da204,219.11870580221986,47.544010834793305,14.933928208141708,423.303483396298,166,Social services,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da204,132.72515476254034,9.990751005532676,106.73556245746809,158.7147470676126,493,Social services,Average donation by subsector,CA (without QC),
+Marital status,"Single, never married",2018,gs1da204,97.19832964025657,9.957840242988603,78.22812363516582,116.16853564534733,884,Social services,Average donation by subsector,CA (without QC),
+Labour force status,Employed,2018,gs1da204,130.26948610945195,7.171153166882103,111.95984677746043,148.57912544144347,2902,Social services,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da204,68.59604817565639,18.586959291990926,43.60666505123875,93.58543130007403,87,Social services,Average donation by subsector,CA (without QC),*
+Labour force status,Not in labour force,2018,gs1da204,141.95954806873303,6.621538574405539,123.53607038925061,160.38302574821546,2114,Social services,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da204,144.78199883003165,23.49420095245991,78.11309136305549,211.4509062970078,521,Social services,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1da204,84.40449037466213,7.307665060829679,72.3154375102815,96.49354323904276,1341,Social services,Average donation by subsector,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,gs1da204,116.88666467990474,9.546424332553833,95.01641244122091,138.75691691858856,1612,Social services,Average donation by subsector,CA (without QC),
+Personal income category,"$50,000 to $74,999",2018,gs1da204,127.51273710557228,7.868147610834625,107.84863330369328,147.1768409074513,1216,Social services,Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1da204,178.75482380943615,21.075541692947457,104.91602769615382,252.59361992271846,749,Social services,Average donation by subsector,CA (without QC),*
+Personal income category,"$100,000 to $124,999",2018,gs1da204,275.1277789745451,23.73174640664992,147.15658198957522,403.098975959515,310,Social services,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da204,301.80083403325153,12.807286563411214,226.04333069654197,377.5583373699611,396,Social services,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a week,2018,gs1da204,189.11705513590883,9.890568878387871,152.45641370214503,225.77769656967263,1056,Social services,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a month,2018,gs1da204,117.264905307926,13.82102382454221,85.49935643721341,149.0304541786386,505,Social services,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least 3 times a year,2018,gs1da204,145.56238843685887,22.312043873409227,81.90678796136906,209.2179889123487,482,Social services,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da204,99.69496137501532,11.005788689381555,78.1898116499757,121.20011110005495,757,Social services,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,Not at all,2018,gs1da204,121.41987156715,7.671418206803407,103.16353981489831,139.67620331940168,2343,Social services,Average donation by subsector,CA (without QC),
+Immigration status,Native-born,2018,gs1da204,124.63699494294981,5.164409249570517,112.02116835535162,137.252821530548,4251,Social services,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da204,159.60787552814134,12.361528213181863,120.93783988699005,198.27791116929262,805,Social services,Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da204,79.95453095290887,27.76136874564981,36.45024492234731,123.45881698347043,77,Social services,Average donation by subsector,CA (without QC),*
+Immigration status,Unknown,2018,gs1da204,146.7860133591667,24.59551890704943,76.02586154688427,217.54616517144913,491,Social services,Average donation by subsector,CA (without QC),*
+Age group,15 to 24 years,2018,gs1da205,105.56593907704386,35.0244464441107,33.09845454983375,178.03342360425398,38,Environment,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da205,168.7155029419797,21.37387519798042,98.03716126156995,239.39384462238945,160,Environment,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da205,120.54185540057388,12.820325027686707,90.25285097112025,150.83085983002752,214,Environment,Average donation by subsector,CA (without QC),
+Age group,45 to 54 years,2018,gs1da205,126.23111972490834,16.476397301439825,85.46712081101165,166.99511863880502,225,Environment,Average donation by subsector,CA (without QC),
+Age group,55 to 64 years,2018,gs1da205,209.10761568108282,22.479863411473964,116.97538014296937,301.2398512191963,333,Environment,Average donation by subsector,CA (without QC),*
+Age group,65 to 74 years,2018,gs1da205,167.32572958388596,15.708457411720492,115.80946592246539,218.84199324530653,330,Environment,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1da205,115.0145642756662,20.411609085965317,69.00181621257039,161.02731233876202,167,Environment,Average donation by subsector,CA (without QC),*
+Gender,Male gender,2018,gs1da205,176.0236674024114,14.18357913770305,127.09031249328137,224.95702231154144,495,Environment,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1da205,136.76861930202998,10.419089253410167,108.83904527309633,164.69819333096362,972,Environment,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da205,58.82343627603327,28.307979412531825,26.186652583316352,91.46021996875018,66,Environment,Average donation by subsector,CA (without QC),*
+Education,Graduated from High school,2018,gs1da205,116.1457848955631,14.612215224356895,82.88231088753719,149.409258903589,268,Environment,Average donation by subsector,CA (without QC),
+Education,Post-secondary diploma,2018,gs1da205,121.22561088524687,15.097408736500139,85.35449513894528,157.09672663154845,463,Environment,Average donation by subsector,CA (without QC),
+Education,University Diploma,2018,gs1da205,222.1745382107557,14.085472916560832,160.83876985254972,283.5103065689617,539,Environment,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da205,148.30776120062828,12.525525241537755,111.8988311494409,184.71669125181566,736,Environment,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da205,151.8487906919432,20.40252714495276,91.12716463577014,212.57041674811626,137,Environment,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1da205,183.22258370526626,22.013416376895258,104.1702778514401,262.2748895590924,148,Environment,Average donation by subsector,CA (without QC),*
+Marital status,Separated,2018,gs1da205,113.00688757546727,37.53914820621352,29.861642316974596,196.15213283395997,46,Environment,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da205,193.76918135813924,29.66488690379184,81.10769090908609,306.43067180719237,143,Environment,Average donation by subsector,CA (without QC),*
+Marital status,"Single, never married",2018,gs1da205,144.18175634410053,21.083290586505367,84.6022641723703,203.76124851583077,257,Environment,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da205,169.4530418074599,11.933705875231409,129.8185960054522,209.0874876094676,779,Environment,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da205,40.798781075950636,31.823599177101276,15.351313192580125,66.24624895932115,23,Environment,Average donation by subsector,CA (without QC),*
+Labour force status,Not in labour force,2018,gs1da205,136.76427102314992,11.518521230693167,105.8885240588149,167.64001798748495,538,Environment,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da205,124.37592712778851,19.31022489994415,77.30294047131667,171.44891378426036,127,Environment,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1da205,89.13664590878182,13.840677874968257,64.9563428192703,113.31694899829333,336,Environment,Average donation by subsector,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,gs1da205,140.71189413307337,17.126302341469476,93.47922299794612,187.94456526820062,388,Environment,Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1da205,208.2661428292051,16.835820966390184,139.54330836757032,276.9889772908399,323,Environment,Average donation by subsector,CA (without QC),*
+Personal income category,"$75,000 to $99,999",2018,gs1da205,132.81650827454393,10.397794657933122,105.74942955524777,159.88358699384008,216,Environment,Average donation by subsector,CA (without QC),
+Personal income category,"$100,000 to $124,999",2018,gs1da205,153.5262095171444,15.649901408162012,106.43474201657338,200.6176770177154,84,Environment,Average donation by subsector,CA (without QC),
+Personal income category,"$125,000 and more",2018,gs1da205,360.8337156383689,28.33807544892642,160.42087039688033,561.2465608798575,120,Environment,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1da205,121.19669279522748,19.768312532019475,74.2388152930467,168.15457029740827,181,Environment,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1da205,152.47093863789542,23.767659338892695,81.44424815289969,223.49762912289114,88,Environment,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least 3 times a year,2018,gs1da205,136.02658606381897,26.70232019265142,64.83627529305191,207.216896834586,116,Environment,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da205,184.50935649242408,24.233073265128677,96.87488324796497,272.14382973688316,220,Environment,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da205,150.00476935640305,12.647016584562415,112.82204161635354,187.18749709645255,747,Environment,Average donation by subsector,CA (without QC),
+Immigration status,Native-born,2018,gs1da205,155.61516964289544,9.991807219093673,125.14014484032568,186.0901944454652,1177,Environment,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da205,142.5481342493959,22.325856653312048,80.17209990032399,204.92416859846782,154,Environment,Average donation by subsector,CA (without QC),*
+Immigration status,Non-Canadian,2018,gs1da205,90.27589831662753,48.588680166511104,4.304297792989161,176.2474988402659,24,Environment,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da205,138.91947757320736,21.092328175557597,81.48988274023901,196.3490724061757,112,Environment,Average donation by subsector,CA (without QC),*
+Age group,15 to 24 years,2018,gs1da206,200.44423714536407,89.9917408085007,-153.10045264918728,553.9889269399155,12,Development and housing,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da206,237.49483894731114,87.95712057972713,-171.9291365053074,646.9188143999297,35,Development and housing,Average donation by subsector,CA (without QC),...
+Age group,35 to 44 years,2018,gs1da206,123.65710643331232,22.04928444237829,70.21769443692912,177.09651842969552,89,Development and housing,Average donation by subsector,CA (without QC),*
+Age group,45 to 54 years,2018,gs1da206,356.9338084781286,41.96339323315295,63.36738916695555,650.5002277893016,66,Development and housing,Average donation by subsector,CA (without QC),...
+Age group,55 to 64 years,2018,gs1da206,232.32365148280994,35.877482474993585,68.95697384082976,395.6903291247901,99,Development and housing,Average donation by subsector,CA (without QC),...
+Age group,65 to 74 years,2018,gs1da206,404.9927449407974,49.96820477554305,8.359529231641545,801.6259606499533,103,Development and housing,Average donation by subsector,CA (without QC),...
+Age group,75 years and over,2018,gs1da206,370.4281159465768,54.96892084917755,-28.66041277453678,769.5166446676903,40,Development and housing,Average donation by subsector,CA (without QC),...
+Gender,Male gender,2018,gs1da206,386.5771991811954,30.03475730112917,159.01063467813302,614.1437636842578,185,Development and housing,Average donation by subsector,CA (without QC),*
+Gender,Female gender,2018,gs1da206,150.32331871322327,15.134734607832081,105.73210883399877,194.91452859244777,259,Development and housing,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da206,51.396719648227766,41.199612124271354,9.893993970813767,92.89944532564176,13,Development and housing,Average donation by subsector,CA (without QC),...
+Education,Graduated from High school,2018,gs1da206,435.74316653140517,42.58094187751287,72.08450179459493,799.4018312682153,77,Development and housing,Average donation by subsector,CA (without QC),...
+Education,Post-secondary diploma,2018,gs1da206,181.0202022826646,25.317753047081474,91.19456723278319,270.845837332546,150,Development and housing,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1da206,309.16669356479684,35.40300540530606,94.64020519286285,523.6931819367309,169,Development and housing,Average donation by subsector,CA (without QC),...
+Marital status,Married,2018,gs1da206,268.3893167832634,23.628513622752685,144.095444449137,392.68318911738976,253,Development and housing,Average donation by subsector,CA (without QC),*
+Marital status,Living common-law,2018,gs1da206,135.36943381042332,55.122305289777586,-10.880633805970973,281.6195014268176,29,Development and housing,Average donation by subsector,CA (without QC),...
+Marital status,Widowed,2018,gs1da206,1119.479216162237,66.93426008853166,-349.15145206755574,2588.10988439203,35,Development and housing,Average donation by subsector,CA (without QC),...
+Marital status,Separated,2018,gs1da206,63.95695714050664,25.508759637741285,31.98087684085606,95.93303744015722,14,Development and housing,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da206,173.23142858737037,44.73758009911682,21.33510349188404,325.1277536828567,41,Development and housing,Average donation by subsector,CA (without QC),...
+Marital status,"Single, never married",2018,gs1da206,140.4548975301475,51.43785222821053,-1.146586433672951,282.05638149396793,72,Development and housing,Average donation by subsector,CA (without QC),...
+Labour force status,Employed,2018,gs1da206,204.20967330433302,27.251134737787698,95.13874923425716,313.2805973744089,243,Development and housing,Average donation by subsector,CA (without QC),*
+Labour force status,Unemployed,2018,gs1da206,122.76804724047001,33.66144959612482,41.77154708720127,203.76454739373875,5,Development and housing,Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1da206,415.84780182512236,33.46680120753591,143.07773809222147,688.6178655580233,155,Development and housing,Average donation by subsector,CA (without QC),...
+Labour force status,Unable to determine,2018,gs1da206,265.32117708449744,31.551454347468088,101.24731951405224,429.3950346549426,41,Development and housing,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1da206,112.25528086919526,39.66021242416369,24.99634591593896,199.51421582245155,90,Development and housing,Average donation by subsector,CA (without QC),...
+Personal income category,"$25,000 to $49,999",2018,gs1da206,200.7958973801763,49.07152806078937,7.673560463104337,393.9182342972483,118,Development and housing,Average donation by subsector,CA (without QC),...
+Personal income category,"$50,000 to $74,999",2018,gs1da206,311.4756927586005,35.60603015204151,94.10759402520063,528.8437914920003,108,Development and housing,Average donation by subsector,CA (without QC),...
+Personal income category,"$75,000 to $99,999",2018,gs1da206,495.11343508455354,50.51518545243342,4.911801751682674,985.3150684174244,67,Development and housing,Average donation by subsector,CA (without QC),...
+Personal income category,"$100,000 to $124,999",2018,gs1da206,175.38272286012477,34.55058409329268,56.61722515620525,294.1482205640443,29,Development and housing,Average donation by subsector,CA (without QC),...
+Personal income category,"$125,000 and more",2018,gs1da206,792.0174487943307,46.112696582928784,76.1982204114205,1507.8366771772407,32,Development and housing,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least once a week,2018,gs1da206,328.12978523060434,64.68020654975595,-87.84321579074532,744.1027862519541,77,Development and housing,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least once a month,2018,gs1da206,138.3100796542843,43.18409854469281,21.245427037782278,255.3747322707863,55,Development and housing,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least 3 times a year,2018,gs1da206,411.64614551500455,61.056443548023175,-80.96433553527925,904.2566265652883,42,Development and housing,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,Once or twice a year,2018,gs1da206,122.89863203207297,31.986171864282525,45.85133520541119,199.94592885873476,70,Development and housing,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da206,334.7789117380741,28.637257803638143,146.8742245420162,522.683598934132,168,Development and housing,Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1da206,320.1172808979468,25.12464975961266,162.48062009642297,477.7539416994706,343,Development and housing,Average donation by subsector,CA (without QC),*
+Immigration status,Naturalized,2018,gs1da206,213.52337824290927,54.455575322633756,-14.372186823832266,441.4189433096508,53,Development and housing,Average donation by subsector,CA (without QC),...
+Immigration status,Non-Canadian,2018,gs1da206,70.82658571294758,71.92530281248133,-29.018362620710548,170.6715340466057,12,Development and housing,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da206,313.3711780600236,34.747127970528084,99.9556305368468,526.7867255832005,36,Development and housing,Average donation by subsector,CA (without QC),...
+Age group,15 to 24 years,2018,gs1da207,42.79452230098718,52.96256915900229,-1.6282152068399967,87.21725980881436,13,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da207,102.56683937387794,38.58195195814814,25.00657875130402,180.12709999645188,42,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Age group,35 to 44 years,2018,gs1da207,296.8789512166353,39.74245759517827,65.62869763168322,528.1292048015873,75,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Age group,45 to 54 years,2018,gs1da207,201.0243043332531,20.854617848885447,118.85702731791682,283.19158134858935,96,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Age group,55 to 64 years,2018,gs1da207,129.57904267284914,16.364033578685483,88.01926457186585,171.13882077383244,170,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Age group,65 to 74 years,2018,gs1da207,132.93616504920132,24.262550159986844,69.72006737855827,196.15226271984437,206,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Age group,75 years and over,2018,gs1da207,202.11173862534017,21.253871446708068,117.91841027790687,286.3050669727735,124,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Gender,Male gender,2018,gs1da207,179.86703247783777,19.28375416811554,111.88545358813612,247.84861136753943,308,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Gender,Female gender,2018,gs1da207,148.7708998959687,14.694212391629344,105.92469168456866,191.61710810736878,418,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da207,125.47630951014953,50.45882314546023,1.3834063421201108,249.56921267817896,50,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Education,Graduated from High school,2018,gs1da207,113.54638818229012,29.67784092828661,47.49929356492633,179.59348279965388,123,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Education,Post-secondary diploma,2018,gs1da207,138.17652257561042,20.542383086587645,82.54343368317284,193.809611468048,211,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1da207,217.13116452835018,17.830156929825712,141.2514971978977,293.0108318588027,269,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Marital status,Married,2018,gs1da207,180.54746585074903,16.701702390889494,121.44573105440864,239.64920064708943,389,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Marital status,Living common-law,2018,gs1da207,123.71133402274569,37.48679489178196,32.8171927303445,214.60547531514686,37,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Marital status,Widowed,2018,gs1da207,123.89366976724132,17.300135663221262,81.88424673659529,165.90309279788735,106,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Marital status,Separated,2018,gs1da207,184.24621367386402,45.55508037070112,19.739555568416648,348.75287177931136,26,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da207,176.5744364160086,34.01846096938282,58.84350455045001,294.3053682815672,69,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Marital status,"Single, never married",2018,gs1da207,122.58690708947643,32.939097795173,43.445479786347704,201.72833439260515,99,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da207,189.117125191348,17.033673169623018,125.9796430734701,252.25460730922592,311,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Labour force status,Unemployed,2018,gs1da207,12.5604577999776,69.18088173073471,-4.470522738672836,29.591438338628038,9,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1da207,146.8179910025384,15.819619746547605,101.2957736229369,192.3402083821399,337,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da207,134.33067849428826,15.866129237647216,92.55781114543751,176.10354584313902,69,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Personal income category,"Less than $25,000",2018,gs1da207,107.86217553888858,21.204321843662505,63.034971280691806,152.68937979708534,170,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Personal income category,"$25,000 to $49,999",2018,gs1da207,142.47330597964302,20.380829750230898,85.56135758404305,199.385254375243,220,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1da207,126.77343760964123,15.206175638257061,88.99044438603232,164.55643083325015,153,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1da207,142.5247301597285,26.47107503734337,68.57954554080469,216.4699147786523,85,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Personal income category,"$100,000 to $124,999",2018,gs1da207,259.8649570703099,28.503758536394773,114.68791620883067,405.0419979317892,29,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da207,447.83743045468844,26.818665437291273,212.437872590143,683.2369883192339,69,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1da207,150.72636431365223,24.010269848210022,79.79564637014575,221.65708225715872,186,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1da207,170.78616912368983,24.143375973169228,89.96990220230546,251.6024360450742,67,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least 3 times a year,2018,gs1da207,297.24194226349033,41.8023477541208,53.70836099529484,540.7755235316858,78,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,Once or twice a year,2018,gs1da207,208.37848505824834,22.491791182326494,116.51878772549475,300.23818239100194,85,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da207,132.2422135502957,19.105166104482954,82.72353814859989,181.76088895199152,248,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1da207,161.61066096155915,16.300589669569973,109.97836795147113,213.24295397164718,554,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da207,158.36863350316605,13.50981034017244,116.43461209659213,200.30265490973997,96,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da207,412.7494711542655,45.42312570553815,45.28814964891632,780.2107926596148,10,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da207,134.84585860314522,16.149331699274295,92.1643011236211,177.52741608266933,66,"Law, advocacy, and politics",Average donation by subsector,CA (without QC),
+Age group,15 to 24 years,2018,gs1da208,85.79718214492017,41.57935503462962,15.877593608837387,155.71677068100297,48,Philanthropic intermediaries,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da208,145.14769788504552,18.880687039670022,91.43511502189259,198.86028074819845,205,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da208,174.28741652338593,15.420068248021085,121.61291683925138,226.96191620752046,326,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Age group,45 to 54 years,2018,gs1da208,251.00796244547655,19.907580887080933,153.06932033665765,348.94660455429545,378,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Age group,55 to 64 years,2018,gs1da208,312.02015917407687,18.878740477925483,196.567547546895,427.4727708012587,411,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Age group,65 to 74 years,2018,gs1da208,216.87807473369818,22.539886102305356,121.06705610533763,312.68909336205877,291,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Age group,75 years and over,2018,gs1da208,160.82436084073743,28.64481973122237,70.53303743190993,251.11568424956494,142,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Gender,Male gender,2018,gs1da208,228.29086804421274,11.063983169516753,178.7859738177843,277.79576227064115,745,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1da208,187.24041619303708,11.991685408002036,143.23279279195827,231.24803959411588,1056,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da208,204.34607346049356,45.392804227050796,22.54292457709323,386.1492223438939,94,Philanthropic intermediaries,Average donation by subsector,CA (without QC),...
+Education,Graduated from High school,2018,gs1da208,124.82634622415014,14.51538599982722,89.3137078607291,160.3389845875712,311,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Education,Post-secondary diploma,2018,gs1da208,186.39023028501572,19.534189170741875,115.02829404930954,257.7521665207219,564,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1da208,261.5280622996664,11.591281846525945,202.11282266323124,320.9433019361015,670,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da208,200.04641216532255,10.845928549420218,157.52128736773483,242.57153696291027,1031,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da208,226.18245945162198,24.17012326334027,119.03401303660543,333.33090586663855,132,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1da208,205.77062285329498,45.80192203718082,21.050092699568552,390.4911530070214,134,Philanthropic intermediaries,Average donation by subsector,CA (without QC),...
+Marital status,Separated,2018,gs1da208,634.2927236220876,47.59315888212035,42.61890625397996,1225.9665409901952,59,Philanthropic intermediaries,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da208,267.17728915913955,31.068580251188482,104.4842253663995,429.87035295187957,144,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Marital status,"Single, never married",2018,gs1da208,149.4987035502252,18.926246081800908,94.04251724427277,204.95488985617763,301,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da208,207.24333740320355,9.600868749706912,168.2456188080781,246.24105599832902,1161,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da208,99.34329683128799,23.00107141864768,54.55807538390839,144.12851827866757,26,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Labour force status,Not in labour force,2018,gs1da208,211.98182523855905,24.552790332405934,109.97069168800533,313.9929587891128,451,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Labour force status,Unable to determine,2018,gs1da208,200.9355212410769,25.458773531412877,100.6721538158539,301.1988886662999,163,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Personal income category,"Less than $25,000",2018,gs1da208,169.3835968152129,21.327116419644344,98.58060955904541,240.18658407138042,332,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Personal income category,"$25,000 to $49,999",2018,gs1da208,122.25475024499873,17.05408331757509,81.39062429240872,163.11887619758875,468,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1da208,164.1071216812358,15.881276570225102,113.02594083052833,215.1883025319433,424,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1da208,223.09090788176462,18.419187974546794,142.55298180559402,303.6288339579352,283,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Personal income category,"$100,000 to $124,999",2018,gs1da208,328.60195449493386,21.5576811001307,189.76014137263587,467.44376761723186,129,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da208,588.4310883052278,18.859300172553965,370.9260739902151,805.9361026202405,165,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1da208,151.10790664400568,17.959581872460642,97.9177215534951,204.29809173451628,304,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1da208,302.8854234601006,30.760031796798355,120.280179910139,485.49066701006217,158,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least 3 times a year,2018,gs1da208,276.27145468042465,31.50706436555562,105.66634054939416,446.8765688114552,177,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da208,182.76430164864018,23.20809292217704,99.63025573215201,265.89834756512835,237,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da208,190.96476466277323,11.225501633492842,148.9495012751181,232.98002805042836,773,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Immigration status,Native-born,2018,gs1da208,218.61475525445314,10.284569141651739,174.54773712145783,262.68177338744846,1353,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da208,148.4288053620996,15.21557425031049,104.16440037198535,192.69321035221387,268,Philanthropic intermediaries,Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da208,435.1662945526774,56.844425389966204,-49.66564445634674,919.9982335617016,22,Philanthropic intermediaries,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da208,221.5748578660351,23.808998408124886,118.17743926380517,324.972276468265,158,Philanthropic intermediaries,Average donation by subsector,CA (without QC),*
+Age group,15 to 24 years,2018,gs1da209,177.07696163105186,39.77071471980646,39.04694245186977,315.10698081023395,33,International,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da209,319.7543551351348,18.959952543597538,200.93100156243443,438.5777087078352,152,International,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da209,402.21338753945383,19.36836240279629,249.52798601993032,554.8987890589774,200,International,Average donation by subsector,CA (without QC),*
+Age group,45 to 54 years,2018,gs1da209,350.6359447405874,11.660585026848928,270.50046043247926,430.7714290486955,208,International,Average donation by subsector,CA (without QC),
+Age group,55 to 64 years,2018,gs1da209,411.0660759943279,13.457761717392083,302.64029408375796,519.4918579048979,293,International,Average donation by subsector,CA (without QC),
+Age group,65 to 74 years,2018,gs1da209,309.11316427344303,9.334428585075031,252.56046623194229,365.66586231494375,333,International,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1da209,290.0253134532358,10.563032931738874,229.98089683768524,350.0697300687864,177,International,Average donation by subsector,CA (without QC),
+Gender,Male gender,2018,gs1da209,309.8565970158913,8.848188293314758,256.12086196005885,363.5923320717237,512,International,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1da209,363.40594923922464,8.738038036638526,301.1681747529666,425.6437237254827,884,International,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da209,190.39488691553083,20.20718117666818,114.98833064389687,265.8014431871648,57,International,Average donation by subsector,CA (without QC),*
+Education,Graduated from High school,2018,gs1da209,261.58547950425105,15.955038544417127,179.78429704805214,343.38666196044994,189,International,Average donation by subsector,CA (without QC),
+Education,Post-secondary diploma,2018,gs1da209,342.294924341699,10.29265778362912,273.24295267168077,411.34689601171726,402,International,Average donation by subsector,CA (without QC),
+Education,University Diploma,2018,gs1da209,399.32450650606904,9.982637591186112,321.1942303319146,477.4547826802235,635,International,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da209,354.3112583200835,7.325214761115093,303.4422343017927,405.18028233837424,804,International,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da209,220.6451315892806,18.48402220723132,140.70977400783562,300.58048917072557,69,International,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1da209,269.61477273715104,13.33804497947206,199.1318421697333,340.09770330456877,115,International,Average donation by subsector,CA (without QC),
+Marital status,Separated,2018,gs1da209,185.31301643550572,28.791063757633356,80.74190411178854,289.8841287592229,31,International,Average donation by subsector,CA (without QC),*
+Marital status,Divorced,2018,gs1da209,380.8602291315128,13.503401777792925,280.06107094889023,481.6593873141354,121,International,Average donation by subsector,CA (without QC),
+Marital status,"Single, never married",2018,gs1da209,357.9902445219923,19.990682887005164,217.7260206417229,498.25446840226164,256,International,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da209,368.2367068104718,8.484533023736434,307.0012286575154,429.47218496342816,752,International,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da209,245.32532536994177,74.98481165806494,-115.22324637294685,605.8738971128304,13,International,Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1da209,308.2918476474224,7.570138204570701,262.54997505745484,354.03372023738996,518,International,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da209,300.4975595440975,35.58001222559376,90.94395610162732,510.05116298656765,113,International,Average donation by subsector,CA (without QC),...
+Personal income category,"Less than $25,000",2018,gs1da209,296.99572323940527,11.99632486584507,227.16500569577403,366.8264407830365,317,International,Average donation by subsector,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,gs1da209,265.0583020660961,11.805359646131851,203.72890080051147,326.38770333168065,364,International,Average donation by subsector,CA (without QC),
+Personal income category,"$50,000 to $74,999",2018,gs1da209,345.22666614899623,10.094862455990148,276.9216133595164,413.53171893847605,290,International,Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1da209,433.1179087302605,19.302614431907124,269.25888301646467,596.9769344440564,211,International,Average donation by subsector,CA (without QC),*
+Personal income category,"$100,000 to $124,999",2018,gs1da209,407.6354199729918,16.652046808181883,274.59376844584375,540.6770715001398,90,International,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da209,622.9832782997094,24.78303281543218,320.37630429652785,925.5902523028908,124,International,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1da209,434.63192307790354,8.522692337028255,362.0302676340933,507.23357852171375,394,International,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a month,2018,gs1da209,283.3927080309268,21.36529331429448,164.72142941141547,402.0639866504382,130,International,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least 3 times a year,2018,gs1da209,469.7453020371213,26.616982899469694,224.68703276307707,714.8035713111656,121,International,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da209,317.1024804555618,21.73283297171572,182.03087171759037,452.1740891935333,141,International,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da209,277.571864252147,8.63482286915757,230.59576339181461,324.5479651124794,504,International,Average donation by subsector,CA (without QC),
+Immigration status,Native-born,2018,gs1da209,376.96254066698447,7.413080768929821,322.1922533901826,431.73282794378633,998,International,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da209,311.7109636543434,12.633291778933442,234.52884505100417,388.89308225768264,253,International,Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da209,133.82423015123737,44.567413200520924,16.928062861934137,250.7203974405406,29,International,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da209,285.8450786916241,38.8029372785858,68.45315165937663,503.23700572387156,116,International,Average donation by subsector,CA (without QC),...
+Age group,15 to 24 years,2018,gs1da210,330.17786175949874,24.56104916578027,171.23429439442188,489.12142912457557,102,Religion,Average donation by subsector,CA (without QC),*
+Age group,25 to 34 years,2018,gs1da210,841.0004336630392,19.810316997770222,514.4609243653184,1167.53994296076,323,Religion,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da210,988.7447381731071,12.625642767874961,744.071892262004,1233.4175840842101,545,Religion,Average donation by subsector,CA (without QC),
+Age group,45 to 54 years,2018,gs1da210,760.639592910072,12.108746857664284,580.1192213781031,941.1599644420409,590,Religion,Average donation by subsector,CA (without QC),
+Age group,55 to 64 years,2018,gs1da210,1008.2381954319864,8.39161357629546,842.4106341613683,1174.0657567026044,895,Religion,Average donation by subsector,CA (without QC),
+Age group,65 to 74 years,2018,gs1da210,903.5764793600569,7.558258520727176,769.7214323878177,1037.431526332296,947,Religion,Average donation by subsector,CA (without QC),
+Age group,75 years and over,2018,gs1da210,913.3039127401322,9.332507178749012,746.2480421756375,1080.359783304627,728,Religion,Average donation by subsector,CA (without QC),
+Gender,Male gender,2018,gs1da210,889.3360806267726,6.611718369752895,774.0894202073002,1004.582741046245,1638,Religion,Average donation by subsector,CA (without QC),
+Gender,Female gender,2018,gs1da210,838.4240375379039,6.385697679884469,733.4890861248955,943.3589889509124,2492,Religion,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da210,508.30330241273134,18.188280177626694,327.1014396625501,689.5051651629126,355,Religion,Average donation by subsector,CA (without QC),*
+Education,Graduated from High school,2018,gs1da210,642.3106984157912,11.13003236472533,502.19407145209254,782.4273253794898,740,Religion,Average donation by subsector,CA (without QC),
+Education,Post-secondary diploma,2018,gs1da210,898.9344335628787,9.62398363154645,729.3714760001931,1068.4973911255643,1304,Religion,Average donation by subsector,CA (without QC),
+Education,University Diploma,2018,gs1da210,1087.713394330126,7.214118658108136,933.9171079677715,1241.5096806924805,1305,Religion,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da210,941.2540438377758,5.512552161038754,839.5571571127625,1042.9509305627892,2533,Religion,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da210,318.31398224229633,19.677653519151697,195.5482619765076,441.07970250808506,147,Religion,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1da210,1132.3776415945895,13.153502830227934,840.4462487344272,1424.3090344547518,537,Religion,Average donation by subsector,CA (without QC),
+Marital status,Separated,2018,gs1da210,515.1770255040269,20.809981474259118,305.05272926685575,725.3013217411981,109,Religion,Average donation by subsector,CA (without QC),*
+Marital status,Divorced,2018,gs1da210,766.115546497282,15.729071280262028,529.9342800836803,1002.2968129108838,291,Religion,Average donation by subsector,CA (without QC),
+Marital status,"Single, never married",2018,gs1da210,620.9019139780729,14.247275344002361,447.52035357422744,794.2834743819184,513,Religion,Average donation by subsector,CA (without QC),
+Labour force status,Employed,2018,gs1da210,966.2403566164819,6.852926189083757,836.4598940485462,1096.0208191844176,1898,Religion,Average donation by subsector,CA (without QC),
+Labour force status,Unemployed,2018,gs1da210,466.12385619981274,32.352448143801574,170.55642884910213,761.6912835505234,76,Religion,Average donation by subsector,CA (without QC),*
+Labour force status,Not in labour force,2018,gs1da210,789.3689436292344,6.194676014406738,693.5289614560531,885.2089258024157,1741,Religion,Average donation by subsector,CA (without QC),
+Labour force status,Unable to determine,2018,gs1da210,702.2020179925688,10.277825621478339,560.749263385126,843.6547726000116,415,Religion,Average donation by subsector,CA (without QC),
+Personal income category,"Less than $25,000",2018,gs1da210,574.2128978035258,7.5410797358666946,489.3428264847499,659.0829691223018,1084,Religion,Average donation by subsector,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,gs1da210,812.9735450999642,9.760442847654557,657.4507591775397,968.4963310223887,1266,Religion,Average donation by subsector,CA (without QC),
+Personal income category,"$50,000 to $74,999",2018,gs1da210,982.5993315905838,9.425570034654509,801.0761143917191,1164.1225487894485,842,Religion,Average donation by subsector,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,gs1da210,1346.08153789704,14.931502829514088,952.1479789310629,1740.0150968630173,504,Religion,Average donation by subsector,CA (without QC),
+Personal income category,"$100,000 to $124,999",2018,gs1da210,1081.0910333814875,18.647913328354974,685.9604930763375,1476.2215736866374,199,Religion,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da210,1706.196223708328,14.681953126229708,1215.2195032661011,2197.172944150555,235,Religion,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a week,2018,gs1da210,1425.4088382118748,5.752423448759113,1264.7005089094325,1586.117167514317,1779,Religion,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least once a month,2018,gs1da210,632.8204396372515,11.544821203114372,489.629413800252,776.011465474251,732,Religion,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,At least 3 times a year,2018,gs1da210,258.8194035806071,12.57791583465597,195.01456600860485,322.6242411526094,488,Religion,Average donation by subsector,CA (without QC),
+Frequency of religious attendance,Once or twice a year,2018,gs1da210,272.27762208102627,27.314343304173587,126.51344548731757,418.041798674735,390,Religion,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da210,237.3984969705305,17.710966298664587,154.99069838869883,319.80629555236214,380,Religion,Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1da210,931.8367994051628,5.773408371081936,826.3931991795724,1037.280399630753,2922,Religion,Average donation by subsector,CA (without QC),
+Immigration status,Naturalized,2018,gs1da210,805.5785034494761,9.99361085729148,647.7888965857319,963.3681103132203,764,Religion,Average donation by subsector,CA (without QC),
+Immigration status,Non-Canadian,2018,gs1da210,476.3679504733143,27.224069744369437,222.1866047707256,730.549296175903,61,Religion,Average donation by subsector,CA (without QC),*
+Immigration status,Unknown,2018,gs1da210,719.1367775700553,11.28856701012268,560.0264367339827,878.2471184061279,383,Religion,Average donation by subsector,CA (without QC),
+Age group,15 to 24 years,2018,gs1da211,5,2.8671579313852826e-15,5,5,1,Business and professional,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da211,27.395486960343344,62.52285406528506,-6.175639203071658,60.96661312375835,8,Business and professional,Average donation by subsector,CA (without QC),...
+Age group,35 to 44 years,2018,gs1da211,128.07152369407675,26.983023957001873,60.33993125673075,195.80311613142274,12,Business and professional,Average donation by subsector,CA (without QC),...
+Age group,45 to 54 years,2018,gs1da211,93.37650400858148,37.71525152042632,24.35209300991552,162.40091500724742,12,Business and professional,Average donation by subsector,CA (without QC),...
+Age group,55 to 64 years,2018,gs1da211,113.23796418936423,16.90516101365022,75.71825569288967,150.7576726858388,19,Business and professional,Average donation by subsector,CA (without QC),*
+Age group,65 to 74 years,2018,gs1da211,47.35331773413639,40.788819583070996,9.496889066815719,85.20974640145707,21,Business and professional,Average donation by subsector,CA (without QC),...
+Age group,75 years and over,2018,gs1da211,114.25045258191112,23.449618382292694,61.740479026946964,166.76042613687528,8,Business and professional,Average donation by subsector,CA (without QC),...
+Gender,Male gender,2018,gs1da211,57.01582736192539,30.15343578542434,23.319674001459553,90.71198072239122,34,Business and professional,Average donation by subsector,CA (without QC),*
+Gender,Female gender,2018,gs1da211,93.74786442747711,15.578488448790385,65.12356996285871,122.37215889209551,47,Business and professional,Average donation by subsector,CA (without QC),
+Education,Less than High School,2018,gs1da211,42.19483467127876,120.722468293428,-57.6430767286576,142.03274607121512,3,Business and professional,Average donation by subsector,CA (without QC),...
+Education,Graduated from High school,2018,gs1da211,32.96476211905262,60.24192243268819,-5.9573912588275775,71.88691549693283,13,Business and professional,Average donation by subsector,CA (without QC),...
+Education,Post-secondary diploma,2018,gs1da211,79.93679208446827,28.667730224863767,35.022132162886166,124.85145200605037,24,Business and professional,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1da211,99.59639656574339,15.79437166713591,68.76493803173001,130.42785509975678,30,Business and professional,Average donation by subsector,CA (without QC),
+Marital status,Married,2018,gs1da211,92.72983513692795,14.423429026013743,66.51566580174028,118.94400447211561,37,Business and professional,Average donation by subsector,CA (without QC),
+Marital status,Living common-law,2018,gs1da211,44.21189364463561,47.07571486454436,3.4190358595500925,85.00475142972113,5,Business and professional,Average donation by subsector,CA (without QC),...
+Marital status,Widowed,2018,gs1da211,64.96518714531614,93.31711815901164,-53.8549647496001,183.78533904023237,8,Business and professional,Average donation by subsector,CA (without QC),...
+Marital status,Separated,2018,gs1da211,195.1822854109392,82.81907061276267,-121.64227612147278,512.0068469433511,3,Business and professional,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da211,58.39125821670114,55.59336361725805,-5.2324350836825815,122.01495151708485,12,Business and professional,Average donation by subsector,CA (without QC),...
+Marital status,"Single, never married",2018,gs1da211,48.89370244844464,54.242250971139875,-3.0865901746176405,100.87399507150693,16,Business and professional,Average donation by subsector,CA (without QC),...
+Labour force status,Employed,2018,gs1da211,68.23546986471682,20.525213152655038,40.7852420328839,95.68569769654974,44,Business and professional,Average donation by subsector,CA (without QC),*
+Labour force status,Unemployed,2018,gs1da211,250,3.9421717264994546e-15,249.99999999999997,250.00000000000003,1,Business and professional,Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1da211,72.41339205138051,20.005741858403876,44.01971468341473,100.80706941934629,26,Business and professional,Average donation by subsector,CA (without QC),*
+Labour force status,Unable to determine,2018,gs1da211,106.12349958135113,44.40311923741741,13.765794353309133,198.48120480939312,10,Business and professional,Average donation by subsector,CA (without QC),...
+Personal income category,"Less than $25,000",2018,gs1da211,60.305391985526576,28.719140605322043,26.360402722980325,94.25038124807283,14,Business and professional,Average donation by subsector,CA (without QC),...
+Personal income category,"$25,000 to $49,999",2018,gs1da211,71.55661456684118,47.21476384138249,5.338669661456976,137.77455947222538,21,Business and professional,Average donation by subsector,CA (without QC),...
+Personal income category,"$50,000 to $74,999",2018,gs1da211,67.47389347430664,23.753689798814264,36.06049358541258,98.88729336320068,21,Business and professional,Average donation by subsector,CA (without QC),*
+Personal income category,"$75,000 to $99,999",2018,gs1da211,66.71674909160673,29.42923101611225,28.234372842741138,105.19912534047232,12,Business and professional,Average donation by subsector,CA (without QC),...
+Personal income category,"$100,000 to $124,999",2018,gs1da211,79.80209157650258,21.419141809838223,46.3005777884955,113.30360536450965,8,Business and professional,Average donation by subsector,CA (without QC),...
+Personal income category,"$125,000 and more",2018,gs1da211,210.7279305090458,22.455851939558496,117.98096072969882,303.47490028839275,5,Business and professional,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least once a week,2018,gs1da211,95.89957999023666,24.93447921554109,49.03280194681084,142.76635803366247,13,Business and professional,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least once a month,2018,gs1da211,66.35317382135672,73.64514747147368,-29.422215968014726,162.12856361072818,11,Business and professional,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least 3 times a year,2018,gs1da211,29.336633223727816,109.31905581566448,-33.52045142000358,92.19371786745921,9,Business and professional,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,Once or twice a year,2018,gs1da211,54.719227964618725,23.07652281619571,29.97018429530186,79.46827163393559,7,Business and professional,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,Not at all,2018,gs1da211,98.1198748336519,18.118538257688808,63.27585647457333,132.9638931927305,31,Business and professional,Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1da211,76.0930284668858,18.373186749806443,48.691332110082506,103.4947248236891,51,Business and professional,Average donation by subsector,CA (without QC),*
+Immigration status,Naturalized,2018,gs1da211,67.29658498359639,36.583960919378036,19.042749228514253,115.55042073867853,18,Business and professional,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da211,117.35331346832761,34.35922985741049,38.32424402176328,196.38238291489193,12,Business and professional,Average donation by subsector,CA (without QC),...
+Age group,15 to 24 years,2018,gs1da212,59.70820454177703,51.780894543789415,-0.888869110738149,120.30527819429221,11,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Age group,25 to 34 years,2018,gs1da212,58.119720331916696,22.186775300009714,32.846196907502836,83.39324375633055,51,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Age group,35 to 44 years,2018,gs1da212,57.35115784681698,20.364767751887904,34.45989549375898,80.24242019987499,72,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Age group,45 to 54 years,2018,gs1da212,105.92488287254928,53.267325049862436,-4.662854284566166,216.51262002966473,67,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Age group,55 to 64 years,2018,gs1da212,103.39613100818153,39.409718206826724,23.531275791116528,183.26098622524654,87,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Age group,65 to 74 years,2018,gs1da212,86.33106555818397,28.9840833665037,37.28832144202834,135.37380967433958,77,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Age group,75 years and over,2018,gs1da212,323.24622856157833,46.60548933245796,27.97670063125878,618.515756491898,50,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Gender,Male gender,2018,gs1da212,137.10358036250318,28.64342096865618,60.13352958602789,214.07363113897847,161,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Gender,Female gender,2018,gs1da212,75.48887582229334,24.85459530584181,38.71514057106647,112.2626110735202,254,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Education,Less than High School,2018,gs1da212,52.49736090588122,28.739660456182055,22.926280276710788,82.06844153505166,34,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Education,Graduated from High school,2018,gs1da212,109.9633077550927,51.097324873800446,-0.16375346409881786,220.09036897428422,72,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Education,Post-secondary diploma,2018,gs1da212,82.45102982980397,18.970488338711757,51.79452168262557,113.10753797698237,135,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Education,University Diploma,2018,gs1da212,117.45351573805496,34.27501760359925,38.550827757385804,196.35620371872412,148,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Marital status,Married,2018,gs1da212,78.1542277914977,18.235310050876315,50.221476190725305,106.08697939227011,217,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Marital status,Living common-law,2018,gs1da212,69.55779828053758,31.353293237841225,26.813609218696293,112.30198734237888,33,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Marital status,Widowed,2018,gs1da212,676.3336826387269,31.93406313226005,253.01904389824892,1099.6483213792048,39,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Marital status,Separated,2018,gs1da212,22.128237068755958,35.81567232377851,6.594783820883457,37.66169031662846,18,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Marital status,Divorced,2018,gs1da212,101.37906230964929,54.685803221987094,-7.281251859872128,210.0393764791707,34,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Marital status,"Single, never married",2018,gs1da212,55.17016954039866,20.065931368654958,33.47256786859132,76.86777121220601,74,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Labour force status,Employed,2018,gs1da212,73.21814700504335,22.43125030855317,41.02819669487134,105.40809731521536,250,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Labour force status,Unemployed,2018,gs1da212,78.70430287742091,20.227456362244357,47.50191434047976,109.90669141436207,12,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Labour force status,Not in labour force,2018,gs1da212,173.61681243207667,38.58975924487088,42.30253795175571,304.93108691239763,123,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Labour force status,Unable to determine,2018,gs1da212,179.98840393017502,57.66456889516986,-23.435350929664992,383.41215879001504,30,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Personal income category,"Less than $25,000",2018,gs1da212,54.59882505709407,20.419351420356165,32.74772370239204,76.4499264117961,82,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Personal income category,"$25,000 to $49,999",2018,gs1da212,65.41766065401764,20.990086577652516,38.50495691797919,92.33036439005608,115,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Personal income category,"$50,000 to $74,999",2018,gs1da212,205.68858451055826,40.726087008264564,41.50453417452735,369.87263484658916,96,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Personal income category,"$75,000 to $99,999",2018,gs1da212,142.67043596904483,34.48429208188452,46.24238377572742,239.09848816236223,67,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Personal income category,"$100,000 to $124,999",2018,gs1da212,50.799737485446585,19.771627500653715,31.113986883192887,70.48548808770028,28,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Personal income category,"$125,000 and more",2018,gs1da212,81.91635295351459,18.414785340671592,52.350843948282204,111.48186195874698,27,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a week,2018,gs1da212,111.26533284948472,30.9736262555403,43.719273683366666,178.8113920156028,90,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,At least once a month,2018,gs1da212,141.07947323953232,68.4898479198767,-48.3022754315694,330.46122191063404,47,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Frequency of religious attendance,At least 3 times a year,2018,gs1da212,89.11934864846795,17.83686994666283,57.963560615053325,120.27513668188257,29,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Once or twice a year,2018,gs1da212,46.249324297664565,18.27331820690688,29.685107727609278,62.81354086771985,56,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Frequency of religious attendance,Not at all,2018,gs1da212,89.09455613740477,29.0717625804205,38.32882763532262,139.8602846394869,169,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Immigration status,Native-born,2018,gs1da212,101.28517280426276,26.897106784065073,47.89030303780249,154.68004257072303,317,Not elsewhere classified,Average donation by subsector,CA (without QC),*
+Immigration status,Naturalized,2018,gs1da212,106.1150768936629,33.68988493467766,36.04627173257295,176.18388205475287,67,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Immigration status,Non-Canadian,2018,gs1da212,57.28844530382083,122.81491415426864,-80.61218033685677,195.1890709444984,8,Not elsewhere classified,Average donation by subsector,CA (without QC),...
+Immigration status,Unknown,2018,gs1da212,169.3653402664554,77.19063772584607,-86.86895630861966,425.59963684153047,23,Not elsewhere classified,Average donation by subsector,CA (without QC),...
