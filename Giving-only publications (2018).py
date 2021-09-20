@@ -1,6 +1,7 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+import dash_table
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
@@ -14,14 +15,15 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 # Read in data - CHANGE PATHWAY
 SubSecAvgDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2018-SubSecAvgDon.csv")
 SubSecAvgNumDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2018-SubSecAvgNumDon.csv")
-SubSecAvgDon_2013 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2013-SubSecAvgDon.csv")
-SubSecAvgNumDon_2013 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2013-SubSecAvgNumDon.csv")
+SubSecDonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2018-SubSecDonRates.csv")
+DonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2018-DonRate.csv")
+AvgTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2018-AvgTotDon.csv")
+AvgNumCauses_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables copy/2018-AvgNumCauses.csv")
+
 
 # Combine all data into one long dataframe
 # TODO: Need to update for multiple dataframes
-df = SubSecAvgDon_2018.append(SubSecAvgNumDon_2018)
-df = df.append(SubSecAvgDon_2013)
-df = df.append(SubSecAvgNumDon_2013)
+df = pd.concat([SubSecAvgDon_2018, SubSecAvgNumDon_2018, SubSecDonRates_2018], ignore_index=True)
 
 # Add annotation, suppress estimates/CI bounds where necessary
 conditions = [df["Marker"] == "*",
@@ -44,26 +46,20 @@ df_CAnoQC = df[df["Region"] == "CA (without QC)"]
 df = df[(df["Region"] != "CA") & (df["Region"] != "CA (without QC)")]
 
 # Extract info from data for selection menus
-available_demographics = df['Group'].unique()
 region_names = df['Region'].unique()
-sector_names = df['QuestionText'].unique()
-dataset_names = df['QuestionGroup'].unique()
-years = df['Year'].unique()
 
 # General app layout/set up
 app.layout = html.Div([
     # TOP ROWS
     html.Div([
         # Page title
-        html.H1('Sub-Sectoral Giving Patterns')]),
-    html.Center([
-        html.Center([
-            dcc.Dropdown(
-                id='year-selection',
-                options=[{'label': i, 'value': i} for i in years],
-                value=2018
-            )])
-    ], style={'width': '49%', 'display': 'inline-block'}),
+        html.H1('Giving-only publications')]),
+    html.Div([
+        dcc.Markdown('''
+        Select a region of focus:
+        '''
+        )
+    ]),
     html.Div([
         html.Div([
             # Left dropdown (regions)
@@ -76,66 +72,43 @@ app.layout = html.Div([
                 value='ON'
             ),
         ],
-        style={'width': '33%', 'display': 'inline-block'}),
-        html.Div([
-            # Right drop down (sector)
-            dcc.Dropdown(
-                # Object id (used to reference object within callbacks)
-                id='sector-selection',
-                # Dropdown menu options
-                options=[{'label': i, 'value': i} for i in sector_names],
-                # Default value, shows up at top of dropdown list
-                value='Health'
-            ),
-        ],
-            style={'width': '33%', 'display': 'inline-block'}),
-        html.Div([
-            # Right drop down (sector)
-            dcc.Dropdown(
-                # Object id (used to reference object within callbacks)
-                id='crossfilter-xaxis-column',
-                # Dropdown menu options
-                options=[{'label': i, 'value': i} for i in available_demographics],
-                # Default value, shows up at top of dropdown list
-                value='Age group'
-            ),
-        ],
-            style={'width': '33%', 'display': 'inline-block'}),
+        style={'width': '33%', 'display': 'inline-block'})
     ]),
-
-    # Second row: graph-specific dropdowns
     html.Div([
-        html.Div(dcc.Dropdown(
-            # Object id (used to reference object within callbacks)
-            id='left-dataset-selection',
-            # Dropdown menu options
-            options=[{'label': i, 'value': i} for i in dataset_names],
-            # Default value, shows up at top of dropdown list
-            value='Average donation by subsector'
-        ), style={'width': '49%', 'display': 'inline-block'}
-        ),
-        html.Div(dcc.Dropdown(
-            # Object id (used to reference object within callbacks)
-            id='right-dataset-selection',
-            # Dropdown menu options
-            options=[{'label': i, 'value': i} for i in dataset_names],
-            # Default value, shows up at top of dropdown list
-            value='Average number of donation by subsector'
-        ), style={'width': '49%', 'display': 'inline-block'})
-    ], style={"marginTop": 40}
+        dcc.Markdown('''
+        ## Who donates and how much do they give?
+        
+        ### Overall likelihood of donating and levels of support
+        
+        > INSERT TEXT
+        ''')
+    ], style={'marginTop': 20}
     ),
-
-    # Third row: graphs
+    html.Div(
+        dcc.Markdown('''
+        ### Demographic patterns of donating
+        
+        > INSERT TEXT
+        '''), style={'width': '40%', 'height': 200, 'marginTop': 20}),
+    # html.Div([
+    #     # Graph object, with ID for use with below function implementation
+    #     dcc.Graph(id='left-graph')
+    # ],
+    #     style={'width': '33%', 'display': 'inline-block', 'padding': '0 100', "marginTop": 20}),
+    html.Div([
+        dcc.Graph(id='left-graph')
+        ],
+        style={'width': '33%', 'display': 'inline-block', 'padding': '0 100', "marginTop": 20}),
     html.Div([
         # Graph object, with ID for use with below function implementation
-        dcc.Graph(id='left-graph')
+        dcc.Graph(id='middle-graph')
     ],
-        style={'width': '49%', 'display': 'inline-block', 'padding': '0 100', "marginTop": 20}),
+        style={'width': '33%', 'display': 'inline-block', 'padding': '0 100', "marginTop": 20}),
     html.Div([
         # Graph object, with ID for use with below function implementation
         dcc.Graph(id='right-graph')
     ],
-        style={'width': '49%', 'display': 'inline-block', 'padding': '0 100', "marginTop": 20} )
+        style={'width': '33%', 'display': 'inline-block', 'padding': '0 100', "marginTop": 20})
 
 ])
 
@@ -220,72 +193,84 @@ def create_bar_graph(dff, CA_dff, CAnoQC_dff, title, region):
 
     return fig
 
-# Interaction
+# Interaction: left graph
 @app.callback(
     # Changes left graph...
     dash.dependencies.Output('left-graph', 'figure'),
     [
     # ...according to input from top (page level) and left (graph level) drop downs
     # These represent the selections from each of the drop down menus, and are inputted into the following function as arguments in order of their appearance below
-     dash.dependencies.Input('year-selection', 'value'),
      dash.dependencies.Input('region-selection', 'value'),
-     dash.dependencies.Input('sector-selection', 'value'),
-     dash.dependencies.Input('left-dataset-selection', 'value'),
-     dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
+     # dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
      ])
-def update_graph(year, region, sector, dataset, xaxis_column_name):
+def update_graph(region):
+    # Specifically for age
+    df = DonRates_2018
+    df_CA = DonRates_2018[DonRates_2018["Region"] == "CA"]
+    df_CAnoQC = DonRates_2018[DonRates_2018["Region"] == "CA (without QC)"]
+
     dff = df[df['Region'] == region]
-    dff = dff[dff['Year'] == year]
-    dff = dff[dff['QuestionText'] == sector]
-    dff = dff[dff['QuestionGroup'] == dataset]
-    dff = dff[dff['Group'] == xaxis_column_name]
+    dff = dff[dff['Group'] == "Age group"]
 
-    CA_dff = df_CA[df_CA['QuestionText'] == sector]
-    CA_dff = CA_dff[CA_dff['Year'] == year]
-    CA_dff = CA_dff[CA_dff['QuestionGroup'] == dataset]
-    CA_dff = CA_dff[CA_dff['Group'] == xaxis_column_name]
+    CA_dff = df_CA[df_CA['Group'] == "Age group"]
 
-    CAnoQC_dff = df_CAnoQC[df_CAnoQC['QuestionText'] == sector]
-    CAnoQC_dff = CAnoQC_dff[CAnoQC_dff['Year'] == year]
-    CAnoQC_dff = CAnoQC_dff[CAnoQC_dff['QuestionGroup'] == dataset]
-    CAnoQC_dff = CAnoQC_dff[CAnoQC_dff['Group'] == xaxis_column_name]
+    CAnoQC_dff = df_CAnoQC[df_CAnoQC['Group'] == "Age group"]
 
-    title = '<b>{}</b>: {}, {}'.format(sector, xaxis_column_name, region)
+    title = '{}, {}'.format("Donation rate by age", region)
     # Uses above function
     return create_bar_graph(dff, CA_dff, CAnoQC_dff, title, region)
 
 
 
-# Interaction
+# Interaction: middle graph
+@app.callback(
+    # Changes left graph...
+    dash.dependencies.Output('middle-graph', 'figure'),
+    [
+        # ...according to input from top (page level) and left (graph level) drop downs
+        dash.dependencies.Input('region-selection', 'value'),
+        # dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
+    ])
+def update_graph(region):
+    # Specifically for gender
+    df = DonRates_2018
+    df_CA = DonRates_2018[DonRates_2018["Region"] == "CA"]
+    df_CAnoQC = DonRates_2018[DonRates_2018["Region"] == "CA (without QC)"]
+
+    dff = df[df['Region'] == region]
+    dff = dff[dff['Group'] == "Personal income category"]
+
+    CA_dff = df_CA[df_CA['Group'] == "Personal income category"]
+
+    CAnoQC_dff = df_CAnoQC[df_CAnoQC['Group'] == "Personal income category"]
+
+    title = '{}, {}'.format("Donation rate by personal income", region)
+    # Uses above function
+    return create_bar_graph(dff, CA_dff, CAnoQC_dff, title, region)
+
+# Interaction: right graph
 @app.callback(
     # Changes left graph...
     dash.dependencies.Output('right-graph', 'figure'),
     [
         # ...according to input from top (page level) and left (graph level) drop downs
-        dash.dependencies.Input('year-selection', 'value'),
         dash.dependencies.Input('region-selection', 'value'),
-        dash.dependencies.Input('sector-selection', 'value'),
-        dash.dependencies.Input('right-dataset-selection', 'value'),
-        dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
+        # dash.dependencies.Input('crossfilter-xaxis-column', 'value'),
     ])
-def update_graph(year, region, sector, dataset, xaxis_column_name):
+def update_graph(region):
+    # Specifically for gender
+    df = DonRates_2018
+    df_CA = DonRates_2018[DonRates_2018["Region"] == "CA"]
+    df_CAnoQC = DonRates_2018[DonRates_2018["Region"] == "CA (without QC)"]
+
     dff = df[df['Region'] == region]
-    dff = dff[dff['Year'] == year]
-    dff = dff[dff['QuestionText'] == sector]
-    dff = dff[dff['QuestionGroup'] == dataset]
-    dff = dff[dff['Group'] == xaxis_column_name]
+    dff = dff[dff['Group'] == "Education"]
 
-    CA_dff = df_CA[df_CA['QuestionText'] == sector]
-    CA_dff = CA_dff[CA_dff['Year'] == year]
-    CA_dff = CA_dff[CA_dff['QuestionGroup'] == dataset]
-    CA_dff = CA_dff[CA_dff['Group'] == xaxis_column_name]
+    CA_dff = df_CA[df_CA['Group'] == "Education"]
 
-    CAnoQC_dff = df_CAnoQC[df_CAnoQC['QuestionText'] == sector]
-    CAnoQC_dff = CAnoQC_dff[CAnoQC_dff['Year'] == year]
-    CAnoQC_dff = CAnoQC_dff[CAnoQC_dff['QuestionGroup'] == dataset]
-    CAnoQC_dff = CAnoQC_dff[CAnoQC_dff['Group'] == xaxis_column_name]
+    CAnoQC_dff = df_CAnoQC[df_CAnoQC['Group'] == "Education"]
 
-    title = '<b>{}</b>: {}, {}'.format(sector, xaxis_column_name, region)
+    title = '{}, {}'.format("Donation rate by education", region)
     # Uses above function
     return create_bar_graph(dff, CA_dff, CAnoQC_dff, title, region)
 
