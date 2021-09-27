@@ -1,0 +1,313 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+All,NA,2018,gs1dntot,3.7113897669012035,0.9832143642089621,3.6398688832304638,3.782910650571943,-,Total number of donations,Average total number of donations,CA (without QC),
+All,NA,2018,gs1dntot,3.6550544795548685,0.9420082778910062,3.5875711247128237,3.7225378343969133,-,Total number of donations,Average total number of donations,CA,
+All,NA,2018,gs1dntot,3.5043867858208833,2.949239501701021,3.3018190997336014,3.706954471908165,1013,Total number of donations,Average total number of donations,AB,
+All,NA,2018,gs1dntot,4.213728758529417,1.500249053834259,4.089826840669349,4.337630676389485,3212,Total number of donations,Average total number of donations,AT,
+All,NA,2018,gs1dntot,3.468554306149929,2.4908363368553896,3.2992212361405597,3.6378873761592985,1532,Total number of donations,Average total number of donations,BC,
+All,NA,2018,gs1dntot,3.72049960259799,1.5827394858000325,3.605085523490218,3.8359136817057617,3289,Total number of donations,Average total number of donations,ON,
+All,NA,2018,gs1dntot,3.9275372673931086,2.301733719955034,3.7503536819340177,4.1047208528522,1599,Total number of donations,Average total number of donations,PR,
+All,NA,2018,gs1dntot,3.4689991591463354,2.4150638784233536,3.304796227023898,3.633202091268773,1509,Total number of donations,Average total number of donations,QC,
+Age group,15 to 24 years,2018,gs1dntot,2.298614981364074,5.383434962983379,2.0560803306376796,2.5411496320904687,362,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,25 to 34 years,2018,gs1dntot,3.057447084289959,3.1730642449115685,2.8673016482533265,3.247592520326591,1139,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,35 to 44 years,2018,gs1dntot,3.6578449528048087,2.3142055104468895,3.4919339045709066,3.823756001038711,1616,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,45 to 54 years,2018,gs1dntot,3.8532547550630345,2.1677128116486775,3.6895438692419686,4.0169656408841,1750,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,55 to 64 years,2018,gs1dntot,4.25382441258129,2.2674825011476494,4.064776627040283,4.442872198122297,2347,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,65 to 74 years,2018,gs1dntot,4.444214620477707,2.4835537177058424,4.227884659102345,4.6605445818530695,2139,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,75 years and over,2018,gs1dntot,4.138882691299001,2.7985057762980854,3.9118661953242406,4.365899187273761,1292,Total number of donations,Average total number of donations,CA (without QC),NA
+Gender,Male gender,2018,gs1dntot,3.4887970544667417,1.530387328056935,3.3841504456826317,3.5934436632508517,4476,Total number of donations,Average total number of donations,CA (without QC),NA
+Gender,Female gender,2018,gs1dntot,3.902477103262105,1.3470513083301658,3.799444993537605,4.005509212986604,6169,Total number of donations,Average total number of donations,CA (without QC),NA
+Education,Less than High School,2018,gs1dntot,3.0103611136050468,5.3340590440263345,2.6956409958606518,3.325081231349442,798,Total number of donations,Average total number of donations,CA (without QC),NA
+Education,Graduated from High school,2018,gs1dntot,3.27812807926027,2.259605975434048,3.132948102221199,3.423308056299341,2155,Total number of donations,Average total number of donations,CA (without QC),NA
+Education,Post-secondary diploma,2018,gs1dntot,3.755490945266682,1.9049013887014319,3.6152782593839063,3.8957036311494573,3383,Total number of donations,Average total number of donations,CA (without QC),NA
+Education,University Diploma,2018,gs1dntot,4.08658366759325,1.6452157237139018,3.954809179583427,4.218358155603074,3321,Total number of donations,Average total number of donations,CA (without QC),NA
+Marital status,Married,2018,gs1dntot,4.0845579375170376,1.3152373641220476,3.9792654733055923,4.189850401728483,5896,Total number of donations,Average total number of donations,CA (without QC),NA
+Marital status,Living common-law,2018,gs1dntot,3.120992924815994,3.850177159819168,2.885476289337321,3.3565095602946675,762,Total number of donations,Average total number of donations,CA (without QC),NA
+Marital status,Widowed,2018,gs1dntot,4.245031571066,3.3432065224421943,3.9668731445536096,4.52318999757839,1008,Total number of donations,Average total number of donations,CA (without QC),NA
+Marital status,Separated,2018,gs1dntot,3.43150612262742,5.780190711259589,3.042751973820825,3.820260271434015,329,Total number of donations,Average total number of donations,CA (without QC),NA
+Marital status,Divorced,2018,gs1dntot,3.9024289382099973,3.737677184746363,3.616548207126194,4.188309669293801,883,Total number of donations,Average total number of donations,CA (without QC),NA
+Marital status,"Single, never married",2018,gs1dntot,2.8226784451266265,2.5785056775702357,2.6800265354615123,2.9653303547917407,1767,Total number of donations,Average total number of donations,CA (without QC),NA
+Labour force status,Employed,2018,gs1dntot,3.610762566305463,1.433290649205122,3.5093290946369615,3.712196037973965,5670,Total number of donations,Average total number of donations,CA (without QC),NA
+Labour force status,Unemployed,2018,gs1dntot,2.867442870171878,8.92107100086553,2.366071119024464,3.3688146213192924,186,Total number of donations,Average total number of donations,CA (without QC),NA
+Labour force status,Not in labour force,2018,gs1dntot,3.906035667841203,1.898929025390204,3.7606595629344204,4.0514117727479855,3836,Total number of donations,Average total number of donations,CA (without QC),NA
+Labour force status,Unable to determine,2018,gs1dntot,4.052958291310946,2.965691926732801,3.8173740369015086,4.288542545720384,953,Total number of donations,Average total number of donations,CA (without QC),NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.2486590663334276,2.04006374512386,3.1187630102505035,3.3785551224163517,2653,Total number of donations,Average total number of donations,CA (without QC),NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.672185459097467,2.0808090124525163,3.522422325746488,3.8219485924484458,3120,Total number of donations,Average total number of donations,CA (without QC),NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,3.8812004278428835,2.3007068947742053,3.706185353991992,4.056215501693775,2243,Total number of donations,Average total number of donations,CA (without QC),NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,4.222213554448166,2.455772114314914,4.018988920386279,4.425438188510052,1328,Total number of donations,Average total number of donations,CA (without QC),NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.465948618576172,3.853787157306195,4.128622834673929,4.803274402478414,579,Total number of donations,Average total number of donations,CA (without QC),NA
+Personal income category,"$125,000 and more",2018,gs1dntot,4.639505865193603,3.197367598789818,4.3487607755368245,4.930250954850381,722,Total number of donations,Average total number of donations,CA (without QC),NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.3672651029003005,2.6530430103681177,4.140173049595535,4.594357156205066,1994,Total number of donations,Average total number of donations,CA (without QC),NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,4.1379610937215094,3.4092993795655295,3.8614582301058524,4.4144639573371665,950,Total number of donations,Average total number of donations,CA (without QC),NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,3.9065449217412125,3.2836215924654604,3.655128282629319,4.157961560853106,923,Total number of donations,Average total number of donations,CA (without QC),NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.639737504726851,3.1066140767768267,3.418119285636507,3.8613557238171956,1366,Total number of donations,Average total number of donations,CA (without QC),NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.292466974328864,1.506715890294749,3.195236839741791,3.3896971089159367,4530,Total number of donations,Average total number of donations,CA (without QC),NA
+Immigration status,Native-born,2018,gs1dntot,3.794872978308219,1.1956477290571934,3.7059429197808766,3.8838030368355616,7990,Total number of donations,Average total number of donations,CA (without QC),NA
+Immigration status,Naturalized,2018,gs1dntot,3.4394032220406285,2.4753358920572452,3.272538194722626,3.606268249358631,1607,Total number of donations,Average total number of donations,CA (without QC),NA
+Immigration status,Non-Canadian,2018,gs1dntot,3.1524901680152144,8.764051258927589,2.6109798442326206,3.694000491797808,169,Total number of donations,Average total number of donations,CA (without QC),NA
+Immigration status,Unknown,2018,gs1dntot,4.034428969786054,3.1907427143201836,3.7821262390941013,4.286731700478008,879,Total number of donations,Average total number of donations,CA (without QC),NA
+Age group,15 to 24 years,2018,gs1dntot,2.4103970033431326,6.0947413621050615,2.1224636665017456,2.6983303401845196,406,Total number of donations,Average total number of donations,CA,NA
+Age group,25 to 34 years,2018,gs1dntot,2.992360466893593,2.8390556939990677,2.8258521573472506,3.158868776439935,1293,Total number of donations,Average total number of donations,CA,NA
+Age group,35 to 44 years,2018,gs1dntot,3.5254591006826073,2.0677593715018494,3.382581624690055,3.6683365766751597,1870,Total number of donations,Average total number of donations,CA,NA
+Age group,45 to 54 years,2018,gs1dntot,3.846553798067197,2.350268028320123,3.6693645787686218,4.0237430173657724,1954,Total number of donations,Average total number of donations,CA,NA
+Age group,55 to 64 years,2018,gs1dntot,4.147554382828623,2.0572727807452758,3.980317501428332,4.314791264228915,2701,Total number of donations,Average total number of donations,CA,NA
+Age group,65 to 74 years,2018,gs1dntot,4.317722519805206,2.217139923335242,4.13009526602312,4.505349773587292,2439,Total number of donations,Average total number of donations,CA,NA
+Age group,75 years and over,2018,gs1dntot,4.099433413216536,2.6084089108671353,3.8898544909161865,4.3090123355168855,1491,Total number of donations,Average total number of donations,CA,NA
+Gender,Male gender,2018,gs1dntot,3.4684383334932427,1.4130833134022793,3.372376728960772,3.5644999380257136,5149,Total number of donations,Average total number of donations,CA,NA
+Gender,Female gender,2018,gs1dntot,3.816226503062625,1.283601769522175,3.720217371477685,3.9122356346475646,7005,Total number of donations,Average total number of donations,CA,NA
+Education,Less than High School,2018,gs1dntot,3.0504158083872293,4.229837943619563,2.797526270586609,3.3033053461878494,964,Total number of donations,Average total number of donations,CA,NA
+Education,Graduated from High school,2018,gs1dntot,3.3108768657143006,2.2870880544148187,3.162463161088478,3.4592905703401233,2438,Total number of donations,Average total number of donations,CA,NA
+Education,Post-secondary diploma,2018,gs1dntot,3.6584120365175865,1.675387271219998,3.5382808076040235,3.7785432654311495,3885,Total number of donations,Average total number of donations,CA,NA
+Education,University Diploma,2018,gs1dntot,4.0177894280993325,1.4714230757909903,3.901918942953593,4.133659913245072,3767,Total number of donations,Average total number of donations,CA,NA
+Marital status,Married,2018,gs1dntot,4.024363254449232,1.2838877578646644,3.923095233281558,4.125631275616905,6463,Total number of donations,Average total number of donations,CA,NA
+Marital status,Living common-law,2018,gs1dntot,3.2136669614794564,2.9672560131255175,3.0267692525654217,3.400564670393491,1102,Total number of donations,Average total number of donations,CA,NA
+Marital status,Widowed,2018,gs1dntot,4.0961622778858064,3.137736830251198,3.8442543936939955,4.348070162077618,1143,Total number of donations,Average total number of donations,CA,NA
+Marital status,Separated,2018,gs1dntot,3.3547076510148774,5.249505476557548,3.009547092287146,3.699868209742609,375,Total number of donations,Average total number of donations,CA,NA
+Marital status,Divorced,2018,gs1dntot,3.8098842791133913,3.2555622807622933,3.566783761382781,4.052984796844002,1031,Total number of donations,Average total number of donations,CA,NA
+Marital status,"Single, never married",2018,gs1dntot,2.8751303843041205,2.736583940373059,2.7209197195445043,3.0293410490637367,2040,Total number of donations,Average total number of donations,CA,NA
+Labour force status,Employed,2018,gs1dntot,3.5459447163986186,1.3054612815896403,3.4552161503231975,3.6366732824740398,6433,Total number of donations,Average total number of donations,CA,NA
+Labour force status,Unemployed,2018,gs1dntot,3.0175351784211135,7.505034685474262,2.5736678936341977,3.4614024632080294,220,Total number of donations,Average total number of donations,CA,NA
+Labour force status,Not in labour force,2018,gs1dntot,3.8558409434614607,1.6209433945886338,3.7333412362690797,3.9783406506538417,4423,Total number of donations,Average total number of donations,CA,NA
+Labour force status,Unable to determine,2018,gs1dntot,3.926586920923049,3.37520018133569,3.666832563062453,4.186341278783645,1078,Total number of donations,Average total number of donations,CA,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.222124471096049,2.070518800842487,3.091366075653644,3.3528828665384536,3046,Total number of donations,Average total number of donations,CA,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.644496186312932,1.8488916868285878,3.51242835058457,3.7765640220412937,3625,Total number of donations,Average total number of donations,CA,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,3.8138426439301942,2.0453192900852337,3.6609551451174758,3.9667301427429127,2570,Total number of donations,Average total number of donations,CA,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,4.143515845411148,2.618010005050459,3.9309035398722636,4.356128150950032,1478,Total number of donations,Average total number of donations,CA,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.274646723912349,3.4923623172853033,3.982051243811103,4.567242204013596,643,Total number of donations,Average total number of donations,CA,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,4.63976528257966,2.9746064853820595,4.3692613256005295,4.91026923955879,792,Total number of donations,Average total number of donations,CA,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.367862019410427,2.578288877845315,4.147138518064755,4.588585520756099,2135,Total number of donations,Average total number of donations,CA,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,4.169140477702591,3.129004604704322,3.9134580848660363,4.4248228705391455,1040,Total number of donations,Average total number of donations,CA,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,3.9335747112671693,3.037216117156085,3.6994155304586056,4.167733892075733,1069,Total number of donations,Average total number of donations,CA,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.690982737122861,2.545773967437316,3.5068165290603495,3.8751489451853725,1639,Total number of donations,Average total number of donations,CA,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.2134596553435197,1.37765827943215,3.1266910834895056,3.300228227197534,5277,Total number of donations,Average total number of donations,CA,NA
+Immigration status,Native-born,2018,gs1dntot,3.7294724608991663,1.0898326377776408,3.6498097088800434,3.809135212918289,9211,Total number of donations,Average total number of donations,CA,NA
+Immigration status,Naturalized,2018,gs1dntot,3.406342215586811,2.308034468116778,3.2522507243281504,3.5604337068454717,1755,Total number of donations,Average total number of donations,CA,NA
+Immigration status,Non-Canadian,2018,gs1dntot,2.929794129371381,7.935185938638399,2.47413266331314,3.385455595429622,201,Total number of donations,Average total number of donations,CA,NA
+Immigration status,Unknown,2018,gs1dntot,3.9328135510016677,3.603892545735824,3.6550192818019664,4.210607820201369,987,Total number of donations,Average total number of donations,CA,NA
+Age group,15 to 24 years,2018,gs1dntot,2.1399141121332352,11.965354409890821,1.6380686509661415,2.641759573300329,42,Total number of donations,Average total number of donations,AB,NA
+Age group,25 to 34 years,2018,gs1dntot,3.422680836118638,11.973984825567396,2.6194262798497094,4.225935392387567,132,Total number of donations,Average total number of donations,AB,NA
+Age group,35 to 44 years,2018,gs1dntot,3.632812141274033,5.497061225870749,3.241411434537695,4.024212848010371,183,Total number of donations,Average total number of donations,AB,NA
+Age group,45 to 54 years,2018,gs1dntot,3.371200823860013,6.27202414563683,2.956781080905972,3.785620566814054,173,Total number of donations,Average total number of donations,AB,NA
+Age group,55 to 64 years,2018,gs1dntot,3.9988567965488433,5.180444637200838,3.592833475026087,4.4048801180716,252,Total number of donations,Average total number of donations,AB,NA
+Age group,65 to 74 years,2018,gs1dntot,4.456792273130945,6.480999955355883,3.8906670537512915,5.022917492510597,139,Total number of donations,Average total number of donations,AB,NA
+Age group,75 years and over,2018,gs1dntot,3.475051343765202,8.26056788568916,2.9124260907102455,4.037676596820159,92,Total number of donations,Average total number of donations,AB,NA
+Age group,15 to 24 years,2018,gs1dntot,2.4051086368760326,9.0801987241493,1.9770747604738412,2.833142513278224,107,Total number of donations,Average total number of donations,AT,NA
+Age group,25 to 34 years,2018,gs1dntot,3.3452186718653834,4.958237027047393,3.02013145871368,3.6703058850170867,261,Total number of donations,Average total number of donations,AT,NA
+Age group,35 to 44 years,2018,gs1dntot,4.086757653569023,4.002173289374781,3.766187662729341,4.4073276444087055,461,Total number of donations,Average total number of donations,AT,NA
+Age group,45 to 54 years,2018,gs1dntot,4.2586472192952,4.062610436000169,3.919549447538334,4.597744991052066,548,Total number of donations,Average total number of donations,AT,NA
+Age group,55 to 64 years,2018,gs1dntot,4.7492824333944155,3.1565624861496886,4.455456260017017,5.043108606771814,755,Total number of donations,Average total number of donations,AT,NA
+Age group,65 to 74 years,2018,gs1dntot,4.97077976261423,2.9785235765700095,4.680595634462746,5.260963890765714,700,Total number of donations,Average total number of donations,AT,NA
+Age group,75 years and over,2018,gs1dntot,4.843573487461509,4.481003728444636,4.418181515498767,5.26896545942425,380,Total number of donations,Average total number of donations,AT,NA
+Age group,15 to 24 years,2018,gs1dntot,2.20874092201222,11.036438011736314,1.7309677088808972,2.686514135143543,49,Total number of donations,Average total number of donations,BC,NA
+Age group,25 to 34 years,2018,gs1dntot,2.769907232926455,6.239999824979544,2.4311427332040747,3.108671732648835,162,Total number of donations,Average total number of donations,BC,NA
+Age group,35 to 44 years,2018,gs1dntot,3.5272246523831736,5.663216969178942,3.135713251921767,3.9187360528445803,228,Total number of donations,Average total number of donations,BC,NA
+Age group,45 to 54 years,2018,gs1dntot,3.6253991883518104,6.681304727938215,3.1506489360985586,4.100149440605063,247,Total number of donations,Average total number of donations,BC,NA
+Age group,55 to 64 years,2018,gs1dntot,3.7118337385675324,5.748847967775009,3.293601574067138,4.130065903067926,314,Total number of donations,Average total number of donations,BC,NA
+Age group,65 to 74 years,2018,gs1dntot,3.7625424149323208,6.135991889989234,3.310046906818457,4.215037923046184,333,Total number of donations,Average total number of donations,BC,NA
+Age group,75 years and over,2018,gs1dntot,4.487202180545193,7.294380353112966,3.8456793241410328,5.128725036949353,199,Total number of donations,Average total number of donations,BC,NA
+Age group,15 to 24 years,2018,gs1dntot,2.394930615504426,9.102316959183927,1.9676698825364602,2.822191348472392,99,Total number of donations,Average total number of donations,ON,NA
+Age group,25 to 34 years,2018,gs1dntot,2.9658861675296566,4.304426903559659,2.71566853725858,3.2161037978007334,375,Total number of donations,Average total number of donations,ON,NA
+Age group,35 to 44 years,2018,gs1dntot,3.577998600941653,3.763754418031959,3.31405597341517,3.841941228468136,510,Total number of donations,Average total number of donations,ON,NA
+Age group,45 to 54 years,2018,gs1dntot,3.9337032829892666,3.1486382323028375,3.6909458961886226,4.17646066978991,552,Total number of donations,Average total number of donations,ON,NA
+Age group,55 to 64 years,2018,gs1dntot,4.353278891722749,3.6860461265043005,4.038775489692778,4.667782293752721,687,Total number of donations,Average total number of donations,ON,NA
+Age group,65 to 74 years,2018,gs1dntot,4.538708164848682,4.012044598654771,4.181808531361741,4.895607798335623,648,Total number of donations,Average total number of donations,ON,NA
+Age group,75 years and over,2018,gs1dntot,3.9902722072986694,4.392910682666174,3.646711896054726,4.333832518542613,418,Total number of donations,Average total number of donations,ON,NA
+Age group,15 to 24 years,2018,gs1dntot,2.151138629468176,10.981061804749203,1.6881601266439767,2.6141171322923746,65,Total number of donations,Average total number of donations,PR,NA
+Age group,25 to 34 years,2018,gs1dntot,3.2642667151571185,5.107756213775632,2.937480379526874,3.5910530507873633,209,Total number of donations,Average total number of donations,PR,NA
+Age group,35 to 44 years,2018,gs1dntot,4.000420045228369,6.662939959655987,3.478000296924922,4.522839793531816,234,Total number of donations,Average total number of donations,PR,NA
+Age group,45 to 54 years,2018,gs1dntot,4.099898264686402,5.4444486663470295,3.6624012654132776,4.537395263959527,230,Total number of donations,Average total number of donations,PR,NA
+Age group,55 to 64 years,2018,gs1dntot,4.56590003658354,4.825197996187821,4.134093085819983,4.9977069873470965,339,Total number of donations,Average total number of donations,PR,NA
+Age group,65 to 74 years,2018,gs1dntot,4.622090280790507,5.035377207808997,4.1659288891915205,5.078251672389494,319,Total number of donations,Average total number of donations,PR,NA
+Age group,75 years and over,2018,gs1dntot,4.468779322738125,6.230063535102948,3.9231100792645206,5.014448566211729,203,Total number of donations,Average total number of donations,PR,NA
+Age group,15 to 24 years,2018,gs1dntot,2.7779114059362744,16.9594032945015,1.8545386643853556,3.7012841474871934,44,Total number of donations,Average total number of donations,QC,*
+Age group,25 to 34 years,2018,gs1dntot,2.7496764425287217,5.08528436538356,2.4756169007177786,3.0237359843396647,154,Total number of donations,Average total number of donations,QC,NA
+Age group,35 to 44 years,2018,gs1dntot,3.07923594930485,4.284043103541237,2.8206857414700974,3.3377861571396026,254,Total number of donations,Average total number of donations,QC,NA
+Age group,45 to 54 years,2018,gs1dntot,3.8229582781203475,7.2589124137545795,3.2790580942721648,4.366858461968531,204,Total number of donations,Average total number of donations,QC,NA
+Age group,55 to 64 years,2018,gs1dntot,3.817827739122277,4.426463287760503,3.486604128751803,4.149051349492751,354,Total number of donations,Average total number of donations,QC,NA
+Age group,65 to 74 years,2018,gs1dntot,3.9307897383676464,4.764115946915778,3.5637524165885055,4.297827060146787,300,Total number of donations,Average total number of donations,QC,NA
+Age group,75 years and over,2018,gs1dntot,3.9823985950405727,6.341103835147449,3.4874527510734112,4.477344439007735,199,Total number of donations,Average total number of donations,QC,NA
+Gender,Male gender,2018,gs1dntot,3.193437848462019,3.944870727827301,2.9465274755865742,3.440348221337464,455,Total number of donations,Average total number of donations,AB,NA
+Gender,Female gender,2018,gs1dntot,3.770593229826373,4.1374870064778175,3.4648235508148746,4.076362908837871,558,Total number of donations,Average total number of donations,AB,NA
+Gender,Male gender,2018,gs1dntot,3.924466718408681,2.2916329757211082,3.748198585493609,4.100734851323754,1334,Total number of donations,Average total number of donations,AT,NA
+Gender,Female gender,2018,gs1dntot,4.4605176234280925,2.183239193734017,4.269648943513058,4.651386303343127,1878,Total number of donations,Average total number of donations,AT,NA
+Gender,Male gender,2018,gs1dntot,3.3061345943566582,3.735890753595511,3.0640524325954237,3.548216756117893,609,Total number of donations,Average total number of donations,BC,NA
+Gender,Female gender,2018,gs1dntot,3.5985424198736364,3.336224451907911,3.363238057562722,3.8338467821845508,923,Total number of donations,Average total number of donations,BC,NA
+Gender,Male gender,2018,gs1dntot,3.515487664277374,2.3837071823553333,3.3512447757159878,3.67973055283876,1400,Total number of donations,Average total number of donations,ON,NA
+Gender,Female gender,2018,gs1dntot,3.9001091869618922,2.138472689075143,3.736642761928718,4.063575611995066,1889,Total number of donations,Average total number of donations,ON,NA
+Gender,Male gender,2018,gs1dntot,3.6932766306065887,3.679543616161298,3.4269259049558336,3.959627356257344,678,Total number of donations,Average total number of donations,PR,NA
+Gender,Female gender,2018,gs1dntot,4.133209835755393,3.0797117325095544,3.8837241616450853,4.382695509865701,921,Total number of donations,Average total number of donations,PR,NA
+Gender,Male gender,2018,gs1dntot,3.402126940840794,3.502495224682151,3.1685789384834777,3.6356749431981106,673,Total number of donations,Average total number of donations,QC,NA
+Gender,Female gender,2018,gs1dntot,3.5279146395729173,3.4515686340453113,3.2892529706523077,3.766576308493527,836,Total number of donations,Average total number of donations,QC,NA
+Education,Less than High School,2018,gs1dntot,2.1390055817928286,10.201621778864826,1.7113154526484375,2.5666957109372195,60,Total number of donations,Average total number of donations,AB,NA
+Education,Graduated from High school,2018,gs1dntot,3.245461754388349,5.6034327188600015,2.8890280630473923,3.6018954457293053,202,Total number of donations,Average total number of donations,AB,NA
+Education,Post-secondary diploma,2018,gs1dntot,3.6428921838373847,6.381495212864014,3.1872574153571205,4.098526952317649,361,Total number of donations,Average total number of donations,AB,NA
+Education,University Diploma,2018,gs1dntot,3.9491857742152945,4.552112781354306,3.596840323605143,4.301531224825446,302,Total number of donations,Average total number of donations,AB,NA
+Education,Less than High School,2018,gs1dntot,3.3677693524815213,5.446983419575957,3.00822995627481,3.7273087486882326,269,Total number of donations,Average total number of donations,AT,NA
+Education,Graduated from High school,2018,gs1dntot,3.733432929203008,3.6849580244117663,3.463790028876657,4.003075829529359,670,Total number of donations,Average total number of donations,AT,NA
+Education,Post-secondary diploma,2018,gs1dntot,4.308160495032617,2.7693854006062635,4.074318039164702,4.542002950900532,1045,Total number of donations,Average total number of donations,AT,NA
+Education,University Diploma,2018,gs1dntot,4.9271511812735564,3.096141030159166,4.6281556387786615,5.226146723768451,843,Total number of donations,Average total number of donations,AT,NA
+Education,Less than High School,2018,gs1dntot,3.0197369108404106,12.497807846237393,2.2800447066136758,3.7594291150671455,98,Total number of donations,Average total number of donations,BC,NA
+Education,Graduated from High school,2018,gs1dntot,2.985927497866209,6.205908541150476,2.62273846961209,3.3491165261203277,289,Total number of donations,Average total number of donations,BC,NA
+Education,Post-secondary diploma,2018,gs1dntot,3.4841479488194063,4.406558153296903,3.183232707506394,3.7850631901324183,469,Total number of donations,Average total number of donations,BC,NA
+Education,University Diploma,2018,gs1dntot,3.8165159536779014,4.134648923860023,3.5072345467176915,4.125797360638111,569,Total number of donations,Average total number of donations,BC,NA
+Education,Less than High School,2018,gs1dntot,3.2256285628638866,8.691106067576673,2.676166772039445,3.775090353688328,239,Total number of donations,Average total number of donations,ON,NA
+Education,Graduated from High school,2018,gs1dntot,3.2807319579205543,3.628796752551506,3.0473960998925653,3.5140678159485432,609,Total number of donations,Average total number of donations,ON,NA
+Education,Post-secondary diploma,2018,gs1dntot,3.754256567123663,2.824603280071504,3.54641639219677,3.962096742050556,1011,Total number of donations,Average total number of donations,ON,NA
+Education,University Diploma,2018,gs1dntot,4.0466547939348345,2.516286459177952,3.8470806250306717,4.246228962838997,1212,Total number of donations,Average total number of donations,ON,NA
+Education,Less than High School,2018,gs1dntot,2.693685885062054,7.549033945533582,2.2951325754824317,3.0922391946416767,132,Total number of donations,Average total number of donations,PR,NA
+Education,Graduated from High school,2018,gs1dntot,3.3315543567069277,4.81638261303812,3.01705774239273,3.6460509710211255,385,Total number of donations,Average total number of donations,PR,NA
+Education,Post-secondary diploma,2018,gs1dntot,3.81426694872992,4.638134243378316,3.467528110148034,4.161005787311806,497,Total number of donations,Average total number of donations,PR,NA
+Education,University Diploma,2018,gs1dntot,4.582708999564342,3.8634852927938015,4.235692891292912,4.929725107835772,395,Total number of donations,Average total number of donations,PR,NA
+Education,Less than High School,2018,gs1dntot,3.140723055119183,6.905163164729055,2.7156616449097113,3.5657844653286546,166,Total number of donations,Average total number of donations,QC,NA
+Education,Graduated from High school,2018,gs1dntot,3.4226297697640793,5.9485838284984345,3.0235850204923533,3.8216745190358052,283,Total number of donations,Average total number of donations,QC,NA
+Education,Post-secondary diploma,2018,gs1dntot,3.3864063202773225,3.6542981189623513,3.1438619875421097,3.6289506530125353,502,Total number of donations,Average total number of donations,QC,NA
+Education,University Diploma,2018,gs1dntot,3.711995291599204,3.953170932998857,3.424387199515,3.9996033836834077,446,Total number of donations,Average total number of donations,QC,NA
+Marital status,Married,2018,gs1dntot,3.814855659986519,3.8863167275906276,3.5242765471949333,4.105434772778104,600,Total number of donations,Average total number of donations,AB,NA
+Marital status,Living common-law,2018,gs1dntot,2.836290023912152,10.048128428901718,2.277711922235569,3.3948681255887347,64,Total number of donations,Average total number of donations,AB,NA
+Marital status,Widowed,2018,gs1dntot,4.155612601250428,11.026857202905651,3.257491508545679,5.053733693955177,66,Total number of donations,Average total number of donations,AB,NA
+Marital status,Separated,2018,gs1dntot,3.7076628185529805,16.333415145008892,2.5207322268323735,4.894593410273588,29,Total number of donations,Average total number of donations,AB,NA
+Marital status,Divorced,2018,gs1dntot,3.5142151387658584,8.53459978146284,2.926374513469422,4.102055764062294,89,Total number of donations,Average total number of donations,AB,NA
+Marital status,"Single, never married",2018,gs1dntot,2.7084642856988257,7.249934909278051,2.3236020381646423,3.093326533233009,165,Total number of donations,Average total number of donations,AB,NA
+Marital status,Married,2018,gs1dntot,4.657409098872056,1.8973198347892553,4.484215026036716,4.830603171707396,1772,Total number of donations,Average total number of donations,AT,NA
+Marital status,Living common-law,2018,gs1dntot,3.481466733539841,5.478793015083318,3.107618585023056,3.855314882056626,256,Total number of donations,Average total number of donations,AT,NA
+Marital status,Widowed,2018,gs1dntot,4.647936538394647,5.402276939713114,4.155800550254149,5.140072526535144,349,Total number of donations,Average total number of donations,AT,NA
+Marital status,Separated,2018,gs1dntot,3.9837449628894035,8.40847547330768,3.3272114795454844,4.640278446233323,95,Total number of donations,Average total number of donations,AT,NA
+Marital status,Divorced,2018,gs1dntot,4.488573901800076,5.342767885113062,4.018546932361763,4.9586008712383896,241,Total number of donations,Average total number of donations,AT,NA
+Marital status,"Single, never married",2018,gs1dntot,3.148391043664501,4.4511083034014565,2.8737250322801846,3.4230570550488175,499,Total number of donations,Average total number of donations,AT,NA
+Marital status,Married,2018,gs1dntot,3.7780630636657375,3.214562569902245,3.5400289634992346,4.0160971638322405,807,Total number of donations,Average total number of donations,BC,NA
+Marital status,Living common-law,2018,gs1dntot,3.222792329399287,7.721507751927881,2.7350588990757276,3.7105257597228465,131,Total number of donations,Average total number of donations,BC,NA
+Marital status,Widowed,2018,gs1dntot,3.9962204538694173,7.658015891163796,3.3964103288133645,4.59603057892547,138,Total number of donations,Average total number of donations,BC,NA
+Marital status,Separated,2018,gs1dntot,3.009607378031926,18.63557769389765,1.9103464440004658,4.108868312063386,38,Total number of donations,Average total number of donations,BC,*
+Marital status,Divorced,2018,gs1dntot,3.5900332171379814,11.344742042696808,2.7917790703611773,4.3882873639147855,154,Total number of donations,Average total number of donations,BC,NA
+Marital status,"Single, never married",2018,gs1dntot,2.6227325394749856,5.528820161216416,2.3385256777208667,2.9069394012291045,264,Total number of donations,Average total number of donations,BC,NA
+Marital status,Married,2018,gs1dntot,4.118353770636672,2.089324500634172,3.949707151883513,4.2870003893898305,1864,Total number of donations,Average total number of donations,ON,NA
+Marital status,Living common-law,2018,gs1dntot,2.917894300439697,6.447693260443982,2.5491528029293473,3.286635797950047,207,Total number of donations,Average total number of donations,ON,NA
+Marital status,Widowed,2018,gs1dntot,4.137241985074851,5.534019070578222,3.6884969405398493,4.5859870296098535,285,Total number of donations,Average total number of donations,ON,NA
+Marital status,Separated,2018,gs1dntot,3.3429217887615152,7.715638454605762,2.8373926704278767,3.848450907095154,117,Total number of donations,Average total number of donations,ON,NA
+Marital status,Divorced,2018,gs1dntot,4.100095906331219,5.544143240801791,3.654566320680125,4.545625491982312,271,Total number of donations,Average total number of donations,ON,NA
+Marital status,"Single, never married",2018,gs1dntot,2.8550427342856257,4.183940874974201,2.6209185685339613,3.08916690003729,545,Total number of donations,Average total number of donations,ON,NA
+Marital status,Married,2018,gs1dntot,4.3440292366469,2.869711113557392,4.099697990404119,4.588360482889682,853,Total number of donations,Average total number of donations,PR,NA
+Marital status,Living common-law,2018,gs1dntot,3.9419953463340307,7.921178984752085,3.3299916786224038,4.553999014045657,104,Total number of donations,Average total number of donations,PR,NA
+Marital status,Widowed,2018,gs1dntot,4.827097404136028,7.176856497623578,4.148099527867712,5.5060952804043435,170,Total number of donations,Average total number of donations,PR,NA
+Marital status,Separated,2018,gs1dntot,3.6866751297229543,20.03234680549241,2.2391877348795024,5.134162524566406,50,Total number of donations,Average total number of donations,PR,*
+Marital status,Divorced,2018,gs1dntot,3.4487462608552506,8.799875334708112,2.8539258627517823,4.043566658958719,128,Total number of donations,Average total number of donations,PR,NA
+Marital status,"Single, never married",2018,gs1dntot,2.833103186241762,5.373478695280923,2.534725724687455,3.131480647796069,294,Total number of donations,Average total number of donations,PR,NA
+Marital status,Married,2018,gs1dntot,3.7462737199635985,3.729998424553767,3.472396289179272,4.0201511507479255,567,Total number of donations,Average total number of donations,QC,NA
+Marital status,Living common-law,2018,gs1dntot,3.3104613524764877,4.424510398788571,3.023382082417507,3.5975406225354685,340,Total number of donations,Average total number of donations,QC,NA
+Marital status,Widowed,2018,gs1dntot,3.7216846352490514,7.9396729103917405,3.142535687324071,4.300833583174032,135,Total number of donations,Average total number of donations,QC,NA
+Marital status,Separated,2018,gs1dntot,3.101945944032692,12.244920165605256,2.3574912471368297,3.8464006409285547,46,Total number of donations,Average total number of donations,QC,NA
+Marital status,Divorced,2018,gs1dntot,3.49717599127724,6.298101201700805,3.065482784947815,3.9288691976066654,148,Total number of donations,Average total number of donations,QC,NA
+Marital status,"Single, never married",2018,gs1dntot,3.063147483095351,7.64915218072116,2.60391848918723,3.5223764770034722,273,Total number of donations,Average total number of donations,QC,NA
+Labour force status,Employed,2018,gs1dntot,3.5223858145700366,4.1553656895772075,3.235509783358667,3.8092618457814065,601,Total number of donations,Average total number of donations,AB,NA
+Labour force status,Unemployed,2018,gs1dntot,2.542040136457413,17.496399505626737,1.6703157790701697,3.4137644938446563,28,Total number of donations,Average total number of donations,AB,*
+Labour force status,Not in labour force,2018,gs1dntot,3.6056723908373822,4.625824276025468,3.2787659431426195,3.932578838532145,295,Total number of donations,Average total number of donations,AB,NA
+Labour force status,Unable to determine,2018,gs1dntot,3.560017457404255,9.04656232148584,2.92879302855229,4.19124188625622,89,Total number of donations,Average total number of donations,AB,NA
+Labour force status,Employed,2018,gs1dntot,4.04448397605309,2.253963559294358,3.865811317101254,4.223156635004927,1568,Total number of donations,Average total number of donations,AT,NA
+Labour force status,Unemployed,2018,gs1dntot,3.0365496927557856,15.315652115629769,2.1250343633406708,3.9480650221709004,49,Total number of donations,Average total number of donations,AT,NA
+Labour force status,Not in labour force,2018,gs1dntot,4.4639767084014625,2.799262002103216,4.21906273742505,4.708890679377875,1242,Total number of donations,Average total number of donations,AT,NA
+Labour force status,Unable to determine,2018,gs1dntot,4.476326265548888,4.517630797984264,4.0799747165136795,4.8726778145840965,353,Total number of donations,Average total number of donations,AT,NA
+Labour force status,Employed,2018,gs1dntot,3.43386138237462,3.3795335391963603,3.2064105075851694,3.66131225716407,845,Total number of donations,Average total number of donations,BC,NA
+Labour force status,Unemployed,2018,gs1dntot,2.465724646147235,17.81537435526377,1.6047554374381763,3.326693854856294,26,Total number of donations,Average total number of donations,BC,*
+Labour force status,Not in labour force,2018,gs1dntot,3.6131723277102448,4.542347742889081,3.2914974493883347,3.934847206032155,548,Total number of donations,Average total number of donations,BC,NA
+Labour force status,Unable to determine,2018,gs1dntot,3.4973108748215522,7.4651581334099975,2.9856038947743198,4.009017854868785,113,Total number of donations,Average total number of donations,BC,NA
+Labour force status,Employed,2018,gs1dntot,3.6075593216434076,2.1131469929109206,3.4581453258184345,3.756973317468381,1799,Total number of donations,Average total number of donations,ON,NA
+Labour force status,Unemployed,2018,gs1dntot,3.0871318014805387,12.703053607755471,2.3185123102426735,3.855751292718404,65,Total number of donations,Average total number of donations,ON,NA
+Labour force status,Not in labour force,2018,gs1dntot,3.928797979032408,3.0604564374330834,3.6931335742011675,4.164462383863648,1199,Total number of donations,Average total number of donations,ON,NA
+Labour force status,Unable to determine,2018,gs1dntot,4.125802991021477,5.131004782750767,3.710888123679104,4.540717858363849,226,Total number of donations,Average total number of donations,ON,NA
+Labour force status,Employed,2018,gs1dntot,3.7047698480602977,3.2314209157403027,3.4701294125220796,3.939410283598516,857,Total number of donations,Average total number of donations,PR,NA
+Labour force status,Unemployed,2018,gs1dntot,2.3991100029917036,19.037057573751223,1.5039553450176362,3.294264660965771,18,Total number of donations,Average total number of donations,PR,*
+Labour force status,Not in labour force,2018,gs1dntot,4.0733725162170336,3.9239859230520104,3.7600946871819794,4.386650345252088,552,Total number of donations,Average total number of donations,PR,NA
+Labour force status,Unable to determine,2018,gs1dntot,4.710926632434746,7.000622758491096,4.064541874271169,5.357311390598323,172,Total number of donations,Average total number of donations,PR,NA
+Labour force status,Employed,2018,gs1dntot,3.319559264240565,3.269285926454209,3.106852440511785,3.5322660879693446,763,Total number of donations,Average total number of donations,QC,NA
+Labour force status,Unemployed,2018,gs1dntot,3.519697521724451,13.090707153737707,2.6166376572443313,4.42275738620457,34,Total number of donations,Average total number of donations,QC,NA
+Labour force status,Not in labour force,2018,gs1dntot,3.704936467369164,3.343255173013302,3.4621645874411366,3.947708347297191,587,Total number of donations,Average total number of donations,QC,NA
+Labour force status,Unable to determine,2018,gs1dntot,3.5249840237864123,11.534675969558778,2.7280715166697656,4.321896530903059,125,Total number of donations,Average total number of donations,QC,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.1670934797413937,5.466185542200924,2.8277860711499,3.5064008883328874,220,Total number of donations,Average total number of donations,AB,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.5791749229010135,8.33049114432561,2.9947864753884987,4.163563370413528,250,Total number of donations,Average total number of donations,AB,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,3.632901288578456,5.44490438453452,3.2452047296912787,4.020597847465633,221,Total number of donations,Average total number of donations,AB,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,3.671206148344513,7.0361490558327215,3.1649248395342644,4.177487457154761,113,Total number of donations,Average total number of donations,AB,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.069461606328176,8.477236073417368,3.393317410985114,4.745605801671237,93,Total number of donations,Average total number of donations,AB,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,3.605468092334404,8.13494607617737,3.0306050009665526,4.180331183702255,116,Total number of donations,Average total number of donations,AB,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.7021037395732876,3.2575185039457133,3.4657385227897657,3.9384689563568096,892,Total number of donations,Average total number of donations,AT,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,4.164339441618749,2.8601339833095873,3.930896583666667,4.397782299570831,1045,Total number of donations,Average total number of donations,AT,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,4.592244954464206,3.56962657539652,4.270955905582714,4.913534003345698,636,Total number of donations,Average total number of donations,AT,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,5.094747288826766,3.963738029165114,4.698947387753386,5.490547189900146,388,Total number of donations,Average total number of donations,AT,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.767649506607002,6.560640188623454,4.154595645839551,5.380703367374453,111,Total number of donations,Average total number of donations,AT,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,5.414055756741751,7.041504044451499,4.666856814993478,6.1612546984900245,140,Total number of donations,Average total number of donations,AT,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,2.883862657297618,4.832541414921106,2.610714516314868,3.1570107982803677,362,Total number of donations,Average total number of donations,BC,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.363590724472566,4.989757532803439,3.0346401268958485,3.692541322049283,435,Total number of donations,Average total number of donations,BC,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,3.7849882180850605,5.40719450400524,3.383858706254555,4.1861177299155665,354,Total number of donations,Average total number of donations,BC,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,3.800579148283276,6.545678931356143,3.3129916391685743,4.288166657397977,182,Total number of donations,Average total number of donations,BC,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.3394649381517025,9.3605699727331,3.543330209706281,5.135599666597124,80,Total number of donations,Average total number of donations,BC,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,4.920404166637065,8.311259063815978,4.11888172200975,5.721926611264379,119,Total number of donations,Average total number of donations,BC,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.2754199922269582,3.224563658177657,3.0684125107727143,3.482427473681202,800,Total number of donations,Average total number of donations,ON,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.6906407925218745,3.2948232896607115,3.452308990960461,3.928972594083288,873,Total number of donations,Average total number of donations,ON,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,3.8104701569416823,3.7308664773326643,3.531834711747816,4.0891056021355485,699,Total number of donations,Average total number of donations,ON,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,4.205673080868713,3.985632660872799,3.8771386652321755,4.53420749650525,433,Total number of donations,Average total number of donations,ON,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.548146535233,5.8445398404678714,4.027152365740119,5.069140704725881,224,Total number of donations,Average total number of donations,ON,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,5.001443318700232,4.28864748469913,4.581042268561396,5.421844368839067,260,Total number of donations,Average total number of donations,ON,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.33335162179251,4.62681958191909,3.031069971871055,3.6356332717139646,379,Total number of donations,Average total number of donations,PR,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.735394957078106,4.321262769343822,3.4190249566843294,4.051764957471883,517,Total number of donations,Average total number of donations,PR,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,4.1965181132393345,5.063355629447571,3.7800558791613543,4.612980347317315,333,Total number of donations,Average total number of donations,PR,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,4.860809553586321,6.0467166513845605,4.284738153117164,5.4368809540554786,212,Total number of donations,Average total number of donations,PR,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,4.987865683931064,13.307308960562692,3.686938222904473,6.288793144957655,71,Total number of donations,Average total number of donations,PR,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,4.595655212461835,6.688932002095157,3.9931617892871705,5.198148635636499,87,Total number of donations,Average total number of donations,PR,NA
+Personal income category,"Less than $25,000",2018,gs1dntot,3.136817840021284,5.3098353451804154,2.8103665084799214,3.4632691715626462,393,Total number of donations,Average total number of donations,QC,NA
+Personal income category,"$25,000 to $49,999",2018,gs1dntot,3.56831445208687,4.082047867898801,3.282825502247495,3.8538034019262453,505,Total number of donations,Average total number of donations,QC,NA
+Personal income category,"$50,000 to $74,999",2018,gs1dntot,3.5790627386557134,4.368027091533725,3.272652886219075,3.885472591092352,327,Total number of donations,Average total number of donations,QC,NA
+Personal income category,"$75,000 to $99,999",2018,gs1dntot,3.817269951357179,8.761712108081369,3.1617439181118328,4.4727959846025245,150,Total number of donations,Average total number of donations,QC,NA
+Personal income category,"$100,000 to $124,999",2018,gs1dntot,3.3884800261507784,8.32689666496062,2.835465936731978,3.941494115569579,64,Total number of donations,Average total number of donations,QC,NA
+Personal income category,"$125,000 and more",2018,gs1dntot,4.641194860757591,8.072103249568162,3.9069099529619713,5.375479768553211,70,Total number of donations,Average total number of donations,QC,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.091106747630904,8.606222288135028,3.4010235364426857,4.781189958819122,193,Total number of donations,Average total number of donations,AB,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,3.56501028495819,7.0258529750573135,3.0740934387492067,4.055927131167174,93,Total number of donations,Average total number of donations,AB,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,3.157414689320546,15.386696305625886,2.205221440080714,4.109607938560378,66,Total number of donations,Average total number of donations,AB,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.3311712340028974,9.959289982984526,2.680931616600753,3.981410851405042,108,Total number of donations,Average total number of donations,AB,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.293404450165652,3.460925916575656,3.0700032705094453,3.516805629821859,462,Total number of donations,Average total number of donations,AB,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,5.198961890500343,3.584512296074761,4.833708042911713,5.564215738088974,630,Total number of donations,Average total number of donations,AT,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,5.145455490531132,4.590808833923397,4.682476668630354,5.6084343124319105,294,Total number of donations,Average total number of donations,AT,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,5.2095254867266325,4.125403907294251,4.788301849709454,5.630749123743811,312,Total number of donations,Average total number of donations,AT,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,4.014317879550523,4.4627835258899715,3.6631897104009346,4.365446048700112,470,Total number of donations,Average total number of donations,AT,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.438997775253514,2.602888847140145,3.263554951606684,3.6144405989003436,1224,Total number of donations,Average total number of donations,AT,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.027181901523123,5.285272159208118,3.610008420594528,4.444355382451718,243,Total number of donations,Average total number of donations,BC,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,3.670137456047237,11.217926449733268,2.8631941760617963,4.477080736032677,87,Total number of donations,Average total number of donations,BC,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,3.9953733258728645,8.896680092540207,3.298693184490226,4.692053467255503,99,Total number of donations,Average total number of donations,BC,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.8231721069340114,7.547389702960795,3.257625091250694,4.388719122617329,158,Total number of donations,Average total number of donations,BC,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.122414784321362,3.8427340079422785,2.887246359894929,3.357583208747795,825,Total number of donations,Average total number of donations,BC,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.415239450290438,4.296979409333477,4.043391300311583,4.7870876002692935,614,Total number of donations,Average total number of donations,ON,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,4.221919883476648,5.332848131515398,3.780636784090835,4.663202982862462,319,Total number of donations,Average total number of donations,ON,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,3.8047193160317136,4.5444465272468575,3.465834810963814,4.143603821099614,321,Total number of donations,Average total number of donations,ON,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.542339575666553,5.021932366740268,3.193673943124213,3.8910052082088935,434,Total number of donations,Average total number of donations,ON,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.3148355030209298,2.365611683640958,3.1611427007463675,3.468528305295492,1355,Total number of donations,Average total number of donations,ON,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.319715838149201,5.562393254261345,3.8487765104553153,4.790655165843087,314,Total number of donations,Average total number of donations,PR,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,4.269735503970164,7.145101900471124,3.671795664283978,4.86767534365635,157,Total number of donations,Average total number of donations,PR,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,3.9576934850794547,6.6972438049707845,3.4381925229784915,4.477194447180418,125,Total number of donations,Average total number of donations,PR,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.9139975156633375,5.7283284874600024,3.474560586579498,4.353434444747177,196,Total number of donations,Average total number of donations,PR,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,3.4111986660678673,3.7218182452806996,3.1623643544412445,3.66003297769449,664,Total number of donations,Average total number of donations,PR,NA
+Frequency of religious attendance,At least once a week,2018,gs1dntot,4.37225476931717,9.6024173154673,3.5493792779965694,5.19513026063777,141,Total number of donations,Average total number of donations,QC,NA
+Frequency of religious attendance,At least once a month,2018,gs1dntot,4.360094943538315,6.705493022602393,3.7870683832824246,4.933121503794205,90,Total number of donations,Average total number of donations,QC,NA
+Frequency of religious attendance,At least 3 times a year,2018,gs1dntot,4.018614589172241,7.58399816024297,3.4212731189038754,4.615956059440607,146,Total number of donations,Average total number of donations,QC,NA
+Frequency of religious attendance,Once or twice a year,2018,gs1dntot,3.807759938918446,5.407347273432067,3.4042057001160946,4.211314177720798,273,Total number of donations,Average total number of donations,QC,NA
+Frequency of religious attendance,Not at all,2018,gs1dntot,2.994353092168772,3.066376093502082,2.8143928693891858,3.1743133149483582,747,Total number of donations,Average total number of donations,QC,NA
+Immigration status,Native-born,2018,gs1dntot,3.4491137283897735,2.999717103294248,3.2463286920126224,3.6518987647669245,755,Total number of donations,Average total number of donations,AB,NA
+Immigration status,Naturalized,2018,gs1dntot,3.700866837609459,10.01112557905187,2.974703265092629,4.42703041012629,164,Total number of donations,Average total number of donations,AB,NA
+Immigration status,Non-Canadian,2018,gs1dntot,3.0058983718030574,19.873595049685015,1.8350549494873007,4.176741794118814,13,Total number of donations,Average total number of donations,AB,...
+Immigration status,Unknown,2018,gs1dntot,3.575887158718083,9.769502709455276,2.891180810587371,4.260593506848795,81,Total number of donations,Average total number of donations,AB,NA
+Immigration status,Native-born,2018,gs1dntot,4.170989125773097,1.6450844578344017,4.03650366108221,4.305474590463985,2782,Total number of donations,Average total number of donations,AT,NA
+Immigration status,Naturalized,2018,gs1dntot,4.393760941909624,8.911339384126258,3.6263508629579624,5.161171020861286,90,Total number of donations,Average total number of donations,AT,NA
+Immigration status,Non-Canadian,2018,gs1dntot,2.316277050659108,21.524185665435276,1.33911785161556,3.2934362497026557,22,Total number of donations,Average total number of donations,AT,*
+Immigration status,Unknown,2018,gs1dntot,4.674621059217794,4.759093041052639,4.238588723132883,5.110653395302705,318,Total number of donations,Average total number of donations,AT,NA
+Immigration status,Native-born,2018,gs1dntot,3.5133540691642318,2.9614982557776406,3.309423894321829,3.7172842440066347,1002,Total number of donations,Average total number of donations,BC,NA
+Immigration status,Naturalized,2018,gs1dntot,3.388707814224235,5.08201534062506,3.051173300717141,3.726242327731329,388,Total number of donations,Average total number of donations,BC,NA
+Immigration status,Non-Canadian,2018,gs1dntot,3.197198818368499,25.191850653110393,1.6185780656717603,4.775819571065238,35,Total number of donations,Average total number of donations,BC,*
+Immigration status,Unknown,2018,gs1dntot,3.538922376358368,7.647487053145828,3.0084804076494684,4.069364345067267,107,Total number of donations,Average total number of donations,BC,NA
+Immigration status,Native-born,2018,gs1dntot,3.8837262013397016,1.9847369550756042,3.7326487491365423,4.034803653542861,2190,Total number of donations,Average total number of donations,ON,NA
+Immigration status,Naturalized,2018,gs1dntot,3.3930234858564465,3.106052622168353,3.1864646553848393,3.599582316328054,804,Total number of donations,Average total number of donations,ON,NA
+Immigration status,Non-Canadian,2018,gs1dntot,3.033995981206532,11.12738093052991,2.372303731298519,3.695688231114545,75,Total number of donations,Average total number of donations,ON,NA
+Immigration status,Unknown,2018,gs1dntot,3.984579927898487,5.081614358638267,3.587724488279204,4.381435367517771,220,Total number of donations,Average total number of donations,ON,NA
+Immigration status,Native-born,2018,gs1dntot,3.8695493569893187,2.655056159970462,3.668185188382111,4.070913525596526,1261,Total number of donations,Average total number of donations,PR,NA
+Immigration status,Naturalized,2018,gs1dntot,3.2904621034909853,5.85679549427703,2.9127463972456824,3.6681778097362883,161,Total number of donations,Average total number of donations,PR,NA
+Immigration status,Non-Canadian,2018,gs1dntot,4.566584298854471,17.602764278096853,2.9910769131160295,6.142091684592912,24,Total number of donations,Average total number of donations,PR,*
+Immigration status,Unknown,2018,gs1dntot,4.853046094197336,7.9749172746841746,4.094488266955074,5.611603921439598,153,Total number of donations,Average total number of donations,PR,NA
+Immigration status,Native-born,2018,gs1dntot,3.5454701707022642,2.5796064688406166,3.3662134760130917,3.7247268653914367,1221,Total number of donations,Average total number of donations,QC,NA
+Immigration status,Naturalized,2018,gs1dntot,3.1979212528634826,6.978218127020849,2.7605397657104955,3.6353027400164697,148,Total number of donations,Average total number of donations,QC,NA
+Immigration status,Non-Canadian,2018,gs1dntot,2.1407513124062105,10.314389647070907,1.707980618612126,2.573522006200295,32,Total number of donations,Average total number of donations,QC,NA
+Immigration status,Unknown,2018,gs1dntot,3.592578399595395,12.472402318218249,2.7143561075065477,4.470800691684243,108,Total number of donations,Average total number of donations,QC,NA
