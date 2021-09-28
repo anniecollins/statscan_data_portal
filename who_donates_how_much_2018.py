@@ -90,13 +90,13 @@ demo_names = np.delete(demo_names, 0)
 ### General app layout/set up ###
 app.layout = html.Div([
     # Top row element (centred)
-    html.Center([
+    html.Div([
         # Text element (title)
         html.H1('Who donates and how much do they give?')]),
     # Second row element (centred)
-    html.Center([
+    html.Div([
         # Wrapper to contain text and dropdown menu (centred)
-        html.Center(["Select a region of focus:",
+        html.Div(["Select a region of focus:",
             # Region selection
             dcc.Dropdown(
                 # Object id (used to reference object within callbacks)
