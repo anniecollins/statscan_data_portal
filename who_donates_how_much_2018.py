@@ -14,13 +14,22 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # Read in data - CHANGE DIRECTORIES AS NEEDED
-SubSecAvgDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-SubSecAvgDon.csv")
-SubSecAvgNumDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-SubSecAvgNumDon.csv")
-SubSecDonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-SubSecDonRates.csv")
-DonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-DonRate.csv")
-AvgTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgTotDon.csv")
-AvgNumCauses_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgNumCauses.csv")
-AvgTotNumDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgTotNumDon.csv")
+# SubSecAvgDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-SubSecAvgDon.csv")
+# SubSecAvgNumDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-SubSecAvgNumDon.csv")
+# SubSecDonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-SubSecDonRates.csv")
+# DonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-DonRate.csv")
+# AvgTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgTotDon.csv")
+# AvgNumCauses_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgNumCauses.csv")
+# AvgTotNumDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgTotNumDon.csv")
+
+# Reading in data from public urls
+SubSecAvgDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-SubSecAvgDon.csv")
+SubSecAvgNumDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-SubSecAvgNumDon.csv")
+SubSecDonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-SubSecDonRates.csv")
+DonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-DonRate.csv")
+AvgTotDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotDon.csv")
+AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
+AvgTotNumDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotNumDon.csv")
 
 # Format donation rates as percentage
 DonRates_2018['Estimate'] = DonRates_2018['Estimate']*100
