@@ -1,6 +1,7 @@
 # data_utils.py
 import pandas as pd
 import numpy as np
+import glob
 
 values = ["Use with caution", "Estimate suppressed", ""]
 
@@ -25,13 +26,13 @@ def process_data(data):
 
 
 def get_data():
-    SubSecAvgDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-SubSecAvgDon.csv")
-    SubSecDonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-SubSecDonRates.csv")
-    DonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-DonRate.csv")
-    AvgTotDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotDon.csv")
-    SubSecAvgNumDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-SubSecAvgNumDon.csv")
-    AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
-    AvgTotNumDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotNumDon.csv")
+    SubSecAvgDon_2018 = pd.read_csv("Tables/2018-SubSecAvgDon.csv")
+    SubSecDonRates_2018 = pd.read_csv("Tables/2018-SubSecDonRates.csv")
+    DonRates_2018 = pd.read_csv("Tables/2018-DonRate.csv")
+    AvgTotDon_2018 = pd.read_csv("Tables/2018-AvgTotDon.csv")
+    SubSecAvgNumDon_2018 = pd.read_csv("Tables/2018-SubSecAvgNumDon.csv")
+    AvgNumCauses_2018 = pd.read_csv("Tables/2018-AvgNumCauses.csv")
+    AvgTotNumDon_2018 = pd.read_csv("Tables/2018-AvgTotNumDon.csv")
 
     DonRates_2018['Estimate'] = DonRates_2018['Estimate']*100
     DonRates_2018['CI Upper'] = DonRates_2018['CI Upper']*100
