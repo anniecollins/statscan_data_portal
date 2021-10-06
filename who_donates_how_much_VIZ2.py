@@ -14,17 +14,25 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # Reading in data from public urls
-DonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-DonRate.csv")
-AvgTotDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotDon.csv")
+# DonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-DonRate.csv")
+DonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-DonRate.csv")
+# AvgTotDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotDon.csv")
+AvgTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgTotDon.csv")
 AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
+FormsGiving_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-FormsGiving.csv")
+TopCauseFocus_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-TopCauseFocus.csv")
 
 # Format donation rates as percentage
 DonRates_2018['Estimate'] = DonRates_2018['Estimate']*100
 DonRates_2018['CI Upper'] = DonRates_2018['CI Upper']*100
+FormsGiving_2018['Estimate'] = FormsGiving_2018['Estimate']*100
+FormsGiving_2018['CI Upper'] = FormsGiving_2018['CI Upper']*100
+TopCauseFocus_2018['Estimate'] = TopCauseFocus_2018['Estimate']*100
+TopCauseFocus_2018['CI Upper'] = TopCauseFocus_2018['CI Upper']*100
 
 # Create list of dataframes for iterated cleaning
 # "data" contains estimates that are dollar amounts or rates, "data_num" contains estimates that are numbers
-data = [DonRates_2018, AvgTotDon_2018]
+data = [DonRates_2018, AvgTotDon_2018, FormsGiving_2018, TopCauseFocus_2018]
 data_num = [AvgNumCauses_2018]
 
 
@@ -69,10 +77,61 @@ while i < len(data_num):
     i = i + 1
 
 # Extract info from data for selection menus
-region_names = DonRates_2018['Region'].unique()
-demo_names = DonRates_2018['Group'].unique()
-# Remove "All" from demographic names (will cause visualization to not show if not removed since demographic group "All" has no values under "Attribute", which is the column used for x-axis values in the graohs)
-demo_names = np.delete(demo_names, [0, 1, 3, 6])
+region_names = np.array(['CA', 'CA (without QC)', 'AB', 'AT', 'BC', 'ON', 'PR', 'QC'], dtype=object)
+demo_names = np.array(['Gender', 'Marital status', 'Labour force status', 'Frequency of religious attendance', 'Immigration status'], dtype=object)
+
+fig1df1 = DonRates_2018[DonRates_2018['Group'] == "All"]
+fig1df1 = fig1df1[fig1df1.Province.notnull()]
+
+fig1df2 = AvgTotDon_2018[AvgTotDon_2018['Group'] == "All"]
+fig1df2 = fig1df2[fig1df2.Province.notnull()]
+
+
+fig1 = go.Figure()
+
+fig1.add_trace(go.Bar(x=fig1df1['Province'],
+                      y=fig1df1['Estimate'],
+                      error_y=dict(type="data", array=fig1df1["CI Upper"]-fig1df1["Estimate"]),
+                      hovertext=fig1df1['Annotation'],
+                      marker=dict(color="#B71C1C"),
+                      text=fig1df1.Estimate.map(str)+"%",
+                      textposition='inside',
+                      insidetextanchor='start',
+                      name="Donor rate",
+                      yaxis='y2',
+                      offsetgroup=2
+                      ),
+               )
+
+fig1.add_trace(go.Bar(x=fig1df2['Province'],
+                      y=fig1df2['Estimate'],
+                      error_y=dict(type="data", array=fig1df2["CI Upper"]-fig1df2["Estimate"]), # need to vectorize subtraction
+                      hovertext =fig1df2['Annotation'],
+                      marker=dict(color="#00ACC1"),
+                      text="$"+fig1df2.Estimate.map(str),
+                      textposition='inside',
+                      insidetextanchor='start',
+                      name="Average donation amount",
+                      offsetgroup=1
+                      ),
+               )
+
+y2 = go.layout.YAxis(overlaying='y', side='right')
+
+fig1.update_layout(title={'text': "Donation rate & average donation amount by province",
+                          'y': 0.99},
+                   margin=dict(l=20, r=20, t=100, b=20),
+                   plot_bgcolor='rgba(0, 0, 0, 0)',
+                   barmode="group",
+                   yaxis2=y2,
+                   legend={'orientation': 'h', 'yanchor': "bottom", 'xanchor': 'left'}
+                   )
+fig1.update_traces(error_x_color="#757575")
+
+# Aesthetics for fig
+fig1.update_yaxes(showgrid=False, showticklabels=False)
+
+fig1.update_layout(height=400, margin={'l': 30, 'b': 30, 'r': 10, 't': 10})
 
 ### General app layout/set up ###
 app.layout = html.Div([
@@ -99,6 +158,7 @@ app.layout = html.Div([
     ]),
     html.Div([
         # Graph components!
+        dcc.Graph(id='DonRateAvgDonAmt-prv', figure=fig1, style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-Age', style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-Educ', style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-Inc', style={'marginTop': 50}),
@@ -106,7 +166,7 @@ app.layout = html.Div([
             "Choose demographic feature to display below: ",
             dcc.Dropdown(id='DonRateAvgDonAmt-selection',
                          options=[{'label': i, 'value': i} for i in demo_names],
-                         value="Age group")
+                         value="Gender")
         ], style={'marginTop': 50, 'width': '100%', 'verticalAlign': 'middle'}),
         dcc.Graph(id='DonRateAvgDonAmt-other', style={'marginTop': 15}),
         dcc.Graph(id='PercDon-Age', style={'marginTop': 100}),
@@ -116,7 +176,7 @@ app.layout = html.Div([
             "Choose demographic feature to display below: ",
             dcc.Dropdown(id='PercDon-selection',
                          options=[{'label': i, 'value': i} for i in demo_names],
-                         value="Age group")
+                         value="Gender")
         ], style={'marginTop': 50, 'width': '100%', 'verticalAlign': 'middle'}),
         dcc.Graph(id='PercDon-other', style={'marginTop': 15}),
         dcc.Graph(id='PrimCauseNumCause-Age', style={'marginTop': 100}),
@@ -126,7 +186,7 @@ app.layout = html.Div([
             "Choose demographic feature to display below: ",
             dcc.Dropdown(id='PrimCauseNumCause-selection',
                          options=[{'label': i, 'value': i} for i in demo_names],
-                         value="Age group")
+                         value="Gender")
         ], style={'marginTop': 50, 'width': '100%', 'verticalAlign': 'middle'}),
         dcc.Graph(id='PrimCauseNumCause-other', style={'marginTop': 15})
 
@@ -628,15 +688,13 @@ def update_graph(region):
         :return: Plot.ly graph object, produced by don_rate_avg_don().
     """
 
-    # Average number of annual donations data, filtered for selected region and demographic group
-    # Corresponding name assigned
     dff1 = AvgNumCauses_2018[AvgNumCauses_2018['Region'] == region]
     dff1 = dff1[dff1['Group'] == "Age group"]
     name1 = "Average number of causes"
 
     # Average number of causes supported data, filtered for selected region and demographic group
     # Corresponding name assigned
-    dff2 = PrimFocus_2018[PrimFocus_2018['Region'] == region]
+    dff2 = TopCauseFocus_2018[TopCauseFocus_2018['Region'] == region]
     dff2 = dff2[dff2['Group'] == "Age group"]
     name2 = "Average concentration on first cause"
 
@@ -644,7 +702,7 @@ def update_graph(region):
     title = '{}, {}'.format("Focus on primary cause & average number of causes supported by age", region)
 
     # Uses external function with dataframes, names, and title set up above
-    return prim_cause_num_cause(dff1, dff2, name1, name2, title)
+    return prim_cause_num_cause(dff2, dff1, name2, name1, title)
 
 @app.callback(
     # Output: change to graph-4
@@ -662,15 +720,13 @@ def update_graph(region):
         :return: Plot.ly graph object, produced by don_rate_avg_don().
     """
 
-    # Average number of annual donations data, filtered for selected region and demographic group
-    # Corresponding name assigned
     dff1 = AvgNumCauses_2018[AvgNumCauses_2018['Region'] == region]
     dff1 = dff1[dff1['Group'] == "Education"]
     name1 = "Average number of causes"
 
     # Average number of causes supported data, filtered for selected region and demographic group
     # Corresponding name assigned
-    dff2 = PrimFocus_2018[PrimFocus_2018['Region'] == region]
+    dff2 = TopCauseFocus_2018[TopCauseFocus_2018['Region'] == region]
     dff2 = dff2[dff2['Group'] == "Education"]
     name2 = "Average concentration on first cause"
 
@@ -678,7 +734,7 @@ def update_graph(region):
     title = '{}, {}'.format("Focus on primary cause & average number of causes supported by education", region)
 
     # Uses external function with dataframes, names, and title set up above
-    return prim_cause_num_cause(dff1, dff2, name1, name2, title)
+    return prim_cause_num_cause(dff2, dff1, name2, name1, title)
 
 @app.callback(
     # Output: change to graph-4
@@ -704,7 +760,7 @@ def update_graph(region):
 
     # Average number of causes supported data, filtered for selected region and demographic group
     # Corresponding name assigned
-    dff2 = PrimFocus_2018[PrimFocus_2018['Region'] == region]
+    dff2 = TopCauseFocus_2018[TopCauseFocus_2018['Region'] == region]
     dff2 = dff2[dff2['Group'] == "Personal income category"]
     name2 = "Average concentration on first cause"
 
@@ -712,7 +768,7 @@ def update_graph(region):
     title = '{}, {}'.format("Focus on primary cause & average number of causes supported by income", region)
 
     # Uses external function with dataframes, names, and title set up above
-    return prim_cause_num_cause(dff1, dff2, name1, name2, title)
+    return prim_cause_num_cause(dff2, dff1, name2, name1, title)
 
 @app.callback(
     # Output: change to graph-4
@@ -739,7 +795,7 @@ def update_graph(region, demo):
 
     # Average number of causes supported data, filtered for selected region and demographic group
     # Corresponding name assigned
-    dff2 = PrimFocus_2018[PrimFocus_2018['Region'] == region]
+    dff2 = TopCauseFocus_2018[TopCauseFocus_2018['Region'] == region]
     dff2 = dff2[dff2['Group'] == demo]
     name2 = "Average concentration on first cause"
 
@@ -747,7 +803,7 @@ def update_graph(region, demo):
     title = '{} by {}, {}'.format("Focus on primary cause & average number of causes supported", demo, region)
 
     # Uses external function with dataframes, names, and title set up above
-    return prim_cause_num_cause(dff1, dff2, name1, name2, title)
+    return prim_cause_num_cause(dff2, dff1, name2, name1, title)
 
 
 
