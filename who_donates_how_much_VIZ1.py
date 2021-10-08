@@ -189,7 +189,7 @@ app.layout = html.Div([
         dcc.Graph(id='PrimCauseNumCause-Labour', style={'marginTop': 50}),
         dcc.Graph(id='PrimCauseNumCause-Relig', style={'marginTop': 50}),
         dcc.Graph(id='PrimCauseNumCause-Inc', style={'marginTop': 50}),
-        dcc.Graph(id='PrimCauseNumCause-Immstat', style={'marginTop': 50}),
+        dcc.Graph(id='PrimCauseNumCause-ImmStat', style={'marginTop': 50}),
 
     ],
         style={'width': '50%', 'display': 'inline-block', "marginTop": 20}),

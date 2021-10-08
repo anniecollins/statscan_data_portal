@@ -158,6 +158,7 @@ app.layout = html.Div([
     ]),
     html.Div([
         # Graph components!
+        dcc.Graph(id='FormsGiving', style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-prv', figure=fig1, style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-Age', style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-Educ', style={'marginTop': 50}),
@@ -194,6 +195,36 @@ app.layout = html.Div([
         style={'width': '50%', 'display': 'inline-block', "marginTop": 20}),
 
 ])
+
+def forms_of_giving(dff, title):
+    fig = go.Figure()
+
+    fig.add_trace(go.Bar(y=dff['Estimate'],
+                         x=dff['QuestionText'],
+                         error_y=dict(type="data", array=dff["CI Upper"]-dff["Estimate"]), # need to vectorize subtraction
+                         # hover_data =['Annotation'],
+                         marker=dict(color="#B71C1C"),
+                         hovertext=dff['Annotation'],
+                         text=dff.Estimate.map(str)+"%",
+                         textposition='inside',
+                         insidetextanchor='start'
+                         )
+                  )
+    fig.update_yaxes(categoryarray=np.array(["NL", "PE", "NS", "NB", "QC", "ON", "MB", "SK", "AB", "BC"]), categoryorder='array')
+    fig.update_yaxes(showticklabels=False)
+    fig.update_layout(title={'text': title,
+                             'y': 0.99},
+                      margin=dict(l=20, r=20, t=100, b=20),
+                      plot_bgcolor='rgba(0, 0, 0, 0)',
+                      )
+    fig.update_traces(error_y_color="#757575")
+
+    # Aesthetics for fig
+    fig.update_xaxes(showgrid=False)
+
+    fig.update_layout(height=400, margin={'l': 30, 'b': 30, 'r': 10, 't': 10})
+
+    return fig
 
 # Functions to produce Plot.ly graphs
 def don_rate_avg_don(dff1, dff2, name1, name2, title):
@@ -397,6 +428,33 @@ def prim_cause_num_cause(dff1, dff2, name1, name2, title):
     fig.update_layout(height=400, margin={'l': 30, 'b': 30, 'r': 10, 't': 10})
 
     return fig
+
+@app.callback(
+    # Output: change to graph-1
+    dash.dependencies.Output('FormsGiving', 'figure'),
+    [
+        # Input: selected region from region-selection (dropdown menu)
+        # In the case of multiple inputs listed here, they will enter as arguments into the function below in the order they are listed
+        dash.dependencies.Input('region-selection', 'value')
+    ])
+def update_graph(region):
+    """
+    Construct or update graph according to input from 'region-selection' dropdown menu.
+
+    :param region: Region name (str). Automatically inherited from 'region-selection' dcc.Dropdown() input via dash.dependencies.Input('region-selection', 'value') above.
+    :return: Plot.ly graph object, produced by don_rate_avg_don().
+    """
+    # Donation rate data, filtered for selected region and demographic group (age group)
+    # Corresponding name assigned
+    dff1 = FormsGiving_2018[FormsGiving_2018['Region'] == region]
+    dff1 = dff1[dff1['Group'] == "All"]
+
+    # Format title according to dropdown input
+    title = '{}, {}'.format("Forms of giving", region)
+
+    # Uses external function with dataframes, names, and title set up above
+    return forms_of_giving(dff1, title)
+
 
 # Interaction: graph-1, with region-selection
 @app.callback(
