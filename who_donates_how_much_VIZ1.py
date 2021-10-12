@@ -21,6 +21,8 @@ AvgTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/20
 AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
 FormsGiving_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-FormsGiving.csv")
 TopCauseFocus_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-TopCauseFocus.csv")
+PropTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-PercTotDonors.csv")
+PropTotDonAmt_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-PercTotDonations.csv")
 
 # Format donation rates as percentage
 DonRates_2018['Estimate'] = DonRates_2018['Estimate']*100
@@ -29,10 +31,14 @@ FormsGiving_2018['Estimate'] = FormsGiving_2018['Estimate']*100
 FormsGiving_2018['CI Upper'] = FormsGiving_2018['CI Upper']*100
 TopCauseFocus_2018['Estimate'] = TopCauseFocus_2018['Estimate']*100
 TopCauseFocus_2018['CI Upper'] = TopCauseFocus_2018['CI Upper']*100
+PropTotDon_2018['Estimate'] = PropTotDon_2018['Estimate']*100
+PropTotDon_2018['CI Upper'] = PropTotDon_2018['CI Upper']*100
+PropTotDonAmt_2018['Estimate'] = PropTotDonAmt_2018['Estimate']*100
+PropTotDonAmt_2018['CI Upper'] = PropTotDonAmt_2018['CI Upper']*100
 
 # Create list of dataframes for iterated cleaning
 # "data" contains estimates that are dollar amounts or rates, "data_num" contains estimates that are numbers
-data = [DonRates_2018, AvgTotDon_2018, FormsGiving_2018, TopCauseFocus_2018]
+data = [DonRates_2018, AvgTotDon_2018, FormsGiving_2018, TopCauseFocus_2018, PropTotDon_2018, PropTotDonAmt_2018]
 data_num = [AvgNumCauses_2018]
 
 
@@ -96,7 +102,7 @@ fig1.add_trace(go.Bar(x=fig1df1['Region'],
                      y=fig1df1['Estimate'],
                      error_y=dict(type="data", array=fig1df1["CI Upper"]-fig1df1["Estimate"]),
                      hovertext=fig1df1['Annotation'],
-                     marker=dict(color="#B71C1C"),
+                     marker=dict(color="#c8102e"),
                      text=fig1df1.Estimate.map(str)+"%",
                      textposition='inside',
                      insidetextanchor='start',
@@ -110,7 +116,7 @@ fig1.add_trace(go.Bar(x=fig1df2['Region'],
                       y=fig1df2['Estimate'],
                       error_y=dict(type="data", array=fig1df2["CI Upper"]-fig1df2["Estimate"]), # need to vectorize subtraction
                       hovertext =fig1df2['Annotation'],
-                      marker=dict(color="#00ACC1"),
+                      marker=dict(color="#7BAFD4"),
                       text="$"+fig1df2.Estimate.map(str),
                       textposition='inside',
                       insidetextanchor='start',
@@ -203,7 +209,7 @@ def forms_of_giving(dff, title):
                          x=dff['QuestionText'],
                          error_y=dict(type="data", array=dff["CI Upper"]-dff["Estimate"]), # need to vectorize subtraction
                          # hover_data =['Annotation'],
-                         marker=dict(color="#B71C1C"),
+                         marker=dict(color="#c8102e"),
                          hovertext=dff['Annotation'],
                          text=dff.Estimate.map(str)+"%",
                          textposition='inside',
@@ -253,7 +259,7 @@ def don_rate_avg_don(dff1, dff2, name1, name2, title):
                          orientation="h",
                          error_x=dict(type="data", array=dff2["CI Upper"]-dff2["Estimate"]), # need to vectorize subtraction
                          hovertext =dff2['Annotation'],
-                         marker=dict(color="#00ACC1"),
+                         marker=dict(color="#7BAFD4"),
                          text="$"+dff2.Estimate.map(str),
                          textposition='inside',
                          insidetextanchor='start',
@@ -267,7 +273,7 @@ def don_rate_avg_don(dff1, dff2, name1, name2, title):
                          orientation="h",
                          error_x=dict(type="data", array=dff1["CI Upper"]-dff1["Estimate"]),
                          hovertext=dff1['Annotation'],
-                         marker=dict(color="#B71C1C"),
+                         marker=dict(color="#c8102e"),
                          text=dff1.Estimate.map(str)+"%",
                          textposition='inside',
                          insidetextanchor='start',
@@ -322,7 +328,7 @@ def perc_don_perc_amt(dff1, dff2, name1, name2, title):
                          orientation="h",
                          error_x=dict(type="data", array=dff2["CI Upper"]-dff2["Estimate"]), # need to vectorize subtraction
                          hovertext =dff2['Annotation'],
-                         marker=dict(color="#FFA000"),
+                         marker=dict(color="#7BAFD4"),
                          text=dff2.Estimate.map(str)+"%",
                          textposition='inside',
                          insidetextanchor='start',
@@ -336,7 +342,7 @@ def perc_don_perc_amt(dff1, dff2, name1, name2, title):
                          orientation="h",
                          error_x=dict(type="data", array=dff1["CI Upper"]-dff1["Estimate"]),
                          hovertext=dff1['Annotation'],
-                         marker=dict(color="#FFC107"),
+                         marker=dict(color="#c8102e"),
                          text=dff1.Estimate.map(str)+"%",
                          textposition='inside',
                          insidetextanchor='start',
@@ -386,7 +392,7 @@ def prim_cause_num_cause(dff1, dff2, name1, name2, title):
                      orientation="h",
                      error_x=dict(type="data", array=dff2["CI Upper"]-dff2["Estimate"]), # need to vectorize subtraction
                      hovertext =dff2['Annotation'],
-                     marker=dict(color="#00ACC1"),
+                     marker=dict(color="#7BAFD4"),
                      text=dff2["Estimate"],
                      textposition='inside',
                      insidetextanchor='start',
@@ -400,7 +406,7 @@ def prim_cause_num_cause(dff1, dff2, name1, name2, title):
                      orientation="h",
                      error_x=dict(type="data", array=dff1["CI Upper"]-dff1["Estimate"]),
                      hovertext=dff1['Annotation'],
-                     marker=dict(color="#B71C1C"),
+                     marker=dict(color="#c8102e"),
                      text=dff1.Estimate.map(str)+"%",
                      textposition='inside',
                      insidetextanchor='start',
