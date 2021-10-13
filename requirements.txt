@@ -17,6 +17,7 @@ cryptography==3.3.1
 cssselect==1.1.0
 cufflinks==0.17.3
 dash==1.19.0
+dash-bootstrap-components=0.13.1
 dash-core-components==1.15.0
 dash-html-components==1.1.2
 dash-renderer==1.9.0
