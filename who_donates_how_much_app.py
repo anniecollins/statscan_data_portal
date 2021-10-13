@@ -9,8 +9,8 @@ import numpy as np
 from plotly.subplots import make_subplots
 import dash_bootstrap_components as dbc
 
-from data_utils import process_data, get_data
-from graph_utils import don_rate_avg_don, num_don_num_causes
+from Utils.data_utils import process_data, get_data
+from Utils.graph_utils import don_rate_avg_don, num_don_num_causes
 
 ###################### App setup ######################
 
