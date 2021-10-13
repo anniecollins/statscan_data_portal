@@ -38,3 +38,18 @@ def get_data():
     DonRates_2018['CI Upper'] = DonRates_2018['CI Upper']*100
 
     return SubSecAvgDon_2018, SubSecDonRates_2018, DonRates_2018, AvgTotDon_2018,SubSecAvgNumDon_2018, AvgNumCauses_2018, AvgTotNumDon_2018
+
+# TODO: Refactor into functions once working example complete
+# def get_data():
+#     DonRates_2018 = pd.read_csv("../Tables/2018-DonRate.csv")
+#     AvgTotDon_2018 = pd.read_csv("../Tables/2018-AvgTotDon.csv")
+#     AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
+#     FormsGiving_2018 = pd.read_csv("../Tables/2018-FormsGiving.csv")
+#     TopCauseFocus_2018 = pd.read_csv("../Tables/2018-TopCauseFocus.csv")
+#     PropTotDon_2018 = pd.read_csv("../Tables/2018-PercTotDonors.csv")
+#     PropTotDonAmt_2018 = pd.read_csv("../Tables/2018-PercTotDonations.csv")
+
+
+# def format_percentages(df):
+#     df['Estimate'] = df['Estimate']*100
+#     df['CI Upper'] = df['CI Upper']*100   
