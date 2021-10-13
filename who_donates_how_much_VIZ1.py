@@ -15,14 +15,14 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # Reading in data from public urls
 # DonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-DonRate.csv")
-DonRates_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-DonRate.csv")
+DonRates_2018 = pd.read_csv("Tables/2018-DonRate.csv")
 # AvgTotDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotDon.csv")
-AvgTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-AvgTotDon.csv")
+AvgTotDon_2018 = pd.read_csv("Tables/2018-AvgTotDon.csv")
 AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
-FormsGiving_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-FormsGiving.csv")
-TopCauseFocus_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-TopCauseFocus.csv")
-PropTotDon_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-PercTotDonors.csv")
-PropTotDonAmt_2018 = pd.read_csv("~/PycharmProjects/statscan_data_portal_1/Tables/2018-PercTotDonations.csv")
+FormsGiving_2018 = pd.read_csv("Tables/2018-FormsGiving.csv")
+TopCauseFocus_2018 = pd.read_csv("Tables/2018-TopCauseFocus.csv")
+PropTotDon_2018 = pd.read_csv("Tables/2018-PercTotDonors.csv")
+PropTotDonAmt_2018 = pd.read_csv("Tables/2018-PercTotDonations.csv")
 
 # Format donation rates as percentage
 DonRates_2018['Estimate'] = DonRates_2018['Estimate']*100
