@@ -55,6 +55,9 @@ for i in range(len(data)):
                                    data[i]["Province"] == "NL"],
                                   ["SK", "MB", "NB", "NS", "PE", "NL"], default=data[i]["Region"])
 
+    data[i]["Group"] = np.where(data[i]["Attribute"]=="Unable to determine", "", data[i]["Group"])
+    data[i]["Group"] = np.where(data[i]["Attribute"]=="Unknown", "", data[i]["Group"])
+
     data[i]["Attribute"] = data[i]["Attribute"].str.wrap(15)
     data[i]["Attribute"] = data[i]["Attribute"].replace({'\n': '<br>'}, regex=True)
 
@@ -75,6 +78,9 @@ for i in range(len(data_num)):
                                        data_num[i]["Province"] == "PE",
                                        data_num[i]["Province"] == "NL"],
                                      ["SK", "MB", "NB", "NS", "PE", "NL"], default=data_num[i]["Region"])
+
+    data_num[i]["Group"] = np.where(data_num[i]["Attribute"]=="Unable to determine", "", data_num[i]["Group"])
+    data_num[i]["Group"] = np.where(data_num[i]["Attribute"]=="Unknown", "", data_num[i]["Group"])
 
     data_num[i]["Attribute"] = data_num[i]["Attribute"].str.wrap(15)
     data_num[i]["Attribute"] = data_num[i]["Attribute"].replace({'\n': '<br>'}, regex=True)
@@ -249,8 +255,6 @@ else:
     fig1.update_layout(margin={'l': 30, 'b': 30, 'r': 10, 't': 40},
                       annotations=[dict(text="<a href=\"https://www.scribbr.com/statistics/confidence-interval/\">What is this?</a>", xref="paper", yref="paper", xanchor='right', y=0.21, x=1.4, align="left", showarrow=False)])
 
-# Forms of giving
-
 
 ### General app layout/set up ###
 app.layout = html.Div([
@@ -279,29 +283,29 @@ app.layout = html.Div([
         # Graph components!
         dcc.Graph(id='FormsGiving', style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-prv', figure=fig1, style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-Age', style={'marginTop': 50}),
         dcc.Graph(id='DonRateAvgDonAmt-Gndr', style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-MarStat', style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-Educ', style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-Labour', style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-Relig', style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-Inc', style={'marginTop': 50}),
-        dcc.Graph(id='DonRateAvgDonAmt-ImmStat', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-Age', style={'marginTop': 100}),
         dcc.Graph(id='PercDon-Gndr', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-MarStat', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-Educ', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-Labour', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-Relig', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-Inc', style={'marginTop': 50}),
-        dcc.Graph(id='PercDon-ImmStat', style={'marginTop': 50}),
-        dcc.Graph(id='PrimCauseNumCause-Age', style={'marginTop': 100}),
         dcc.Graph(id='PrimCauseNumCause-Gndr', style={'marginTop': 50}),
-        dcc.Graph(id='PrimCauseNumCause-MarStat', style={'marginTop': 50}),
+        dcc.Graph(id='DonRateAvgDonAmt-Age', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-Age', style={'marginTop': 100}),
+        dcc.Graph(id='PrimCauseNumCause-Age', style={'marginTop': 100}),
+        dcc.Graph(id='DonRateAvgDonAmt-Educ', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-Educ', style={'marginTop': 50}),
         dcc.Graph(id='PrimCauseNumCause-Educ', style={'marginTop': 50}),
-        dcc.Graph(id='PrimCauseNumCause-Labour', style={'marginTop': 50}),
-        dcc.Graph(id='PrimCauseNumCause-Relig', style={'marginTop': 50}),
+        dcc.Graph(id='DonRateAvgDonAmt-Inc', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-Inc', style={'marginTop': 50}),
         dcc.Graph(id='PrimCauseNumCause-Inc', style={'marginTop': 50}),
+        dcc.Graph(id='DonRateAvgDonAmt-Relig', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-Relig', style={'marginTop': 50}),
+        dcc.Graph(id='PrimCauseNumCause-Relig', style={'marginTop': 50}),
+        dcc.Graph(id='DonRateAvgDonAmt-MarStat', style={'marginTop': 50}),
+        dcc.Graph(id='DonRateAvgDonAmt-Labour', style={'marginTop': 50}),
+        dcc.Graph(id='DonRateAvgDonAmt-ImmStat', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-MarStat', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-Labour', style={'marginTop': 50}),
+        dcc.Graph(id='PercDon-ImmStat', style={'marginTop': 50}),
+        dcc.Graph(id='PrimCauseNumCause-MarStat', style={'marginTop': 50}),
+        dcc.Graph(id='PrimCauseNumCause-Labour', style={'marginTop': 50}),
         dcc.Graph(id='PrimCauseNumCause-ImmStat', style={'marginTop': 50}),
 
     ],
@@ -436,8 +440,6 @@ def don_rate_avg_don(dff1, dff2, name1, name2, title):
                                   ["Estimate: $"+dff2.Estimate.map(str)+" ± $"+(dff2["CI Upper"] - dff2["Estimate"]).map(str)+"<br><b>Use with caution</b>",
                                    "Estimate Suppressed",
                                    "Estimate: $"+dff2.Estimate.map(str)+" ± $"+(dff2["CI Upper"] - dff2["Estimate"]).map(str)])
-    dff1 = dff1[(dff1.Attribute != "Unknown") & (dff1.Attribute != "Unable to determine")]
-    dff2 = dff2[(dff2.Attribute != "Unknown") & (dff2.Attribute != "Unable to determine")]
 
 # Scatter plot - data frame, x label, y label
     fig = go.Figure()
@@ -774,8 +776,6 @@ def prim_cause_num_cause(dff1, dff2, name1, name2, title):
                                   ["Estimate: "+dff2.Estimate.map(str)+" ± "+(dff2["CI Upper"] - dff2["Estimate"]).map(str)+"<br><b>Use with caution</b>",
                                    "Estimate Suppressed",
                                    "Estimate: "+dff2.Estimate.map(str)+" ± "+(dff2["CI Upper"] - dff2["Estimate"]).map(str)])
-    dff1 = dff1[(dff1.Attribute != "Unknown") & (dff1.Attribute != "Unable to determine")]
-    dff2 = dff2[(dff2.Attribute != "Unknown") & (dff2.Attribute != "Unable to determine")]
 
     # Scatter plot - data frame, x label, y label
     fig = go.Figure()
