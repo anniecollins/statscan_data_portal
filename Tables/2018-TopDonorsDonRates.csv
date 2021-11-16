@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Donor status,Regular donor,2018,flag_gs1dax01,0.03431056660239124,9.082876049467046,0.028202561817199448,0.040418571387583035,8386,Arts & culture,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax01,0.07790067891981443,7.2981321321307195,0.06675770649869592,0.08904365134093295,3768,Arts & culture,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax02,0.14841919128222875,3.820139374134843,0.13730654835211054,0.15953183421234696,8386,Sports & Recreation,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax02,0.2287842529027985,4.151210004692451,0.21016985795346188,0.2473986478521351,3768,Sports & Recreation,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax03,0.15555602107794056,3.829137995847662,0.14388158437486503,0.16723045778101608,8386,Education & research,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax03,0.20695466084308778,4.65232130502459,0.18808374388182425,0.2258255778043513,3768,Education & research,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax04,0.01607465529756595,11.660800467095036,0.012400833185305798,0.019748477409826104,8386,Universities & colleges,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax04,0.049995348880160266,8.300481013858645,0.04186178363352091,0.05812891412679962,3768,Universities & colleges,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax05,0.45963326404929566,1.7363955004950995,0.4439906909116974,0.4752758371868939,8386,Health,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax05,0.5955772087137396,2.069154401355838,0.5714237649730497,0.6197306524544296,3768,Health,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax06,0.2447359273795261,2.9332655690086673,0.2306658267277555,0.25880602803129665,8386,Hospitals,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax06,0.27726767039485245,4.022243418208209,0.25540940603134876,0.29912593475835614,3768,Hospitals,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax07,0.45060926853870487,2.0059615314985795,0.43289305885906015,0.4683254782183496,8386,Social services,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax07,0.5687237773149793,2.271325064369284,0.5434058137727309,0.5940417408572276,3768,Social services,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax08,0.09355182562322407,5.128545715053303,0.08414821605699792,0.10295543518945023,8386,Environment,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax08,0.15425055184094918,5.496296132195911,0.13763384563757491,0.17086725804432346,3768,Environment,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax09,0.026773502376007473,11.547798081980273,0.020713783738848694,0.03283322101316625,8386,Development & housing,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax09,0.048475720655723045,9.81243287049978,0.039152862774818,0.05779857853662809,3768,Development & housing,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax10,0.030781061947904014,9.360228294742278,0.025134057481898054,0.03642806641390997,8386,"Law, advocacy & politics",Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax10,0.08995186618951401,7.51656734048012,0.07669997621211605,0.10320375616691196,3768,"Law, advocacy & politics",Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax11,0.1367229429289771,4.206983417502184,0.12544940347430833,0.14799648238364588,8386,"Grant-making, fundraising",Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax11,0.2422031082009817,4.282818874408855,0.22187216574610952,0.2625340506558539,3768,"Grant-making, fundraising",Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax12,0.07341913668178977,6.6070171032474745,0.06391171414758007,0.08292655921599948,8386,International,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax12,0.2753971596508828,3.84631855558022,0.2546359431258607,0.2961583761759049,3768,International,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax13,0.2820477629976669,2.775285825184657,0.26670588700343845,0.2973896389918953,8386,Religion,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax13,0.6135954652201528,2.052671800740816,0.5889095207115225,0.6382814097287832,3768,Religion,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax14,0.0037364686775263763,24.27910367893027,0.0019584263859422253,0.005514510969110527,8386,Business & professional,Top donors levels of support by cause,CA,*
+Donor status,Top donor,2018,flag_gs1dax14,0.012733935706762881,21.20544385426959,0.007441469288858979,0.01802640212466678,3768,Business & professional,Top donors levels of support by cause,CA,*
+Donor status,Regular donor,2018,flag_gs1dax15,0.03119443066226029,10.331954531564193,0.024877477730771834,0.03751138359374875,8386,Other,Top donors levels of support by cause,CA,
+Donor status,Top donor,2018,flag_gs1dax15,0.04037744779747957,11.191338411595373,0.031520807966342164,0.04923408762861698,3768,Other,Top donors levels of support by cause,CA,
+Donor status,Regular donor,2018,flag_gs1dax01,0.04068553577499086,9.641473080693522,0.03299721449251053,0.04837385705747119,7142,Arts & culture,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax01,0.07566496789824663,7.138722894665289,0.06507819815847682,0.08625173763801644,3503,Arts & culture,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax02,0.13946109722569944,3.9407225923330556,0.12868957622542074,0.15023261822597814,7142,Sports & Recreation,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax02,0.23123977320760625,4.324077874807496,0.21164211709854416,0.25083742931666836,3503,Sports & Recreation,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax03,0.16337728295627835,3.9229229327226083,0.15081555058139623,0.17593901533116046,7142,Education & research,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax03,0.21395972129174812,4.725444506008291,0.1941434115538718,0.23377603102962444,3503,Education & research,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax04,0.013631554946394299,15.147514244826677,0.009584539527117778,0.017678570365670818,7142,Universities & colleges,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax04,0.0466680815200115,9.360623576484947,0.038106128905538376,0.05523003413448462,3503,Universities & colleges,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax05,0.4598339958176967,2.057929490668,0.4412867401943569,0.4783812514410365,7142,Health,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax05,0.5951454769909303,2.130917235505142,0.570289100951829,0.6200018530300316,3503,Health,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax06,0.2073596633100844,3.7106348817202326,0.1922789948310915,0.2224403317890773,7142,Hospitals,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax06,0.26991554759712627,4.298351319748744,0.24717620518095507,0.2926548900132975,3503,Hospitals,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax07,0.4463740959949885,2.1510260629899722,0.4275552604410176,0.4651929315489594,7142,Social services,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax07,0.5657787369768417,2.364608208396588,0.539557455914291,0.5920000180393923,3503,Social services,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax08,0.10333698362500585,5.553570648377268,0.09208896122648208,0.11458500602352961,7142,Environment,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax08,0.1552116380609698,5.630943962380938,0.1380817873216597,0.17234148880027989,3503,Environment,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax09,0.025270697668211797,13.197301957563493,0.018734119236590047,0.03180727609983355,7142,Development & housing,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax09,0.052446995041576884,10.123359149289138,0.042040766826681404,0.06285322325647236,3503,Development & housing,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax10,0.031956148805400604,9.504033082455413,0.02600349719826657,0.03790880041253464,7142,"Law, advocacy & politics",Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax10,0.09229705566284453,7.6506104897242615,0.07845718506278115,0.10613692626290791,3503,"Law, advocacy & politics",Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax11,0.13829493952140942,4.770718298855643,0.12536375964640756,0.15122611939641128,7142,"Grant-making, fundraising",Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax11,0.23204665109628175,4.620150460522306,0.21103406455285262,0.2530592376397109,3503,"Grant-making, fundraising",Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax12,0.077101496616896,7.520853536793528,0.06573627181435049,0.08846672141944151,7142,International,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax12,0.2782134515797684,4.03962161426027,0.25618586573062535,0.30024103742891145,3503,International,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax13,0.26561872336861436,3.2599039440517883,0.24864756135453175,0.28258988538269697,7142,Religion,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax13,0.6139329117668336,2.1479110731358673,0.5880873900258956,0.6397784335077716,3503,Religion,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax14,0.00471359893135022,26.15021139768406,0.0022977157980108224,0.007129482064689618,7142,Business & professional,Top donors levels of support by cause,CA (without QC),*
+Donor status,Top donor,2018,flag_gs1dax14,0.013038946727197168,22.23933253078776,0.007355492710417147,0.01872240074397719,3503,Business & professional,Top donors levels of support by cause,CA (without QC),*
+Donor status,Regular donor,2018,flag_gs1dax15,0.03280949531128103,11.286045848006099,0.02555195509340823,0.04006703552915383,7142,Other,Top donors levels of support by cause,CA (without QC),
+Donor status,Top donor,2018,flag_gs1dax15,0.04190827973301695,11.46307571781222,0.03249265618834492,0.05132390327768899,3503,Other,Top donors levels of support by cause,CA (without QC),
+Donor status,Regular donor,2018,flag_gs1dax01,0.044108846362488546,28.09754509510406,0.019818026844843798,0.0683996658801333,631,Arts & culture,Top donors levels of support by cause,AB,*
+Donor status,Top donor,2018,flag_gs1dax01,0.07057795387107509,19.466202006642202,0.04365030841948302,0.09750559932266716,382,Arts & culture,Top donors levels of support by cause,AB,*
+Donor status,Regular donor,2018,flag_gs1dax01,0.04504125421358541,16.04595467045345,0.03087600800922488,0.05920650041794594,2297,Arts & culture,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax01,0.08690166644331793,12.923958658171115,0.06488904546681018,0.10891428741982567,915,Arts & culture,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax01,0.05208956538441704,22.642765327545668,0.028972734791150718,0.07520639597768336,1005,Arts & culture,Top donors levels of support by cause,BC,*
+Donor status,Top donor,2018,flag_gs1dax01,0.08259352187545498,17.68666913237676,0.05396228383061801,0.11122475992029193,527,Arts & culture,Top donors levels of support by cause,BC,*
+Donor status,Regular donor,2018,flag_gs1dax01,0.03793063217137329,14.598261582813068,0.027077894304035087,0.04878337003871149,2167,Arts & culture,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax01,0.07432623310449281,10.584460947637298,0.05890713545031888,0.08974533075866674,1122,Arts & culture,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax01,0.024739173544534896,19.862754540729604,0.015108143139780714,0.03437020394928908,1042,Arts & culture,Top donors levels of support by cause,PR,*
+Donor status,Top donor,2018,flag_gs1dax01,0.07134760453559717,17.072156899179117,0.0474741162439668,0.09522109282722754,557,Arts & culture,Top donors levels of support by cause,PR,*
+Donor status,Regular donor,2018,flag_gs1dax01,0.01715391348219729,24.82985369071444,0.008805855307615826,0.02550197165677875,1244,Arts & culture,Top donors levels of support by cause,QC,*
+Donor status,Top donor,2018,flag_gs1dax01,0.0950925804707072,28.11240544904455,0.04269723218840593,0.14748792875300848,265,Arts & culture,Top donors levels of support by cause,QC,*
+Donor status,Regular donor,2018,flag_gs1dax02,0.13756082344484657,10.939942852712244,0.10806517751795175,0.1670564693717414,631,Sports & Recreation,Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax02,0.24466642434939645,12.030704595185544,0.18697469874399786,0.30235814995479504,382,Sports & Recreation,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax02,0.24629381881373355,5.415682328440771,0.22015085719540237,0.2724367804320647,2297,Sports & Recreation,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax02,0.30246284294425335,6.238605675080051,0.26547937293022117,0.33944631295828553,915,Sports & Recreation,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax02,0.1395909511565069,9.64675610869917,0.11319807886919246,0.16598382344382134,1005,Sports & Recreation,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax02,0.21076113925578735,11.555649336715575,0.16302657275245386,0.25849570575912084,527,Sports & Recreation,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax02,0.11144976368298248,7.554171111938443,0.09494861943012359,0.12795090793584138,2167,Sports & Recreation,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax02,0.2155630699810949,7.065659314550469,0.18571095235045504,0.24541518761173475,1122,Sports & Recreation,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax02,0.1889339382312625,7.933969571105203,0.1595541542108408,0.21831372225168422,1042,Sports & Recreation,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax02,0.2666022343169463,9.220078099900086,0.21842448853920005,0.31477998009469255,557,Sports & Recreation,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax02,0.17252768627017726,8.671355109541626,0.1432056679350704,0.20184970460528412,1244,Sports & Recreation,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax02,0.209902088379197,15.789478914224691,0.14494408788873775,0.27486008886965624,265,Sports & Recreation,Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax03,0.1530847220234412,11.567119792629176,0.11837867313284954,0.18779077091403285,631,Education & research,Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax03,0.23247637770225693,11.93870338759363,0.1780782335463042,0.28687452185820966,382,Education & research,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax03,0.18543168116150824,5.817157098372347,0.16428983933644872,0.20657352298656775,2297,Education & research,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax03,0.2608321509243437,7.20873788063863,0.22397952421805833,0.29768477763062906,915,Education & research,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax03,0.17269930816869816,9.661381008873985,0.1399970382943633,0.20540157804303302,1005,Education & research,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax03,0.18314500753871768,12.48809360618595,0.13831804410590312,0.22797197097153224,527,Education & research,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax03,0.15986973977049518,6.061417310680056,0.14087695949496634,0.17886252004602401,2167,Education & research,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax03,0.19709219788065935,7.687352598844964,0.16739644605313164,0.22678794970818705,1122,Education & research,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax03,0.15736556728821308,9.341914384000336,0.1285522218806413,0.18617891269578485,1042,Education & research,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax03,0.2819617119413631,9.701114293239895,0.22834997832798076,0.33557344555474544,557,Education & research,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax03,0.134507028780756,9.467900350776079,0.10954690419581717,0.1594671533656948,1244,Education & research,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax03,0.1530879900481435,18.488540717036102,0.09761368808922252,0.20856229200706447,265,Education & research,Top donors levels of support by cause,QC,*
+Donor status,Regular donor,2018,flag_gs1dax04,0.012502412595258397,51.05073027808451,-7.200480668720713e-6,0.025012025671185517,631,Universities & colleges,Top donors levels of support by cause,AB,...
+Donor status,Top donor,2018,flag_gs1dax04,0.028598255863040947,32.06483615950206,0.010625417705788166,0.04657109402029373,382,Universities & colleges,Top donors levels of support by cause,AB,*
+Donor status,Regular donor,2018,flag_gs1dax04,0.008757674350724725,21.517444661542015,0.005064263864427938,0.012451084837021512,2297,Universities & colleges,Top donors levels of support by cause,AT,*
+Donor status,Top donor,2018,flag_gs1dax04,0.07361153772818717,15.004258663279218,0.051963999081660196,0.09525907637471415,915,Universities & colleges,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax04,0.012232967606156147,35.0479308563033,0.003829814043484179,0.020636121168828115,1005,Universities & colleges,Top donors levels of support by cause,BC,...
+Donor status,Top donor,2018,flag_gs1dax04,0.06473699904628256,20.050816627365446,0.039296084478742443,0.09017791361382269,527,Universities & colleges,Top donors levels of support by cause,BC,*
+Donor status,Regular donor,2018,flag_gs1dax04,0.016136816622096862,20.02514017764768,0.0098033495115615,0.022470283732632226,2167,Universities & colleges,Top donors levels of support by cause,ON,*
+Donor status,Top donor,2018,flag_gs1dax04,0.04475653697151036,14.64476707738956,0.031909971475392186,0.05760310246762853,1122,Universities & colleges,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax04,0.008390358624950554,33.46746926755964,0.002886699997110706,0.013894017252790401,1042,Universities & colleges,Top donors levels of support by cause,PR,...
+Donor status,Top donor,2018,flag_gs1dax04,0.037874943337583566,27.12636897221404,0.017738083483479116,0.05801180319168801,557,Universities & colleges,Top donors levels of support by cause,PR,*
+Donor status,Regular donor,2018,flag_gs1dax04,0.02264965576078914,19.454372202263972,0.014013371722349614,0.03128593979922867,1244,Universities & colleges,Top donors levels of support by cause,QC,*
+Donor status,Top donor,2018,flag_gs1dax04,0.0755809689971391,21.38355848291399,0.04390422568881228,0.10725771230546594,265,Universities & colleges,Top donors levels of support by cause,QC,*
+Donor status,Regular donor,2018,flag_gs1dax05,0.4826724801544357,5.7902132835858415,0.42789586522433876,0.5374490950845326,631,Health,Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax05,0.5231249445381644,6.553494565469295,0.4559315682255015,0.5903183208508272,382,Health,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax05,0.49512055407417427,3.0145631227388825,0.4658666772239119,0.5243744309244367,2297,Health,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax05,0.6335317795906713,3.294726815584565,0.5926211741487094,0.6744423850326332,915,Health,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax05,0.40444513654734277,5.230000329564015,0.36298703369402,0.4459032394006655,1005,Health,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax05,0.5802621294240176,5.2773586041193,0.5202431060172585,0.6402811528307766,527,Health,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax05,0.45784075377862404,3.077473869452188,0.43022499929388724,0.48545650826336084,2167,Health,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax05,0.6177745293302714,3.2628590604188648,0.5782673153796416,0.6572817432809013,1122,Health,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax05,0.5005704709054022,4.0542268439711115,0.4607944474998957,0.5403464943109086,1042,Health,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax05,0.6068414751469365,4.832331912976337,0.5493663265268712,0.6643166237670018,557,Health,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax05,0.45909304413176855,3.8861464988996217,0.4241252712926192,0.4940608169709179,1244,Health,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax05,0.5988970873578627,6.9351957594217915,0.5174905998534048,0.6803035748623206,265,Health,Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax06,0.14094233058933747,11.820629746438808,0.10828879934892635,0.1735958618297486,631,Hospitals,Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax06,0.1826575045568256,13.090752947516329,0.13579233011442843,0.2295226789992228,382,Hospitals,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax06,0.27936430662258027,4.9595454582197585,0.2522086140532379,0.30651999919192263,2297,Hospitals,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax06,0.39558603663046443,5.328515997405551,0.3542722199145919,0.43689985334633696,915,Hospitals,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax06,0.17434944927091453,9.65539079284991,0.14135517904182807,0.207343719500001,1005,Hospitals,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax06,0.20090564818267348,10.458781727368814,0.1597223298358108,0.24208896652953615,527,Hospitals,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax06,0.2346603318025753,5.470095187580863,0.20950195280868386,0.2598187107964668,2167,Hospitals,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax06,0.31850011575456216,5.7625169605909985,0.28252767531662015,0.3544725561925042,1122,Hospitals,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax06,0.12249831137145692,9.854278743227619,0.09883894901153215,0.1461576737313817,1042,Hospitals,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax06,0.2040672909468908,11.54729681007477,0.15788219829968494,0.25025238359409663,557,Hospitals,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax06,0.34532489968771474,5.198000928523778,0.3101435628402196,0.3805062365352099,1244,Hospitals,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax06,0.33380313947347556,11.062705612210051,0.2614262584973259,0.4061800204496252,265,Hospitals,Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax07,0.4329339287977139,6.358482778864582,0.3789799827916804,0.48688787480374746,631,Social services,Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax07,0.5441081993118098,6.187374150092858,0.478124032066048,0.6100923665575715,382,Social services,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax07,0.4934630030633636,3.011097549378397,0.46434057951559693,0.5225854266111303,2297,Social services,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax07,0.65469824104936,3.399039767979281,0.6110822735136098,0.6983142085851103,915,Social services,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax07,0.49079808689388976,4.421982769032271,0.44826097514461494,0.5333351986431646,1005,Social services,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax07,0.6255058424071167,4.624217321980757,0.5688143750966749,0.6821973097175585,527,Social services,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax07,0.43463241570807576,3.515142287524179,0.404688188184303,0.4645766432318485,2167,Social services,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax07,0.540616781208481,3.747079697445984,0.5009131211526459,0.5803204412643161,1122,Social services,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax07,0.3981651373193148,4.843230246525414,0.360369085294336,0.4359611893442936,1042,Social services,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax07,0.5631335248396644,5.236300104343486,0.5053393585969519,0.6209276910823769,557,Social services,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax07,0.4620071881630095,4.4487505870917365,0.4217229753166926,0.5022914010093265,1244,Social services,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax07,0.5913701940782529,7.214725646838582,0.5077468860669483,0.6749935020895574,265,Social services,Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax08,0.09204205503454958,16.602828755348973,0.06209069923848512,0.12199341083061405,631,Environment,Top donors levels of support by cause,AB,*
+Donor status,Top donor,2018,flag_gs1dax08,0.10845509686557551,15.668281067003347,0.0751493320376232,0.14176086169352783,382,Environment,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax08,0.10625072839827318,8.421160956696589,0.08871386273029758,0.12378759406624879,2297,Environment,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax08,0.16628702822014538,9.577683027639196,0.13507177063951592,0.19750228580077483,915,Environment,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax08,0.13037757033690578,10.130883271662206,0.10448958309549562,0.15626555757831595,1005,Environment,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax08,0.2091494634547384,11.045695623931875,0.16387034974506484,0.2544285771644119,527,Environment,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax08,0.09196598180354804,9.356747556262498,0.0751004431976797,0.10883152040941638,2167,Environment,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax08,0.15199217723939618,9.28905609907069,0.12432015405312526,0.17966420042566708,1122,Environment,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax08,0.1368702073341759,9.505672828278767,0.11137022505814023,0.16237018961021157,1042,Environment,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax08,0.1559309714991122,12.533979933237868,0.11762473631040019,0.1942372066878242,557,Environment,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax08,0.06721749254371198,13.947609059426174,0.048842373361133506,0.08559261172629046,1244,Environment,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax08,0.14686010669078528,20.59244955289792,0.08758669284176947,0.2061335205398011,265,Environment,Top donors levels of support by cause,QC,*
+Donor status,Regular donor,2018,flag_gs1dax09,0.02634297844706169,37.232287735309214,0.007119468364478916,0.04556648852964446,631,Development & housing,Top donors levels of support by cause,AB,...
+Donor status,Top donor,2018,flag_gs1dax09,0.041667148070200034,24.862598177327524,0.021362831404213387,0.061971464736186685,382,Development & housing,Top donors levels of support by cause,AB,*
+Donor status,Regular donor,2018,flag_gs1dax09,0.03452881620343913,18.243175042090158,0.022182704405597588,0.04687492800128067,2297,Development & housing,Top donors levels of support by cause,AT,*
+Donor status,Top donor,2018,flag_gs1dax09,0.07082392159900258,15.343842635705418,0.04952477526897714,0.09212306792902802,915,Development & housing,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax09,0.02507176173902503,21.07535497445416,0.014715384985071208,0.03542813849297885,1005,Development & housing,Top donors levels of support by cause,BC,*
+Donor status,Top donor,2018,flag_gs1dax09,0.036203212430255094,33.928857435711684,0.012128315608348948,0.06027810925216124,527,Development & housing,Top donors levels of support by cause,BC,...
+Donor status,Regular donor,2018,flag_gs1dax09,0.021205156844636742,23.89881712840162,0.011272487317186665,0.03113782637208682,2167,Development & housing,Top donors levels of support by cause,ON,*
+Donor status,Top donor,2018,flag_gs1dax09,0.054950663250399344,16.880302980061185,0.0367703539693951,0.07313097253140359,1122,Development & housing,Top donors levels of support by cause,ON,*
+Donor status,Regular donor,2018,flag_gs1dax09,0.038230476985990476,17.27935111934219,0.02528299733144239,0.05117795664053856,1042,Development & housing,Top donors levels of support by cause,PR,*
+Donor status,Top donor,2018,flag_gs1dax09,0.0727205942649504,17.40550349577727,0.04791257439571921,0.09752861413418158,557,Development & housing,Top donors levels of support by cause,PR,*
+Donor status,Regular donor,2018,flag_gs1dax09,0.030817929632199342,23.08559421311242,0.01687376159191438,0.044762097672484305,1244,Development & housing,Top donors levels of support by cause,QC,*
+Donor status,Top donor,2018,flag_gs1dax09,0.017937892817264663,34.57018953872624,0.005783835604505351,0.030091950030023976,265,Development & housing,Top donors levels of support by cause,QC,...
+Donor status,Regular donor,2018,flag_gs1dax10,0.033461319564553095,23.724515948310106,0.017902074725231393,0.0490205644038748,631,"Law, advocacy & politics",Top donors levels of support by cause,AB,*
+Donor status,Top donor,2018,flag_gs1dax10,0.09321543370284503,19.49297674342201,0.057601981006988615,0.12882888639870144,382,"Law, advocacy & politics",Top donors levels of support by cause,AB,*
+Donor status,Regular donor,2018,flag_gs1dax10,0.07018213966549766,9.944812538308538,0.05650260587354925,0.08386167345744608,2297,"Law, advocacy & politics",Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax10,0.13414724799982974,10.891878259489664,0.10550991054372488,0.1627845854559346,915,"Law, advocacy & politics",Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax10,0.02614340948485666,22.72020125193176,0.014501546322566105,0.03778527264714722,1005,"Law, advocacy & politics",Top donors levels of support by cause,BC,*
+Donor status,Top donor,2018,flag_gs1dax10,0.10500112083980906,17.76043959732655,0.06845041761909001,0.1415518240605281,527,"Law, advocacy & politics",Top donors levels of support by cause,BC,*
+Donor status,Regular donor,2018,flag_gs1dax10,0.025868571148414628,17.92547133774783,0.01678009407326224,0.03495704822356702,2167,"Law, advocacy & politics",Top donors levels of support by cause,ON,*
+Donor status,Top donor,2018,flag_gs1dax10,0.08339054311074943,12.484413613082856,0.06298571024159297,0.1037953759799059,1122,"Law, advocacy & politics",Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax10,0.032810680752170564,20.072761888833274,0.01990233870022614,0.04571902280411499,1042,"Law, advocacy & politics",Top donors levels of support by cause,PR,*
+Donor status,Top donor,2018,flag_gs1dax10,0.0823545196725557,13.97167418854217,0.059802575947779456,0.10490646339733195,557,"Law, advocacy & politics",Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax10,0.02761860624744034,25.45191415897155,0.013841110066972197,0.041396102427908484,1244,"Law, advocacy & politics",Top donors levels of support by cause,QC,*
+Donor status,Top donor,2018,flag_gs1dax10,0.07191811041574005,28.298649923521374,0.03202920897273615,0.11180701185874395,265,"Law, advocacy & politics",Top donors levels of support by cause,QC,*
+Donor status,Regular donor,2018,flag_gs1dax11,0.13797450053199026,14.591961256675908,0.09851418174096063,0.17743481932301988,631,"Grant-making, fundraising",Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax11,0.22180278028040246,12.893130326560193,0.16575306002829754,0.2778525005325074,382,"Grant-making, fundraising",Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax11,0.1307261714230224,6.953486251838847,0.1129100471438905,0.1485422957021543,2297,"Grant-making, fundraising",Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax11,0.24427770424449283,7.388895375835918,0.20890148327628555,0.2796539252127001,915,"Grant-making, fundraising",Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax11,0.07811037920202532,13.347449797907743,0.05767629713412462,0.09854446126992603,1005,"Grant-making, fundraising",Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax11,0.167840536942495,13.302990342303886,0.12407883266579192,0.2116022412191981,527,"Grant-making, fundraising",Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax11,0.152417270118745,6.840510604627157,0.13198245134975348,0.17285208888773654,2167,"Grant-making, fundraising",Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax11,0.26148884484367474,6.984307666343319,0.2256936591440816,0.2972840305432679,1122,"Grant-making, fundraising",Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax11,0.1771816639407654,9.58427681851855,0.14389837649849008,0.21046495138304072,1042,"Grant-making, fundraising",Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax11,0.20166587123486715,11.638056842483758,0.15566553861394633,0.24766620385578797,557,"Grant-making, fundraising",Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax11,0.13249230282511443,8.678913808966403,0.10995488714224164,0.15502971850798722,1244,"Grant-making, fundraising",Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax11,0.32030300973808734,11.549029718991555,0.24780023803847906,0.3928057814376956,265,"Grant-making, fundraising",Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax12,0.059901061941592844,21.022596754971307,0.03521970841589332,0.08458241546729237,631,International,Top donors levels of support by cause,AB,*
+Donor status,Top donor,2018,flag_gs1dax12,0.292647838995063,10.061486209931903,0.23493724441052966,0.3503584335795964,382,International,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax12,0.05284376217465934,13.716602061122444,0.03863722082760433,0.06705030352171434,2297,International,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax12,0.1845114810687133,8.907543632552763,0.1522986092594696,0.216724352877957,915,International,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax12,0.07856345645999277,15.313912281973643,0.05498285770336972,0.10214405521661582,1005,International,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax12,0.3018648901644741,8.625844067021147,0.25083057430063865,0.35289920602830954,527,International,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax12,0.08655558330487073,11.152991123488015,0.06763499939659272,0.10547616721314874,2167,International,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax12,0.2879119434349821,6.194344704691545,0.2529574396282097,0.3228664472417545,1122,International,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax12,0.07251531399340944,15.758385394219543,0.05011832995894601,0.09491229802787286,1042,International,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax12,0.23451118335921625,10.60271627899829,0.18577755025598153,0.283244816462451,557,International,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax12,0.06350897549358205,12.63605030852454,0.047780213374744696,0.0792377376124194,1244,International,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax12,0.25374077691049524,14.29930015374207,0.18262709927139897,0.3248544545495915,265,International,Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax13,0.2545232741415866,10.0973426551054,0.20415202897298934,0.30489451931018385,631,Religion,Top donors levels of support by cause,AB,
+Donor status,Top donor,2018,flag_gs1dax13,0.6174667943047862,5.196187845125926,0.5545818702050831,0.6803517184044894,382,Religion,Top donors levels of support by cause,AB,
+Donor status,Regular donor,2018,flag_gs1dax13,0.30169329166407166,4.111903544978123,0.2773792776243986,0.3260073057037447,2297,Religion,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax13,0.7370845374057358,2.598014883293638,0.6995520777570186,0.774616997054453,915,Religion,Top donors levels of support by cause,AT,
+Donor status,Regular donor,2018,flag_gs1dax13,0.18604113097204084,8.918651948343502,0.15352070108732205,0.21856156085675962,1005,Religion,Top donors levels of support by cause,BC,
+Donor status,Top donor,2018,flag_gs1dax13,0.5146453771385083,5.610981484155331,0.4580481697767914,0.5712425845002252,527,Religion,Top donors levels of support by cause,BC,
+Donor status,Regular donor,2018,flag_gs1dax13,0.2856774494782716,4.6784612650548185,0.2594819255550145,0.31187297340152875,2167,Religion,Top donors levels of support by cause,ON,
+Donor status,Top donor,2018,flag_gs1dax13,0.6077243290586107,3.389857447462548,0.5673471336925595,0.648101524424662,1122,Religion,Top donors levels of support by cause,ON,
+Donor status,Regular donor,2018,flag_gs1dax13,0.2700427830356903,6.757074957844848,0.2342793334043205,0.3058062326670601,1042,Religion,Top donors levels of support by cause,PR,
+Donor status,Top donor,2018,flag_gs1dax13,0.7131602717219235,3.671062526643559,0.6618473180262331,0.764473225417614,557,Religion,Top donors levels of support by cause,PR,
+Donor status,Regular donor,2018,flag_gs1dax13,0.32626246057221736,5.170124917703192,0.29320144161589695,0.35932347952853777,1244,Religion,Top donors levels of support by cause,QC,
+Donor status,Top donor,2018,flag_gs1dax13,0.6110006093764151,6.600056585537533,0.5319623452743811,0.690038873478449,265,Religion,Top donors levels of support by cause,QC,
+Donor status,Regular donor,2018,flag_gs1dax14,0.0013719555412312467,112.89429474739308,-0.0016637533596210565,0.00440766444208355,631,Business & professional,Top donors levels of support by cause,AB,...
+Donor status,Top donor,2018,flag_gs1dax14,0.007554953014578385,64.81892667042315,-0.0020430679471220795,0.01715297397627885,382,Business & professional,Top donors levels of support by cause,AB,...
+Donor status,Regular donor,2018,flag_gs1dax14,0.006114049357383277,45.68552297269112,6.394085265329398e-4,0.011588690188233615,2297,Business & professional,Top donors levels of support by cause,AT,...
+Donor status,Top donor,2018,flag_gs1dax14,0.011791448768419198,34.786843237395516,0.003751925814218609,0.019830971722619786,915,Business & professional,Top donors levels of support by cause,AT,...
+Donor status,Regular donor,2018,flag_gs1dax14,0.006530176886591459,42.55420358257069,0.0010837020261048299,0.011976651747078088,1005,Business & professional,Top donors levels of support by cause,BC,...
+Donor status,Top donor,2018,flag_gs1dax14,0.016040138367657754,43.34831865999803,0.002412253413334226,0.029668023321981284,527,Business & professional,Top donors levels of support by cause,BC,...
+Donor status,Regular donor,2018,flag_gs1dax14,0.005198856164666318,40.096576727960446,0.0011131870731323984,0.009284525256200236,2167,Business & professional,Top donors levels of support by cause,ON,...
+Donor status,Top donor,2018,flag_gs1dax14,0.015283499734029924,33.1284398425041,0.005359839457140981,0.02520716001091887,1122,Business & professional,Top donors levels of support by cause,ON,*
+Donor status,Regular donor,2018,flag_gs1dax14,0.0019053527709328541,100.1354119033452,-0.0018341268909435862,0.005644832432809294,1042,Business & professional,Top donors levels of support by cause,PR,...
+Donor status,Top donor,2018,flag_gs1dax14,0.007491956938228835,40.24979351772335,0.0015816910345226361,0.013402222841935034,557,Business & professional,Top donors levels of support by cause,PR,...
+Donor status,Regular donor,2018,flag_gs1dax14,0.001106764224968758,86.78013962210433,-7.756862017694454e-4,0.0029892146517069614,1244,Business & professional,Top donors levels of support by cause,QC,...
+Donor status,Top donor,2018,flag_gs1dax14,0.010388498669213013,69.26664581722721,-0.0037149407467210443,0.024491938085147068,265,Business & professional,Top donors levels of support by cause,QC,...
+Donor status,Regular donor,2018,flag_gs1dax15,0.03451468719605821,38.20162704939453,0.008672224789484699,0.060357149602631714,631,Other,Top donors levels of support by cause,AB,...
+Donor status,Top donor,2018,flag_gs1dax15,0.03653306007438366,31.46012285051038,0.014006516674825421,0.059059603473941895,382,Other,Top donors levels of support by cause,AB,*
+Donor status,Regular donor,2018,flag_gs1dax15,0.04078086221054863,13.044175418344608,0.030354780476207127,0.05120694394489013,2297,Other,Top donors levels of support by cause,AT,
+Donor status,Top donor,2018,flag_gs1dax15,0.056468382380881726,18.028702707359866,0.036514936141991645,0.07642182861977181,915,Other,Top donors levels of support by cause,AT,*
+Donor status,Regular donor,2018,flag_gs1dax15,0.027926965254110963,27.146647731814554,0.013068017931521403,0.04278591257670052,1005,Other,Top donors levels of support by cause,BC,*
+Donor status,Top donor,2018,flag_gs1dax15,0.04051814812712872,31.976628931583257,0.015124192517536609,0.06591210373672084,527,Other,Top donors levels of support by cause,BC,*
+Donor status,Regular donor,2018,flag_gs1dax15,0.03181093365507864,17.94339599078435,0.020623534113518967,0.0429983331966383,2167,Other,Top donors levels of support by cause,ON,*
+Donor status,Top donor,2018,flag_gs1dax15,0.04244927709147809,17.509352800191248,0.02788166115308611,0.05701689302987007,1122,Other,Top donors levels of support by cause,ON,*
+Donor status,Regular donor,2018,flag_gs1dax15,0.03618876770585768,19.006630428821392,0.022707615373937153,0.04966992003777821,1042,Other,Top donors levels of support by cause,PR,*
+Donor status,Top donor,2018,flag_gs1dax15,0.040188064339574704,28.967209203522337,0.01737141669123582,0.06300471198791359,557,Other,Top donors levels of support by cause,PR,*
+Donor status,Regular donor,2018,flag_gs1dax15,0.02684788353399594,24.885799304458903,0.013752755753483946,0.039943011314507934,1244,Other,Top donors levels of support by cause,QC,*
+Donor status,Top donor,2018,flag_gs1dax15,0.028605840611741543,39.75192634115411,0.006318359686034173,0.05089332153744891,265,Other,Top donors levels of support by cause,QC,...

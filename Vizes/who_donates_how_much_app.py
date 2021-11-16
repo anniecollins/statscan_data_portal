@@ -19,14 +19,14 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 # Reading in data from public urls
 
 # DonRates_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-DonRate.csv")
-DonRates_2018 = pd.read_csv("Tables/2018-DonRate.csv")
+DonRates_2018 = pd.read_csv("../Tables/2018-DonRate.csv")
 # AvgTotDon_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgTotDon.csv")
-AvgTotDon_2018 = pd.read_csv("Tables/2018-AvgTotDon.csv")
+AvgTotDon_2018 = pd.read_csv("../Tables/2018-AvgTotDon.csv")
 AvgNumCauses_2018 = pd.read_csv("https://raw.githubusercontent.com/ajah/statscan_data_portal/master/Tables/2018-AvgNumCauses.csv")
-FormsGiving_2018 = pd.read_csv("Tables/2018-FormsGiving.csv")
-TopCauseFocus_2018 = pd.read_csv("Tables/2018-TopCauseFocus.csv")
-PropTotDon_2018 = pd.read_csv("Tables/2018-PercTotDonors.csv")
-PropTotDonAmt_2018 = pd.read_csv("Tables/2018-PercTotDonations.csv")
+FormsGiving_2018 = pd.read_csv("../Tables/2018-FormsGiving.csv")
+TopCauseFocus_2018 = pd.read_csv("../Tables/2018-TopCauseFocus.csv")
+PropTotDon_2018 = pd.read_csv("../Tables/2018-PercTotDonors.csv")
+PropTotDonAmt_2018 = pd.read_csv("../Tables/2018-PercTotDonations.csv")
 
 # Format donation rates as percentage
 DonRates_2018['Estimate'] = DonRates_2018['Estimate']*100
@@ -104,8 +104,8 @@ fig2df = fig2df[fig2df['Region'] == "CA"]
 
 # SubSecAvgDon_2018, SubSecDonRates_2018, DonRates_2018, AvgTotDon_2018,SubSecAvgNumDon_2018, AvgNumCauses_2018, AvgTotNumDon_2018 = get_data()
 
-# data = [SubSecAvgDon_2018, SubSecDonRates_2018, DonRates_2018, AvgTotDon_2018] 
-# data_num = [SubSecAvgNumDon_2018, AvgNumCauses_2018, AvgTotNumDon_2018] 
+# data = [SubSecAvgDon_2018, SubSecDonRates_2018, DonRates_2018, AvgTotDon_2018]
+# data_num = [SubSecAvgNumDon_2018, AvgNumCauses_2018, AvgTotNumDon_2018]
 
 # # TODO: Move this to data_utils
 # process_data(data)
@@ -159,8 +159,8 @@ app.layout = html.Div([
                 )
             )
         ),
-    ], 
-        # className='masthead'       
+    ],
+        # className='masthead'
         className="bg-secondary text-white text-center py-4",
     ),
    dbc.Container(
@@ -177,8 +177,8 @@ app.layout = html.Div([
                         value='ON',
                         style={'verticalAlign': 'middle'}
                         ),
-                    html.Br(),   
-                ], 
+                    html.Br(),
+                ],
                 className='col-md-10 col-lg-8 mx-auto mt-4'
             ),
             # Starting text
@@ -193,7 +193,7 @@ app.layout = html.Div([
                     html.H4('Forms of Giving'),
                     dcc.Graph(id='FormsGiving', style={'marginTop': 50}),
                     html.P("The likelihood of making financial donations and the typical amounts donated vary according to where Canadians live. Broadly speaking, donation rates tend to be higher in the east while typical donation amounts tend to be higher in the west. More specifically, residents of Newfoundland and Labrador and Prince Edward Island were most likely to donate, while British Columbians were least likely. Those living in Western Canada, particularly Alberta, tended to donate larger amounts than average, while Quebeckers tended to make significantly smaller donations."),
-                    html.Br(), 
+                    html.Br(),
                 ], className='col-md-10 col-lg-8 mx-auto'
             ),
             # Donation rate & average donation amount by province
@@ -218,14 +218,14 @@ app.layout = html.Div([
                     html.Div([
                         html.H5("Gender"),
                         html.P("At the national level, women are somewhat more likely to donate than men (72% vs. 64%). Men and women tend to donate very similar amounts, with the average gift sizes being virtually statistically indistinguishable. This trend is consistent across all regions."),
-                        # Donation rate & average donation amount by gender 
+                        # Donation rate & average donation amount by gender
                         html.Div([
                             html.H6("Donation rate & average donation amount by gender"),
                             dcc.Graph(id='DonRateAvgDonAmt-Gndr', style={'marginTop': 50}),
                             html.P("Reflecting their higher likelihood of donating, women account for a majority of donors, beyond their representation in the population (nationally, women accounted for 50.7% of the population 15 and over). Because men and women typically make very similar sized gifts, the proportions of total donations from each gender were very consistent with their representation among donors."),
                             html.Br(),
                         ]),
-                        # Percentage of donors & total donation value by gender 
+                        # Percentage of donors & total donation value by gender
                         html.Div([
                             html.H6("Percentage of donors & total donation value by gender"),
                             dcc.Graph(id='PercDon-Gndr', style={'marginTop': 50}),
@@ -237,20 +237,20 @@ app.layout = html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by gender"),
                             dcc.Graph(id='PrimCauseNumCause-Gndr', style={'marginTop': 50}),
                             html.Br(),
-                        ]),  
+                        ]),
                     ]),
                     # Age
                     html.Div([
                         html.H5("Age"),
                         html.P("As a general trend, both the likelihood of giving and the typical amounts donated tend to increase with age. Compared to overall giving levels, those aged 15 to 24 are less likely, those 25 to 54 about as likely, and those 55 and older somewhat more likely to donate, at least at the national level. The amounts typically contributed by donors in these age groups follow a broadly similar pattern."),
-                        # Donation rate & average donation amount by age 
+                        # Donation rate & average donation amount by age
                         html.Div([
                             html.H6("Donation rate & average donation amount by age"),
                             dcc.Graph(id='DonRateAvgDonAmt-Age', style={'marginTop': 50}),
                             html.P("Because they are less likely to donate and tend to contribute smaller amounts, those 15 to 24 account for a relatively small proportion of donors and total donation value. In contrast, Canadians aged 55 and older play a disproportionately large role. Because of their higher likelihood of donating and generally larger donations, they account for higher percentages of total donation value than of donors across all age sub-groups."),
                             html.Br(),
                         ]),
-                        # Percentage of donors & total donation value by age 
+                        # Percentage of donors & total donation value by age
                         html.Div([
                             html.H6("Percentage of donors & total donation value by age"),
                             dcc.Graph(id='PercDon-Age', style={'marginTop': 100}),
@@ -262,20 +262,20 @@ app.layout = html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by age"),
                             dcc.Graph(id='PrimCauseNumCause-Age', style={'marginTop': 100}),
                             html.Br(),
-                        ]),  
+                        ]),
                     ]),
                     # Formal Education
                     html.Div([
                         html.H5("Formal Education"),
                         html.P("Both the likelihood of donating and the typical amounts contributed increase with level of formal education attained. At the national level, those with a university degree were about 1.4 times as likely to donate than those with less than a high school diploma (76% vs. 54%). Likely reflecting their generally higher earnings, more highly educated donors also tend to contribute larger amounts. Nationally, the average donations of university-educated donors were about two and a half times larger than those without a high school diploma ($834 vs. $319)."),
-                        # Donation rate & average donation amount by Formal Education 
+                        # Donation rate & average donation amount by Formal Education
                         html.Div([
                             html.H6("Donation rate & average donation amount by formal education"),
                             dcc.Graph(id='DonRateAvgDonAmt-Educ', style={'marginTop': 10}),
                             html.P("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  "),
                             html.Br(),
                         ]),
-                        # Percentage of donors & total donation value by formal education 
+                        # Percentage of donors & total donation value by formal education
                         html.Div([
                             html.H6("Percentage of donors & total donation value by formal education"),
                             dcc.Graph(id='PercDon-Educ', style={'marginTop': 10}),
@@ -288,20 +288,20 @@ app.layout = html.Div([
                             dcc.Graph(id='PrimCauseNumCause-Educ', style={'marginTop': 10}),
                             html.P("While donors without a high school diploma focus slightly more of their donations on the primary cause, the degree of variation by level of formal eduction is low. Educational attainment does have an appreciable impact on the number causes of supported, almost certainly related to the increase in typical donation amounts with higher levels of formal education."),
                             html.Br(),
-                        ]),  
+                        ]),
                     ]),
                     # household income
                     html.Div([
                         html.H5("Income"),
                         html.P("The relationship between donating and household income is somewhat complex, due to the other personal characteristics those living in households with particular levels of income tend to possess. Broadly speaking, the likelihood of donating and the average amounts donated tend to increase with household income, though there are some fluctuations and the trend is most clearly seen towards the ends of the income spectrum. "),
-                        # Donation rate & average donation amount by household income 
+                        # Donation rate & average donation amount by household income
                         html.Div([
                             html.H6("Donation rate & average donation amount by household income"),
                             dcc.Graph(id='DonRateAvgDonAmt-Inc', style={'marginTop': 10}),
                             html.P("Driven by variations in the size of the typical donation, at the national level those who reside in households with annual incomes less than $75,000 tend to play disproportionately small roles in total donations. In contrast, those from households in the highest income category tend to play a much more significant role, accounting for under third of donors but two fifths of the total value of donations."),
                             html.Br(),
                         ]),
-                        # Percentage of donors & total donation value by household income 
+                        # Percentage of donors & total donation value by household income
                         html.Div([
                             html.H6("Percentage of donors & total donation value by household income"),
                             dcc.Graph(id='PercDon-Inc', style={'marginTop': 50}),
@@ -313,20 +313,20 @@ app.layout = html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by household income"),
                             dcc.Graph(id='PrimCauseNumCause-Inc', style={'marginTop': 50}),
                             html.Br(),
-                        ]),  
+                        ]),
                     ]),
                     # Religious attendance
                     html.Div([
                         html.H5("Religious Attendance"),
                         html.P("Participation in religious traditions has a very significant effect on both the likelihood of donating and the amounts donors typically contribute. Both the likelihood of donating and the average amounts contributed increase with the frequency of attendance at religious services. At the national level, donors attending religious services at least weekly were about a third again as likely to donate and, when they donated, they contributed nearly five times the amount, on amount, as those who never attend services. While many of the donations made by those attending services more frequently are allocated to religious organizations, this is not exclusively the case - for more detail, please refer to The Role of Religion in Giving elsewhere on this site."),
-                        # Donation rate & average donation amount by religious attendance 
+                        # Donation rate & average donation amount by religious attendance
                         html.Div([
                             html.H6("Donation rate & average donation amount by religious attendance"),
                             dcc.Graph(id='DonRateAvgDonAmt-Relig', style={'marginTop': 10}),
                             html.P("Driven by their high likelihood of giving and particularly by the large amounts they tend to donate, weekly attenders account for just under half of the total value of donations at the national level, but just 17% of donors. In contrast, those who never attend services account for half of donors, but roughly one quarter of total donations."),
                             html.Br(),
                         ]),
-                        # Percentage of donors & total donation value by religious attendance 
+                        # Percentage of donors & total donation value by religious attendance
                         html.Div([
                             html.H6("Percentage of donors & total donation value by religious attendance"),
                             dcc.Graph(id='PercDon-Relig', style={'marginTop': 50}),
@@ -339,13 +339,13 @@ app.layout = html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by religious attendance"),
                             dcc.Graph(id='PrimCauseNumCause-Relig', style={'marginTop': 50}),
                             html.Br(),
-                        ]),  
+                        ]),
                     ]),
                     # Other personal & economic characteristics
                     html.Div([
                         html.H5("Other Personal & Economic Characteristics"),
                         html.P("Other significant personal and economic characteristics include marital status, labour force status and immigration status. In broad terms, those who are married or widowed are generally more likely to give and to give larger amounts, as are those who are employed or not in the labour force (many of those not in the labour force have retired). Looking at immigration status, native-born Canadians are somewhat more likely to give than those who immigrated to Canada, but New Canadians tend to give larger amounts. For more detail on the giving and volunteering of New Canadians, readers are referred to the Giving and Volunteering of New Canadians elsewhere on this website."),
-                        # Donation rate & average donation amount by religious attendance 
+                        # Donation rate & average donation amount by religious attendance
                         html.Div([
                             html.H6("Donation rate & average donation amount by marital status"),
                             dcc.Graph(id='DonRateAvgDonAmt-MarStat', style={'marginTop': 10}),
@@ -363,19 +363,19 @@ app.layout = html.Div([
                             dcc.Graph(id='DonRateAvgDonAmt-ImmStat', style={'marginTop': 50}),
                             html.P("Looking at the relative donation roles of the various sub-groups, those who are married or widowed tend to contribute disproportionately large proportions of total donations, while the smaller average donations made by single donors mean they account for a disproportionately small fraction of total donations. The relative role of donors does not vary significantly by labour force status, but New Canadians tend to play a slightly larger financial role in donations than their numbers would indicate."),
                             html.Br(),
-                        ]),  
+                        ]),
                         # Percentage of donors & total donation value by marital status
                         html.Div([
                             html.H6("Percentage of donors & total donation value by marital status"),
                             dcc.Graph(id='PercDon-MarStat', style={'marginTop': 10}),
                             html.Br(),
-                        ]), 
+                        ]),
                         # Percentage of donors & total donation value by labour force status
                         html.Div([
                             html.H6("Percentage of donors & total donation value by labour force status"),
                             dcc.Graph(id='PercDon-Labour', style={'marginTop': 50}),
                             html.Br(),
-                        ]),   
+                        ]),
                         # Percentage of donors & total donation value by immigration status
                         html.Div([
                             html.H6("Percentage of donors & total donation value by immigration status"),
@@ -388,24 +388,24 @@ app.layout = html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by marital status"),
                             dcc.Graph(id='PrimCauseNumCause-MarStat', style={'marginTop': 50}),
                             html.Br(),
-                        ]), 
+                        ]),
                         # Focus on primary cause & average number of causes supported by labour force status
                         html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by labour force status"),
                             dcc.Graph(id='PrimCauseNumCause-Labour', style={'marginTop': 50}),
                             html.Br(),
-                        ]),   
+                        ]),
                         # Focus on primary cause & average number of causes supported by immigration status
                         html.Div([
                             html.H6("Focus on primary cause & average number of causes supported by immigration status"),
                             dcc.Graph(id='PrimCauseNumCause-ImmStat', style={'marginTop': 50}),
                             html.Br(),
-                        ]),    
+                        ]),
                     ]),
                 ], className='col-md-10 col-lg-8 mx-auto'
-    
+
             ),
-        ]),     
+        ]),
    ),
    html.Footer(
        dbc.Container(
@@ -477,7 +477,7 @@ def update_graph(region):
         dash.dependencies.Input('region-selection', 'value')
     ])
 def update_graph(region):
-    
+
     dff1 = PropTotDon_2018[PropTotDon_2018['Region'] == region]
     dff1 = dff1[dff1['Group'] == "Gender"]
     name1 = "Proportion of donors"

@@ -1,313 +1,775 @@
-Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
-All,NA,2018,top_cause/gs1datot,0.768111530623486,114.63264135963401,0.750853919633589,0.785369141613382,-,Top cause,Focus on primary cause,CA (without QC),
-All,NA,2018,top_cause/gs1datot,0.764177779195655,106.77184571052601,0.74818590935602,0.780169649035289,-,Top cause,Focus on primary cause,CA,
-All,NA,2018,top_cause/gs1datot,0.794800166373584,191.28695786643598,0.765001872370572,0.824598460376597,1013,Top cause,Focus on primary cause,AB,
-All,NA,2018,top_cause/gs1datot,0.771412367893645,144.56994363103902,0.749554253210649,0.793270482576642,3212,Top cause,Focus on primary cause,AT,
-All,NA,2018,top_cause/gs1datot,0.768478835411352,175.07432573652198,0.742109300831965,0.794848369990738,1532,Top cause,Focus on primary cause,BC,
-All,NA,2018,top_cause/gs1datot,0.75523197334369,216.78267541642603,0.723143206275821,0.787320740411558,3289,Top cause,Focus on primary cause,ON,
-All,NA,2018,top_cause/gs1datot,0.771336645436187,212.942221020155,0.739144209857665,0.803529081014708,1599,Top cause,Focus on primary cause,PR,
-All,NA,2018,top_cause/gs1datot,0.729787310323196,204.705331290474,0.700507143149292,0.7590674774971,1509,Top cause,Focus on primary cause,QC,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.7841207613793022,5.207099177602729,0.7040955382828767,0.8641459844757277,406,Top cause,Focus on primary cause,CA,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.7784514323038998,5.629371001057707,0.6925620489631042,0.8643408156446953,1293,Top cause,Focus on primary cause,CA,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.7936908386858301,1.971114203682254,0.7630280785364609,0.8243535988351993,1870,Top cause,Focus on primary cause,CA,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7452142473471675,2.0259183471194686,0.715623824049916,0.7748046706444189,1954,Top cause,Focus on primary cause,CA,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7702578050630049,1.343722044374403,0.7499719349341923,0.7905436751918175,2701,Top cause,Focus on primary cause,CA,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.7441059207040237,1.566348579591586,0.7212619671363201,0.7669498742717273,2439,Top cause,Focus on primary cause,CA,
-Age group,75 years and over,2018,top_cause/gs1datot,0.7448486949760675,2.0065609844586043,0.7155553803764764,0.7741420095756587,1491,Top cause,Focus on primary cause,CA,
-Gender,Male gender,2018,top_cause/gs1datot,0.775189363242674,1.0467478470484872,0.7592856706603557,0.7910930558249922,5149,Top cause,Focus on primary cause,CA,
-Gender,Female gender,2018,top_cause/gs1datot,0.7544050818005309,1.7940463050732638,0.7278781913164838,0.780931972284578,7005,Top cause,Focus on primary cause,CA,
-Education,Less than High School,2018,top_cause/gs1datot,0.7867393929370983,2.673821472806888,0.7455095771847293,0.8279692086894672,964,Top cause,Focus on primary cause,CA,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.7794701563715271,1.5471852999481075,0.7558332892658369,0.8031070234772172,2438,Top cause,Focus on primary cause,CA,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.7764616402370875,1.331381424545798,0.7562001871010782,0.7967230933730969,3885,Top cause,Focus on primary cause,CA,
-Education,University Diploma,2018,top_cause/gs1datot,0.7605188409996718,1.2907350161658389,0.7412792798863886,0.779758402112955,3767,Top cause,Focus on primary cause,CA,
-Marital status,Married,2018,top_cause/gs1datot,0.7671959053203394,1.475791581050601,0.7450047764365034,0.7893870342041754,6463,Top cause,Focus on primary cause,CA,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.7207180863432625,1.8960074570390464,0.6939354359136496,0.7475007367728754,1102,Top cause,Focus on primary cause,CA,
-Marital status,Widowed,2018,top_cause/gs1datot,0.7457247103925324,2.209143760400337,0.7134360071335101,0.7780134136515547,1143,Top cause,Focus on primary cause,CA,
-Marital status,Separated,2018,top_cause/gs1datot,0.7703342599512775,3.7701063352775286,0.713412161282435,0.8272563586201199,375,Top cause,Focus on primary cause,CA,
-Marital status,Divorced,2018,top_cause/gs1datot,0.7338289108886306,2.8114200724862566,0.6933928678591403,0.7742649539181208,1031,Top cause,Focus on primary cause,CA,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7859601599430773,2.2545240457893447,0.7512302629641785,0.8206900569219762,2040,Top cause,Focus on primary cause,CA,
-Labour force status,Employed,2018,top_cause/gs1datot,0.7826051478631668,0.9632305455713259,0.7678303673607684,0.7973799283655653,6433,Top cause,Focus on primary cause,CA,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.8050890137983298,4.94218205870056,0.7271040758150374,0.8830739517816221,220,Top cause,Focus on primary cause,CA,
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7478627778187392,1.2951373671493631,0.7288788600896503,0.7668466955478281,4423,Top cause,Focus on primary cause,CA,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.6881927614540067,8.307972063762952,0.5761320903947543,0.800253432513259,1078,Top cause,Focus on primary cause,CA,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.7987478607132424,1.2586441053358879,0.7790435727746976,0.8184521486517873,3046,Top cause,Focus on primary cause,CA,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.7790315034439347,1.2854523911108495,0.7594042690920864,0.798658737795783,3625,Top cause,Focus on primary cause,CA,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.7729840384242651,1.4717622845102283,0.7506865325697842,0.795281544278746,2570,Top cause,Focus on primary cause,CA,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.736956144750949,5.42102619479226,0.6586544357135493,0.8152578537883486,1478,Top cause,Focus on primary cause,CA,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.720509675351285,2.946352138544315,0.6789020855474233,0.7621172651551467,643,Top cause,Focus on primary cause,CA,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.7129410975591902,2.4996921089384845,0.6780119279828216,0.7478702671355588,792,Top cause,Focus on primary cause,CA,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8259505299377428,1.111373228692047,0.8079592501167486,0.8439418097587369,2135,Top cause,Focus on primary cause,CA,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7336923589920613,2.295134756898791,0.7006880779183378,0.7666966400657849,1040,Top cause,Focus on primary cause,CA,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.7186079512899692,2.6931026439034245,0.6806770628101926,0.7565388397697459,1069,Top cause,Focus on primary cause,CA,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.7360445478297444,2.732899405622,0.696619172430987,0.7754699232285017,1639,Top cause,Focus on primary cause,CA,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7235013673077259,1.2870685052388033,0.7052502645443486,0.7417524700711031,5277,Top cause,Focus on primary cause,CA,
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7619707252218145,0.9199177132414912,0.7482323504770942,0.7757090999665348,9211,Top cause,Focus on primary cause,CA,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.7989486458337616,1.3370412376968,0.7780117757496096,0.8198855159179136,1755,Top cause,Focus on primary cause,CA,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.727579108230152,7.012799996047129,0.6275745572315319,0.8275836592287722,201,Top cause,Focus on primary cause,CA,
-Immigration status,Unknown,2018,top_cause/gs1datot,0.6901387750354011,8.545863754917718,0.5745433930753108,0.8057341569954914,987,Top cause,Focus on primary cause,CA,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.729771753542432,13.098326990106537,0.5424229306858483,0.9171205763990156,42,Top cause,Focus on primary cause,AB,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.8316986280247844,4.656575605751951,0.7557918190209305,0.9076054370286384,132,Top cause,Focus on primary cause,AB,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.8418971082472401,4.33089163964075,0.7704335845384928,0.9133606319559874,183,Top cause,Focus on primary cause,AB,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7296452361173219,4.938518359578138,0.6590205525532377,0.80026991968140615,173,Top cause,Focus on primary cause,AB,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.8027915552887501,2.8974652351574948,0.7572016048286494,0.8483815057488509,252,Top cause,Focus on primary cause,AB,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.769441344013985,4.472326649630139,0.7019952000235266,0.8368874880044435,139,Top cause,Focus on primary cause,AB,
-Age group,75 years and over,2018,top_cause/gs1datot,0.7414221640926882,6.476802903634916,0.6473038071571527,0.8355405210282237,92,Top cause,Focus on primary cause,AB,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.7995806323824731,4.607196059105351,0.7273789942552862,0.8717822705096601,107,Top cause,Focus on primary cause,AT,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.8024024791660915,4.594486627840284,0.7301459086927078,0.8746590496394753,261,Top cause,Focus on primary cause,AT,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.8089796026224777,3.252139532393282,0.7574146250453204,0.860544580199635,461,Top cause,Focus on primary cause,AT,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7411356224612773,3.593811265211265,0.6889319513722171,0.7933392935503375,548,Top cause,Focus on primary cause,AT,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7478759258942822,3.8357712818976495,0.6916508114831675,0.8041010403053969,755,Top cause,Focus on primary cause,AT,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.781434282464549,2.280560932063009,0.746505597786079,0.8163629671430191,700,Top cause,Focus on primary cause,AT,
-Age group,75 years and over,2018,top_cause/gs1datot,0.7794523488504456,2.7127729201196518,0.7380093567892346,0.8208953409116565,380,Top cause,Focus on primary cause,AT,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.8364707624523315,5.545880170343394,0.745548687552189,0.9273928373524741,49,Top cause,Focus on primary cause,BC,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.787288331842113,3.0248897993293897,0.7406125648312883,0.8339640988529377,162,Top cause,Focus on primary cause,BC,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.7999091012250767,3.8232561609095868,0.7399683576417876,0.8598498448083659,228,Top cause,Focus on primary cause,BC,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7811817825293507,4.034990287180869,0.7194025240200235,0.8429610410386779,247,Top cause,Focus on primary cause,BC,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7836582032292154,3.6315305324217637,0.7278800058221262,0.8394364006363046,314,Top cause,Focus on primary cause,BC,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.7133158391745223,3.4894736665481143,0.6645304376342658,0.7621012407147789,333,Top cause,Focus on primary cause,BC,
-Age group,75 years and over,2018,top_cause/gs1datot,0.7362525956911893,4.7791073474909425,0.667288711224366,0.8052164801580126,199,Top cause,Focus on primary cause,BC,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.7633797113050026,9.667120420422473,0.6187405706564133,0.9080188519535919,99,Top cause,Focus on primary cause,ON,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.7116941201366405,12.805830292525174,0.5330662537218248,0.8903219865514561,375,Top cause,Focus on primary cause,ON,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.7814203178129785,3.4405984444095634,0.72872563692191,0.834114998704047,510,Top cause,Focus on primary cause,ON,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7361614897482031,3.659051146688394,0.6833668700326203,0.7889561094637858,552,Top cause,Focus on primary cause,ON,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7691074220584181,2.288352632616772,0.7346122716435127,0.8036025724733235,687,Top cause,Focus on primary cause,ON,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.7450723416346456,2.7661088936783154,0.7046784397753759,0.7854662434939154,648,Top cause,Focus on primary cause,ON,
-Age group,75 years and over,2018,top_cause/gs1datot,0.7754347923625858,2.394860264505065,0.7390371249404556,0.8118324597847161,418,Top cause,Focus on primary cause,ON,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.9153841566021582,3.8320367378282936,0.8466328198877396,0.9841354933165768,65,Top cause,Focus on primary cause,PR,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.7970850401823091,4.996870923558873,0.7190210258597916,0.8751490545048266,209,Top cause,Focus on primary cause,PR,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.8020142566911145,5.064009134676307,0.722412131994035,0.881616381388194,234,Top cause,Focus on primary cause,PR,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7792079787147681,5.591032285694735,0.6938206392172024,0.8645953182123338,230,Top cause,Focus on primary cause,PR,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7319793521294171,4.0442735546340804,0.6739580534714251,0.7900006507874091,339,Top cause,Focus on primary cause,PR,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.7630297260433344,3.597128411425336,0.7092342828016659,0.8168251692850029,319,Top cause,Focus on primary cause,PR,
-Age group,75 years and over,2018,top_cause/gs1datot,0.716180731296147,7.681921561723387,0.6083504863826509,0.8240109762096431,203,Top cause,Focus on primary cause,PR,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.7547817629174746,8.906632231005814,0.6230219379709341,0.886541587864015,44,Top cause,Focus on primary cause,QC,
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.8692176477381686,2.9810301130281776,0.8184317668972081,0.920003528579129,154,Top cause,Focus on primary cause,QC,
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.7041176707289081,3.3162619309831483,0.6583517546269415,0.7498835868308746,254,Top cause,Focus on primary cause,QC,
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7358590404514014,4.760661184296467,0.6671980609447796,0.8045200199580231,204,Top cause,Focus on primary cause,QC,
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7293327075418287,3.669524724469205,0.6768781051324683,0.7817873099511891,354,Top cause,Focus on primary cause,QC,
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.7143796098888953,4.660241896299857,0.6491288458668437,0.7796303739109468,300,Top cause,Focus on primary cause,QC,
-Age group,75 years and over,2018,top_cause/gs1datot,0.6539209660446036,5.92338596969243,0.5780032060759884,0.7298387260132188,199,Top cause,Focus on primary cause,QC,
-Gender,Male gender,2018,top_cause/gs1datot,0.7923329113776111,3.3640383729388317,0.740091280314355,0.8445745424408672,455,Top cause,Focus on primary cause,AB,
-Gender,Female gender,2018,top_cause/gs1datot,0.7968656853229107,2.205158530524355,0.7624249009840639,0.8313064696617575,558,Top cause,Focus on primary cause,AB,
-Gender,Male gender,2018,top_cause/gs1datot,0.7939119839179462,1.7448802539334525,0.7667609684890425,0.8210629993468498,1334,Top cause,Focus on primary cause,AT,
-Gender,Female gender,2018,top_cause/gs1datot,0.7506142144794247,2.286570925628366,0.7169747128963552,0.7842537160624942,1878,Top cause,Focus on primary cause,AT,
-Gender,Male gender,2018,top_cause/gs1datot,0.7690593075218835,2.774362045497359,0.7272405564762738,0.8108780585674931,609,Top cause,Focus on primary cause,BC,
-Gender,Female gender,2018,top_cause/gs1datot,0.7680170614118113,2.2360854610586287,0.7343575849405442,0.8016765378830784,923,Top cause,Focus on primary cause,BC,
-Gender,Male gender,2018,top_cause/gs1datot,0.7796708585259684,1.5514254415558326,0.7559631105326516,0.8033786065192852,1400,Top cause,Focus on primary cause,ON,
-Gender,Female gender,2018,top_cause/gs1datot,0.7330643924821968,3.7354209013240327,0.6793946192425862,0.7867341657218074,1889,Top cause,Focus on primary cause,ON,
-Gender,Male gender,2018,top_cause/gs1datot,0.7649704549754162,3.6992145978845516,0.7095075926069441,0.8204333173438882,678,Top cause,Focus on primary cause,PR,
-Gender,Female gender,2018,top_cause/gs1datot,0.7770266549541814,2.6050226723821233,0.7373536117263192,0.8166996981820437,921,Top cause,Focus on primary cause,PR,
-Gender,Male gender,2018,top_cause/gs1datot,0.7353936669453632,2.3674678678018735,0.7012702847991482,0.7695170490915783,673,Top cause,Focus on primary cause,QC,
-Gender,Female gender,2018,top_cause/gs1datot,0.7240996247559862,3.219759599404201,0.6784045007624738,0.7697947487494986,836,Top cause,Focus on primary cause,QC,
-Education,Less than High School,2018,top_cause/gs1datot,0.8090922298064652,6.374746897656243,0.7080020270320172,0.9101824325809132,60,Top cause,Focus on primary cause,AB,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.7531765472993083,4.455194350672125,0.68740901700302,0.8189440775955965,202,Top cause,Focus on primary cause,AB,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.803864296068571,3.5225256087187398,0.748365317544875,0.859363274592267,361,Top cause,Focus on primary cause,AB,
-Education,University Diploma,2018,top_cause/gs1datot,0.7962290455347405,2.9931166571072714,0.7495190580438658,0.8429390330256152,302,Top cause,Focus on primary cause,AB,
-Education,Less than High School,2018,top_cause/gs1datot,0.8082916014993643,4.5516270966818455,0.7361837041973107,0.8803994988014179,269,Top cause,Focus on primary cause,AT,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.789234582946743,2.3509509438295595,0.7528683961576795,0.8256007697358064,670,Top cause,Focus on primary cause,AT,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.7839029370852841,2.2471698844278762,0.7493769352986878,0.8184289388718805,1045,Top cause,Focus on primary cause,AT,
-Education,University Diploma,2018,top_cause/gs1datot,0.7529103368940817,3.0826202920970527,0.7074208138103723,0.7983998599777912,843,Top cause,Focus on primary cause,AT,
-Education,Less than High School,2018,top_cause/gs1datot,0.8554112249542847,3.414608610111473,0.7981627440631536,0.9126597058454158,98,Top cause,Focus on primary cause,BC,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.7676729024060422,3.9268672836462293,0.7085888158519472,0.8267569889601373,289,Top cause,Focus on primary cause,BC,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.7703070232633467,2.977866018735216,0.7253479756836246,0.8152660708430687,469,Top cause,Focus on primary cause,BC,
-Education,University Diploma,2018,top_cause/gs1datot,0.756883137679137,2.9600956038433206,0.7129711941962741,0.8007950811619998,569,Top cause,Focus on primary cause,BC,
-Education,Less than High School,2018,top_cause/gs1datot,0.7249566825307036,5.379665511837538,0.6485176076757548,0.8013957573856523,239,Top cause,Focus on primary cause,ON,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.7780074321934887,2.6545996825812574,0.7375283296822492,0.8184865347047281,609,Top cause,Focus on primary cause,ON,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.7972916077414781,1.6222088144411895,0.7719419534702225,0.8226412620127337,1011,Top cause,Focus on primary cause,ON,
-Education,University Diploma,2018,top_cause/gs1datot,0.7537926520057017,2.1598270684149625,0.7218832275936631,0.7857020764177403,1212,Top cause,Focus on primary cause,ON,
-Education,Less than High School,2018,top_cause/gs1datot,0.8836633990771515,3.3043220079887763,0.826434245717992,0.9408925524363111,132,Top cause,Focus on primary cause,PR,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.8250483418930381,4.280651682445352,0.7558274202397558,0.8942692635463204,385,Top cause,Focus on primary cause,PR,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.7264868680694323,4.986987300127383,0.6554777495211028,0.7974959866177618,497,Top cause,Focus on primary cause,PR,
-Education,University Diploma,2018,top_cause/gs1datot,0.7690351481346643,3.5204327258047394,0.7159723277397257,0.8220979685296029,395,Top cause,Focus on primary cause,PR,
-Education,Less than High School,2018,top_cause/gs1datot,0.7363437653923448,4.9557454272465815,0.664822087578905,0.8078654432057846,166,Top cause,Focus on primary cause,QC,
-Education,Graduated from High school,2018,top_cause/gs1datot,0.7815473162019851,4.766506205844981,0.7085337552643249,0.8545608771396453,283,Top cause,Focus on primary cause,QC,
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.6972315350015029,3.526524124403871,0.6490398655128433,0.7454232044901625,502,Top cause,Focus on primary cause,QC,
-Education,University Diploma,2018,top_cause/gs1datot,0.7293292964955751,3.4774592872795655,0.6796204363868903,0.7790381566042599,446,Top cause,Focus on primary cause,QC,
-Marital status,Married,2018,top_cause/gs1datot,0.8084336238403238,2.135848875477325,0.7745910816074089,0.8422761660732387,600,Top cause,Focus on primary cause,AB,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.7432745761851501,4.641065141549325,0.6756639383371138,0.8108852140331865,64,Top cause,Focus on primary cause,AB,
-Marital status,Widowed,2018,top_cause/gs1datot,0.7234922658986295,7.406640728920627,0.618464709080284,0.828519822716975,66,Top cause,Focus on primary cause,AB,
-Marital status,Separated,2018,top_cause/gs1datot,0.6564534400264597,8.23616352458867,0.5504848928437633,0.762421987209156,29,Top cause,Focus on primary cause,AB,
-Marital status,Divorced,2018,top_cause/gs1datot,0.8176457042608617,6.776958575557783,0.7090411390136357,0.9262502695080876,89,Top cause,Focus on primary cause,AB,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7777642963588892,6.102034726905368,0.6847454886164286,0.8707831041013498,165,Top cause,Focus on primary cause,AB,
-Marital status,Married,2018,top_cause/gs1datot,0.7880257240780434,1.8005907564250623,0.760215563147505,0.8158358850085817,1772,Top cause,Focus on primary cause,AT,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.6824597927741887,4.893980677137807,0.6169980729110535,0.7479215126373239,256,Top cause,Focus on primary cause,AT,
-Marital status,Widowed,2018,top_cause/gs1datot,0.7500795380903947,3.3636854882092657,0.7006290262892143,0.7995300498915752,349,Top cause,Focus on primary cause,AT,
-Marital status,Separated,2018,top_cause/gs1datot,0.6755038919071624,7.7193488272414745,0.573302546469881,0.7777052373444439,95,Top cause,Focus on primary cause,AT,
-Marital status,Divorced,2018,top_cause/gs1datot,0.7292134240319037,4.934088715356844,0.658693846828085,0.7997330012357224,241,Top cause,Focus on primary cause,AT,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7625888418833896,3.309121166725674,0.7131291727206885,0.8120485110460907,499,Top cause,Focus on primary cause,AT,
-Marital status,Married,2018,top_cause/gs1datot,0.7704312766906034,2.1517410767311365,0.7379396086964682,0.8029229446847386,807,Top cause,Focus on primary cause,BC,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.7146408088240325,5.108565024391832,0.6430866584696511,0.7861949591784139,131,Top cause,Focus on primary cause,BC,
-Marital status,Widowed,2018,top_cause/gs1datot,0.8266061928521198,4.016600315619927,0.7615325133942,0.8916798723100395,138,Top cause,Focus on primary cause,BC,
-Marital status,Separated,2018,top_cause/gs1datot,0.8421122706773937,6.779198233609236,0.7302209447941584,0.9540035965606289,38,Top cause,Focus on primary cause,BC,
-Marital status,Divorced,2018,top_cause/gs1datot,0.6928047110061557,5.671483284425782,0.6157932115148145,0.7698162104974969,154,Top cause,Focus on primary cause,BC,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7482784246607582,4.394318112423505,0.6838314095929436,0.8127254397285728,264,Top cause,Focus on primary cause,BC,
-Marital status,Married,2018,top_cause/gs1datot,0.7446539590995237,3.0376043914126583,0.7003202766859379,0.7889876415131095,1864,Top cause,Focus on primary cause,ON,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.7507613787963301,4.075905466625161,0.6907858456849231,0.8107369119077371,207,Top cause,Focus on primary cause,ON,
-Marital status,Widowed,2018,top_cause/gs1datot,0.7498680570118195,2.9365518511012114,0.7067091320361321,0.7930269819875069,285,Top cause,Focus on primary cause,ON,
-Marital status,Separated,2018,top_cause/gs1datot,0.7662290836470936,6.520821418487259,0.6683005999447972,0.8641575673493901,117,Top cause,Focus on primary cause,ON,
-Marital status,Divorced,2018,top_cause/gs1datot,0.714564588494311,4.951288241053783,0.645220763934862,0.78390841305376,271,Top cause,Focus on primary cause,ON,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.8150019741853267,3.249457932622188,0.7630959612376842,0.8669079871329692,545,Top cause,Focus on primary cause,ON,
-Marital status,Married,2018,top_cause/gs1datot,0.779051166549177,2.954180740736322,0.7339434195653962,0.8241589135329579,853,Top cause,Focus on primary cause,PR,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.6845722745693181,5.502659854917983,0.6107410511482791,0.7584034979903571,104,Top cause,Focus on primary cause,PR,
-Marital status,Widowed,2018,top_cause/gs1datot,0.7089266466953288,6.029402390743402,0.6251498673800442,0.7927034260106134,170,Top cause,Focus on primary cause,PR,
-Marital status,Separated,2018,top_cause/gs1datot,0.8473809916895413,5.228110426182166,0.760550639853978,0.9342113435251046,50,Top cause,Focus on primary cause,PR,
-Marital status,Divorced,2018,top_cause/gs1datot,0.76278188953819,3.8892936212237648,0.7046359763502515,0.8209278027261285,128,Top cause,Focus on primary cause,PR,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7832659707988442,4.034740696526887,0.7213257172501528,0.8452062243475356,294,Top cause,Focus on primary cause,PR,
-Marital status,Married,2018,top_cause/gs1datot,0.7542928989454862,2.5734883585895383,0.716246783774329,0.7923390141166434,567,Top cause,Focus on primary cause,QC,
-Marital status,Living common-law,2018,top_cause/gs1datot,0.6974926395034191,3.7227559075003773,0.6466003157336673,0.74838496327317094,340,Top cause,Focus on primary cause,QC,
-Marital status,Widowed,2018,top_cause/gs1datot,0.6638928897184205,5.01383644105031,0.5986525414240405,0.7291332380128006,135,Top cause,Focus on primary cause,QC,
-Marital status,Separated,2018,top_cause/gs1datot,0.7404233605164628,10.796492620494238,0.5837443227654446,0.8971023982674811,46,Top cause,Focus on primary cause,QC,
-Marital status,Divorced,2018,top_cause/gs1datot,0.7005189830846007,4.83335787809592,0.6341573671825782,0.7668805989866232,148,Top cause,Focus on primary cause,QC,
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7200232084117464,7.486322282892171,0.6143747642914575,0.8256716525320352,273,Top cause,Focus on primary cause,QC,
-Labour force status,Employed,2018,top_cause/gs1datot,0.792975472547642,2.5922208397415956,0.752687088981046,0.833263856114238,601,Top cause,Focus on primary cause,AB,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.882322544451727,9.27971534237283,0.7218465330579459,1.0427985558455082,28,Top cause,Focus on primary cause,AB,
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7894140287917923,3.1878445296932525,0.7400909629417542,0.8387370946418304,295,Top cause,Focus on primary cause,AB,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.8059740449045442,3.4597322270123123,0.7513213433842958,0.8606267464247925,89,Top cause,Focus on primary cause,AB,
-Labour force status,Employed,2018,top_cause/gs1datot,0.7652323739851822,2.0049907741062616,0.7351609631067683,0.7953037848635961,1568,Top cause,Focus on primary cause,AT,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.7250662451968333,8.001631207815356,0.6113547658824559,0.8387777245112107,49,Top cause,Focus on primary cause,AT,
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7814696006780666,2.5597286838292734,0.7422634581264079,0.8206757432297253,1242,Top cause,Focus on primary cause,AT,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.7650027287238026,2.5241684176049337,0.7271559079271614,0.8028495495204437,353,Top cause,Focus on primary cause,AT,
-Labour force status,Employed,2018,top_cause/gs1datot,0.7786179932456337,2.30000444119101,0.7435184713072963,0.8137175151839712,845,Top cause,Focus on primary cause,BC,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.8891496477193674,12.430961686409105,0.6725151184988678,1.105784176939867,26,Top cause,Focus on primary cause,BC,
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.742045846057947,2.7669621082559104,0.7018036158547901,0.7822880762611039,548,Top cause,Focus on primary cause,BC,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.749685443231331,2.600132112067037,0.7114802338539772,0.7878906526086848,113,Top cause,Focus on primary cause,BC,
-Labour force status,Employed,2018,top_cause/gs1datot,0.7841313477845925,1.5714604934365224,0.7599800554581223,0.8082826401110627,1799,Top cause,Focus on primary cause,ON,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.7042571867510719,6.177916471231535,0.6189822490762088,0.7895321244259349,65,Top cause,Focus on primary cause,ON,
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7425528919058152,2.0434947782124127,0.7128123404452107,0.7722934433664197,1199,Top cause,Focus on primary cause,ON,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.6124395721258458,18.311630332977007,0.39263417707309944,0.8322449671785921,226,Top cause,Focus on primary cause,ON,*
-Labour force status,Employed,2018,top_cause/gs1datot,0.8081797915324449,2.2157150155402214,0.7730827929125311,0.8432767901523587,857,Top cause,Focus on primary cause,PR,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.9522591124223119,17.827218774257254,0.6195330485262838,1.28498517631834,18,Top cause,Focus on primary cause,PR,*
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7391073875411351,5.108584600561739,0.6651032120943936,0.8131115629878767,552,Top cause,Focus on primary cause,PR,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.6862632302101221,4.970461102562128,0.6194079827527471,0.7531184776674972,172,Top cause,Focus on primary cause,PR,
-Labour force status,Employed,2018,top_cause/gs1datot,0.7440328774947796,2.643848149865135,0.7054782310050478,0.7825875239845115,763,Top cause,Focus on primary cause,QC,
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.7496436652716291,12.155352288820731,0.5710481633539856,0.9282391671892726,34,Top cause,Focus on primary cause,QC,
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7053586917884661,3.673859740577458,0.6545684026407083,0.756148980936224,587,Top cause,Focus on primary cause,QC,
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.7545538607773818,5.064183705551788,0.679659729412393,0.8294479921423706,125,Top cause,Focus on primary cause,QC,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.80985147819368,3.9186713125642334,0.7476512027606476,0.8720517536267124,220,Top cause,Focus on primary cause,AB,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.8073664188355647,2.793592259083289,0.763160360620289,0.8515724770508404,250,Top cause,Focus on primary cause,AB,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.8091307280441,4.226254826716163,0.7421079437872409,0.8761535123009592,221,Top cause,Focus on primary cause,AB,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.8078298881646504,7.361783454520536,0.6912694834155468,0.924390292913754,113,Top cause,Focus on primary cause,AB,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7065435453267447,6.9189301555307505,0.6107302072893135,0.8023568833641759,93,Top cause,Focus on primary cause,AB,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.742398164090755,5.439253597832249,0.6632530174810485,0.8215433107004615,116,Top cause,Focus on primary cause,AB,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.8172483218952803,2.1563476599761633,0.7827084350573176,0.851788208733243,892,Top cause,Focus on primary cause,AT,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.7681466197999712,2.326266060769992,0.7331237605028722,0.8031694790970703,1045,Top cause,Focus on primary cause,AT,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.7394463689442375,4.5129101783617225,0.6740412919226437,0.8048514459658314,636,Top cause,Focus on primary cause,AT,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.7735450742997604,2.9520731623401963,0.7287880883224579,0.8183020602770629,388,Top cause,Focus on primary cause,AT,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7509350887833373,5.978189967383665,0.6629477463682614,0.8389224311984131,111,Top cause,Focus on primary cause,AT,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.7227589562824491,5.448556473130563,0.6455757119693268,0.7999422005955714,140,Top cause,Focus on primary cause,AT,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.81593525753559,2.939794546613121,0.7689219538302994,0.8629485612408807,362,Top cause,Focus on primary cause,BC,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.7370605100868075,2.9255571721857216,0.6947975585249917,0.7793234616486233,435,Top cause,Focus on primary cause,BC,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.760540639061462,3.488282811879074,0.7085431701008303,0.8125381080220936,354,Top cause,Focus on primary cause,BC,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.7822743468251242,5.246646225530091,0.7018312167313376,0.8627174769189108,182,Top cause,Focus on primary cause,BC,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7261216183690874,5.056242147040519,0.6541625847362831,0.7980806520018917,80,Top cause,Focus on primary cause,BC,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.7570221716747506,5.781759940128783,0.6712361069096119,0.8428082364398893,119,Top cause,Focus on primary cause,BC,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.7783815790305572,2.0709996896861282,0.7467864106407172,0.8099767474203972,800,Top cause,Focus on primary cause,ON,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.8086342322686176,1.9033695405518212,0.7784678431571896,0.8388006213800456,873,Top cause,Focus on primary cause,ON,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.7760442808373218,2.175798757249837,0.7429499718005839,0.8091385898740597,699,Top cause,Focus on primary cause,ON,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.7006400781496978,12.053733209667008,0.5351146796445018,0.8661654766548937,433,Top cause,Focus on primary cause,ON,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7146046509367258,4.892495819859969,0.6460803848651485,0.783128917008303,224,Top cause,Focus on primary cause,ON,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.6843353307054763,4.0778077636383925,0.6296408124286889,0.7390298489822636,260,Top cause,Focus on primary cause,ON,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.8204010547033728,3.64371138380067,0.7618117599340228,0.8789903494727227,379,Top cause,Focus on primary cause,PR,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.7556359078479156,5.134790478366508,0.6795886767906153,0.8316831389052158,517,Top cause,Focus on primary cause,PR,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.7788106712730425,3.2033128740888026,0.7299139944820362,0.8277073480640488,333,Top cause,Focus on primary cause,PR,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.717448961743427,4.126699559908704,0.6594203802840246,0.7754775432028294,212,Top cause,Focus on primary cause,PR,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7334703553096689,8.575948788584913,0.6101846183360593,0.8567560922832784,71,Top cause,Focus on primary cause,PR,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.7854077466275969,9.407539404862415,0.6405908229458985,0.9302246703092953,87,Top cause,Focus on primary cause,PR,
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.8041855759851168,3.2045140680312625,0.7536768338777384,0.8546943180924951,393,Top cause,Focus on primary cause,QC,
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.7057046078536776,3.8123888361944345,0.6529733375957542,0.7584358781116011,505,Top cause,Focus on primary cause,QC,
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.7294179739108677,4.247614653859318,0.6686926748674574,0.790143272954278,327,Top cause,Focus on primary cause,QC,
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.6878568601218519,3.371704208288257,0.642400397958893,0.7333133222848107,150,Top cause,Focus on primary cause,QC,
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7445766608820704,7.724808825201233,0.6318451701117266,0.8573081516524143,64,Top cause,Focus on primary cause,QC,
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.6897131457482065,6.605725161276505,0.6004160992062743,0.7790101922901388,70,Top cause,Focus on primary cause,QC,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8365022190403951,2.741070661438952,0.7915619757026187,0.8814424623781716,193,Top cause,Focus on primary cause,AB,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7056871158387307,7.638860722284152,0.6000324037130461,0.8113418279644152,93,Top cause,Focus on primary cause,AB,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.8272126519102079,6.104764669975749,0.7282356746588192,0.9261896291615965,66,Top cause,Focus on primary cause,AB,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.8141161768151426,6.757082701876257,0.7062975714644883,0.9219347821657968,108,Top cause,Focus on primary cause,AB,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7311710974965916,3.0911240242324673,0.6868731568088002,0.775469038184383,462,Top cause,Focus on primary cause,AB,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8349366227312705,1.6014872919696272,0.8087291526468107,0.8611440928157302,630,Top cause,Focus on primary cause,AT,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7475106762515618,3.7925531931800553,0.6919462068382688,0.8030751456648547,294,Top cause,Focus on primary cause,AT,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.6567824067839798,4.022524623031991,0.6050016595808946,0.708563153987065,312,Top cause,Focus on primary cause,AT,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.6363021999823927,7.555124781761076,0.5420800179813015,0.7305243819834839,470,Top cause,Focus on primary cause,AT,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7481679084866147,2.9715018884451667,0.7045943350583005,0.791741481914929,1224,Top cause,Focus on primary cause,AT,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8190055673692846,2.518271923696359,0.7785817271576053,0.859429407580964,243,Top cause,Focus on primary cause,BC,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7957948450447544,3.3579334510859873,0.7434201753038857,0.8481695147856231,87,Top cause,Focus on primary cause,BC,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.7308170929508242,6.550087134970201,0.6369952704648598,0.8246389154367886,99,Top cause,Focus on primary cause,BC,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.6658802868971658,6.321963001244647,0.5833722605037397,0.748388313290592,158,Top cause,Focus on primary cause,BC,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7262987536829295,2.8949661422295834,0.6850883490470101,0.7675091583188489,825,Top cause,Focus on primary cause,BC,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8336106628061656,1.6216630903242812,0.8071151710619494,0.8601061545503818,614,Top cause,Focus on primary cause,ON,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7267113282772365,3.2898339966960677,0.6798533005027227,0.7735693560517503,319,Top cause,Focus on primary cause,ON,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.7274627651006994,4.073617908764071,0.66938108756645,0.7855444426349488,321,Top cause,Focus on primary cause,ON,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.7398952794806074,4.796427101768287,0.6703390237055802,0.8094515352556346,434,Top cause,Focus on primary cause,ON,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7125130774819488,2.532288728201062,0.677149666142725,0.7478764888211726,1355,Top cause,Focus on primary cause,ON,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8255734974499029,3.4698980090163123,0.769427274800956,0.8817197200988499,314,Top cause,Focus on primary cause,PR,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7648416074474476,6.082509353520494,0.673661020810201,0.8560221940846942,157,Top cause,Focus on primary cause,PR,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.6218081836397201,9.227096696003315,0.5093555589795836,0.7342608082998566,125,Top cause,Focus on primary cause,PR,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.7437517083852452,5.884656355924802,0.6579695096098511,0.8295339071606392,196,Top cause,Focus on primary cause,PR,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7345973274850452,2.826370271221004,0.6939036919185348,0.7752909630515556,664,Top cause,Focus on primary cause,PR,
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.7325467475419077,5.8536378231713275,0.6485022502740576,0.8165912448097579,141,Top cause,Focus on primary cause,QC,
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7105615159681272,9.213344099718073,0.5822495778610449,0.8388734540752095,90,Top cause,Focus on primary cause,QC,
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.6698714254717871,6.776349388025194,0.5809031169639688,0.7588397339796055,146,Top cause,Focus on primary cause,QC,
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.7526180658919255,4.2791611264384235,0.6894959759723019,0.815740155811549,273,Top cause,Focus on primary cause,QC,
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.730554654111635,2.1963132325708834,0.6991065056521055,0.7620028025711645,747,Top cause,Focus on primary cause,QC,
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7923539166104914,2.530020927610258,0.7530630675767989,0.8316447656441839,755,Top cause,Focus on primary cause,AB,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.8054629943586894,3.0968989166277345,0.7565729182394011,0.8543530704779777,164,Top cause,Focus on primary cause,AB,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.6081804860286294,9.95031707360139,0.4895715275264719,0.7267894445307869,13,Top cause,Focus on primary cause,AB,...
-Immigration status,Unknown,2018,top_cause/gs1datot,0.7950225028897486,3.978657368449259,0.7330264481743124,0.8570185576051849,81,Top cause,Focus on primary cause,AB,
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7714529057112784,1.6823940536765989,0.7460147726388328,0.7968910387837241,2782,Top cause,Focus on primary cause,AT,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.690773975928495,5.551243400542156,0.6156161292842108,0.7659318225727791,90,Top cause,Focus on primary cause,AT,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.9342840787062857,9.113889054737163,0.7673939012056585,1.101174256206913,22,Top cause,Focus on primary cause,AT,
-Immigration status,Unknown,2018,top_cause/gs1datot,0.7774352166067358,2.6521703279383058,0.7370229031839017,0.8178475300295698,318,Top cause,Focus on primary cause,AT,
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7507475245826761,2.290570026207416,0.7170432042885048,0.7844518448768475,1002,Top cause,Focus on primary cause,BC,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.8063901629689558,3.050715437351169,0.7581737373669002,0.8546065885710115,388,Top cause,Focus on primary cause,BC,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.7438393748122454,9.328511625533515,0.6078391544870038,0.879839595137487,35,Top cause,Focus on primary cause,BC,
-Immigration status,Unknown,2018,top_cause/gs1datot,0.7385433050992608,2.7571733007669628,0.6986327175864626,0.778453892612059,107,Top cause,Focus on primary cause,BC,
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7610318817819303,1.5874085295837743,0.7373541742650109,0.7847095892988496,2190,Top cause,Focus on primary cause,ON,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.7856465516746902,2.1270944061663077,0.7528927235933217,0.8184003797560587,804,Top cause,Focus on primary cause,ON,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.7624983545719374,9.037961148311025,0.6274287986685942,0.8975679104752805,75,Top cause,Focus on primary cause,ON,
-Immigration status,Unknown,2018,top_cause/gs1datot,0.6078485760386733,19.117807385949508,0.3800864141667426,0.8356107379106039,220,Top cause,Focus on primary cause,ON,*
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7737467807848998,2.2857772830795517,0.739082606597208,0.8084109549725915,1261,Top cause,Focus on primary cause,PR,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.8976527833586683,2.8029207939643177,0.8483391163416982,0.9469664503756383,161,Top cause,Focus on primary cause,PR,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.5424660018246056,27.287892996068635,0.2523373505534375,0.8325946530957737,24,Top cause,Focus on primary cause,PR,*
-Immigration status,Unknown,2018,top_cause/gs1datot,0.707651670145016,4.410897339413787,0.6464737684901146,0.7688295717999173,153,Top cause,Focus on primary cause,PR,
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7111513324418519,2.5064549170968133,0.676215586827795,0.7460870780559088,1221,Top cause,Focus on primary cause,QC,
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.8015914664109137,3.575113114258297,0.7454232073234941,0.8577597254983333,148,Top cause,Focus on primary cause,QC,
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.8260297226650409,7.073501102437156,0.7115105528035552,0.9405488925265266,32,Top cause,Focus on primary cause,QC,
-Immigration status,Unknown,2018,top_cause/gs1datot,0.7564241701024783,5.440960615138861,0.6757584396712548,0.8370899005337018,108,Top cause,Focus on primary cause,QC,
-Age group,15 to 24 years,2018,top_cause/gs1datot,0.7862920973647576,5.592186028609919,0.7001106840442749,0.8724735106852403,362,Top cause,Focus on primary cause,CA (without QC),
-Age group,25 to 34 years,2018,top_cause/gs1datot,0.7686650477289009,6.189190967079937,0.6754214316394818,0.86190866381832,1139,Top cause,Focus on primary cause,CA (without QC),
-Age group,35 to 44 years,2018,top_cause/gs1datot,0.801243545300288,2.0616984322988428,0.768866458047587,0.8336206325529889,1616,Top cause,Focus on primary cause,CA (without QC),
-Age group,45 to 54 years,2018,top_cause/gs1datot,0.7460767264650544,2.182480562892523,0.7141626730068972,0.7779907799232116,1750,Top cause,Focus on primary cause,CA (without QC),
-Age group,55 to 64 years,2018,top_cause/gs1datot,0.7744602053292179,1.4322339954909906,0.7527201234248074,0.7962002872336283,2347,Top cause,Focus on primary cause,CA (without QC),
-Age group,65 to 74 years,2018,top_cause/gs1datot,0.7492834278964561,1.6588029333879886,0.7249227699940677,0.7736440857988445,2139,Top cause,Focus on primary cause,CA (without QC),
-Age group,75 years and over,2018,top_cause/gs1datot,0.758331006617945,1.9825658644807846,0.7288641012023139,0.787797912033576,1292,Top cause,Focus on primary cause,CA (without QC),
-Gender,Male gender,2018,top_cause/gs1datot,0.7801047222452536,1.1260818164183728,0.76288718847189,0.7973222560186173,4476,Top cause,Focus on primary cause,CA (without QC),
-Gender,Female gender,2018,top_cause/gs1datot,0.7576297521137874,1.9225399172595117,0.7290814372629447,0.78617806696463,6169,Top cause,Focus on primary cause,CA (without QC),
-Education,Less than High School,2018,top_cause/gs1datot,0.7952203116806598,2.960530033300511,0.7490773967130356,0.8413632266482839,798,Top cause,Focus on primary cause,CA (without QC),
-Education,Graduated from High school,2018,top_cause/gs1datot,0.7791720718124984,1.627596519789315,0.7543162446055274,0.8040278990194694,2155,Top cause,Focus on primary cause,CA (without QC),
-Education,Post-secondary diploma,2018,top_cause/gs1datot,0.7867542178211314,1.36601288283353,0.7656901635007063,0.8078182721415565,3383,Top cause,Focus on primary cause,CA (without QC),
-Education,University Diploma,2018,top_cause/gs1datot,0.763397234674837,1.3690155803645516,0.7429135979911539,0.7838808713585201,3321,Top cause,Focus on primary cause,CA (without QC),
-Marital status,Married,2018,top_cause/gs1datot,0.7683864887216107,1.5730938982883222,0.7446955397564278,0.7920774376867937,5896,Top cause,Focus on primary cause,CA (without QC),
-Marital status,Living common-law,2018,top_cause/gs1datot,0.7316515675929204,2.2841462827814283,0.6988966649981938,0.764406470187647,762,Top cause,Focus on primary cause,CA (without QC),
-Marital status,Widowed,2018,top_cause/gs1datot,0.7552628587936917,2.38101987404721,0.7200169072706402,0.7905088103167432,1008,Top cause,Focus on primary cause,CA (without QC),
-Marital status,Separated,2018,top_cause/gs1datot,0.7728231735927533,3.9057847500719896,0.7136620337805086,0.831984313404998,329,Top cause,Focus on primary cause,CA (without QC),
-Marital status,Divorced,2018,top_cause/gs1datot,0.7379757091315013,3.0908920820324433,0.6932688664340206,0.782682551828982,883,Top cause,Focus on primary cause,CA (without QC),
-Marital status,"Single, never married",2018,top_cause/gs1datot,0.7939801415433505,2.272759182357695,0.7586120885684405,0.8293481945182605,1767,Top cause,Focus on primary cause,CA (without QC),
-Labour force status,Employed,2018,top_cause/gs1datot,0.786453339499374,1.024141514624022,0.7706670151019179,0.8022396638968301,5670,Top cause,Focus on primary cause,CA (without QC),
-Labour force status,Unemployed,2018,top_cause/gs1datot,0.8135224613185901,5.328468226865686,0.7285613822222811,0.8984835404148991,186,Top cause,Focus on primary cause,CA (without QC),
-Labour force status,Not in labour force,2018,top_cause/gs1datot,0.7540685543644349,1.3733556367757978,0.7337710830689118,0.7743660256599579,3836,Top cause,Focus on primary cause,CA (without QC),
-Labour force status,Unable to determine,2018,top_cause/gs1datot,0.6818954200780128,9.036378158648112,0.5611250876446782,0.8026657525113475,953,Top cause,Focus on primary cause,CA (without QC),
-Personal income category,"Less than $25,000",2018,top_cause/gs1datot,0.7981243761156902,1.341771096692796,0.7771351175043449,0.8191136347270355,2653,Top cause,Focus on primary cause,CA (without QC),
-Personal income category,"$25,000 to $49,999",2018,top_cause/gs1datot,0.7904187276637624,1.3147745947322793,0.7700503416827867,0.8107871136447381,3120,Top cause,Focus on primary cause,CA (without QC),
-Personal income category,"$50,000 to $74,999",2018,top_cause/gs1datot,0.7774480291144931,1.5404947244657154,0.7539744305423173,0.8009216276866689,2243,Top cause,Focus on primary cause,CA (without QC),
-Personal income category,"$75,000 to $99,999",2018,top_cause/gs1datot,0.7419922510766552,5.972687014034637,0.65513277251189606,0.8288517296414144,1328,Top cause,Focus on primary cause,CA (without QC),
-Personal income category,"$100,000 to $124,999",2018,top_cause/gs1datot,0.7187963324918499,3.1279659431695603,0.6747290814698582,0.7628635835138416,579,Top cause,Focus on primary cause,CA (without QC),
-Personal income category,"$125,000 and more",2018,top_cause/gs1datot,0.7149914221642032,2.679006750715227,0.677448961833443,0.7525338824949633,722,Top cause,Focus on primary cause,CA (without QC),
-Frequency of religious attendance,At least once a week,2018,top_cause/gs1datot,0.8311819858313854,1.09830813213942,0.8132895935015372,0.8490743781612335,1994,Top cause,Focus on primary cause,CA (without QC),
-Frequency of religious attendance,At least once a month,2018,top_cause/gs1datot,0.7353598717475878,2.3719101313968047,0.7011740323435453,0.7695457111516303,950,Top cause,Focus on primary cause,CA (without QC),
-Frequency of religious attendance,At least 3 times a year,2018,top_cause/gs1datot,0.7260843441084075,2.886353792979342,0.6850086674049272,0.7671600208118878,923,Top cause,Focus on primary cause,CA (without QC),
-Frequency of religious attendance,Once or twice a year,2018,top_cause/gs1datot,0.7306798361674354,3.3438663824087813,0.682792119618535,0.7785675527163357,1366,Top cause,Focus on primary cause,CA (without QC),
-Frequency of religious attendance,Not at all,2018,top_cause/gs1datot,0.7223084574727112,1.473505423801827,0.7014480623714282,0.7431688525739942,4530,Top cause,Focus on primary cause,CA (without QC),
-Immigration status,Native-born,2018,top_cause/gs1datot,0.7687851069988846,0.964561635372296,0.754251177915038,0.7833190360827311,7990,Top cause,Focus on primary cause,CA (without QC),
-Immigration status,Naturalized,2018,top_cause/gs1datot,0.7987634910254748,1.4145708170142417,0.7766177104944859,0.8209092715564638,1607,Top cause,Focus on primary cause,CA (without QC),
-Immigration status,Non-Canadian,2018,top_cause/gs1datot,0.7171715070721151,7.771407774098137,0.6079342427510964,0.8264087713931337,169,Top cause,Focus on primary cause,CA (without QC),
-Immigration status,Unknown,2018,top_cause/gs1datot,0.6840721600397368,9.273865614265455,0.5597321765177878,0.8084121435616858,879,Top cause,Focus on primary cause,CA (without QC),
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Province,Marker
+All,NA,2018,top_cause,0.7177785709030787,1.2977669057005286,0.6995213246016234,0.736035817204534,897,Top cause,Focus on primary cause,10,NL,NA
+All,NA,2018,top_cause,0.7331749872178082,1.7515317851306187,0.7080055355550628,0.7583444388805535,598,Top cause,Focus on primary cause,11,PE,NA
+All,NA,2018,top_cause,0.7421144940978665,1.5016404270417543,0.7202728685839482,0.7639561196117847,880,Top cause,Focus on primary cause,12,NS,NA
+All,NA,2018,top_cause,0.7583392677613466,1.3309807373340599,0.7385566661059885,0.7781218694167048,837,Top cause,Focus on primary cause,13,NB,NA
+All,NA,2018,top_cause,0.7392106992843638,1.130991320311521,0.7228245990468021,0.7555967995219255,1509,Top cause,Focus on primary cause,24,QC,NA
+All,NA,2018,top_cause,0.7681976225833727,0.6746237134637736,0.7580402203081565,0.7783550248585888,3289,Top cause,Focus on primary cause,35,ON,NA
+All,NA,2018,top_cause,0.7805663519651593,1.2472104604043088,0.7614855044101262,0.7996471995201925,850,Top cause,Focus on primary cause,46,MB,NA
+All,NA,2018,top_cause,0.7613943063415332,1.3471666816356818,0.7412904649557521,0.7814981477273142,749,Top cause,Focus on primary cause,47,SK,NA
+All,NA,2018,top_cause,0.77034511906245,1.3007833162001663,0.7507052592156988,0.7899849789092012,1013,Top cause,Focus on primary cause,48,AB,NA
+All,NA,2018,top_cause,0.7801249158039911,1.0298641480402553,0.764378120597488,0.7958717110104943,1532,Top cause,Focus on primary cause,59,BC,NA
+Age group,15 to 24 years,2018,top_cause,0.6743153407842467,6.727184566867852,0.5854065969602689,0.7632240846082246,31,Top cause,Focus on primary cause,10,NL,NA
+Age group,25 to 34 years,2018,top_cause,0.7638736680392822,4.210820316374427,0.7008307451828146,0.8269165908957499,78,Top cause,Focus on primary cause,10,NL,NA
+Age group,35 to 44 years,2018,top_cause,0.6314270478701387,4.024269504940969,0.5816237238132832,0.6812303719269942,151,Top cause,Focus on primary cause,10,NL,NA
+Age group,45 to 54 years,2018,top_cause,0.7133476422951672,2.840654507468138,0.6736314378717942,0.7530638467185402,196,Top cause,Focus on primary cause,10,NL,NA
+Age group,55 to 64 years,2018,top_cause,0.7160698804905086,2.455755779247002,0.6816040559715179,0.7505357050094993,200,Top cause,Focus on primary cause,10,NL,NA
+Age group,65 to 74 years,2018,top_cause,0.72350853959095,3.407697675449163,0.6751856595283061,0.7718314196535938,167,Top cause,Focus on primary cause,10,NL,NA
+Age group,75 years and over,2018,top_cause,0.8253724666058201,2.9235568615055056,0.7780780782416278,0.8726668549700124,74,Top cause,Focus on primary cause,10,NL,NA
+Age group,15 to 24 years,2018,top_cause,0.792284762763556,6.56601229493599,0.6903244670717827,0.8942450584553292,26,Top cause,Focus on primary cause,11,PE,NA
+Age group,25 to 34 years,2018,top_cause,0.688258016256415,6.932740324149608,0.5947380583258522,0.7817779741869778,57,Top cause,Focus on primary cause,11,PE,NA
+Age group,35 to 44 years,2018,top_cause,0.7482738101181721,4.262303407065017,0.6857633065828802,0.8107843136534639,73,Top cause,Focus on primary cause,11,PE,NA
+Age group,45 to 54 years,2018,top_cause,0.7537478016290435,3.9743521403264612,0.695033960431532,0.8124616428265551,80,Top cause,Focus on primary cause,11,PE,NA
+Age group,55 to 64 years,2018,top_cause,0.697978583701828,3.2723984630779808,0.6532117510444818,0.7427454163591741,145,Top cause,Focus on primary cause,11,PE,NA
+Age group,65 to 74 years,2018,top_cause,0.7557254748450337,2.9711596767150947,0.7117168148018409,0.7997341348882265,129,Top cause,Focus on primary cause,11,PE,NA
+Age group,75 years and over,2018,top_cause,0.7024499950744172,3.5296146372368358,0.6538550834567146,0.7510449066921198,88,Top cause,Focus on primary cause,11,PE,NA
+Age group,15 to 24 years,2018,top_cause,0.8273343022502775,6.723829497766365,0.7183043519327211,0.9363642525678338,23,Top cause,Focus on primary cause,12,NS,NA
+Age group,25 to 34 years,2018,top_cause,0.7772417475795222,4.756624409587869,0.7047809565417537,0.8497025386172908,59,Top cause,Focus on primary cause,12,NS,NA
+Age group,35 to 44 years,2018,top_cause,0.7626568197491862,3.752942621215918,0.7065585878160292,0.8187550516823432,115,Top cause,Focus on primary cause,12,NS,NA
+Age group,45 to 54 years,2018,top_cause,0.7182684914648068,2.9021638000938457,0.677412399051215,0.7591245838783985,137,Top cause,Focus on primary cause,12,NS,NA
+Age group,55 to 64 years,2018,top_cause,0.7133627981840418,2.700031525544664,0.6756118918112978,0.7511137045567858,219,Top cause,Focus on primary cause,12,NS,NA
+Age group,65 to 74 years,2018,top_cause,0.7059801557630049,2.5255011411572057,0.6710349055973059,0.7409254059287038,218,Top cause,Focus on primary cause,12,NS,NA
+Age group,75 years and over,2018,top_cause,0.7304926637271476,3.069843129233316,0.6865405128329918,0.7744448146213034,109,Top cause,Focus on primary cause,12,NS,NA
+Age group,15 to 24 years,2018,top_cause,0.9238655492845341,2.973663113957276,0.8700201465638254,0.9777109520052428,27,Top cause,Focus on primary cause,13,NB,NA
+Age group,25 to 34 years,2018,top_cause,0.7534666166569617,4.42341840563881,0.6881430142525078,0.8187902190614156,67,Top cause,Focus on primary cause,13,NB,NA
+Age group,35 to 44 years,2018,top_cause,0.7422838995355104,3.6349245653601683,0.6894012100596933,0.7951665890113275,122,Top cause,Focus on primary cause,13,NB,NA
+Age group,45 to 54 years,2018,top_cause,0.7322357300468344,3.662816176726364,0.6796686164046583,0.7848028436890105,135,Top cause,Focus on primary cause,13,NB,NA
+Age group,55 to 64 years,2018,top_cause,0.7356448968782298,3.0236443977246554,0.6920488579856477,0.7792409357708118,191,Top cause,Focus on primary cause,13,NB,NA
+Age group,65 to 74 years,2018,top_cause,0.7535607703515542,2.478374416295049,0.716956370584837,0.7901651701182715,186,Top cause,Focus on primary cause,13,NB,NA
+Age group,75 years and over,2018,top_cause,0.7650297546179472,3.2072309563538006,0.7169395469168052,0.8131199623190892,109,Top cause,Focus on primary cause,13,NB,NA
+Age group,15 to 24 years,2018,top_cause,0.7850450708067697,5.160661030471589,0.7056400404397523,0.8644501011737871,44,Top cause,Focus on primary cause,24,QC,NA
+Age group,25 to 34 years,2018,top_cause,0.7716161985972987,3.0816889778479384,0.7250105847689403,0.8182218124256571,154,Top cause,Focus on primary cause,24,QC,NA
+Age group,35 to 44 years,2018,top_cause,0.7457036161096352,2.4100018606594773,0.7104801801548655,0.7809270520644049,254,Top cause,Focus on primary cause,24,QC,NA
+Age group,45 to 54 years,2018,top_cause,0.7441104920436566,2.8573148899210925,0.7024385612114435,0.7857824228758697,204,Top cause,Focus on primary cause,24,QC,NA
+Age group,55 to 64 years,2018,top_cause,0.7077665761905714,2.3498171138733395,0.6751699837097551,0.7403631686713876,354,Top cause,Focus on primary cause,24,QC,NA
+Age group,65 to 74 years,2018,top_cause,0.7116297423117376,2.488332358456045,0.6769232622885042,0.746336222334971,300,Top cause,Focus on primary cause,24,QC,NA
+Age group,75 years and over,2018,top_cause,0.7273245073320259,2.709112176909386,0.6887053048661688,0.7659437097978831,199,Top cause,Focus on primary cause,24,QC,NA
+Age group,15 to 24 years,2018,top_cause,0.8512915456335817,2.8493882037181466,0.8037494815203742,0.8988336097467892,99,Top cause,Focus on primary cause,35,ON,NA
+Age group,25 to 34 years,2018,top_cause,0.7823369083881584,2.1435439549742954,0.749468830763613,0.8152049860127037,375,Top cause,Focus on primary cause,35,ON,NA
+Age group,35 to 44 years,2018,top_cause,0.760322282912896,1.7711459384459585,0.7339285901356003,0.7867159756901918,510,Top cause,Focus on primary cause,35,ON,NA
+Age group,45 to 54 years,2018,top_cause,0.7573260394153687,1.4286327947265407,0.7361203890836304,0.778531689747107,552,Top cause,Focus on primary cause,35,ON,NA
+Age group,55 to 64 years,2018,top_cause,0.7444632317127262,1.6293755269996004,0.7206886692420449,0.7682377941834075,687,Top cause,Focus on primary cause,35,ON,NA
+Age group,65 to 74 years,2018,top_cause,0.7397158117005276,1.6811829607946556,0.7153417462660879,0.7640898771349672,648,Top cause,Focus on primary cause,35,ON,NA
+Age group,75 years and over,2018,top_cause,0.7764328691947208,1.6912908576044063,0.7506951354013427,0.8021706029880988,418,Top cause,Focus on primary cause,35,ON,NA
+Age group,15 to 24 years,2018,top_cause,0.8909098640982904,3.239842114588322,0.8343373206102018,0.947482407586379,39,Top cause,Focus on primary cause,46,MB,NA
+Age group,25 to 34 years,2018,top_cause,0.7769012800761261,3.400633276682266,0.7251198872126667,0.8286826729395855,114,Top cause,Focus on primary cause,46,MB,NA
+Age group,35 to 44 years,2018,top_cause,0.8163211358013748,3.2597702903463497,0.7641661142167505,0.868476157385999,125,Top cause,Focus on primary cause,46,MB,NA
+Age group,45 to 54 years,2018,top_cause,0.7750732448108592,3.5486465032970065,0.721165200586081,0.8289812890356373,119,Top cause,Focus on primary cause,46,MB,NA
+Age group,55 to 64 years,2018,top_cause,0.7327159577472985,2.9604643678264666,0.6902008210881521,0.7752310944064449,181,Top cause,Focus on primary cause,46,MB,NA
+Age group,65 to 74 years,2018,top_cause,0.7521350141252078,2.685026337697239,0.7125534959386206,0.791716532311795,169,Top cause,Focus on primary cause,46,MB,NA
+Age group,75 years and over,2018,top_cause,0.7370160200149929,3.6809901749930716,0.683843202017597,0.7901888380123888,103,Top cause,Focus on primary cause,46,MB,NA
+Age group,15 to 24 years,2018,top_cause,0.8900174340366885,4.202373119534462,0.8167111484036707,0.9633237196697064,26,Top cause,Focus on primary cause,47,SK,NA
+Age group,25 to 34 years,2018,top_cause,0.7492006430982407,3.546041362183282,0.6971303491272802,0.8012709370692013,95,Top cause,Focus on primary cause,47,SK,NA
+Age group,35 to 44 years,2018,top_cause,0.7465895081739395,3.3622093176269336,0.6973906842943173,0.7957883320535618,109,Top cause,Focus on primary cause,47,SK,NA
+Age group,45 to 54 years,2018,top_cause,0.7321834560132866,3.4531945227742833,0.6826282773786234,0.7817386346479498,111,Top cause,Focus on primary cause,47,SK,NA
+Age group,55 to 64 years,2018,top_cause,0.7347709564479638,2.763730165445465,0.6949697981392691,0.7745721147566584,158,Top cause,Focus on primary cause,47,SK,NA
+Age group,65 to 74 years,2018,top_cause,0.7276436616470864,3.1562260531149957,0.6826309742883976,0.7726563490057752,150,Top cause,Focus on primary cause,47,SK,NA
+Age group,75 years and over,2018,top_cause,0.8452318643497271,2.362161001068066,0.8060997379871364,0.8843639907123177,100,Top cause,Focus on primary cause,47,SK,NA
+Age group,15 to 24 years,2018,top_cause,0.816948360956892,4.57799070509148,0.7436460606698051,0.890250661243979,42,Top cause,Focus on primary cause,48,AB,NA
+Age group,25 to 34 years,2018,top_cause,0.8018056379017848,3.091477504351335,0.7532227544283391,0.8503885213752306,132,Top cause,Focus on primary cause,48,AB,NA
+Age group,35 to 44 years,2018,top_cause,0.7589454956426555,2.983877766269471,0.7145601396799077,0.8033308516054032,183,Top cause,Focus on primary cause,48,AB,NA
+Age group,45 to 54 years,2018,top_cause,0.7586277402421167,2.5250982758070926,0.7210824820199744,0.7961729984642589,173,Top cause,Focus on primary cause,48,AB,NA
+Age group,55 to 64 years,2018,top_cause,0.7381082310415505,2.723763951078001,0.6987044763106788,0.7775119857724223,252,Top cause,Focus on primary cause,48,AB,NA
+Age group,65 to 74 years,2018,top_cause,0.7571421876805322,2.6635865363151336,0.7176153247604923,0.7966690506005721,139,Top cause,Focus on primary cause,48,AB,NA
+Age group,75 years and over,2018,top_cause,0.7702927769723513,3.71516721839453,0.7142031847686635,0.8263823691760391,92,Top cause,Focus on primary cause,48,AB,NA
+Age group,15 to 24 years,2018,top_cause,0.8303464710717152,4.899595635517378,0.7506080421766297,0.9100848999668008,49,Top cause,Focus on primary cause,59,BC,NA
+Age group,25 to 34 years,2018,top_cause,0.8020210945620827,2.739561587190116,0.7589570367063346,0.8450851524178308,162,Top cause,Focus on primary cause,59,BC,NA
+Age group,35 to 44 years,2018,top_cause,0.769308822143534,2.775561533675999,0.7274584172731954,0.8111592270138727,228,Top cause,Focus on primary cause,59,BC,NA
+Age group,45 to 54 years,2018,top_cause,0.7719523298183582,2.344525223648529,0.7364796921575945,0.8074249674791218,247,Top cause,Focus on primary cause,59,BC,NA
+Age group,55 to 64 years,2018,top_cause,0.7783579930159601,2.1791172312333758,0.7451143909190483,0.8116015951128719,314,Top cause,Focus on primary cause,59,BC,NA
+Age group,65 to 74 years,2018,top_cause,0.768172944127914,1.9087569709233976,0.7394348651517761,0.7969110231040519,333,Top cause,Focus on primary cause,59,BC,NA
+Age group,75 years and over,2018,top_cause,0.7528904690344356,3.3714801038995907,0.7031396205941507,0.8026413174747205,199,Top cause,Focus on primary cause,59,BC,NA
+Gender,Male gender,2018,top_cause,0.7286381155236773,2.048178519013235,0.6993879866590781,0.7578882443882765,377,Top cause,Focus on primary cause,10,NL,NA
+Gender,Female gender,2018,top_cause,0.7082145937424267,1.726864295676775,0.6842444204941026,0.7321847669907507,520,Top cause,Focus on primary cause,10,NL,NA
+Gender,Male gender,2018,top_cause,0.7245123930449622,2.86081663077521,0.683888276313132,0.7651365097767924,252,Top cause,Focus on primary cause,11,PE,NA
+Gender,Female gender,2018,top_cause,0.7408016115265251,2.1348275142389643,0.7098051013127042,0.771798121740346,346,Top cause,Focus on primary cause,11,PE,NA
+Gender,Male gender,2018,top_cause,0.7617662246888204,2.105632624637196,0.7303284060017221,0.7932040433759187,345,Top cause,Focus on primary cause,12,NS,NA
+Gender,Female gender,2018,top_cause,0.727120920907222,2.129895166729743,0.6967671285081894,0.7574747133062546,535,Top cause,Focus on primary cause,12,NS,NA
+Gender,Male gender,2018,top_cause,0.7705190312382139,1.9418519483821464,0.7411933860250496,0.7998446764513781,360,Top cause,Focus on primary cause,13,NB,NA
+Gender,Female gender,2018,top_cause,0.746697498111242,1.767305511415247,0.7208329783526647,0.7725620178698193,477,Top cause,Focus on primary cause,13,NB,NA
+Gender,Male gender,2018,top_cause,0.7456101266722838,1.572880169091304,0.7226245435560454,0.7685957097885221,673,Top cause,Focus on primary cause,24,QC,NA
+Gender,Female gender,2018,top_cause,0.7335727026907458,1.5571837635703747,0.7111838870582887,0.7559615183232029,836,Top cause,Focus on primary cause,24,QC,NA
+Gender,Male gender,2018,top_cause,0.7725537022582657,1.0636007795725713,0.7564488992815596,0.7886585052349718,1400,Top cause,Focus on primary cause,35,ON,NA
+Gender,Female gender,2018,top_cause,0.7643812903918297,0.8561110960950252,0.7515553781100116,0.7772072026736477,1889,Top cause,Focus on primary cause,35,ON,NA
+Gender,Male gender,2018,top_cause,0.778585500295328,2.107875427015267,0.7464193309866014,0.8107516696040546,360,Top cause,Focus on primary cause,46,MB,NA
+Gender,Female gender,2018,top_cause,0.7823082354692762,1.4902665221351334,0.7594580389978288,0.8051584319407236,490,Top cause,Focus on primary cause,46,MB,NA
+Gender,Male gender,2018,top_cause,0.7746924278285451,1.9576644578090923,0.7449678525334301,0.80441700312366,318,Top cause,Focus on primary cause,47,SK,NA
+Gender,Female gender,2018,top_cause,0.7497402223541562,1.8583606378409105,0.7224322848836866,0.7770481598246257,431,Top cause,Focus on primary cause,47,SK,NA
+Gender,Male gender,2018,top_cause,0.7771003977909922,2.0211464931769476,0.7463165420826623,0.807884253499322,455,Top cause,Focus on primary cause,48,AB,NA
+Gender,Female gender,2018,top_cause,0.7645618584928352,1.614030487988482,0.7403753904016416,0.7887483265840288,558,Top cause,Focus on primary cause,48,AB,NA
+Gender,Male gender,2018,top_cause,0.7793056783992208,1.7260727749260103,0.7529414518863011,0.8056699049121405,609,Top cause,Focus on primary cause,59,BC,NA
+Gender,Female gender,2018,top_cause,0.7807805697499453,1.2632138316258426,0.7614495857904514,0.8001115537094391,923,Top cause,Focus on primary cause,59,BC,NA
+Education,Less than High School,2018,top_cause,0.7494715700281498,4.526493683388044,0.6829802166236408,0.8159629234326587,80,Top cause,Focus on primary cause,10,NL,NA
+Education,Graduated from High school,2018,top_cause,0.7154100863526854,2.874954774429836,0.6750981028971286,0.7557220698082423,161,Top cause,Focus on primary cause,10,NL,NA
+Education,Post-secondary diploma,2018,top_cause,0.6943489752811949,2.1331202322104157,0.6653193637081388,0.7233785868542509,316,Top cause,Focus on primary cause,10,NL,NA
+Education,University Diploma,2018,top_cause,0.6830474259600852,3.3234761577963656,0.6385544435815793,0.727540408338591,194,Top cause,Focus on primary cause,10,NL,NA
+Education,Less than High School,2018,top_cause,0.7005910851137894,5.67639719345143,0.6226465853103613,0.7785355849172175,49,Top cause,Focus on primary cause,11,PE,NA
+Education,Graduated from High school,2018,top_cause,0.7438938299759349,4.164277755714523,0.683178447291712,0.8046092126601578,121,Top cause,Focus on primary cause,11,PE,NA
+Education,Post-secondary diploma,2018,top_cause,0.7293048192376291,3.0838321946347884,0.6852241770918177,0.7733854613834406,189,Top cause,Focus on primary cause,11,PE,NA
+Education,University Diploma,2018,top_cause,0.7206956839007628,3.055556564103831,0.6775347990245045,0.763856568777021,178,Top cause,Focus on primary cause,11,PE,NA
+Education,Less than High School,2018,top_cause,0.786787408641636,4.236121964517993,0.7214632315169778,0.8521115857662942,71,Top cause,Focus on primary cause,12,NS,NA
+Education,Graduated from High school,2018,top_cause,0.7577461752476887,3.053622946251193,0.7123951348788706,0.8030972156165068,179,Top cause,Focus on primary cause,12,NS,NA
+Education,Post-secondary diploma,2018,top_cause,0.740228514232933,2.866785110602326,0.6986365872806881,0.7818204411851779,280,Top cause,Focus on primary cause,12,NS,NA
+Education,University Diploma,2018,top_cause,0.7080040447373294,2.6993711393775066,0.670545885627882,0.7454622038467767,255,Top cause,Focus on primary cause,12,NS,NA
+Education,Less than High School,2018,top_cause,0.7692093808711391,5.113440809676122,0.6921179873387056,0.8463007744035727,69,Top cause,Focus on primary cause,13,NB,NA
+Education,Graduated from High school,2018,top_cause,0.8076823261978515,2.3874646291913675,0.7698880861744031,0.8454765662213,209,Top cause,Focus on primary cause,13,NB,NA
+Education,Post-secondary diploma,2018,top_cause,0.7360987219927125,2.2442510766894053,0.7037203061167511,0.768477137868674,260,Top cause,Focus on primary cause,13,NB,NA
+Education,University Diploma,2018,top_cause,0.7269246726897246,3.158633509287756,0.6819221624908438,0.7719271828886054,216,Top cause,Focus on primary cause,13,NB,NA
+Education,Less than High School,2018,top_cause,0.7382881071658581,2.982932624166347,0.6951245321756305,0.7814516821560857,166,Top cause,Focus on primary cause,24,QC,NA
+Education,Graduated from High school,2018,top_cause,0.7446691296906905,2.5059247348749105,0.7080945398584736,0.7812437195229075,283,Top cause,Focus on primary cause,24,QC,NA
+Education,Post-secondary diploma,2018,top_cause,0.7356049578761098,1.8202950670639892,0.7093606858374867,0.7618492299147329,502,Top cause,Focus on primary cause,24,QC,NA
+Education,University Diploma,2018,top_cause,0.7334156427165783,2.227904351050344,0.701390225131837,0.7654410603013196,446,Top cause,Focus on primary cause,24,QC,NA
+Education,Less than High School,2018,top_cause,0.7761504722746069,2.6153489245942803,0.736365079015438,0.8159358655337757,239,Top cause,Focus on primary cause,35,ON,NA
+Education,Graduated from High school,2018,top_cause,0.796054845243785,1.5164736783600672,0.7723942341219292,0.8197154563656408,609,Top cause,Focus on primary cause,35,ON,NA
+Education,Post-secondary diploma,2018,top_cause,0.7582307776873973,1.2696813899283983,0.7393619788614425,0.7770995765133522,1011,Top cause,Focus on primary cause,35,ON,NA
+Education,University Diploma,2018,top_cause,0.7629488246982402,1.1296068512396051,0.7460572235884011,0.7798404258080793,1212,Top cause,Focus on primary cause,35,ON,NA
+Education,Less than High School,2018,top_cause,0.8371228615250323,3.5804228978569053,0.7783777653100115,0.8958679577400532,77,Top cause,Focus on primary cause,46,MB,NA
+Education,Graduated from High school,2018,top_cause,0.7881719638258501,2.9695487231213775,0.7422987118170392,0.834045215834661,205,Top cause,Focus on primary cause,46,MB,NA
+Education,Post-secondary diploma,2018,top_cause,0.7917001409345171,2.079655573261239,0.7594300471512142,0.82397023471782,254,Top cause,Focus on primary cause,46,MB,NA
+Education,University Diploma,2018,top_cause,0.7410820227489743,2.7029091796603057,0.7018224270839929,0.7803416184139557,215,Top cause,Focus on primary cause,46,MB,NA
+Education,Less than High School,2018,top_cause,0.8849111772622347,3.378258399823095,0.8263188650229094,0.9435034895015599,55,Top cause,Focus on primary cause,47,SK,NA
+Education,Graduated from High school,2018,top_cause,0.7813639781131646,2.629823891916078,0.7410896648813982,0.821638291344931,180,Top cause,Focus on primary cause,47,SK,NA
+Education,Post-secondary diploma,2018,top_cause,0.7594340611791939,2.1845899582254478,0.7269172390242769,0.7919508833341109,243,Top cause,Focus on primary cause,47,SK,NA
+Education,University Diploma,2018,top_cause,0.7251873718574329,2.8823965757012733,0.6842186837718038,0.7661560599430619,180,Top cause,Focus on primary cause,47,SK,NA
+Education,Less than High School,2018,top_cause,0.8575175586121683,4.0070231086528905,0.7901713797374312,0.9248637374869053,60,Top cause,Focus on primary cause,48,AB,NA
+Education,Graduated from High school,2018,top_cause,0.7527381916506156,2.7470855090242647,0.7122093472952244,0.7932670360060068,202,Top cause,Focus on primary cause,48,AB,NA
+Education,Post-secondary diploma,2018,top_cause,0.7690744743061233,2.0526906023666807,0.7381330727318915,0.800015875880355,361,Top cause,Focus on primary cause,48,AB,NA
+Education,University Diploma,2018,top_cause,0.7501929906368415,2.3422700713049833,0.7157533935265885,0.7846325877470945,302,Top cause,Focus on primary cause,48,AB,NA
+Education,Less than High School,2018,top_cause,0.8586200482642831,2.6048411741668684,0.8147841042230377,0.9024559923055284,98,Top cause,Focus on primary cause,59,BC,NA
+Education,Graduated from High school,2018,top_cause,0.7794627554464305,2.8286665851806077,0.7362486806155951,0.8226768302772659,289,Top cause,Focus on primary cause,59,BC,NA
+Education,Post-secondary diploma,2018,top_cause,0.7793324961363396,1.8700372851353675,0.7507683568430126,0.8078966354296666,469,Top cause,Focus on primary cause,59,BC,NA
+Education,University Diploma,2018,top_cause,0.7647051738205214,1.6899690430343304,0.7393760090706447,0.7900343385703981,569,Top cause,Focus on primary cause,59,BC,NA
+Marital status (original),Married,2018,top_cause,0.7139310885121678,1.641518181261671,0.6909616656940291,0.7369005113303065,511,Top cause,Focus on primary cause,10,NL,NA
+Marital status (original),Living common-law,2018,top_cause,0.6719772012513906,5.26066028410431,0.6026916164345087,0.7412627860682725,78,Top cause,Focus on primary cause,10,NL,NA
+Marital status (original),Widowed,2018,top_cause,0.7508757676968609,4.228165257733632,0.6886503051818889,0.813101230211833,82,Top cause,Focus on primary cause,10,NL,NA
+Marital status (original),Separated,2018,top_cause,0.7470756001532739,8.005561659085332,0.6298548624433231,0.8642963378632247,17,Top cause,Focus on primary cause,10,NL,NA
+Marital status (original),Divorced,2018,top_cause,0.6836622328923669,6.40819737630194,0.5977953772138708,0.7695290885708631,56,Top cause,Focus on primary cause,10,NL,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7420120552984151,3.4614966269684135,0.6916709247044279,0.7923531858924022,153,Top cause,Focus on primary cause,10,NL,NA
+Marital status (original),Married,2018,top_cause,0.731194519994138,1.9480345837955901,0.7032769456319089,0.7591120943563671,315,Top cause,Focus on primary cause,11,PE,NA
+Marital status (original),Living common-law,2018,top_cause,0.6417875282488639,9.838678668020302,0.5180287136216745,0.7655463428760533,41,Top cause,Focus on primary cause,11,PE,NA
+Marital status (original),Widowed,2018,top_cause,0.7119322778659611,3.947353267161577,0.6568524252103501,0.7670121305215721,69,Top cause,Focus on primary cause,11,PE,NA
+Marital status (original),Separated,2018,top_cause,0.7636589303733696,8.471086137352115,0.6368684568773656,0.8904494038693737,22,Top cause,Focus on primary cause,11,PE,NA
+Marital status (original),Divorced,2018,top_cause,0.6360030875465243,6.891622110286753,0.5500960445068198,0.7219101305862289,44,Top cause,Focus on primary cause,11,PE,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7857007666976238,3.857085679737546,0.7263037607061541,0.8450977726890935,107,Top cause,Focus on primary cause,11,PE,NA
+Marital status (original),Married,2018,top_cause,0.7333882093538845,1.7197874258370587,0.7086677359209341,0.7581086827868349,485,Top cause,Focus on primary cause,12,NS,NA
+Marital status (original),Living common-law,2018,top_cause,0.7816010949215005,4.636227796265064,0.7105782578582006,0.8526239319848005,61,Top cause,Focus on primary cause,12,NS,NA
+Marital status (original),Widowed,2018,top_cause,0.7078382682260934,3.358502591258958,0.6612445019158361,0.7544320345363508,97,Top cause,Focus on primary cause,12,NS,NA
+Marital status (original),Separated,2018,top_cause,0.6798853307774309,9.142068187010647,0.5580626314942669,0.8017080300605948,31,Top cause,Focus on primary cause,12,NS,NA
+Marital status (original),Divorced,2018,top_cause,0.6903007978154246,5.562640212656288,0.6150402392268287,0.7655613564040206,82,Top cause,Focus on primary cause,12,NS,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7800785106322723,4.277809730533448,0.7146739745881442,0.8454830466764004,124,Top cause,Focus on primary cause,12,NS,NA
+Marital status (original),Married,2018,top_cause,0.7310066866085404,1.9055243172635752,0.7037053483449252,0.7583080248721557,461,Top cause,Focus on primary cause,13,NB,NA
+Marital status (original),Living common-law,2018,top_cause,0.7843772921650066,4.062877406333021,0.7219165958598424,0.8468379884701709,76,Top cause,Focus on primary cause,13,NB,NA
+Marital status (original),Widowed,2018,top_cause,0.7906156769115279,3.3453819179846787,0.7387763662520752,0.8424549875709806,101,Top cause,Focus on primary cause,13,NB,NA
+Marital status (original),Separated,2018,top_cause,0.7299431486338039,7.500478909230106,0.6226366259037817,0.8372496713638262,25,Top cause,Focus on primary cause,13,NB,NA
+Marital status (original),Divorced,2018,top_cause,0.7585338868720072,4.7772574364268365,0.6875104435923411,0.8295573301516732,59,Top cause,Focus on primary cause,13,NB,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8256036208256392,2.996383470395659,0.7771175409513078,0.8740897006999706,115,Top cause,Focus on primary cause,13,NB,NA
+Marital status (original),Married,2018,top_cause,0.7347557454433067,1.7087357244533519,0.7101483311552955,0.7593631597313178,567,Top cause,Focus on primary cause,24,QC,NA
+Marital status (original),Living common-law,2018,top_cause,0.7301594531025983,2.443368990295999,0.6951927359086645,0.7651261702965322,340,Top cause,Focus on primary cause,24,QC,NA
+Marital status (original),Widowed,2018,top_cause,0.71807669136375,3.115043597856903,0.6742354290480592,0.7619179536794407,135,Top cause,Focus on primary cause,24,QC,NA
+Marital status (original),Separated,2018,top_cause,0.7781026438688818,5.156496253022151,0.6994633349066912,0.8567419528310725,46,Top cause,Focus on primary cause,24,QC,NA
+Marital status (original),Divorced,2018,top_cause,0.7538330108242834,3.4421108965901426,0.7029763196580446,0.8046897019905223,148,Top cause,Focus on primary cause,24,QC,NA
+Marital status (original),"Single, never married",2018,top_cause,0.756969792334595,2.689212451053921,0.7170717347081278,0.7968678499610623,273,Top cause,Focus on primary cause,24,QC,NA
+Marital status (original),Married,2018,top_cause,0.7532873509670212,0.8647637809190222,0.7405198394696341,0.7660548624644082,1864,Top cause,Focus on primary cause,35,ON,NA
+Marital status (original),Living common-law,2018,top_cause,0.7899446046033441,2.646579356958249,0.7489685963207462,0.8309206128859421,207,Top cause,Focus on primary cause,35,ON,NA
+Marital status (original),Widowed,2018,top_cause,0.7700474155669831,2.2413969459450613,0.7362187914478115,0.8038760396861546,285,Top cause,Focus on primary cause,35,ON,NA
+Marital status (original),Separated,2018,top_cause,0.7588090384708586,3.3931684936761917,0.7083445341127097,0.8092735428290074,117,Top cause,Focus on primary cause,35,ON,NA
+Marital status (original),Divorced,2018,top_cause,0.7407322327446407,2.345098881454434,0.7066858878885656,0.7747785776007159,271,Top cause,Focus on primary cause,35,ON,NA
+Marital status (original),"Single, never married",2018,top_cause,0.805436992669082,1.8095318595549692,0.7768712251590714,0.8340027601790926,545,Top cause,Focus on primary cause,35,ON,NA
+Marital status (original),Married,2018,top_cause,0.781286916315904,1.5835037168893138,0.7570388154641476,0.8055350171676603,443,Top cause,Focus on primary cause,46,MB,NA
+Marital status (original),Living common-law,2018,top_cause,0.7482225046322992,4.363111367827659,0.6842379493188597,0.8122070599457387,54,Top cause,Focus on primary cause,46,MB,NA
+Marital status (original),Widowed,2018,top_cause,0.7012975498422225,3.8021601058650036,0.6490361770743783,0.7535589226100666,84,Top cause,Focus on primary cause,46,MB,NA
+Marital status (original),Separated,2018,top_cause,0.7789452872555537,7.39172318084241,0.666095501381225,0.8917950731298824,35,Top cause,Focus on primary cause,46,MB,NA
+Marital status (original),Divorced,2018,top_cause,0.7564226438177242,4.193389628677341,0.6942530787772168,0.8185922088582316,71,Top cause,Focus on primary cause,46,MB,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8109451232435623,3.034325301168462,0.7627168518814351,0.8591733946056894,163,Top cause,Focus on primary cause,46,MB,NA
+Marital status (original),Married,2018,top_cause,0.7498687871582783,1.6601269064145212,0.7254696394496808,0.7742679348668758,410,Top cause,Focus on primary cause,47,SK,NA
+Marital status (original),Living common-law,2018,top_cause,0.6783497837170478,5.422568969342512,0.6062544981533141,0.7504450692807815,50,Top cause,Focus on primary cause,47,SK,NA
+Marital status (original),Widowed,2018,top_cause,0.8095151750329292,2.8246289432730993,0.7646990306842616,0.8543313193815969,86,Top cause,Focus on primary cause,47,SK,NA
+Marital status (original),Separated,2018,top_cause,0.8980574840025083,4.428066575508635,0.8201164129894766,0.97599855501554,15,Top cause,Focus on primary cause,47,SK,NA
+Marital status (original),Divorced,2018,top_cause,0.7425651600108513,4.585182553295994,0.6758323686632878,0.8092979513584148,57,Top cause,Focus on primary cause,47,SK,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8054076018517075,3.150741614122526,0.7556709433405708,0.8551442603628441,131,Top cause,Focus on primary cause,47,SK,NA
+Marital status (original),Married,2018,top_cause,0.7661188812539129,1.6179032149020043,0.7418250061286068,0.790412756379219,600,Top cause,Focus on primary cause,48,AB,NA
+Marital status (original),Living common-law,2018,top_cause,0.7941863101321806,4.025937407287986,0.7315195119338467,0.8568531083305144,64,Top cause,Focus on primary cause,48,AB,NA
+Marital status (original),Widowed,2018,top_cause,0.7646642735939606,4.320327556791387,0.6999149007958669,0.8294136463920543,66,Top cause,Focus on primary cause,48,AB,NA
+Marital status (original),Separated,2018,top_cause,0.7343800766569427,8.03764606315237,0.6186895347496779,0.8500706185642075,29,Top cause,Focus on primary cause,48,AB,NA
+Marital status (original),Divorced,2018,top_cause,0.767907646321793,3.868499844545599,0.7096839642510175,0.8261313283925684,89,Top cause,Focus on primary cause,48,AB,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7779515201552436,3.2834816742167408,0.7278864047571599,0.8280166355533273,165,Top cause,Focus on primary cause,48,AB,NA
+Marital status (original),Married,2018,top_cause,0.7724773773251173,1.2641813178373047,0.7533373202448396,0.7916174344053951,807,Top cause,Focus on primary cause,59,BC,NA
+Marital status (original),Living common-law,2018,top_cause,0.767900984709392,3.1703351319774447,0.7201855935008106,0.8156163759179735,131,Top cause,Focus on primary cause,59,BC,NA
+Marital status (original),Widowed,2018,top_cause,0.7823841671194638,3.159546062005086,0.7339342726557339,0.8308340615831937,138,Top cause,Focus on primary cause,59,BC,NA
+Marital status (original),Separated,2018,top_cause,0.8259843695769908,5.816611742602327,0.7318192644022561,0.9201494747517256,38,Top cause,Focus on primary cause,59,BC,NA
+Marital status (original),Divorced,2018,top_cause,0.7296214290870164,4.150762079791549,0.6702642145848333,0.7889786435891996,154,Top cause,Focus on primary cause,59,BC,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8170384165952321,2.6449531313416177,0.7746830398588814,0.8593937933315828,264,Top cause,Focus on primary cause,59,BC,NA
+Labour force status,Employed,2018,top_cause,0.6868412553229871,1.922518065148393,0.6609606223579761,0.7127218882879981,441,Top cause,Focus on primary cause,10,NL,NA
+Labour force status,Unemployed,2018,top_cause,0.6751939313289861,11.797659227022562,0.5190689251014575,0.8313189375565146,17,Top cause,Focus on primary cause,10,NL,NA
+Labour force status,Not in labour force,2018,top_cause,0.7508696401294134,2.130099726954427,0.7195214427482881,0.7822178375105386,302,Top cause,Focus on primary cause,10,NL,NA
+Labour force status,Unable to determine,2018,top_cause,0.7424445116969683,3.416975902747484,0.692721891268901,0.7921671321250356,137,Top cause,Focus on primary cause,10,NL,NA
+Labour force status,Employed,2018,top_cause,0.721167098583641,2.9611277449849376,0.6793126967562572,0.7630215004110249,281,Top cause,Focus on primary cause,11,PE,NA
+Labour force status,Unemployed,2018,top_cause,0.8560326564615494,8.934468466373731,0.7061307541980953,1.0059345587250035,11,Top cause,Focus on primary cause,11,PE,...
+Labour force status,Not in labour force,2018,top_cause,0.7393805644733499,2.1637945233488933,0.7080237353979006,0.7707373935487991,246,Top cause,Focus on primary cause,11,PE,NA
+Labour force status,Unable to determine,2018,top_cause,0.7454728662047574,4.079889277160429,0.6858616052322349,0.8050841271772798,60,Top cause,Focus on primary cause,11,PE,NA
+Labour force status,Employed,2018,top_cause,0.7380015807771807,2.0502678794633424,0.708345347380654,0.7676578141737074,422,Top cause,Focus on primary cause,12,NS,NA
+Labour force status,Unemployed,2018,top_cause,0.7854145170286649,9.088973219347452,0.6455003024097736,0.9253287316475562,17,Top cause,Focus on primary cause,12,NS,NA
+Labour force status,Not in labour force,2018,top_cause,0.7465269137801356,2.4936656178073022,0.7100404496856334,0.7830133778746378,361,Top cause,Focus on primary cause,12,NS,NA
+Labour force status,Unable to determine,2018,top_cause,0.7301045518482273,3.827109310733909,0.6753394355961055,0.7848696681003491,80,Top cause,Focus on primary cause,12,NS,NA
+Labour force status,Employed,2018,top_cause,0.7524574841132279,2.0176051363191556,0.7227020540240362,0.7822129142024196,424,Top cause,Focus on primary cause,13,NB,NA
+Labour force status,Unemployed,2018,top_cause,0.7931330191034514,18.25735650261433,0.5093201935647289,1.0769458446421738,4,Top cause,Focus on primary cause,13,NB,...
+Labour force status,Not in labour force,2018,top_cause,0.7759064228564633,1.9815728938037513,0.7457716799406634,0.8060411657722631,333,Top cause,Focus on primary cause,13,NB,NA
+Labour force status,Unable to determine,2018,top_cause,0.7294109806409824,4.308404837729777,0.6678171956273716,0.7910047656545932,76,Top cause,Focus on primary cause,13,NB,NA
+Labour force status,Employed,2018,top_cause,0.7377286372731614,1.620897158556362,0.7142917358015816,0.7611655387447412,763,Top cause,Focus on primary cause,24,QC,NA
+Labour force status,Unemployed,2018,top_cause,0.7242226564408634,8.334613510770609,0.6059169580070883,0.8425283548746384,34,Top cause,Focus on primary cause,24,QC,NA
+Labour force status,Not in labour force,2018,top_cause,0.7348014946637728,1.5502784855684069,0.7124746247453069,0.7571283645822386,587,Top cause,Focus on primary cause,24,QC,NA
+Labour force status,Unable to determine,2018,top_cause,0.7715544335428486,3.3197088594865263,0.721353168683099,0.8217556984025982,125,Top cause,Focus on primary cause,24,QC,NA
+Labour force status,Employed,2018,top_cause,0.773322085056155,0.8643575626390306,0.760221160658687,0.786423009453623,1799,Top cause,Focus on primary cause,35,ON,NA
+Labour force status,Unemployed,2018,top_cause,0.7513325727706733,6.981551191648918,0.6485233123021403,0.8541418332392063,65,Top cause,Focus on primary cause,35,ON,NA
+Labour force status,Not in labour force,2018,top_cause,0.7657910933071413,1.1927937566757383,0.7478881779171708,0.7836940086971119,1199,Top cause,Focus on primary cause,35,ON,NA
+Labour force status,Unable to determine,2018,top_cause,0.7402391566424208,2.92107027024817,0.697859039771825,0.7826192735130166,226,Top cause,Focus on primary cause,35,ON,NA
+Labour force status,Employed,2018,top_cause,0.7962955748504267,1.6896639001351563,0.7699248104497372,0.8226663392511162,459,Top cause,Focus on primary cause,46,MB,NA
+Labour force status,Unemployed,2018,top_cause,0.8162184460170844,9.448515500219315,0.6650649918286696,0.9673719002054991,14,Top cause,Focus on primary cause,46,MB,...
+Labour force status,Not in labour force,2018,top_cause,0.7570110439611011,2.015674679802075,0.7271041888412789,0.7869178990809232,298,Top cause,Focus on primary cause,46,MB,NA
+Labour force status,Unable to determine,2018,top_cause,0.7545214394022257,4.687091508990999,0.6852070968662527,0.8238357819381987,79,Top cause,Focus on primary cause,46,MB,NA
+Labour force status,Employed,2018,top_cause,0.7598852451097604,1.8639708923816505,0.7321242372568442,0.7876462529626767,398,Top cause,Focus on primary cause,47,SK,NA
+Labour force status,Unemployed,2018,top_cause,0.8171974001507742,9.272892090527092,0.668675576482441,0.9657192238191075,4,Top cause,Focus on primary cause,47,SK,...
+Labour force status,Not in labour force,2018,top_cause,0.7770523227439992,2.240408845113222,0.7429310177614745,0.8111736277265238,254,Top cause,Focus on primary cause,47,SK,NA
+Labour force status,Unable to determine,2018,top_cause,0.7380697471117038,3.705847414687395,0.6844613244589708,0.7916781697644368,93,Top cause,Focus on primary cause,47,SK,NA
+Labour force status,Employed,2018,top_cause,0.7678459456542475,1.6544556901678165,0.7429472081411842,0.7927446831673107,601,Top cause,Focus on primary cause,48,AB,NA
+Labour force status,Unemployed,2018,top_cause,0.7917209268630191,7.033799013311342,0.6825743373600022,0.900867516366036,28,Top cause,Focus on primary cause,48,AB,NA
+Labour force status,Not in labour force,2018,top_cause,0.7735387341885542,2.1458805368716303,0.7410048664184482,0.8060726019586603,295,Top cause,Focus on primary cause,48,AB,NA
+Labour force status,Unable to determine,2018,top_cause,0.7685887596459012,4.8023973463147325,0.6962451440545178,0.8409323752372847,89,Top cause,Focus on primary cause,48,AB,NA
+Labour force status,Employed,2018,top_cause,0.7787922503591427,1.3572357225810028,0.7580753396561627,0.7995091610621227,845,Top cause,Focus on primary cause,59,BC,NA
+Labour force status,Unemployed,2018,top_cause,0.8307742355908966,7.348923693144547,0.7111126237551744,0.9504358474266188,26,Top cause,Focus on primary cause,59,BC,NA
+Labour force status,Not in labour force,2018,top_cause,0.7792573563133062,1.8619361465976456,0.7508197010627483,0.807695011563864,548,Top cause,Focus on primary cause,59,BC,NA
+Labour force status,Unable to determine,2018,top_cause,0.7772195087390816,3.094319016170381,0.7300830588279791,0.8243559586501842,113,Top cause,Focus on primary cause,59,BC,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7735424630552531,2.2534809334284276,0.7393770923063255,0.8077078338041807,234,Top cause,Focus on primary cause,10,NL,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7120216149119082,2.3489243380776306,0.6792415132151608,0.7448017166086556,274,Top cause,Focus on primary cause,10,NL,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.6647197633323788,3.422014605848036,0.620136840086292,0.7093026865784656,182,Top cause,Focus on primary cause,10,NL,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.6868120402039819,3.5511749131126398,0.6390087207482924,0.7346153596596714,116,Top cause,Focus on primary cause,10,NL,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.6506635527787741,8.261766430058334,0.5453031350035915,0.7560239705539566,39,Top cause,Focus on primary cause,10,NL,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.6366262783393178,6.465339817281665,0.5559540583064608,0.7172984983721749,52,Top cause,Focus on primary cause,10,NL,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7401840437036491,3.328915859748819,0.691890327244854,0.7884777601624442,172,Top cause,Focus on primary cause,11,PE,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7406742162172332,2.622509439043397,0.7026033833741745,0.7787450490602918,210,Top cause,Focus on primary cause,11,PE,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7078887607767381,3.904721190756253,0.653713234682935,0.7620642868705413,124,Top cause,Focus on primary cause,11,PE,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7269138871488645,5.119226779951112,0.6539789814284072,0.7998487928693219,69,Top cause,Focus on primary cause,11,PE,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7359661020220477,8.538655095846192,0.6127988154263782,0.8591333886177173,14,Top cause,Focus on primary cause,11,PE,...
+Personal income category,"$125,000 and more",2018,top_cause,0.7004616969914519,10.585792455221297,0.555131501432172,0.8457918925507317,9,Top cause,Focus on primary cause,11,PE,...
+Personal income category,"Less than $25,000",2018,top_cause,0.7685243027912744,2.831849602886708,0.7258687198753254,0.8111798857072233,240,Top cause,Focus on primary cause,12,NS,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7384623290968597,2.4406604123637483,0.7031371970724648,0.7737874611212546,283,Top cause,Focus on primary cause,12,NS,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7298024697101168,2.8214073760063725,0.6894454379007448,0.7701595015194888,174,Top cause,Focus on primary cause,12,NS,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.686633138396411,4.235837863234541,0.6296282396369377,0.7436380371558844,105,Top cause,Focus on primary cause,12,NS,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7137904766261585,6.2444785451119555,0.6264299953118542,0.8011509579404628,27,Top cause,Focus on primary cause,12,NS,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.713749205869976,6.382918907396403,0.6244571019582712,0.8030413097816809,51,Top cause,Focus on primary cause,12,NS,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7858956237289876,2.1185878661089985,0.7532624403061859,0.8185288071517892,246,Top cause,Focus on primary cause,13,NB,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7543741817080966,2.389384688219567,0.7190460245515582,0.7897023388646349,278,Top cause,Focus on primary cause,13,NB,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7349750748113268,3.2652642838972277,0.6879381370597903,0.7820120125628633,156,Top cause,Focus on primary cause,13,NB,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7335447929561885,4.088748930131046,0.6747599756077559,0.792329610304621,98,Top cause,Focus on primary cause,13,NB,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.6864830736593739,7.469156122556019,0.5859869149817876,0.7869792323369602,31,Top cause,Focus on primary cause,13,NB,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7524955265337092,8.622064680829496,0.6253317872447508,0.8796592658226676,28,Top cause,Focus on primary cause,13,NB,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7609646830341157,2.2245939267900807,0.727785679434659,0.7941436866335724,393,Top cause,Focus on primary cause,24,QC,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7283803666647587,1.675174169784467,0.7044655921825339,0.7522951411469835,505,Top cause,Focus on primary cause,24,QC,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7364632712827447,2.2951311611801968,0.7033343959062698,0.7695921466592196,327,Top cause,Focus on primary cause,24,QC,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.737932647793223,3.3930595355864575,0.6888581011846824,0.7870071944017636,150,Top cause,Focus on primary cause,24,QC,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7026118932055614,4.686324202636239,0.6380768035190592,0.7671469828920636,64,Top cause,Focus on primary cause,24,QC,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.6769959161944817,5.40459585806695,0.6052830031982793,0.7487088291906842,70,Top cause,Focus on primary cause,24,QC,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7859903503878068,1.2871281641587708,0.7661619765373977,0.805818724238216,800,Top cause,Focus on primary cause,35,ON,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7742441275878071,1.3173222401961706,0.7542538863511218,0.7942343688244925,873,Top cause,Focus on primary cause,35,ON,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7711464648317554,1.5235536075375486,0.7481191815939526,0.7941737480695582,699,Top cause,Focus on primary cause,35,ON,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7335952895434145,1.777112532680396,0.7080436039641879,0.7591469751226411,433,Top cause,Focus on primary cause,35,ON,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7216276376506102,2.395331893065217,0.687748921361928,0.7555063539392924,224,Top cause,Focus on primary cause,35,ON,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7081420063259543,2.262916143598727,0.6767342502911691,0.7395497623607394,260,Top cause,Focus on primary cause,35,ON,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.8074464753053013,2.464603101438327,0.7684425043148464,0.8464504462957563,204,Top cause,Focus on primary cause,46,MB,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.8007848677662637,2.0586255665308077,0.7684745439262936,0.8330951916062338,305,Top cause,Focus on primary cause,46,MB,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7449653826511262,2.885516642145692,0.7028338006575979,0.7870969646446545,190,Top cause,Focus on primary cause,46,MB,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7154481065376078,4.866511201135102,0.6472073305047182,0.7836888825704974,86,Top cause,Focus on primary cause,46,MB,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7626038713478095,5.862041205006811,0.6749853411764514,0.8502224015191676,37,Top cause,Focus on primary cause,46,MB,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7752708175010732,4.481103331636955,0.7071803232956646,0.8433613117064818,28,Top cause,Focus on primary cause,46,MB,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.8032019860011922,2.278228065691435,0.7673370498241512,0.8390669221782332,175,Top cause,Focus on primary cause,47,SK,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7618935980850395,2.6718047803184075,0.7219959644607227,0.8017912317093564,212,Top cause,Focus on primary cause,47,SK,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7619651479895084,2.91182460963048,0.7184792532236197,0.8054510427553971,143,Top cause,Focus on primary cause,47,SK,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7009768901059967,3.5427531808254837,0.6523033776103255,0.7496504026016679,126,Top cause,Focus on primary cause,47,SK,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7205327685259929,5.296827417945195,0.6457300036820219,0.7953355333699639,34,Top cause,Focus on primary cause,47,SK,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7154907006908906,5.219300837762919,0.6422985658531178,0.7886828355286634,59,Top cause,Focus on primary cause,47,SK,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7715817394506352,2.6627526313682583,0.7313136657815928,0.8118498131196776,220,Top cause,Focus on primary cause,48,AB,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7841525583438513,2.001757400882297,0.7533873332055933,0.8149177834821094,250,Top cause,Focus on primary cause,48,AB,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7751689256933125,2.483834665576739,0.7374319467253262,0.8129059046612989,221,Top cause,Focus on primary cause,48,AB,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7613018185518392,3.2702952862810317,0.712504952948686,0.8100986841549924,113,Top cause,Focus on primary cause,48,AB,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7566648870300996,3.7974369290270586,0.700347533069549,0.8129822409906502,93,Top cause,Focus on primary cause,48,AB,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7385974244168957,4.687362557866498,0.6707420226127906,0.8064528262210008,116,Top cause,Focus on primary cause,48,AB,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.8085492914606139,2.078141740413253,0.7756164079985849,0.841482174922643,362,Top cause,Focus on primary cause,59,BC,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7793461161260192,1.8076171444446798,0.751734939238268,0.8069572930137705,435,Top cause,Focus on primary cause,59,BC,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.785701507340286,2.226617769072675,0.7514127814415997,0.8199902332389722,354,Top cause,Focus on primary cause,59,BC,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7496827840477315,2.7540260234323823,0.7092164680663482,0.7901491000291148,182,Top cause,Focus on primary cause,59,BC,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.6983025233700653,4.701094897275738,0.6339610916650491,0.7626439550750814,80,Top cause,Focus on primary cause,59,BC,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7164466285507406,3.677726751447593,0.6648036368568817,0.7680896202445995,119,Top cause,Focus on primary cause,59,BC,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7828682817329555,2.5280114681185517,0.7440786346276766,0.8216579288382344,144,Top cause,Focus on primary cause,10,NL,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7204575513442396,3.8867126273266916,0.6655744151929317,0.7753406874955475,87,Top cause,Focus on primary cause,10,NL,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.649351496113383,3.663802950728208,0.6027220727763322,0.6959809194504339,105,Top cause,Focus on primary cause,10,NL,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.6281724077839074,3.565060933650966,0.5842795452928542,0.6720652702749605,156,Top cause,Focus on primary cause,10,NL,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7349023572004625,2.2916052904131403,0.7018944835969568,0.7679102308039681,295,Top cause,Focus on primary cause,10,NL,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7412757517809042,2.770044510837967,0.701030501496547,0.7815210020652614,154,Top cause,Focus on primary cause,11,PE,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.6669803014163231,4.494545434679989,0.6082250250106106,0.7257355778220357,59,Top cause,Focus on primary cause,11,PE,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.6968642743266923,4.701616086850775,0.6326482439954929,0.7610803046578917,64,Top cause,Focus on primary cause,11,PE,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.6937764495393373,6.125051479584376,0.61048941719869,0.7770634818799845,71,Top cause,Focus on primary cause,11,PE,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.765037529217949,3.078028025389589,0.7188841609865149,0.8111908974493831,208,Top cause,Focus on primary cause,11,PE,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7702500062312972,3.0109132785251225,0.7247953844436882,0.8157046280189063,154,Top cause,Focus on primary cause,12,NS,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7538428093795528,4.145156112189928,0.6925979306622215,0.8150876880968841,74,Top cause,Focus on primary cause,12,NS,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.643088552814398,4.8008659648251255,0.5825769786159304,0.7036001270128657,73,Top cause,Focus on primary cause,12,NS,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7250508403499941,4.027742310377033,0.6678136603576336,0.7822880203423547,119,Top cause,Focus on primary cause,12,NS,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7572333621686493,2.2755343025012578,0.7234610171388007,0.7910057071984979,386,Top cause,Focus on primary cause,12,NS,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8032010713016453,2.665609944416791,0.7612378354447741,0.8451643071585165,178,Top cause,Focus on primary cause,13,NB,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7379056915697345,4.544876688486239,0.6721745680487832,0.8036368150906859,74,Top cause,Focus on primary cause,13,NB,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.6682706041520389,5.040490749682885,0.6022509460501795,0.7342902622538983,70,Top cause,Focus on primary cause,13,NB,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7530844872669904,3.6258903570076217,0.6995656758100701,0.8066032987239107,124,Top cause,Focus on primary cause,13,NB,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7613246818318484,1.9880301477316398,0.7316599131129508,0.7909894505507461,335,Top cause,Focus on primary cause,13,NB,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.747976485933816,3.8699950657657425,0.691242088387337,0.8047108834802951,141,Top cause,Focus on primary cause,24,QC,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.684038759173874,4.15237382630217,0.628368243211978,0.73970927513577,90,Top cause,Focus on primary cause,24,QC,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7154781033969683,3.7425015341450507,0.6629965809426169,0.7679596258513196,146,Top cause,Focus on primary cause,24,QC,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.6939974037662964,2.5618323877196856,0.6591511055781162,0.7288437019544766,273,Top cause,Focus on primary cause,24,QC,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7616151448270843,1.5711154079555594,0.738162504118965,0.7850677855352035,747,Top cause,Focus on primary cause,24,QC,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7987067137698026,1.4774256620190265,0.7755785547740932,0.821834872765512,614,Top cause,Focus on primary cause,35,ON,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7224110566532128,2.821609772985383,0.6824598936664157,0.7623622196400099,319,Top cause,Focus on primary cause,35,ON,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7377776716270741,2.237710490968469,0.7054199826364053,0.7701353606177429,321,Top cause,Focus on primary cause,35,ON,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7720417751968748,2.1451977725158824,0.7395811986682922,0.8045023517254574,434,Top cause,Focus on primary cause,35,ON,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7762063985052605,1.0742598826780823,0.7598632898852271,0.7925495071252939,1355,Top cause,Focus on primary cause,35,ON,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8194822934495755,2.5331636153656674,0.778795739595912,0.860168847303239,179,Top cause,Focus on primary cause,46,MB,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.8040312187766584,3.993215928323863,0.7411032378284268,0.86695919972489,81,Top cause,Focus on primary cause,46,MB,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7100230545023108,6.544920349409241,0.6189426591326502,0.8011034498719715,65,Top cause,Focus on primary cause,46,MB,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7676841662786205,3.6381919573089534,0.7129427179377007,0.8224256146195402,104,Top cause,Focus on primary cause,46,MB,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7689257100330762,2.0308591564573804,0.7383193079936495,0.7995321120725029,353,Top cause,Focus on primary cause,46,MB,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8310246976366334,2.6800793749083134,0.787372141594697,0.8746772536785699,135,Top cause,Focus on primary cause,47,SK,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7462590058699005,3.6022058107057227,0.693571674895935,0.798946336843866,76,Top cause,Focus on primary cause,47,SK,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.701499918435407,4.8561831362289425,0.6347315486925629,0.7682682881782512,60,Top cause,Focus on primary cause,47,SK,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.657430389628257,3.9087348601312715,0.6070647819169508,0.7077959973395631,92,Top cause,Focus on primary cause,47,SK,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7742338481975272,2.007862491464944,0.7437651280506976,0.8047025683443567,311,Top cause,Focus on primary cause,47,SK,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8130545544384938,2.072928498351098,0.7800212438949304,0.8460878649820572,193,Top cause,Focus on primary cause,48,AB,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.675703345060128,4.735133350904963,0.6129934066786957,0.7384132834415602,93,Top cause,Focus on primary cause,48,AB,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7632084578804712,7.435097819185854,0.6519897225892678,0.8744271931716746,66,Top cause,Focus on primary cause,48,AB,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7899027050708717,3.88870207902748,0.7296985640442241,0.8501068460975193,108,Top cause,Focus on primary cause,48,AB,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7608828582864318,1.7286532051726768,0.7351034012006492,0.7866623153722143,462,Top cause,Focus on primary cause,48,AB,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8278005642020775,1.8575734224120215,0.7976621916003815,0.8579389368037734,243,Top cause,Focus on primary cause,59,BC,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7793524067013057,3.3794780568386904,0.7277307898810258,0.8309740235215856,87,Top cause,Focus on primary cause,59,BC,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7211619470789551,4.485083087111709,0.6577674754511709,0.7845564187067393,99,Top cause,Focus on primary cause,59,BC,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7387048210506906,3.073866503076668,0.6942003107467947,0.7832093313545865,158,Top cause,Focus on primary cause,59,BC,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7883431070621616,1.4748735562304418,0.7655544803401065,0.8111317337842167,825,Top cause,Focus on primary cause,59,BC,NA
+Immigration status,Native-born,2018,top_cause,0.7071470154760834,1.435441974846101,0.6872520382930057,0.727041992659161,766,Top cause,Focus on primary cause,10,NL,NA
+Immigration status,Naturalized,2018,top_cause,0.6877102493910245,15.674725053777683,0.4764326178513868,0.8989878809306623,9,Top cause,Focus on primary cause,10,NL,...
+Immigration status,Non-Canadian,2018,top_cause,0.9203424474154345,18.663365558265365,0.5836855579943574,1.2569993368365115,3,Top cause,Focus on primary cause,10,NL,...
+Immigration status,Unknown,2018,top_cause,0.7737710713525231,3.408732855785474,0.7220754753626828,0.8254666673423634,119,Top cause,Focus on primary cause,10,NL,NA
+Immigration status,Native-born,2018,top_cause,0.7290999710620041,1.905601120913266,0.7018687464979142,0.756331195626094,523,Top cause,Focus on primary cause,11,PE,NA
+Immigration status,Naturalized,2018,top_cause,0.71335787584732,10.026692234146497,0.5731691023673248,0.8535466493273153,15,Top cause,Focus on primary cause,11,PE,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8328771551485663,14.88193802077473,0.5899430256461656,1.0758112846509669,7,Top cause,Focus on primary cause,11,PE,...
+Immigration status,Unknown,2018,top_cause,0.7509135836178176,4.3980820964946785,0.6861842131298124,0.8156429541058228,53,Top cause,Focus on primary cause,11,PE,NA
+Immigration status,Native-born,2018,top_cause,0.7462419863465101,1.6204378654387286,0.722541341938876,0.7699426307541442,743,Top cause,Focus on primary cause,12,NS,NA
+Immigration status,Naturalized,2018,top_cause,0.6921028003730831,5.005259866096688,0.6242066223537706,0.7599989783923957,54,Top cause,Focus on primary cause,12,NS,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8371882110640484,11.576327060876492,0.647237036486959,1.0271393856411377,7,Top cause,Focus on primary cause,12,NS,...
+Immigration status,Unknown,2018,top_cause,0.7295309999870578,4.169530932297702,0.6699127749239484,0.7891492250501673,76,Top cause,Focus on primary cause,12,NS,NA
+Immigration status,Native-born,2018,top_cause,0.7574659590827985,1.4065335350248256,0.7365844778394092,0.7783474403261877,750,Top cause,Focus on primary cause,13,NB,NA
+Immigration status,Naturalized,2018,top_cause,0.8678916249815657,8.471568627773236,0.7237871651184709,1.0119960848446605,12,Top cause,Focus on primary cause,13,NB,...
+Immigration status,Non-Canadian,2018,top_cause,1,0,1,1,5,Top cause,Focus on primary cause,13,NB,...
+Immigration status,Unknown,2018,top_cause,0.7199288253391284,5.153019941444954,0.6472179326128823,0.7926397180653745,70,Top cause,Focus on primary cause,13,NB,NA
+Immigration status,Native-born,2018,top_cause,0.7292634482047415,1.3029055129676423,0.7106406276151218,0.7478862687943613,1221,Top cause,Focus on primary cause,24,QC,NA
+Immigration status,Naturalized,2018,top_cause,0.777399957315281,2.9250844173256363,0.7328311504696327,0.8219687641609293,148,Top cause,Focus on primary cause,24,QC,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8445283664665472,5.959325850377279,0.7458869124367642,0.9431698204963301,32,Top cause,Focus on primary cause,24,QC,NA
+Immigration status,Unknown,2018,top_cause,0.7421059376101409,4.279604080240027,0.6798590573002843,0.8043528179199975,108,Top cause,Focus on primary cause,24,QC,NA
+Immigration status,Native-born,2018,top_cause,0.7592974711588986,0.8710601265948087,0.7463343918364247,0.7722605504813724,2190,Top cause,Focus on primary cause,35,ON,NA
+Immigration status,Naturalized,2018,top_cause,0.7924380308631922,1.2612682195969074,0.7728486435045735,0.8120274182218109,804,Top cause,Focus on primary cause,35,ON,NA
+Immigration status,Non-Canadian,2018,top_cause,0.7865123283257334,4.404289336987164,0.7186186298346423,0.8544060268168244,75,Top cause,Focus on primary cause,35,ON,NA
+Immigration status,Unknown,2018,top_cause,0.7361185530505472,2.9054283753861725,0.6942000245865457,0.7780370815145486,220,Top cause,Focus on primary cause,35,ON,NA
+Immigration status,Native-born,2018,top_cause,0.7715059941978344,1.4694648603667202,0.7492858639239395,0.7937261244717293,651,Top cause,Focus on primary cause,46,MB,NA
+Immigration status,Naturalized,2018,top_cause,0.8206547307912812,3.1016408269920603,0.7707662736496597,0.8705431879329026,115,Top cause,Focus on primary cause,46,MB,NA
+Immigration status,Non-Canadian,2018,top_cause,0.7619856436380643,13.238093374097199,0.5642794294389377,0.9596918578371909,13,Top cause,Focus on primary cause,46,MB,...
+Immigration status,Unknown,2018,top_cause,0.7845791221852823,3.803782637968994,0.7260865755349094,0.8430716688356551,71,Top cause,Focus on primary cause,46,MB,NA
+Immigration status,Native-born,2018,top_cause,0.754944618735227,1.552378046120198,0.7319746355594555,0.7779146019109985,610,Top cause,Focus on primary cause,47,SK,NA
+Immigration status,Naturalized,2018,top_cause,0.8134983423702306,4.264224217899147,0.7455083808026699,0.8814883039377912,46,Top cause,Focus on primary cause,47,SK,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8917212730393884,8.296343011216315,0.7467226366622661,1.0367199094165107,11,Top cause,Focus on primary cause,47,SK,...
+Immigration status,Unknown,2018,top_cause,0.7483563164516632,4.0230498997451924,0.68934817460410025,0.8073644582992262,82,Top cause,Focus on primary cause,47,SK,NA
+Immigration status,Native-born,2018,top_cause,0.7677811270183282,1.4694384191529555,0.7456686744706901,0.7898935795659664,755,Top cause,Focus on primary cause,48,AB,NA
+Immigration status,Naturalized,2018,top_cause,0.7764684419986737,2.7092589208858917,0.7352375801952397,0.8176993038021078,164,Top cause,Focus on primary cause,48,AB,NA
+Immigration status,Non-Canadian,2018,top_cause,0.6792613713277301,13.616009249593539,0.4979876516842322,0.860535090971228,13,Top cause,Focus on primary cause,48,AB,...
+Immigration status,Unknown,2018,top_cause,0.7912393253742146,4.97170172146564,0.7141381461978445,0.8683405045505846,81,Top cause,Focus on primary cause,48,AB,NA
+Immigration status,Native-born,2018,top_cause,0.7723606746995255,1.2363292578908063,0.7536451334527112,0.7910762159463398,1002,Top cause,Focus on primary cause,59,BC,NA
+Immigration status,Naturalized,2018,top_cause,0.7943754697352443,2.0637829219770865,0.762243457029056,0.8265074824414326,388,Top cause,Focus on primary cause,59,BC,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8086713589525856,6.811304182924095,0.7007144531695602,0.916628264735611,35,Top cause,Focus on primary cause,59,BC,NA
+Immigration status,Unknown,2018,top_cause,0.773724853093914,3.159841369096403,0.7258067167546518,0.8216429894331763,107,Top cause,Focus on primary cause,59,BC,NA
+All,NA,2018,top_cause,0.7614720405682995,41.189925616059654,0.7553246180956011,0.7676194630409979,-,Top cause,Focus on primary cause,CA,NA,NA
+All,NA,2018,top_cause,0.7682125038627199,44.211432707369106,0.7615557262025999,0.7748692815228398,-,Top cause,Focus on primary cause,CA (without QC),NA,NA
+All,NA,2018,top_cause,0.77034511906245,130.07833162001663,0.7507052592156988,0.7899849789092012,1013,Top cause,Focus on primary cause,AB,NA,NA
+All,NA,2018,top_cause,0.7407788060673214,78.88359214874846,0.7293256990555083,0.7522319130791345,3212,Top cause,Focus on primary cause,AT,NA,NA
+All,NA,2018,top_cause,0.7801249158039911,102.98641480402553,0.764378120597488,0.7958717110104943,1532,Top cause,Focus on primary cause,BC,NA,NA
+All,NA,2018,top_cause,0.7681976225833727,67.46237134637735,0.7580402203081565,0.7783550248585888,3289,Top cause,Focus on primary cause,ON,NA,NA
+All,NA,2018,top_cause,0.7716220170054335,89.74164214709707,0.7580499275234525,0.7851941064874146,1599,Top cause,Focus on primary cause,PR,NA,NA
+All,NA,2018,top_cause,0.7392106992843638,113.0991320311521,0.7228245990468021,0.7555967995219255,1509,Top cause,Focus on primary cause,QC,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.8287834322951154,1.8260112327042448,0.7991219673472486,0.8584448972429822,406,Top cause,Focus on primary cause,CA,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.7821182223420127,1.3023142731928539,0.7621547401865304,0.8020817044974949,1293,Top cause,Focus on primary cause,CA,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.7573971741771446,1.017781775167284,0.7422884970150968,0.7725058513391924,1870,Top cause,Focus on primary cause,CA,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7534498814232843,0.9474923146199559,0.7394579342801633,0.7674418285664053,1954,Top cause,Focus on primary cause,CA,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7363402710374497,0.9613482945964421,0.7224660884929256,0.7502144535819738,2701,Top cause,Focus on primary cause,CA,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.7371942023757542,0.9899040396178936,0.722891335428393,0.7514970693231153,2439,Top cause,Focus on primary cause,CA,NA,NA
+Age group,75 years and over,2018,top_cause,0.7600372900205005,1.1047430458362832,0.7435805325725997,0.7764940474684012,1491,Top cause,Focus on primary cause,CA,NA,NA
+Gender,Male gender,2018,top_cause,0.7665333172545764,0.6384584482220386,0.7569412599381203,0.7761253745710325,5149,Top cause,Focus on primary cause,CA,NA,NA
+Gender,Female gender,2018,top_cause,0.757100842136249,0.5415851183039239,0.7490643126486131,0.7651373716238848,7005,Top cause,Focus on primary cause,CA,NA,NA
+Education,Less than High School,2018,top_cause,0.7852150372532081,1.412461412893341,0.7634773522531131,0.8069527222533031,964,Top cause,Focus on primary cause,CA,NA,NA
+Education,Graduated from High school,2018,top_cause,0.7741923276686627,0.9760344588152275,0.7593820873800265,0.789002567957299,2438,Top cause,Focus on primary cause,CA,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7547675475108476,0.7662054779514555,0.7434329380129214,0.7661021570087738,3885,Top cause,Focus on primary cause,CA,NA,NA
+Education,University Diploma,2018,top_cause,0.7520859629249038,0.7456603416779153,0.741094471648566,0.7630774542012416,3767,Top cause,Focus on primary cause,CA,NA,NA
+Marital status (original),Married,2018,top_cause,0.7531400399272872,0.5441759972860172,0.7451073091797721,0.7611727706748023,6463,Top cause,Focus on primary cause,CA,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7529793416376346,1.3998733325662847,0.7323198375413421,0.773638845733927,1102,Top cause,Focus on primary cause,CA,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7530761145875025,1.3582614304359495,0.7330281478640802,0.7731240813109247,1143,Top cause,Focus on primary cause,CA,NA,NA
+Marital status (original),Separated,2018,top_cause,0.7695007964755742,2.1296402947649224,0.7373816925831402,0.8016199003680082,375,Top cause,Focus on primary cause,CA,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7432654230583245,1.4466709072178066,0.7221907052262897,0.7643401408903594,1031,Top cause,Focus on primary cause,CA,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7919785803622411,1.070000962035875,0.7753694958428465,0.8085876648816357,2040,Top cause,Focus on primary cause,CA,NA,NA
+Labour force status,Employed,2018,top_cause,0.7630990665937334,0.5669650484784601,0.754619272628811,0.7715788605586558,6433,Top cause,Focus on primary cause,CA,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.7619859060416686,3.823556660308446,0.7048824281430636,0.8190893839402736,220,Top cause,Focus on primary cause,CA,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.759649217741424,0.6803779478847747,0.7495191717995838,0.7697792636832642,4423,Top cause,Focus on primary cause,CA,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.756476103708894,1.483926695202336,0.7344744283445758,0.7784777790732121,1078,Top cause,Focus on primary cause,CA,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7813565705688769,0.8421907237368758,0.7684590029580496,0.7942541381797041,3046,Top cause,Focus on primary cause,CA,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7615767317986957,0.7123047198845447,0.7509444230414108,0.7722090405559805,3625,Top cause,Focus on primary cause,CA,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.76083299961788875,0.8910702605789564,0.7475453128658966,0.7741206863698809,2570,Top cause,Focus on primary cause,CA,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7350482688272637,1.1102091085558152,0.7190538399817555,0.7510426976727719,1478,Top cause,Focus on primary cause,CA,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7213913215512979,1.6118049742976475,0.6986019947565865,0.7441806483460094,643,Top cause,Focus on primary cause,CA,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7123537130200192,1.6725262614693723,0.6890021083864875,0.7357053176535508,792,Top cause,Focus on primary cause,CA,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7992171226467142,0.8966590410813096,0.7851715256699572,0.8132627196234712,2135,Top cause,Focus on primary cause,CA,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7213387211380178,1.6060884779759717,0.6986318757380389,0.7440455665379967,1040,Top cause,Focus on primary cause,CA,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.725083073543924,1.5986961500346226,0.7023634156752934,0.7478027314125546,1069,Top cause,Focus on primary cause,CA,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7383458261767358,1.2251563493014455,0.7206162060610077,0.7560754462924639,1639,Top cause,Focus on primary cause,CA,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7707118140855903,0.6523566070382323,0.7608575278605328,0.7805661003106478,5277,Top cause,Focus on primary cause,CA,NA,NA
+Immigration status,Native-born,2018,top_cause,0.7523596814263938,0.5353479690425383,0.7444654516295386,0.7602539112232489,9211,Top cause,Focus on primary cause,CA,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.7891805904148529,0.9216974013571088,0.7749240926781761,0.8034370881515297,1755,Top cause,Focus on primary cause,CA,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8014264067605686,2.9197752262166365,0.7555635441422492,0.847289269378888,201,Top cause,Focus on primary cause,CA,NA,NA
+Immigration status,Unknown,2018,top_cause,0.7529715196485655,1.6514653589928245,0.7285992424353553,0.7773437968617756,987,Top cause,Focus on primary cause,CA,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.842086754425407,1.7840084990159297,0.812642412916682,0.871531095934132,362,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,25 to 34 years,2018,top_cause,0.7849348115392152,1.3842372866952677,0.7636390965985143,0.8062305264799161,1139,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,35 to 44 years,2018,top_cause,0.760866428617054,1.0815127012641952,0.7447381455357948,0.7769947116983132,1616,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7561022004542377,0.9520255188737454,0.7419938193455182,0.7702105815629572,1750,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7455494977089397,1.0156461317227443,0.7307083669414355,0.760390628476444,2347,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,65 to 74 years,2018,top_cause,0.745551473744806,1.0140279430823151,0.7307339494885793,0.7603689980010327,2139,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,75 years and over,2018,top_cause,0.7710638860475786,1.1655809183627477,0.7534489576246224,0.7886788144705348,1292,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Gender,Male gender,2018,top_cause,0.772957091238224,0.7031416168386107,0.7623047203235859,0.7836094621528621,4476,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Gender,Female gender,2018,top_cause,0.7641394569340898,0.5778443696381743,0.7554851637786479,0.7727937500895317,6169,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Education,Less than High School,2018,top_cause,0.8060289135448048,1.5503226318178338,0.7815371082110112,0.8305207188785984,798,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Education,Graduated from High school,2018,top_cause,0.7828439946140695,1.021414201501432,0.7671719663128441,0.7985160229152949,2155,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7616066805859184,0.8327742321467841,0.7491756792076764,0.7740376819641605,3383,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Education,University Diploma,2018,top_cause,0.756286208536347,0.7731647226968608,0.7448256363235523,0.7677467807491417,3321,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Marital status (original),Married,2018,top_cause,0.7571194661287634,0.5662150073674607,0.7487172494040983,0.7655216828534284,5896,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7748278306354824,1.613474868520252,0.7503250423378968,0.7993306189330681,762,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7669897339970557,1.3969206881721976,0.7459902128653659,0.7879892551287455,1008,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Marital status (original),Separated,2018,top_cause,0.7668872331287462,2.364513259347328,0.7313469115918156,0.8024275546656767,329,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7401379913741775,1.525011580128896,0.7180155053358359,0.762260477412519,883,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8017451326179104,1.1425107810096424,0.7837918143507044,0.8196984508851163,1767,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Labour force status,Employed,2018,top_cause,0.7703630345921052,0.5890852563174972,0.7614685317221578,0.7792575374620526,5670,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Labour force status,Unemployed,2018,top_cause,0.7732730393266769,4.389057291412459,0.7067530441080752,0.8397930345452786,186,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.767914211886356,0.7781955699708867,0.7562017133291904,0.7796267104435216,3836,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7517314437030442,1.5685277219283429,0.728621280831202,0.7748416065748864,953,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7876994594515339,0.8666226634249705,0.774319996517668,0.8010789223853997,2653,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7736423958189058,0.7913570874684148,0.7616429594107096,0.785641832227102,3120,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.767824615417761,0.9475753762415239,0.7535644721587519,0.7820847586767702,2243,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7343524929699957,1.106266600364979,0.7184299486928574,0.7502750372471341,1328,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.725445344606235,1.6675514986873707,0.701735317847914,0.749155371364556,579,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7187698904427221,1.741037267077229,0.6942427998940579,0.7432969809913863,722,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8061800462578222,0.8927087111204676,0.7920745000348002,0.8202855924808443,1994,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7274291251066805,1.755707049242769,0.7023973972006307,0.7524608530127302,950,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7281359979820932,1.7161209927886105,0.7036448863741395,0.7526271095900469,923,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7578072037219656,1.411998779002019,0.736835141306678,0.7787792661372532,1366,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7739919689079621,0.6963261188091066,0.7634287268690777,0.7845552109468464,4530,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Immigration status,Native-born,2018,top_cause,0.7605688488301245,0.5470520737466553,0.752414011666724,0.7687236859935251,7990,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Immigration status,Naturalized,2018,top_cause,0.7910493064108155,0.9586075691062491,0.7761867848059877,0.8059118280156433,1607,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.7892614957089403,3.188818099655903,0.7399328998297096,0.8385900915881711,169,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Immigration status,Unknown,2018,top_cause,0.7562166595602035,1.6593354887111313,0.7316226955372566,0.7808106235831503,879,Top cause,Focus on primary cause,CA (without QC),NA,NA
+Age group,15 to 24 years,2018,top_cause,0.816948360956892,4.57799070509148,0.7436460606698051,0.890250661243979,42,Top cause,Focus on primary cause,AB,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.8018056379017848,3.091477504351335,0.7532227544283391,0.8503885213752306,132,Top cause,Focus on primary cause,AB,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.7589454956426555,2.983877766269471,0.7145601396799077,0.8033308516054032,183,Top cause,Focus on primary cause,AB,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7586277402421167,2.5250982758070926,0.7210824820199744,0.7961729984642589,173,Top cause,Focus on primary cause,AB,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7381082310415505,2.723763951078001,0.6987044763106788,0.7775119857724223,252,Top cause,Focus on primary cause,AB,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.7571421876805322,2.6635865363151336,0.7176153247604923,0.7966690506005721,139,Top cause,Focus on primary cause,AB,NA,NA
+Age group,75 years and over,2018,top_cause,0.7702927769723513,3.71516721839453,0.7142031847686635,0.8263823691760391,92,Top cause,Focus on primary cause,AB,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.8190127687227822,3.6667155311300403,0.7601533482486349,0.8778721891969294,107,Top cause,Focus on primary cause,AT,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.7601384581548094,2.424418243873457,0.7240184083833172,0.7962585079263016,261,Top cause,Focus on primary cause,AT,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.724888954163932,2.1323625404116178,0.6945932802486595,0.7551846280792044,461,Top cause,Focus on primary cause,AT,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7233724028167051,1.7511131154591593,0.6985454037491247,0.7481994018842856,548,Top cause,Focus on primary cause,AT,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.719727538664683,1.5485313489581896,0.6978833352003403,0.7415717421290257,755,Top cause,Focus on primary cause,AT,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.7281338699617036,1.5383923783978035,0.7061792237092469,0.7500885162141603,700,Top cause,Focus on primary cause,AT,NA,NA
+Age group,75 years and over,2018,top_cause,0.7587093656031517,1.745060008595465,0.7327595723530608,0.7846591588532427,380,Top cause,Focus on primary cause,AT,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.8303464710717152,4.899595635517378,0.7506080421766297,0.9100848999668008,49,Top cause,Focus on primary cause,BC,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.8020210945620827,2.739561587190116,0.7589570367063346,0.8450851524178308,162,Top cause,Focus on primary cause,BC,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.769308822143534,2.775561533675999,0.7274584172731954,0.8111592270138727,228,Top cause,Focus on primary cause,BC,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7719523298183582,2.344525223648529,0.7364796921575945,0.8074249674791218,247,Top cause,Focus on primary cause,BC,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7783579930159601,2.1791172312333758,0.7451143909190483,0.8116015951128719,314,Top cause,Focus on primary cause,BC,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.768172944127914,1.9087569709233976,0.7394348651517761,0.7969110231040519,333,Top cause,Focus on primary cause,BC,NA,NA
+Age group,75 years and over,2018,top_cause,0.7528904690344356,3.3714801038995907,0.7031396205941507,0.8026413174747205,199,Top cause,Focus on primary cause,BC,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.8512915456335817,2.8493882037181466,0.8037494815203742,0.8988336097467892,99,Top cause,Focus on primary cause,ON,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.7823369083881584,2.1435439549742954,0.749468830763613,0.8152049860127037,375,Top cause,Focus on primary cause,ON,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.760322282912896,1.7711459384459585,0.7339285901356003,0.7867159756901918,510,Top cause,Focus on primary cause,ON,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7573260394153687,1.4286327947265407,0.7361203890836304,0.778531689747107,552,Top cause,Focus on primary cause,ON,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7444632317127262,1.6293755269996004,0.7206886692420449,0.7682377941834075,687,Top cause,Focus on primary cause,ON,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.7397158117005276,1.6811829607946556,0.7153417462660879,0.7640898771349672,648,Top cause,Focus on primary cause,ON,NA,NA
+Age group,75 years and over,2018,top_cause,0.7764328691947208,1.6912908576044063,0.7506951354013427,0.8021706029880988,418,Top cause,Focus on primary cause,ON,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.8905332929155584,2.5265638907101167,0.8464343137369693,0.9346322720941475,65,Top cause,Focus on primary cause,PR,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.7638189326649798,2.4647896982497564,0.7269196111945391,0.8007182541354205,209,Top cause,Focus on primary cause,PR,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.7826555821474922,2.3613216320430306,0.7464334572411117,0.8188777070538727,234,Top cause,Focus on primary cause,PR,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7552904259789883,2.3548401235791667,0.7204307378247189,0.7901501141332578,230,Top cause,Focus on primary cause,PR,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7336651111346134,2.076302378398088,0.7038087717040866,0.7635214505651402,339,Top cause,Focus on primary cause,PR,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.7409481585124994,2.1077327245642423,0.7103389956276985,0.7715573213973003,319,Top cause,Focus on primary cause,PR,NA,NA
+Age group,75 years and over,2018,top_cause,0.7916971065221119,2.204707758493051,0.7574867043965646,0.8259075086476592,203,Top cause,Focus on primary cause,PR,NA,NA
+Age group,15 to 24 years,2018,top_cause,0.7850450708067697,5.160661030471589,0.7056400404397523,0.8644501011737871,44,Top cause,Focus on primary cause,QC,NA,NA
+Age group,25 to 34 years,2018,top_cause,0.7716161985972987,3.0816889778479384,0.7250105847689403,0.8182218124256571,154,Top cause,Focus on primary cause,QC,NA,NA
+Age group,35 to 44 years,2018,top_cause,0.7457036161096352,2.4100018606594773,0.7104801801548655,0.7809270520644049,254,Top cause,Focus on primary cause,QC,NA,NA
+Age group,45 to 54 years,2018,top_cause,0.7441104920436566,2.8573148899210925,0.7024385612114435,0.7857824228758697,204,Top cause,Focus on primary cause,QC,NA,NA
+Age group,55 to 64 years,2018,top_cause,0.7077665761905714,2.3498171138733395,0.6751699837097551,0.7403631686713876,354,Top cause,Focus on primary cause,QC,NA,NA
+Age group,65 to 74 years,2018,top_cause,0.7116297423117376,2.488332358456045,0.6769232622885042,0.746336222334971,300,Top cause,Focus on primary cause,QC,NA,NA
+Age group,75 years and over,2018,top_cause,0.7273245073320259,2.709112176909386,0.6887053048661688,0.7659437097978831,199,Top cause,Focus on primary cause,QC,NA,NA
+Gender,Male gender,2018,top_cause,0.7771003977909922,2.0211464931769476,0.7463165420826623,0.807884253499322,455,Top cause,Focus on primary cause,AB,NA,NA
+Gender,Female gender,2018,top_cause,0.7645618584928352,1.614030487988482,0.7403753904016416,0.7887483265840288,558,Top cause,Focus on primary cause,AB,NA,NA
+Gender,Male gender,2018,top_cause,0.7542164326054128,1.1325556134835428,0.7374745759778457,0.7709582892329799,1334,Top cause,Focus on primary cause,AT,NA,NA
+Gender,Female gender,2018,top_cause,0.7293142647853622,1.1278499123120271,0.7131924432531725,0.7454360863175519,1878,Top cause,Focus on primary cause,AT,NA,NA
+Gender,Male gender,2018,top_cause,0.7793056783992208,1.7260727749260103,0.7529414518863011,0.8056699049121405,609,Top cause,Focus on primary cause,BC,NA,NA
+Gender,Female gender,2018,top_cause,0.7807805697499453,1.2632138316258426,0.7614495857904514,0.8001115537094391,923,Top cause,Focus on primary cause,BC,NA,NA
+Gender,Male gender,2018,top_cause,0.7725537022582657,1.0636007795725713,0.7564488992815596,0.7886585052349718,1400,Top cause,Focus on primary cause,ON,NA,NA
+Gender,Female gender,2018,top_cause,0.7643812903918297,0.8561110960950252,0.7515553781100116,0.7772072026736477,1889,Top cause,Focus on primary cause,ON,NA,NA
+Gender,Male gender,2018,top_cause,0.7767710224666887,1.4626422317000336,0.7545031248563681,0.7990389200770094,678,Top cause,Focus on primary cause,PR,NA,NA
+Gender,Female gender,2018,top_cause,0.7671013719997049,1.1876699841920637,0.7492448599459441,0.7849578840534656,921,Top cause,Focus on primary cause,PR,NA,NA
+Gender,Male gender,2018,top_cause,0.7456101266722838,1.572880169091304,0.7226245435560454,0.7685957097885221,673,Top cause,Focus on primary cause,QC,NA,NA
+Gender,Female gender,2018,top_cause,0.7335727026907458,1.5571837635703747,0.7111838870582887,0.7559615183232029,836,Top cause,Focus on primary cause,QC,NA,NA
+Education,Less than High School,2018,top_cause,0.8575175586121683,4.0070231086528905,0.7901713797374312,0.9248637374869053,60,Top cause,Focus on primary cause,AB,NA,NA
+Education,Graduated from High school,2018,top_cause,0.7527381916506156,2.7470855090242647,0.7122093472952244,0.7932670360060068,202,Top cause,Focus on primary cause,AB,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7690744743061233,2.0526906023666807,0.7381330727318915,0.800015875880355,361,Top cause,Focus on primary cause,AB,NA,NA
+Education,University Diploma,2018,top_cause,0.7501929906368415,2.3422700713049833,0.7157533935265885,0.7846325877470945,302,Top cause,Focus on primary cause,AB,NA,NA
+Education,Less than High School,2018,top_cause,0.7663245396849028,2.529284720521525,0.7283354799515773,0.8043135994182282,269,Top cause,Focus on primary cause,AT,NA,NA
+Education,Graduated from High school,2018,top_cause,0.7648557101651035,1.589097113883637,0.7410337198772174,0.7886777004529895,670,Top cause,Focus on primary cause,AT,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.727734211329519,1.5108055486144614,0.7061850955727472,0.7492833270862908,1045,Top cause,Focus on primary cause,AT,NA,NA
+Education,University Diploma,2018,top_cause,0.7107137213991609,1.6436827859528276,0.6878176590991658,0.733609783699156,843,Top cause,Focus on primary cause,AT,NA,NA
+Education,Less than High School,2018,top_cause,0.8586200482642831,2.6048411741668684,0.8147841042230377,0.9024559923055284,98,Top cause,Focus on primary cause,BC,NA,NA
+Education,Graduated from High school,2018,top_cause,0.7794627554464305,2.8286665851806077,0.7362486806155951,0.8226768302772659,289,Top cause,Focus on primary cause,BC,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7793324961363396,1.8700372851353675,0.7507683568430126,0.8078966354296666,469,Top cause,Focus on primary cause,BC,NA,NA
+Education,University Diploma,2018,top_cause,0.7647051738205214,1.6899690430343304,0.7393760090706447,0.7900343385703981,569,Top cause,Focus on primary cause,BC,NA,NA
+Education,Less than High School,2018,top_cause,0.7761504722746069,2.6153489245942803,0.736365079015438,0.8159358655337757,239,Top cause,Focus on primary cause,ON,NA,NA
+Education,Graduated from High school,2018,top_cause,0.796054845243785,1.5164736783600672,0.7723942341219292,0.8197154563656408,609,Top cause,Focus on primary cause,ON,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7582307776873973,1.2696813899283983,0.7393619788614425,0.7770995765133522,1011,Top cause,Focus on primary cause,ON,NA,NA
+Education,University Diploma,2018,top_cause,0.7629488246982402,1.1296068512396051,0.7460572235884011,0.7798404258080793,1212,Top cause,Focus on primary cause,ON,NA,NA
+Education,Less than High School,2018,top_cause,0.85793338070842,2.522668641714243,0.8155142401150226,0.9003525213018173,132,Top cause,Focus on primary cause,PR,NA,NA
+Education,Graduated from High school,2018,top_cause,0.7849369962914651,1.9860723679119816,0.7543823008453093,0.8154916917376208,385,Top cause,Focus on primary cause,PR,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7756932809882311,1.5222102330341563,0.7525506485470312,0.7988359134294309,497,Top cause,Focus on primary cause,PR,NA,NA
+Education,University Diploma,2018,top_cause,0.7344466151743708,1.9317413585089551,0.7066394124655101,0.7622538178832315,395,Top cause,Focus on primary cause,PR,NA,NA
+Education,Less than High School,2018,top_cause,0.7382881071658581,2.982932624166347,0.6951245321756305,0.7814516821560857,166,Top cause,Focus on primary cause,QC,NA,NA
+Education,Graduated from High school,2018,top_cause,0.7446691296906905,2.5059247348749105,0.7080945398584736,0.7812437195229075,283,Top cause,Focus on primary cause,QC,NA,NA
+Education,Post-secondary diploma,2018,top_cause,0.7356049578761098,1.8202950670639892,0.7093606858374867,0.7618492299147329,502,Top cause,Focus on primary cause,QC,NA,NA
+Education,University Diploma,2018,top_cause,0.7334156427165783,2.227904351050344,0.701390225131837,0.7654410603013196,446,Top cause,Focus on primary cause,QC,NA,NA
+Marital status (original),Married,2018,top_cause,0.7661188812539129,1.6179032149020043,0.7418250061286068,0.790412756379219,600,Top cause,Focus on primary cause,AB,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7941863101321806,4.025937407287986,0.7315195119338467,0.8568531083305144,64,Top cause,Focus on primary cause,AB,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7646642735939606,4.320327556791387,0.6999149007958669,0.8294136463920543,66,Top cause,Focus on primary cause,AB,NA,NA
+Marital status (original),Separated,2018,top_cause,0.7343800766569427,8.03764606315237,0.6186895347496779,0.8500706185642075,29,Top cause,Focus on primary cause,AB,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.767907646321793,3.868499844545599,0.7096839642510175,0.8261313283925684,89,Top cause,Focus on primary cause,AB,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7779515201552436,3.2834816742167408,0.7278864047571599,0.8280166355533273,165,Top cause,Focus on primary cause,AB,NA,NA
+Marital status (original),Married,2018,top_cause,0.7279489745878748,1.015519461227499,0.7134600123615461,0.7424379368142034,1772,Top cause,Focus on primary cause,AT,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7495927391433028,2.5998585858472407,0.7113962726977253,0.7877892055888803,256,Top cause,Focus on primary cause,AT,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7446481438220032,2.002694223851028,0.71541915120737,0.7738771364366364,349,Top cause,Focus on primary cause,AT,NA,NA
+Marital status (original),Separated,2018,top_cause,0.7135651531035695,4.87475803636922,0.6453886395805571,0.7817416666265818,95,Top cause,Focus on primary cause,AT,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7065390683845928,3.0382740767434484,0.6644653185345103,0.7486128182346753,241,Top cause,Focus on primary cause,AT,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.7826950778611734,2.143608199286639,0.7498109670312179,0.815579188691129,499,Top cause,Focus on primary cause,AT,NA,NA
+Marital status (original),Married,2018,top_cause,0.7724773773251173,1.2641813178373047,0.7533373202448396,0.7916174344053951,807,Top cause,Focus on primary cause,BC,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.767900984709392,3.1703351319774447,0.7201855935008106,0.8156163759179735,131,Top cause,Focus on primary cause,BC,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7823841671194638,3.159546062005086,0.7339342726557339,0.8308340615831937,138,Top cause,Focus on primary cause,BC,NA,NA
+Marital status (original),Separated,2018,top_cause,0.8259843695769908,5.816611742602327,0.7318192644022561,0.9201494747517256,38,Top cause,Focus on primary cause,BC,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7296214290870164,4.150762079791549,0.6702642145848333,0.7889786435891996,154,Top cause,Focus on primary cause,BC,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8170384165952321,2.6449531313416177,0.7746830398588814,0.8593937933315828,264,Top cause,Focus on primary cause,BC,NA,NA
+Marital status (original),Married,2018,top_cause,0.7532873509670212,0.8647637809190222,0.7405198394696341,0.7660548624644082,1864,Top cause,Focus on primary cause,ON,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7899446046033441,2.646579356958249,0.7489685963207462,0.8309206128859421,207,Top cause,Focus on primary cause,ON,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7700474155669831,2.2413969459450613,0.7362187914478115,0.8038760396861546,285,Top cause,Focus on primary cause,ON,NA,NA
+Marital status (original),Separated,2018,top_cause,0.7588090384708586,3.3931684936761917,0.7083445341127097,0.8092735428290074,117,Top cause,Focus on primary cause,ON,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7407322327446407,2.345098881454434,0.7066858878885656,0.7747785776007159,271,Top cause,Focus on primary cause,ON,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.805436992669082,1.8095318595549692,0.7768712251590714,0.8340027601790926,545,Top cause,Focus on primary cause,ON,NA,NA
+Marital status (original),Married,2018,top_cause,0.7659149459948901,1.0874002985971514,0.7495912655887526,0.7822386264010276,853,Top cause,Focus on primary cause,PR,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7133176135291669,3.610540639577273,0.6628394813352984,0.7637957457230354,104,Top cause,Focus on primary cause,PR,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.7557817073364448,2.4293528586660957,0.7197955837576526,0.791767830915237,170,Top cause,Focus on primary cause,PR,NA,NA
+Marital status (original),Separated,2018,top_cause,0.8088444445835516,5.274169612972142,0.7252327182884948,0.8924561708786085,50,Top cause,Focus on primary cause,PR,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7510534390054068,3.0524939087348253,0.706119578155929,0.7959872998548846,128,Top cause,Focus on primary cause,PR,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.8085131586082962,2.1174458749856404,0.7749589112764865,0.8420674059401059,294,Top cause,Focus on primary cause,PR,NA,NA
+Marital status (original),Married,2018,top_cause,0.7347557454433067,1.7087357244533519,0.7101483311552955,0.7593631597313178,567,Top cause,Focus on primary cause,QC,NA,NA
+Marital status (original),Living common-law,2018,top_cause,0.7301594531025983,2.443368990295999,0.6951927359086645,0.7651261702965322,340,Top cause,Focus on primary cause,QC,NA,NA
+Marital status (original),Widowed,2018,top_cause,0.71807669136375,3.115043597856903,0.6742354290480592,0.7619179536794407,135,Top cause,Focus on primary cause,QC,NA,NA
+Marital status (original),Separated,2018,top_cause,0.7781026438688818,5.156496253022151,0.6994633349066912,0.8567419528310725,46,Top cause,Focus on primary cause,QC,NA,NA
+Marital status (original),Divorced,2018,top_cause,0.7538330108242834,3.4421108965901426,0.7029763196580446,0.8046897019905223,148,Top cause,Focus on primary cause,QC,NA,NA
+Marital status (original),"Single, never married",2018,top_cause,0.756969792334595,2.689212451053921,0.7170717347081278,0.7968678499610623,273,Top cause,Focus on primary cause,QC,NA,NA
+Labour force status,Employed,2018,top_cause,0.7678459456542475,1.6544556901678165,0.7429472081411842,0.7927446831673107,601,Top cause,Focus on primary cause,AB,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.7917209268630191,7.033799013311342,0.6825743373600022,0.900867516366036,28,Top cause,Focus on primary cause,AB,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.7735387341885542,2.1458805368716303,0.7410048664184482,0.8060726019586603,295,Top cause,Focus on primary cause,AB,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7685887596459012,4.8023973463147325,0.6962451440545178,0.8409323752372847,89,Top cause,Focus on primary cause,AB,NA,NA
+Labour force status,Employed,2018,top_cause,0.7309522634137203,1.1287481760901317,0.7147813642941577,0.7471231625332829,1568,Top cause,Focus on primary cause,AT,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.7660896723989353,6.551451316545616,0.6677190958351112,0.8644602489627594,49,Top cause,Focus on primary cause,AT,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.7557843628172818,1.2922125963047524,0.7366426867115714,0.7749260389229922,1242,Top cause,Focus on primary cause,AT,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7356831595697961,2.0120809041241605,0.706670713567716,0.7646956055718762,353,Top cause,Focus on primary cause,AT,NA,NA
+Labour force status,Employed,2018,top_cause,0.7787922503591427,1.3572357225810028,0.7580753396561627,0.7995091610621227,845,Top cause,Focus on primary cause,BC,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.8307742355908966,7.348923693144547,0.7111126237551744,0.9504358474266188,26,Top cause,Focus on primary cause,BC,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.7792573563133062,1.8619361465976456,0.7508197010627483,0.807695011563864,548,Top cause,Focus on primary cause,BC,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7772195087390816,3.094319016170381,0.7300830588279791,0.8243559586501842,113,Top cause,Focus on primary cause,BC,NA,NA
+Labour force status,Employed,2018,top_cause,0.773322085056155,0.8643575626390306,0.760221160658687,0.786423009453623,1799,Top cause,Focus on primary cause,ON,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.7513325727706733,6.981551191648918,0.6485233123021403,0.8541418332392063,65,Top cause,Focus on primary cause,ON,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.7657910933071413,1.1927937566757383,0.7478881779171708,0.7836940086971119,1199,Top cause,Focus on primary cause,ON,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7402391566424208,2.92107027024817,0.697859039771825,0.7826192735130166,226,Top cause,Focus on primary cause,ON,NA,NA
+Labour force status,Employed,2018,top_cause,0.7792227218414336,1.2490262069432478,0.760146988196695,0.7982984554861722,857,Top cause,Focus on primary cause,PR,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.8163377679182002,7.99368404596388,0.6884394127697757,0.9442361230666247,18,Top cause,Focus on primary cause,PR,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.766236005770571,1.5297301847208669,0.7432625947258622,0.7892094168152799,552,Top cause,Focus on primary cause,PR,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7463261256580415,2.9085130833775583,0.703781201146898,0.7888710501691849,172,Top cause,Focus on primary cause,PR,NA,NA
+Labour force status,Employed,2018,top_cause,0.7377286372731614,1.620897158556362,0.7142917358015816,0.7611655387447412,763,Top cause,Focus on primary cause,QC,NA,NA
+Labour force status,Unemployed,2018,top_cause,0.7242226564408634,8.334613510770609,0.6059169580070883,0.8425283548746384,34,Top cause,Focus on primary cause,QC,NA,NA
+Labour force status,Not in labour force,2018,top_cause,0.7348014946637728,1.5502784855684069,0.7124746247453069,0.7571283645822386,587,Top cause,Focus on primary cause,QC,NA,NA
+Labour force status,Unable to determine,2018,top_cause,0.7715544335428486,3.3197088594865263,0.721353168683099,0.8217556984025982,125,Top cause,Focus on primary cause,QC,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7715817394506352,2.6627526313682583,0.7313136657815928,0.8118498131196776,220,Top cause,Focus on primary cause,AB,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7841525583438513,2.001757400882297,0.7533873332055933,0.8149177834821094,250,Top cause,Focus on primary cause,AB,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7751689256933125,2.483834665576739,0.7374319467253262,0.8129059046612989,221,Top cause,Focus on primary cause,AB,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7613018185518392,3.2702952862810317,0.712504952948686,0.8100986841549924,113,Top cause,Focus on primary cause,AB,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7566648870300996,3.7974369290270586,0.700347533069549,0.8129822409906502,93,Top cause,Focus on primary cause,AB,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7385974244168957,4.687362557866498,0.6707420226127906,0.8064528262210008,116,Top cause,Focus on primary cause,AB,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7728686654105901,1.4255585657457641,0.7512743791129775,0.7944629517082027,892,Top cause,Focus on primary cause,AT,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.737956372180902,1.3560833257489568,0.7183424181022173,0.7575703262595868,1045,Top cause,Focus on primary cause,AT,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7143249311557542,1.7588731195464187,0.6896998080238639,0.7389500542876446,636,Top cause,Focus on primary cause,AT,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7034754910593679,2.2875284877947695,0.671935354192665,0.7350156279260708,388,Top cause,Focus on primary cause,AT,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.6874061779326245,3.9635633406544155,0.6340054318328314,0.7408069240324175,111,Top cause,Focus on primary cause,AT,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.6994380564612729,4.172895188832404,0.6422329463043185,0.7566431666182273,140,Top cause,Focus on primary cause,AT,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.8085492914606139,2.078141740413253,0.7756164079985849,0.841482174922643,362,Top cause,Focus on primary cause,BC,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7793461161260192,1.8076171444446798,0.751734939238268,0.8069572930137705,435,Top cause,Focus on primary cause,BC,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.785701507340286,2.226617769072675,0.7514127814415997,0.8199902332389722,354,Top cause,Focus on primary cause,BC,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7496827840477315,2.7540260234323823,0.7092164680663482,0.7901491000291148,182,Top cause,Focus on primary cause,BC,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.6983025233700653,4.701094897275738,0.6339610916650491,0.7626439550750814,80,Top cause,Focus on primary cause,BC,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7164466285507406,3.677726751447593,0.6648036368568817,0.7680896202445995,119,Top cause,Focus on primary cause,BC,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7859903503878068,1.2871281641587708,0.7661619765373977,0.805818724238216,800,Top cause,Focus on primary cause,ON,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7742441275878071,1.3173222401961706,0.7542538863511218,0.7942343688244925,873,Top cause,Focus on primary cause,ON,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7711464648317554,1.5235536075375486,0.7481191815939526,0.7941737480695582,699,Top cause,Focus on primary cause,ON,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7335952895434145,1.777112532680396,0.7080436039641879,0.7591469751226411,433,Top cause,Focus on primary cause,ON,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7216276376506102,2.395331893065217,0.687748921361928,0.7555063539392924,224,Top cause,Focus on primary cause,ON,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7081420063259543,2.262916143598727,0.6767342502911691,0.7395497623607394,260,Top cause,Focus on primary cause,ON,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.8054691180645649,1.6886157117547311,0.7788111028821486,0.8321271332469812,379,Top cause,Focus on primary cause,PR,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7838979267045239,1.644114595841026,0.7586375576285519,0.8091582957804958,517,Top cause,Focus on primary cause,PR,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7521634628633378,2.1257082857141816,0.7208259886450483,0.7835009370816273,333,Top cause,Focus on primary cause,PR,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.7078289462860538,2.847593243034251,0.6683237372933816,0.7473341552787259,212,Top cause,Focus on primary cause,PR,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7405052579952153,3.977409735579634,0.6827785794369697,0.7982319365534608,71,Top cause,Focus on primary cause,PR,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.7382783071669515,3.7662244278043815,0.6837810814032482,0.7927755329306548,87,Top cause,Focus on primary cause,PR,NA,NA
+Personal income category,"Less than $25,000",2018,top_cause,0.7609646830341157,2.2245939267900807,0.727785679434659,0.7941436866335724,393,Top cause,Focus on primary cause,QC,NA,NA
+Personal income category,"$25,000 to $49,999",2018,top_cause,0.7283803666647587,1.675174169784467,0.7044655921825339,0.7522951411469835,505,Top cause,Focus on primary cause,QC,NA,NA
+Personal income category,"$50,000 to $74,999",2018,top_cause,0.7364632712827447,2.2951311611801968,0.7033343959062698,0.7695921466592196,327,Top cause,Focus on primary cause,QC,NA,NA
+Personal income category,"$75,000 to $99,999",2018,top_cause,0.737932647793223,3.3930595355864575,0.6888581011846824,0.7870071944017636,150,Top cause,Focus on primary cause,QC,NA,NA
+Personal income category,"$100,000 to $124,999",2018,top_cause,0.7026118932055614,4.686324202636239,0.6380768035190592,0.7671469828920636,64,Top cause,Focus on primary cause,QC,NA,NA
+Personal income category,"$125,000 and more",2018,top_cause,0.6769959161944817,5.40459585806695,0.6052830031982793,0.7487088291906842,70,Top cause,Focus on primary cause,QC,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8130545544384938,2.072928498351098,0.7800212438949304,0.8460878649820572,193,Top cause,Focus on primary cause,AB,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.675703345060128,4.735133350904963,0.6129934066786957,0.7384132834415602,93,Top cause,Focus on primary cause,AB,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7632084578804712,7.435097819185854,0.6519897225892678,0.8744271931716746,66,Top cause,Focus on primary cause,AB,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7899027050708717,3.88870207902748,0.7296985640442241,0.8501068460975193,108,Top cause,Focus on primary cause,AB,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7608828582864318,1.7286532051726768,0.7351034012006492,0.7866623153722143,462,Top cause,Focus on primary cause,AB,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7814772200787602,1.497057975013305,0.7585472740192837,0.8044071661382367,630,Top cause,Focus on primary cause,AT,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7343529012828742,2.3624348908678043,0.7003502521434797,0.7683555504222688,294,Top cause,Focus on primary cause,AT,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.6562894626316119,2.418726947053445,0.6251772881722715,0.6874016370909524,312,Top cause,Focus on primary cause,AT,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7092114575033306,2.185121857252529,0.6788376318785528,0.7395852831281083,470,Top cause,Focus on primary cause,AT,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7545633735927111,1.2613983875290649,0.7359083379439965,0.7732184092414257,1224,Top cause,Focus on primary cause,AT,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8278005642020775,1.8575734224120215,0.7976621916003815,0.8579389368037734,243,Top cause,Focus on primary cause,BC,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7793524067013057,3.3794780568386904,0.7277307898810258,0.8309740235215856,87,Top cause,Focus on primary cause,BC,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7211619470789551,4.485083087111709,0.6577674754511709,0.7845564187067393,99,Top cause,Focus on primary cause,BC,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7387048210506906,3.073866503076668,0.6942003107467947,0.7832093313545865,158,Top cause,Focus on primary cause,BC,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7883431070621616,1.4748735562304418,0.7655544803401065,0.8111317337842167,825,Top cause,Focus on primary cause,BC,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.7987067137698026,1.4774256620190265,0.7755785547740932,0.821834872765512,614,Top cause,Focus on primary cause,ON,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7224110566532128,2.821609772985383,0.6824598936664157,0.7623622196400099,319,Top cause,Focus on primary cause,ON,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7377776716270741,2.237710490968469,0.7054199826364053,0.7701353606177429,321,Top cause,Focus on primary cause,ON,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7720417751968748,2.1451977725158824,0.7395811986682922,0.8045023517254574,434,Top cause,Focus on primary cause,ON,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7762063985052605,1.0742598826780823,0.7598632898852271,0.7925495071252939,1355,Top cause,Focus on primary cause,ON,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.8248399663697235,1.8742998750944366,0.7945389732273967,0.8551409595120502,314,Top cause,Focus on primary cause,PR,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.7727527911539306,2.865620424758452,0.7293510315263553,0.8161545507815059,157,Top cause,Focus on primary cause,PR,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7061653103178002,4.159354310837448,0.64859741029928,0.7637332103363204,125,Top cause,Focus on primary cause,PR,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.7146491629948406,2.819885098848617,0.6751514096862409,0.7541469163034403,196,Top cause,Focus on primary cause,PR,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7711976581810477,1.4226043266646975,0.7496947144552013,0.7927006019068941,664,Top cause,Focus on primary cause,PR,NA,NA
+Frequency of religious attendance,At least once a week,2018,top_cause,0.747976485933816,3.8699950657657425,0.691242088387337,0.8047108834802951,141,Top cause,Focus on primary cause,QC,NA,NA
+Frequency of religious attendance,At least once a month,2018,top_cause,0.684038759173874,4.15237382630217,0.628368243211978,0.73970927513577,90,Top cause,Focus on primary cause,QC,NA,NA
+Frequency of religious attendance,At least 3 times a year,2018,top_cause,0.7154781033969683,3.7425015341450507,0.6629965809426169,0.7679596258513196,146,Top cause,Focus on primary cause,QC,NA,NA
+Frequency of religious attendance,Once or twice a year,2018,top_cause,0.6939974037662964,2.5618323877196856,0.6591511055781162,0.7288437019544766,273,Top cause,Focus on primary cause,QC,NA,NA
+Frequency of religious attendance,Not at all,2018,top_cause,0.7616151448270843,1.5711154079555594,0.738162504118965,0.7850677855352035,747,Top cause,Focus on primary cause,QC,NA,NA
+Immigration status,Native-born,2018,top_cause,0.7677811270183282,1.4694384191529555,0.7456686744706901,0.7898935795659664,755,Top cause,Focus on primary cause,AB,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.7764684419986737,2.7092589208858917,0.7352375801952397,0.8176993038021078,164,Top cause,Focus on primary cause,AB,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.6792613713277301,13.616009249593539,0.4979876516842322,0.860535090971228,13,Top cause,Focus on primary cause,AB,NA,...
+Immigration status,Unknown,2018,top_cause,0.7912393253742146,4.97170172146564,0.7141381461978445,0.8683405045505846,81,Top cause,Focus on primary cause,AB,NA,NA
+Immigration status,Native-born,2018,top_cause,0.739723069897013,0.849960774945573,0.7274000787018271,0.7520460610921988,2782,Top cause,Focus on primary cause,AT,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.7210212813515081,4.108718593220149,0.6629578668219724,0.7790846958810438,90,Top cause,Focus on primary cause,AT,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.9108406817366065,4.571858824639217,0.8292231753356951,0.9924581881375178,22,Top cause,Focus on primary cause,AT,NA,NA
+Immigration status,Unknown,2018,top_cause,0.7440467369582624,2.2358029879951897,0.7114419145036281,0.7766515594128967,318,Top cause,Focus on primary cause,AT,NA,NA
+Immigration status,Native-born,2018,top_cause,0.7723606746995255,1.2363292578908063,0.7536451334527112,0.7910762159463398,1002,Top cause,Focus on primary cause,BC,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.7943754697352443,2.0637829219770865,0.762243457029056,0.8265074824414326,388,Top cause,Focus on primary cause,BC,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8086713589525856,6.811304182924095,0.7007144531695602,0.916628264735611,35,Top cause,Focus on primary cause,BC,NA,NA
+Immigration status,Unknown,2018,top_cause,0.773724853093914,3.159841369096403,0.7258067167546518,0.8216429894331763,107,Top cause,Focus on primary cause,BC,NA,NA
+Immigration status,Native-born,2018,top_cause,0.7592974711588986,0.8710601265948087,0.7463343918364247,0.7722605504813724,2190,Top cause,Focus on primary cause,ON,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.7924380308631922,1.2612682195969074,0.7728486435045735,0.8120274182218109,804,Top cause,Focus on primary cause,ON,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.7865123283257334,4.404289336987164,0.7186186298346423,0.8544060268168244,75,Top cause,Focus on primary cause,ON,NA,NA
+Immigration status,Unknown,2018,top_cause,0.7361185530505472,2.9054283753861725,0.6942000245865457,0.7780370815145486,220,Top cause,Focus on primary cause,ON,NA,NA
+Immigration status,Native-born,2018,top_cause,0.7634215842210059,1.0505231393424794,0.7477028290918935,0.7791403393501184,1261,Top cause,Focus on primary cause,PR,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.8186508448608119,2.48880673828859,0.7787172893784421,0.8585844003431816,161,Top cause,Focus on primary cause,PR,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8214621206614535,7.002935596403298,0.708712324516297,0.9342119168066101,24,Top cause,Focus on primary cause,PR,NA,NA
+Immigration status,Unknown,2018,top_cause,0.7656098280146713,2.7767189742947838,0.7239432802687766,0.8072763757605659,153,Top cause,Focus on primary cause,PR,NA,NA
+Immigration status,Native-born,2018,top_cause,0.7292634482047415,1.3029055129676423,0.7106406276151218,0.7478862687943613,1221,Top cause,Focus on primary cause,QC,NA,NA
+Immigration status,Naturalized,2018,top_cause,0.777399957315281,2.9250844173256363,0.7328311504696327,0.8219687641609293,148,Top cause,Focus on primary cause,QC,NA,NA
+Immigration status,Non-Canadian,2018,top_cause,0.8445283664665472,5.959325850377279,0.7458869124367642,0.9431698204963301,32,Top cause,Focus on primary cause,QC,NA,NA
+Immigration status,Unknown,2018,top_cause,0.7421059376101409,4.279604080240027,0.6798590573002843,0.8043528179199975,108,Top cause,Focus on primary cause,QC,NA,NA
+Marital status,Married/common-law,2018,top_cause,0.7531113678543616,0.501946120529108,0.7457022859438331,0.7605204497648901,7565,Top cause,Focus on primary cause,CA,NA,
+Marital status,Widowed,2018,top_cause,0.7530761145875025,1.3582614304359495,0.7330281478640802,0.7731240813109247,1143,Top cause,Focus on primary cause,CA,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7518714655492107,1.236602541538385,0.733648383570688,0.7700945475277334,1406,Top cause,Focus on primary cause,CA,NA,
+Marital status,"Single, never married",2018,top_cause,0.7919785803622411,1.070000962035875,0.7753694958428465,0.8085876648816357,2040,Top cause,Focus on primary cause,CA,NA,
+Marital status,Married/common-law,2018,top_cause,0.7592252157667718,0.5344976811811768,0.7512716012194874,0.7671788303140562,6658,Top cause,Focus on primary cause,CA (without QC),NA,
+Marital status,Widowed,2018,top_cause,0.7669897339970557,1.3969206881721976,0.7459902128653659,0.7879892551287455,1008,Top cause,Focus on primary cause,CA (without QC),NA,
+Marital status,Separated/divorced,2018,top_cause,0.7488768396208669,1.3127458444254194,0.7296087284831414,0.7681449507585925,1212,Top cause,Focus on primary cause,CA (without QC),NA,
+Marital status,"Single, never married",2018,top_cause,0.8017451326179104,1.1425107810096424,0.7837918143507044,0.8196984508851163,1767,Top cause,Focus on primary cause,CA (without QC),NA,
+Marital status,Married/common-law,2018,top_cause,0.7693142335925303,1.5410364792995788,0.7460780511296761,0.7925504160553845,664,Top cause,Focus on primary cause,AB,NA,
+Marital status,Widowed,2018,top_cause,0.7646642735939606,4.320327556791387,0.6999149007958669,0.8294136463920543,66,Top cause,Focus on primary cause,AB,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7598047324394515,3.542039432924889,0.7070570385654948,0.8125524263134081,118,Top cause,Focus on primary cause,AB,NA,
+Marital status,"Single, never married",2018,top_cause,0.7779515201552436,3.2834816742167408,0.7278864047571599,0.8280166355533273,165,Top cause,Focus on primary cause,AB,NA,
+Marital status,Married/common-law,2018,top_cause,0.7310084086037878,0.951929439076328,0.7173696381065007,0.7446471791010749,2028,Top cause,Focus on primary cause,AT,NA,
+Marital status,Widowed,2018,top_cause,0.7446481438220032,2.002694223851028,0.71541915120737,0.7738771364366364,349,Top cause,Focus on primary cause,AT,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7090328025557818,2.6434698726830343,0.672297063290931,0.7457685418206327,336,Top cause,Focus on primary cause,AT,NA,
+Marital status,"Single, never married",2018,top_cause,0.7826950778611734,2.143608199286639,0.7498109670312179,0.815579188691129,499,Top cause,Focus on primary cause,AT,NA,
+Marital status,Married/common-law,2018,top_cause,0.7718060795885203,1.2108669269036225,0.753489148839771,0.7901230103372696,938,Top cause,Focus on primary cause,BC,NA,
+Marital status,Widowed,2018,top_cause,0.7823841671194638,3.159546062005086,0.7339342726557339,0.8308340615831937,138,Top cause,Focus on primary cause,BC,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7534020196829961,3.551396690490611,0.7009606463127469,0.8058433930532454,192,Top cause,Focus on primary cause,BC,NA,
+Marital status,"Single, never married",2018,top_cause,0.8170384165952321,2.6449531313416177,0.7746830398588814,0.8593937933315828,264,Top cause,Focus on primary cause,BC,NA,
+Marital status,Married/common-law,2018,top_cause,0.7571831044594071,0.8170813600430358,0.7450571953443783,0.7693090135744358,2071,Top cause,Focus on primary cause,ON,NA,
+Marital status,Widowed,2018,top_cause,0.7700474155669831,2.2413969459450613,0.7362187914478115,0.8038760396861546,285,Top cause,Focus on primary cause,ON,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7471279977625499,1.9239498083561106,0.7189547548070037,0.7753012407180961,388,Top cause,Focus on primary cause,ON,NA,
+Marital status,"Single, never married",2018,top_cause,0.805436992669082,1.8095318595549692,0.7768712251590714,0.8340027601790926,545,Top cause,Focus on primary cause,ON,NA,
+Marital status,Married/common-law,2018,top_cause,0.7593801744239467,1.0658782290699456,0.7435160927436127,0.7752442561042806,957,Top cause,Focus on primary cause,PR,NA,
+Marital status,Widowed,2018,top_cause,0.7557817073364448,2.4293528586660957,0.7197955837576526,0.791767830915237,170,Top cause,Focus on primary cause,PR,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7744707015402467,2.889336768273713,0.7306124566519425,0.8183289464285508,178,Top cause,Focus on primary cause,PR,NA,
+Marital status,"Single, never married",2018,top_cause,0.8085131586082962,2.1174458749856404,0.7749589112764865,0.8420674059401059,294,Top cause,Focus on primary cause,PR,NA,
+Marital status,Married/common-law,2018,top_cause,0.7330376079794201,1.4002124252588484,0.7129203736543681,0.753154842304472,907,Top cause,Focus on primary cause,QC,NA,
+Marital status,Widowed,2018,top_cause,0.71807669136375,3.115043597856903,0.6742354290480592,0.7619179536794407,135,Top cause,Focus on primary cause,QC,NA,
+Marital status,Separated/divorced,2018,top_cause,0.7619029111949287,2.994146292566533,0.7171912567709093,0.8066145656189481,194,Top cause,Focus on primary cause,QC,NA,
+Marital status,"Single, never married",2018,top_cause,0.756969792334595,2.689212451053921,0.7170717347081278,0.7968678499610623,273,Top cause,Focus on primary cause,QC,NA,
+Marital status,Married/common-law,2018,top_cause,0.7080804895585784,1.57788521735784,0.686182405099803,0.7299785740173538,589,Top cause,Focus on primary cause,10,NL,
+Marital status,Widowed,2018,top_cause,0.7508757676968609,4.228165257733632,0.6886503051818889,0.813101230211833,82,Top cause,Focus on primary cause,10,NL,
+Marital status,Separated/divorced,2018,top_cause,0.7002647209682621,5.078542097329569,0.6305620540463027,0.7699673878902215,73,Top cause,Focus on primary cause,10,NL,
+Marital status,"Single, never married",2018,top_cause,0.7420120552984151,3.4614966269684135,0.6916709247044279,0.7923531858924022,153,Top cause,Focus on primary cause,10,NL,
+Marital status,Married/common-law,2018,top_cause,0.7200494453059141,2.158425035856135,0.6895882191522472,0.750510671459581,356,Top cause,Focus on primary cause,11,PE,
+Marital status,Widowed,2018,top_cause,0.7119322778659611,3.947353267161577,0.6568524252103501,0.7670121305215721,69,Top cause,Focus on primary cause,11,PE,
+Marital status,Separated/divorced,2018,top_cause,0.6893588709885774,5.571998154353781,0.6140745697867179,0.7646431721904369,66,Top cause,Focus on primary cause,11,PE,
+Marital status,"Single, never married",2018,top_cause,0.7857007666976238,3.857085679737546,0.7263037607061541,0.8450977726890935,107,Top cause,Focus on primary cause,11,PE,
+Marital status,Married/common-law,2018,top_cause,0.7391408513825971,1.676113831604333,0.7148591671641206,0.7634225356010736,546,Top cause,Focus on primary cause,12,NS,
+Marital status,Widowed,2018,top_cause,0.7078382682260934,3.358502591258958,0.6612445019158361,0.7544320345363508,97,Top cause,Focus on primary cause,12,NS,
+Marital status,Separated/divorced,2018,top_cause,0.6866179682213217,4.758738322824092,0.6225774143282687,0.7506585221143747,113,Top cause,Focus on primary cause,12,NS,
+Marital status,"Single, never married",2018,top_cause,0.7800785106322723,4.277809730533448,0.7146739745881442,0.8454830466764004,124,Top cause,Focus on primary cause,12,NS,
+Marital status,Married/common-law,2018,top_cause,0.7402335997675373,1.6769542148470202,0.7159038248810848,0.7645633746539898,537,Top cause,Focus on primary cause,13,NB,
+Marital status,Widowed,2018,top_cause,0.7906156769115279,3.345381917984679,0.7387763662520752,0.8424549875709806,101,Top cause,Focus on primary cause,13,NB,
+Marital status,Separated/divorced,2018,top_cause,0.7473145778127517,4.078253031228179,0.6875800118015707,0.8070491438239327,84,Top cause,Focus on primary cause,13,NB,
+Marital status,"Single, never married",2018,top_cause,0.8256036208256392,2.996383470395659,0.7771175409513078,0.8740897006999706,115,Top cause,Focus on primary cause,13,NB,
+Marital status,Married/common-law,2018,top_cause,0.7330376079794201,1.4002124252588484,0.7129203736543681,0.753154842304472,907,Top cause,Focus on primary cause,24,QC,
+Marital status,Widowed,2018,top_cause,0.71807669136375,3.115043597856903,0.6742354290480592,0.7619179536794407,135,Top cause,Focus on primary cause,24,QC,
+Marital status,Separated/divorced,2018,top_cause,0.7619029111949287,2.994146292566533,0.7171912567709093,0.8066145656189481,194,Top cause,Focus on primary cause,24,QC,
+Marital status,"Single, never married",2018,top_cause,0.756969792334595,2.689212451053921,0.7170717347081278,0.7968678499610623,273,Top cause,Focus on primary cause,24,QC,
+Marital status,Married/common-law,2018,top_cause,0.7571831044594071,0.8170813600430358,0.7450571953443783,0.7693090135744358,2071,Top cause,Focus on primary cause,35,ON,
+Marital status,Widowed,2018,top_cause,0.7700474155669831,2.2413969459450613,0.7362187914478115,0.8038760396861546,285,Top cause,Focus on primary cause,35,ON,
+Marital status,Separated/divorced,2018,top_cause,0.7471279977625499,1.9239498083561104,0.7189547548070037,0.7753012407180961,388,Top cause,Focus on primary cause,35,ON,
+Marital status,"Single, never married",2018,top_cause,0.805436992669082,1.809531859554969,0.7768712251590714,0.8340027601790926,545,Top cause,Focus on primary cause,35,ON,
+Marital status,Married/common-law,2018,top_cause,0.7772515305889777,1.4705049292285466,0.7548500789716341,0.7996529822063212,497,Top cause,Focus on primary cause,46,MB,
+Marital status,Widowed,2018,top_cause,0.7012975498422225,3.8021601058650036,0.6490361770743783,0.7535589226100666,84,Top cause,Focus on primary cause,46,MB,
+Marital status,Separated/divorced,2018,top_cause,0.766657989527057,4.074585406208529,0.7054323708515107,0.8278836082026033,106,Top cause,Focus on primary cause,46,MB,
+Marital status,"Single, never married",2018,top_cause,0.8109451232435623,3.0343253011684626,0.7627168518814351,0.8591733946056894,163,Top cause,Focus on primary cause,46,MB,
+Marital status,Married/common-law,2018,top_cause,0.7408201022151447,1.6431126060083372,0.7169624239784484,0.764677780451841,460,Top cause,Focus on primary cause,47,SK,
+Marital status,Widowed,2018,top_cause,0.8095151750329292,2.8246289432730993,0.7646990306842616,0.8543313193815969,86,Top cause,Focus on primary cause,47,SK,
+Marital status,Separated/divorced,2018,top_cause,0.7901780909415034,3.654305365186896,0.7335831109779095,0.8467730709050972,72,Top cause,Focus on primary cause,47,SK,
+Marital status,"Single, never married",2018,top_cause,0.8054076018517075,3.150741614122526,0.7556709433405708,0.8551442603628441,131,Top cause,Focus on primary cause,47,SK,
+Marital status,Married/common-law,2018,top_cause,0.7693142335925303,1.5410364792995788,0.7460780511296761,0.7925504160553845,664,Top cause,Focus on primary cause,48,AB,
+Marital status,Widowed,2018,top_cause,0.7646642735939606,4.320327556791387,0.6999149007958669,0.8294136463920543,66,Top cause,Focus on primary cause,48,AB,
+Marital status,Separated/divorced,2018,top_cause,0.7598047324394515,3.542039432924889,0.7070570385654948,0.8125524263134081,118,Top cause,Focus on primary cause,48,AB,
+Marital status,"Single, never married",2018,top_cause,0.7779515201552436,3.2834816742167408,0.7278864047571599,0.8280166355533273,165,Top cause,Focus on primary cause,48,AB,
+Marital status,Married/common-law,2018,top_cause,0.7718060795885203,1.2108669269036225,0.753489148839771,0.7901230103372696,938,Top cause,Focus on primary cause,59,BC,
+Marital status,Widowed,2018,top_cause,0.7823841671194638,3.159546062005086,0.7339342726557339,0.8308340615831937,138,Top cause,Focus on primary cause,59,BC,
+Marital status,Separated/divorced,2018,top_cause,0.7534020196829961,3.551396690490611,0.7009606463127469,0.8058433930532454,192,Top cause,Focus on primary cause,59,BC,
+Marital status,"Single, never married",2018,top_cause,0.8170384165952321,2.6449531313416177,0.7746830398588814,0.8593937933315828,264,Top cause,Focus on primary cause,59,BC,
