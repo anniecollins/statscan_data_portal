@@ -1,0 +1,73 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+ImmStat,Native-born,2018,gs1datot,550.8575451479873,3.448388580870574,513.626640267028,588.0884500289465,9211,Total donation amount,New Canadians Average Donation Amounts,CA,
+ImmStat,Naturalized,2018,gs1datot,638.7809186067826,6.724599166440311,554.589771264397,722.9720659491683,1755,Total donation amount,New Canadians Average Donation Amounts,CA,
+ImmStat,Non-Canadian,2018,gs1datot,404.6785506927572,18.86782489556046,255.02738156282007,554.3297198226943,201,Total donation amount,New Canadians Average Donation Amounts,CA,*
+ImmStat,Native-born,2018,SecDonAmt,326.75220462406304,3.5030334741228173,304.31798821901526,349.1864210291108,8850,Secular donation amount,New Canadians Average Donation Amounts,CA,
+ImmStat,Naturalized,2018,SecDonAmt,306.18614535247576,5.833465161113692,271.1787148841507,341.19357582080085,1594,Secular donation amount,New Canadians Average Donation Amounts,CA,
+ImmStat,Non-Canadian,2018,SecDonAmt,269.57219555068014,21.10229582974555,158.07783685083632,381.06655425052395,181,Secular donation amount,New Canadians Average Donation Amounts,CA,*
+ImmStat,Native-born,2018,gs1dax13,723.9610858977376,5.734269944941184,642.5953704343872,805.326801361088,3390,Religious donation amount,New Canadians Average Donation Amounts,CA,
+ImmStat,Naturalized,2018,gs1dax13,756.9574582851895,9.735430035995888,612.521707417705,901.3932091526741,825,Religious donation amount,New Canadians Average Donation Amounts,CA,
+ImmStat,Non-Canadian,2018,gs1dax13,393.34911108557577,24.08389792073975,207.67427813036204,579.0239440407895,75,Religious donation amount,New Canadians Average Donation Amounts,CA,*
+ImmStat,Native-born,2018,gs1datot,658.3696772050084,3.6090047231389706,611.7997711714394,704.9395832385775,7990,Total donation amount,New Canadians Average Donation Amounts,CA (without QC),
+ImmStat,Naturalized,2018,gs1datot,691.6514634215765,6.991349353290821,596.8758955515746,786.4270312915785,1607,Total donation amount,New Canadians Average Donation Amounts,CA (without QC),
+ImmStat,Non-Canadian,2018,gs1datot,469.28347819899676,20.21747394511008,283.3274559774983,655.2395004204952,169,Total donation amount,New Canadians Average Donation Amounts,CA (without QC),*
+ImmStat,Native-born,2018,SecDonAmt,376.6662978445449,3.7645532666177344,348.8743938339674,404.45820185512235,7681,Secular donation amount,New Canadians Average Donation Amounts,CA (without QC),
+ImmStat,Naturalized,2018,SecDonAmt,329.9163610232484,6.22487412291722,289.66481942653365,370.1679026199631,1457,Secular donation amount,New Canadians Average Donation Amounts,CA (without QC),
+ImmStat,Non-Canadian,2018,SecDonAmt,304.490160530079,22.57272416866888,169.77845678263785,439.20186427752014,153,Secular donation amount,New Canadians Average Donation Amounts,CA (without QC),*
+ImmStat,Native-born,2018,gs1dax13,931.8367994051628,5.773408371081936,826.3931991795724,1037.280399630753,2922,Religious donation amount,New Canadians Average Donation Amounts,CA (without QC),
+ImmStat,Naturalized,2018,gs1dax13,805.5785034494761,9.99361085729148,647.7888965857319,963.3681103132203,764,Religious donation amount,New Canadians Average Donation Amounts,CA (without QC),
+ImmStat,Non-Canadian,2018,gs1dax13,476.3679504733143,27.224069744369437,222.1866047707256,730.549296175903,61,Religious donation amount,New Canadians Average Donation Amounts,CA (without QC),*
+ImmStat,Native-born,2018,gs1datot,927.3494422235275,9.558125195699333,753.6236819826844,1101.0752024643707,755,Total donation amount,New Canadians Average Donation Amounts,AB,
+ImmStat,Naturalized,2018,gs1datot,1094.9815325302325,27.43691647200201,506.1511824351479,1683.8118826253171,164,Total donation amount,New Canadians Average Donation Amounts,AB,*
+ImmStat,Non-Canadian,2018,gs1datot,324.5323998265806,36.87842803486549,89.95911310603529,559.105686547126,13,Total donation amount,New Canadians Average Donation Amounts,AB,...
+ImmStat,Native-born,2018,gs1datot,453.56084428632823,5.181447786960729,407.4996947618756,499.62199381078085,2782,Total donation amount,New Canadians Average Donation Amounts,AT,
+ImmStat,Naturalized,2018,gs1datot,489.99714889298696,19.049612324354502,307.0490984296913,672.9451993562826,90,Total donation amount,New Canadians Average Donation Amounts,AT,*
+ImmStat,Non-Canadian,2018,gs1datot,741.9579519957625,51.02577807794968,-0.06445623124466238,1483.9803602227698,22,Total donation amount,New Canadians Average Donation Amounts,AT,...
+ImmStat,Native-born,2018,gs1datot,634.7820315007425,8.63160646863542,527.3919065459536,742.1721564555314,1002,Total donation amount,New Canadians Average Donation Amounts,BC,
+ImmStat,Naturalized,2018,gs1datot,735.1882397464168,11.710659265304892,566.444376669497,903.9321028233365,388,Total donation amount,New Canadians Average Donation Amounts,BC,
+ImmStat,Non-Canadian,2018,gs1datot,296.1241422720267,32.611859436372264,106.84730583378746,485.4009787102659,35,Total donation amount,New Canadians Average Donation Amounts,BC,*
+ImmStat,Native-born,2018,gs1datot,613.0289635851515,5.52753088347632,546.6148680199926,679.4430591503103,2190,Total donation amount,New Canadians Average Donation Amounts,ON,
+ImmStat,Naturalized,2018,gs1datot,592.9869076682485,7.344987511831061,507.6210402574679,678.352775079029,804,Total donation amount,New Canadians Average Donation Amounts,ON,
+ImmStat,Non-Canadian,2018,gs1datot,433.299273560746,27.307520371709828,201.38989172814408,665.2086553933478,75,Total donation amount,New Canadians Average Donation Amounts,ON,*
+ImmStat,Native-born,2018,gs1datot,735.9454926612924,6.999917581632463,634.9768152717484,836.9141700508364,1261,Total donation amount,New Canadians Average Donation Amounts,PR,
+ImmStat,Naturalized,2018,gs1datot,778.5873244066005,21.730370995415033,446.98118619018913,1110.1934626230118,161,Total donation amount,New Canadians Average Donation Amounts,PR,*
+ImmStat,Non-Canadian,2018,gs1datot,1309.4670346579048,61.82661933128713,-277.318236876386,2896.2523061921956,24,Total donation amount,New Canadians Average Donation Amounts,PR,...
+ImmStat,Native-born,2018,gs1datot,248.375557143025,9.490168215419262,202.1767400421684,294.5743742438816,1221,Total donation amount,New Canadians Average Donation Amounts,QC,
+ImmStat,Naturalized,2018,gs1datot,305.4780028168828,16.734775741272227,205.28256889309293,405.6734367406726,148,Total donation amount,New Canadians Average Donation Amounts,QC,*
+ImmStat,Non-Canadian,2018,gs1datot,175.77437125702906,36.45738132622698,50.17452293233772,301.3742195817204,32,Total donation amount,New Canadians Average Donation Amounts,QC,...
+ImmStat,Native-born,2018,SecDonAmt,474.417375280666,8.872702805551388,391.9153495201673,556.9194010411647,716,Secular donation amount,New Canadians Average Donation Amounts,AB,
+ImmStat,Naturalized,2018,SecDonAmt,357.7713050086776,19.994518265738193,217.56596946008221,497.97664055727296,148,Secular donation amount,New Canadians Average Donation Amounts,AB,*
+ImmStat,Non-Canadian,2018,SecDonAmt,297.8166167605333,41.14161309336336,57.668971628042215,537.9642618930244,13,Secular donation amount,New Canadians Average Donation Amounts,AB,...
+ImmStat,Native-born,2018,SecDonAmt,242.82775309195586,5.96450867269912,214.44064923117125,271.2148569527405,2665,Secular donation amount,New Canadians Average Donation Amounts,AT,
+ImmStat,Naturalized,2018,SecDonAmt,267.710788799091,19.40053436914795,165.91550510755445,369.50607249062756,86,Secular donation amount,New Canadians Average Donation Amounts,AT,*
+ImmStat,Non-Canadian,2018,SecDonAmt,126.21545148794866,71.28050002071076,-50.11663796004353,302.54754093594084,20,Secular donation amount,New Canadians Average Donation Amounts,AT,...
+ImmStat,Native-born,2018,SecDonAmt,407.30434763479394,8.420825518889108,340.08074155448514,474.52795371510274,970,Secular donation amount,New Canadians Average Donation Amounts,BC,
+ImmStat,Naturalized,2018,SecDonAmt,337.7935297037598,9.570832919596995,274.42857156246487,401.15848784505476,352,Secular donation amount,New Canadians Average Donation Amounts,BC,
+ImmStat,Non-Canadian,2018,SecDonAmt,232.5556971320248,44.45552699903541,29.927053525728155,435.18434073832145,30,Secular donation amount,New Canadians Average Donation Amounts,BC,...
+ImmStat,Native-born,2018,SecDonAmt,375.74026094422277,6.044987683141832,331.22271209008215,420.2578097983634,2116,Secular donation amount,New Canadians Average Donation Amounts,ON,
+ImmStat,Naturalized,2018,SecDonAmt,331.0948484532504,8.659612447369282,274.89968088147424,387.29001602502655,736,Secular donation amount,New Canadians Average Donation Amounts,ON,
+ImmStat,Non-Canadian,2018,SecDonAmt,319.3940741435963,31.307809482167837,123.4069105886808,515.3812376985118,69,Secular donation amount,New Canadians Average Donation Amounts,ON,*
+ImmStat,Native-born,2018,SecDonAmt,348.45797724846614,6.992449431908828,300.7019890050012,396.21396549193105,1214,Secular donation amount,New Canadians Average Donation Amounts,PR,
+ImmStat,Naturalized,2018,SecDonAmt,204.7918040395305,13.551736507392873,150.39722605357207,259.1863820254889,135,Secular donation amount,New Canadians Average Donation Amounts,PR,
+ImmStat,Non-Canadian,2018,SecDonAmt,402.2225661250761,42.90509759046399,63.98377178391206,740.4613604662402,21,Secular donation amount,New Canadians Average Donation Amounts,PR,...
+ImmStat,Native-born,2018,SecDonAmt,186.00759465122047,7.378290621825351,159.10869434632193,212.90649495611902,1169,Secular donation amount,New Canadians Average Donation Amounts,QC,
+ImmStat,Naturalized,2018,SecDonAmt,165.91070122849226,13.744976090906622,121.21492555537154,210.60647690161298,137,Secular donation amount,New Canadians Average Donation Amounts,QC,
+ImmStat,Non-Canadian,2018,SecDonAmt,104.91318743037364,32.74361173201452,37.58378582081319,172.2425890399341,28,Secular donation amount,New Canadians Average Donation Amounts,QC,*
+ImmStat,Native-born,2018,gs1dax13,1570.5230321493596,13.824329179570634,1144.9868749614009,1996.0591893373182,239,Religious donation amount,New Canadians Average Donation Amounts,AB,
+ImmStat,Naturalized,2018,gs1dax13,1287.710445944224,32.24468529796583,473.89776576424015,2101.523126124208,91,Religious donation amount,New Canadians Average Donation Amounts,AB,*
+ImmStat,Non-Canadian,2018,gs1dax13,106.49456578144773,65.28696735488343,-29.775992066120097,242.76512362901556,5,Religious donation amount,New Canadians Average Donation Amounts,AB,...
+ImmStat,Native-born,2018,gs1dax13,561.2457565251005,8.090010362851386,472.25390566796125,650.2376073822398,1234,Religious donation amount,New Canadians Average Donation Amounts,AT,
+ImmStat,Naturalized,2018,gs1dax13,578.355798965707,21.311165114027837,336.7816938704383,819.9299040609757,37,Religious donation amount,New Canadians Average Donation Amounts,AT,*
+ImmStat,Non-Canadian,2018,gs1dax13,2167.856114923414,36.75319915986622,606.242118656746,3729.470111190082,8,Religious donation amount,New Canadians Average Donation Amounts,AT,...
+ImmStat,Native-born,2018,gs1dax13,1142.2655778208284,15.417208326982493,797.1052113312126,1487.4259443104443,252,Religious donation amount,New Canadians Average Donation Amounts,BC,
+ImmStat,Naturalized,2018,gs1dax13,974.0182351702064,17.228297868702995,645.1230236207625,1302.9134467196502,162,Religious donation amount,New Canadians Average Donation Amounts,BC,*
+ImmStat,Non-Canadian,2018,gs1dax13,455.2761602346676,49.621060451538284,12.495093554867196,898.057226914468,9,Religious donation amount,New Canadians Average Donation Amounts,BC,...
+ImmStat,Native-born,2018,gs1dax13,769.7574974724948,9.502340968362564,626.3959670254981,913.1190279194916,738,Religious donation amount,New Canadians Average Donation Amounts,ON,
+ImmStat,Naturalized,2018,gs1dax13,612.4911621651177,10.506265962809577,486.367576786472,738.6147475437633,384,Religious donation amount,New Canadians Average Donation Amounts,ON,
+ImmStat,Non-Canadian,2018,gs1dax13,376.67608069488443,43.43347508254514,56.0190901155857,697.3330712741831,26,Religious donation amount,New Canadians Average Donation Amounts,ON,...
+ImmStat,Native-born,2018,gs1dax13,1079.2150425158168,9.813958639463284,871.6279699564798,1286.8021150751538,459,Religious donation amount,New Canadians Average Donation Amounts,PR,
+ImmStat,Naturalized,2018,gs1dax13,1026.4014543942628,26.03361419579183,502.6806643789989,1550.1222444095267,90,Religious donation amount,New Canadians Average Donation Amounts,PR,*
+ImmStat,Non-Canadian,2018,gs1dax13,991.1365346312078,54.143472735092026,-60.65018740115886,2042.9232566635746,13,Religious donation amount,New Canadians Average Donation Amounts,PR,...
+ImmStat,Native-born,2018,gs1dax13,198.7708940903504,21.564508009701985,114.75906571672165,282.78272246397916,468,Religious donation amount,New Canadians Average Donation Amounts,QC,*
+ImmStat,Naturalized,2018,gs1dax13,380.2089918360023,27.628807612047996,174.32024183858854,586.0977418334161,61,Religious donation amount,New Canadians Average Donation Amounts,QC,*
+ImmStat,Non-Canadian,2018,gs1dax13,196.04892567344123,51.85114205535991,-3.1884828450775444,395.28633419196,14,Religious donation amount,New Canadians Average Donation Amounts,QC,...

@@ -1,0 +1,169 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+ImmStat,Native-born,2018,rg_010,0.7381018543892207,1.094294160356471,0.7222712145257628,0.7539324942526786,8300,Personally affected by cause,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_010,0.5800833112905739,3.100716987413757,0.5448299452136472,0.6153366773675005,1547,Personally affected by cause,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_010,0.6675372198626314,8.489771563875264,0.5564613862070908,0.7786130535181719,166,Personally affected by cause,New Canadians Reasons for Giving,CA,
+ImmStat,Native-born,2018,rg_020,0.2880193298078047,2.5717807598421683,0.2735014341935435,0.3025372254220659,8181,Tax credit,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_020,0.2955292968322057,5.59958391653565,0.2630950073216668,0.3279635863427446,1527,Tax credit,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_020,0.2077281496756007,23.51997570915604,0.1119689930291392,0.30348730632206217,164,Tax credit,New Canadians Reasons for Giving,CA,*
+ImmStat,Native-born,2018,rg_030,0.25219699856365724,2.972655159270516,0.23750325227457209,0.2668907448527424,8155,Religious reasons,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_030,0.48034381934483,3.760143932650036,0.4449436966435949,0.5157439420460651,1545,Religious reasons,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_030,0.38824592951932324,16.206109768585723,0.2649258550367344,0.5115660040019121,164,Religious reasons,New Canadians Reasons for Giving,CA,
+ImmStat,Native-born,2018,rg_040,0.868430589165435,0.71780162768413,0.8562129402192276,0.8806482381116425,8275,Personally believed in cause,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_040,0.7818023546444911,2.193817548478413,0.7481863905458783,0.8154183187431039,1552,Personally believed in cause,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_040,0.7656386892230382,7.5094276192968765,0.6529503968775308,0.8783269815685457,164,Personally believed in cause,New Canadians Reasons for Giving,CA,
+ImmStat,Native-born,2018,rg_050,0.8436202445136065,0.722635098244492,0.8316717239483177,0.8555687650788953,8238,Compassion towarde people in need,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_050,0.8545437420960496,1.532685377054343,0.8288731785350941,0.880214305657005,1555,Compassion towarde people in need,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_050,0.8243267069392494,6.155654144426238,0.7248728403063046,0.9237805735721941,163,Compassion towarde people in need,New Canadians Reasons for Giving,CA,
+ImmStat,Native-born,2018,rg_060,0.7205447819560606,1.0863536242427438,0.7052028417409723,0.735886722171149,8189,Contribution to community,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_060,0.756330704275161,2.337423144495031,0.7216811890757597,0.7909802194745623,1527,Contribution to community,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_060,0.8111007372633178,4.512617693721367,0.7393623797447427,0.8828390947818928,166,Contribution to community,New Canadians Reasons for Giving,CA,
+ImmStat,Native-born,2018,rg_070,0.504153974865502,1.806954249386091,0.4862990328826088,0.5220089168483951,8192,Was asked by someone familiar,New Canadians Reasons for Giving,CA,
+ImmStat,Naturalized,2018,rg_070,0.45253545628100256,3.772224949397178,0.41907758653057525,0.48599332603142986,1520,Was asked by someone familiar,New Canadians Reasons for Giving,CA,
+ImmStat,Non-Canadian,2018,rg_070,0.3767789870105506,14.765976848319362,0.2677361986712261,0.48582177534987514,161,Was asked by someone familiar,New Canadians Reasons for Giving,CA,
+ImmStat,Native-born,2018,rg_010,0.7553662081038767,1.112954425586307,0.7388890228623336,0.7718433933454197,7200,Personally affected by cause,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_010,0.5749405772686716,3.273391465198537,0.5380539457405362,0.6118272087968071,1420,Personally affected by cause,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_010,0.6674254847509373,9.576430740013727,0.5421533296932687,0.792697639808606,140,Personally affected by cause,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Native-born,2018,rg_020,0.32746747545691085,2.5656228714169673,0.31100068036801737,0.34393427054580433,7104,Tax credit,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_020,0.3092749395204362,5.691292801852794,0.2747761584083957,0.34377372063247674,1402,Tax credit,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_020,0.19332644525127876,22.372691159105685,0.10855343909488992,0.2780994514076676,140,Tax credit,New Canadians Reasons for Giving,CA (without QC),*
+ImmStat,Native-born,2018,rg_030,0.2741828605798636,3.176828289392348,0.2571109496740472,0.29125477148567996,7081,Religious reasons,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_030,0.4905698112746488,3.8484998305953297,0.4535665176538678,0.5275731048954299,1419,Religious reasons,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_030,0.3660399413032161,18.37868364367949,0.23418665145248838,0.4978932311539438,140,Religious reasons,New Canadians Reasons for Giving,CA (without QC),*
+ImmStat,Native-born,2018,rg_040,0.8816837687166664,0.6850953824150674,0.8698448516810598,0.893522685752273,7181,Personally believed in cause,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_040,0.7898922039277169,2.207430391278016,0.755717643591863,0.8240667642635707,1427,Personally believed in cause,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_040,0.7680314902617328,8.308983840007384,0.6429551882828156,0.89310779224065,139,Personally believed in cause,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Native-born,2018,rg_050,0.8499871615630102,0.7573556879081704,0.8373700382252828,0.8626042849007377,7153,Compassion towarde people in need,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_050,0.8572956203344091,1.5573716888373437,0.8311275937966414,0.8834636468721768,1427,Compassion towarde people in need,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_050,0.8221983195851623,7.208375835944867,0.7060368499333066,0.938359789237018,138,Compassion towarde people in need,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Native-born,2018,rg_060,0.7311156539755641,1.1470096413240916,0.7146794606009785,0.7475518473501497,7110,Contribution to community,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_060,0.7618028386630619,2.3289805247081596,0.7270286877496791,0.7965769895764446,1401,Contribution to community,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_060,0.8289492419389856,4.788693532471931,0.7511468276799093,0.9067516561980619,141,Contribution to community,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Native-born,2018,rg_070,0.5388160232957521,1.841417015991744,0.5193695547575394,0.5582624918339647,7107,Was asked by someone familiar,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Naturalized,2018,rg_070,0.47087967495638383,3.852927343692716,0.435320730937851,0.5064386189749167,1396,Was asked by someone familiar,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Non-Canadian,2018,rg_070,0.4048889443764477,15.826255867502278,0.2792968819826319,0.5304810067702634,137,Was asked by someone familiar,New Canadians Reasons for Giving,CA (without QC),
+ImmStat,Native-born,2018,rg_010,0.7100770118070612,3.63234398765478,0.6595247590272968,0.7606292645868256,697,Personally affected by cause,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_010,0.5920153371051873,9.561789838354247,0.48106714164592496,0.7029635325644495,149,Personally affected by cause,New Canadians Reasons for Giving,AB,
+ImmStat,Non-Canadian,2018,rg_010,0.45839504346287413,39.14605305559951,0.10669211504576948,0.8100979718799788,13,Personally affected by cause,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_010,0.7423360685928597,1.8963267821977274,0.7147454249287533,0.7699267122569662,2469,Personally affected by cause,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_010,0.5529027651553703,14.217975325672153,0.398826902087026,0.7069786282237146,78,Personally affected by cause,New Canadians Reasons for Giving,AT,
+ImmStat,Non-Canadian,2018,rg_010,0.4444094399858694,34.40137289159486,0.14476436685020638,0.7440545131215324,15,Personally affected by cause,New Canadians Reasons for Giving,AT,...
+ImmStat,Native-born,2018,rg_010,0.7483055179847746,2.6224509505164217,0.7098432922186351,0.7867677437509142,903,Personally affected by cause,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_010,0.5490194417093346,6.712538596212419,0.4767886108183114,0.6212502726003578,338,Personally affected by cause,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_010,0.6138742960278297,17.95395951810626,0.39785736996472054,0.8298912220909389,30,Personally affected by cause,New Canadians Reasons for Giving,BC,*
+ImmStat,Native-born,2018,rg_010,0.777349068629794,1.6280958643293728,0.7525437878870057,0.8021543493725823,1996,Personally affected by cause,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_010,0.5826446562467984,4.293351561672172,0.533616189614909,0.6316731228786878,717,Personally affected by cause,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_010,0.7116399732658355,12.668480090473839,0.5349414422775609,0.8883385042541101,62,Personally affected by cause,New Canadians Reasons for Giving,ON,
+ImmStat,Native-born,2018,rg_010,0.7477912340883665,2.3716984033682955,0.7130305814268257,0.7825518867499072,1135,Personally affected by cause,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_010,0.5396368393806673,9.457840393431116,0.43960421523073867,0.639669463530596,138,Personally affected by cause,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_010,0.7090345088824344,19.272123270230058,0.4412132612737648,0.9768557564911039,20,Personally affected by cause,New Canadians Reasons for Giving,PR,*
+ImmStat,Native-born,2018,rg_010,0.6885730344698648,2.8758468203043512,0.6497612284531546,0.727384840486575,1100,Personally affected by cause,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_010,0.6161950938563366,9.658268140464022,0.49955023938355925,0.732839948329114,127,Personally affected by cause,New Canadians Reasons for Giving,QC,
+ImmStat,Non-Canadian,2018,rg_010,0.6680194844219836,20.077908846142044,0.40514060238473304,0.9308983664592341,26,Personally affected by cause,New Canadians Reasons for Giving,QC,*
+ImmStat,Native-born,2018,rg_020,0.3284880049397408,6.429464504560779,0.28709352701545626,0.3698824828640253,689,Tax credit,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_020,0.2933472790388635,16.76033259289339,0.19698372972076472,0.38971082835696225,146,Tax credit,New Canadians Reasons for Giving,AB,*
+ImmStat,Non-Canadian,2018,rg_020,0.10774402138347636,86.5993263002946,-0.07513158760053917,0.2906196303674919,13,Tax credit,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_020,0.2522951886369974,4.250286035396086,0.23127797118599225,0.27331240608800256,2448,Tax credit,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_020,0.3868738338328838,20.305084601203937,0.2329087468804853,0.5408389207852824,74,Tax credit,New Canadians Reasons for Giving,AT,*
+ImmStat,Non-Canadian,2018,rg_020,0.2817507603614617,47.616777460520964,0.018800752411249733,0.5447007683116736,15,Tax credit,New Canadians Reasons for Giving,AT,...
+ImmStat,Native-born,2018,rg_020,0.3391216828122515,6.342284741074071,0.2969666544593807,0.38127671116512235,881,Tax credit,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_020,0.3367600615190076,9.861675372705044,0.2716692968572855,0.4018508261807297,339,Tax credit,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_020,0.12179831045995772,47.06952896837047,0.00943378881347788,0.23416283210643757,30,Tax credit,New Canadians Reasons for Giving,BC,...
+ImmStat,Native-born,2018,rg_020,0.33688139704908743,4.282742635124739,0.30860350075801457,0.3651592933401603,1959,Tax credit,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_020,0.2990912256562383,7.629180826725679,0.2543683549979008,0.3438140963145758,706,Tax credit,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_020,0.22399181083214564,30.438584691749575,0.0903615897601941,0.3576220319040972,62,Tax credit,New Canadians Reasons for Giving,ON,*
+ImmStat,Native-born,2018,rg_020,0.35338295249201035,5.017442140731474,0.31863125212846305,0.38813465285555765,1127,Tax credit,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_020,0.3488042255992089,13.91014925526921,0.2537083637966046,0.44390008740181314,137,Tax credit,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_020,0.20029166767743536,53.51196289328971,-0.009777277841828358,0.4103606131966991,20,Tax credit,New Canadians Reasons for Giving,PR,...
+ImmStat,Native-born,2018,rg_020,0.17450371808944204,7.870149871903657,0.14758615258957425,0.20142128358930983,1077,Tax credit,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_020,0.19625297782976553,21.91874067070596,0.1119428117899921,0.28056314386953896,125,Tax credit,New Canadians Reasons for Giving,QC,*
+ImmStat,Non-Canadian,2018,rg_020,0.2722680922765172,63.94995018256958,-0.06899164325330809,0.6135278278063425,24,Tax credit,New Canadians Reasons for Giving,QC,...
+ImmStat,Native-born,2018,rg_030,0.2602383214832158,8.418581180078107,0.21729869678615005,0.30317794618028154,691,Religious reasons,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_030,0.5617293757532827,9.183724271261696,0.4606193867482705,0.662839364758295,148,Religious reasons,New Canadians Reasons for Giving,AB,
+ImmStat,Non-Canadian,2018,rg_030,0.3098366352472936,60.43008838142151,-0.05713634434938536,0.6768096148439726,12,Religious reasons,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_030,0.2774193639902386,4.018549306938183,0.2555692269982847,0.29926950098219246,2442,Religious reasons,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_030,0.38402398670787813,19.17953536734856,0.2396647673456646,0.5283832060700917,76,Religious reasons,New Canadians Reasons for Giving,AT,*
+ImmStat,Non-Canadian,2018,rg_030,0.3633270484397742,41.95748753120389,0.06454445268961656,0.6621096441899319,15,Religious reasons,New Canadians Reasons for Giving,AT,...
+ImmStat,Native-born,2018,rg_030,0.18709412151477806,8.897272481030514,0.154468024415151,0.2197202186144051,870,Religious reasons,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_030,0.41895298061344183,8.43289072161584,0.3497077528551679,0.48819820837171574,339,Religious reasons,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_030,0.17987756798847565,40.44404201437931,0.03729066012797569,0.32246447584897564,31,Religious reasons,New Canadians Reasons for Giving,BC,...
+ImmStat,Native-born,2018,rg_030,0.29240606333032054,5.064262067505472,0.26338250633207727,0.3214296203285638,1956,Religious reasons,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_030,0.4942854917024551,5.333427936229106,0.44261621457658895,0.5459547688283213,718,Religious reasons,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_030,0.40282468266485144,24.19934005899905,0.2117656004775176,0.5938837648521853,62,Religious reasons,New Canadians Reasons for Giving,ON,*
+ImmStat,Native-born,2018,rg_030,0.32902832040675556,5.950459663082846,0.29065477847014165,0.36740186234336947,1122,Religious reasons,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_030,0.593925367286226,8.63462166166682,0.49341212577561655,0.6944386087968355,138,Religious reasons,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_030,0.6439969436178558,23.848852144221254,0.3429741524463419,0.9450197347893696,20,Religious reasons,New Canadians Reasons for Giving,PR,*
+ImmStat,Native-born,2018,rg_030,0.18894104856787386,7.906472517115186,0.15966198531342454,0.21822011182232318,1074,Religious reasons,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_030,0.40799774149242524,13.044454387146093,0.30368634286652607,0.5123091401183244,126,Religious reasons,New Canadians Reasons for Giving,QC,
+ImmStat,Non-Canadian,2018,rg_030,0.487427340781468,33.45512450887105,0.16781714325427766,0.8070375383086583,24,Religious reasons,New Canadians Reasons for Giving,QC,...
+ImmStat,Native-born,2018,rg_040,0.9021720598079602,1.762826041812276,0.8710013335238874,0.933342786092033,696,Personally believed in cause,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_040,0.8517445668893626,3.937828193076018,0.786006908988043,0.9174822247906822,147,Personally believed in cause,New Canadians Reasons for Giving,AB,
+ImmStat,Non-Canadian,2018,rg_040,0.8559505329207919,16.369124251980914,0.581336830816913,1.130564235024671,12,Personally believed in cause,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_040,0.8535864345601032,1.1222189866890864,0.8348117258447066,0.8723611432754997,2465,Personally believed in cause,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_040,0.7709174349984028,9.624330709881505,0.6254966460376385,0.9163382239591671,77,Personally believed in cause,New Canadians Reasons for Giving,AT,
+ImmStat,Non-Canadian,2018,rg_040,0.6910517608380695,20.552183421053655,0.41268547415105483,0.9694180475250842,15,Personally believed in cause,New Canadians Reasons for Giving,AT,*
+ImmStat,Native-born,2018,rg_040,0.889182117367321,1.603555740535953,0.861235910356618,0.917128324378024,895,Personally believed in cause,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_040,0.7693352088432881,4.3870177817012745,0.703184714467308,0.8354857032192682,344,Personally believed in cause,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_040,0.5796480871308431,20.763394901876925,0.34375736386846945,0.8155388103932169,31,Personally believed in cause,New Canadians Reasons for Giving,BC,*
+ImmStat,Native-born,2018,rg_040,0.8811115417392767,1.027887363582514,0.86336047289998,0.8988626105785735,1993,Personally believed in cause,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_040,0.7851079779153785,3.1643664045675806,0.7364152342106531,0.8338007216201038,722,Personally believed in cause,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_040,0.8138524519242442,10.369279216879804,0.6484498503109556,0.9792550535375327,61,Personally believed in cause,New Canadians Reasons for Giving,ON,
+ImmStat,Native-born,2018,rg_040,0.8733399641848197,1.5219776175121946,0.8472880468955334,0.8993918814741061,1132,Personally believed in cause,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_040,0.7735113848878078,6.093070005942844,0.6811371255547927,0.8658856442208229,137,Personally believed in cause,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_040,0.85857994996444,10.665163978427557,0.6791080871454017,1.0380518127834781,20,Personally believed in cause,New Canadians Reasons for Giving,PR,
+ImmStat,Native-born,2018,rg_040,0.8303873436100344,1.884032918493225,0.7997241560906099,0.861050531129459,1094,Personally believed in cause,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_040,0.7228335352728527,7.945815627335097,0.6102629646110702,0.8354041059346351,125,Personally believed in cause,New Canadians Reasons for Giving,QC,
+ImmStat,Non-Canadian,2018,rg_040,0.7553415577174982,17.184130907072788,0.5009404236194892,1.0097426918155072,25,Personally believed in cause,New Canadians Reasons for Giving,QC,*
+ImmStat,Native-born,2018,rg_050,0.841000098414758,2.20206116454563,0.8047028657376576,0.8772973310918584,697,Compassion towarde people in need,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_050,0.9027312195366817,3.254026960201706,0.8451570476617536,0.9603053914116098,147,Compassion towarde people in need,New Canadians Reasons for Giving,AB,
+ImmStat,Non-Canadian,2018,rg_050,1,0,1,1,11,Compassion towarde people in need,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_050,0.8695091367062244,1.0671156538338396,0.8513232813874811,0.8876949920249677,2464,Compassion towarde people in need,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_050,0.8485482391575501,7.645712498298712,0.7213905605529591,0.975705917762141,77,Compassion towarde people in need,New Canadians Reasons for Giving,AT,
+ImmStat,Non-Canadian,2018,rg_050,0.7035086364033576,21.935237130511812,0.40105427042316877,1.0059630023835464,15,Compassion towarde people in need,New Canadians Reasons for Giving,AT,*
+ImmStat,Native-born,2018,rg_050,0.8607280467163749,1.9231827308583331,0.8282840315116797,0.8931720619210701,897,Compassion towarde people in need,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_050,0.8538417384820072,2.940666219170913,0.8046297170663707,0.9030537598976437,336,Compassion towarde people in need,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_050,0.8169211937848976,11.245928083496866,0.6368585774328153,0.9969838101369799,31,Compassion towarde people in need,New Canadians Reasons for Giving,BC,
+ImmStat,Native-born,2018,rg_050,0.8448379273200413,1.251448605201331,0.8241157916841326,0.8655600629559499,1972,Compassion towarde people in need,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_050,0.8549642520047698,2.1921374510750544,0.8182306235456757,0.8916978804638639,729,Compassion towarde people in need,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_050,0.8077178774632229,10.467893183661833,0.6420008751171307,0.9734348798093151,61,Compassion towarde people in need,New Canadians Reasons for Giving,ON,
+ImmStat,Native-born,2018,rg_050,0.8509440959144503,1.7383244065916053,0.8219519776059839,0.8799362142229167,1123,Compassion towarde people in need,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_050,0.77198692734084,6.1530200456033,0.6788876377316804,0.8650862169499995,138,Compassion towarde people in need,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_050,0.8264362838641055,16.97707929547262,0.5514440402571598,1.1014285274710511,20,Compassion towarde people in need,New Canadians Reasons for Giving,PR,*
+ImmStat,Native-born,2018,rg_050,0.8253114608031118,1.8342045588313112,0.7956417211418871,0.8549812004643365,1085,Compassion towarde people in need,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_050,0.8352543286893381,5.048241528357597,0.7526111617637616,0.9178974956149146,128,Compassion towarde people in need,New Canadians Reasons for Giving,QC,
+ImmStat,Non-Canadian,2018,rg_050,0.8334665686121662,10.531633055392103,0.6614255542988887,1.0055075829254436,25,Compassion towarde people in need,New Canadians Reasons for Giving,QC,
+ImmStat,Native-born,2018,rg_060,0.7449994500605199,2.972410542766568,0.7015971408963733,0.7884017592246666,695,Contribution to community,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_060,0.7802078623759786,5.805146809401177,0.6914367584101638,0.8689789663417934,144,Contribution to community,New Canadians Reasons for Giving,AB,
+ImmStat,Non-Canadian,2018,rg_060,0.8944315528483502,10.909546748265237,0.7031813475374475,1.0856817581592528,12,Contribution to community,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_060,0.7499545815501357,1.66133774332355,0.7255348443754721,0.7743743187247993,2441,Contribution to community,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_060,0.8613047715313564,7.448188615193758,0.735569938267653,0.9870396047950598,75,Contribution to community,New Canadians Reasons for Giving,AT,
+ImmStat,Non-Canadian,2018,rg_060,0.5671019695879363,25.027995513676128,0.2889159406228128,0.8452879985530599,16,Contribution to community,New Canadians Reasons for Giving,AT,*
+ImmStat,Native-born,2018,rg_060,0.7435416642896903,2.896451175765275,0.7013312502260647,0.7857520783533158,885,Contribution to community,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_060,0.7886057841593773,3.7712218820406456,0.7303163104271144,0.8468952578916402,337,Contribution to community,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_060,0.7699063300921201,12.837093569056716,0.5761960414930262,0.963616618691214,30,Contribution to community,New Canadians Reasons for Giving,BC,
+ImmStat,Native-born,2018,rg_060,0.7107620667671852,1.9429700583229796,0.6836951716161948,0.7378289619181757,1964,Contribution to community,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_060,0.7465239766850941,3.457944858611914,0.6959287069607607,0.7971192464094274,708,Contribution to community,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_060,0.8631826801410621,5.494649672331155,0.7702238142736841,0.9561415460084401,63,Contribution to community,New Canadians Reasons for Giving,ON,
+ImmStat,Native-born,2018,rg_060,0.7673541052667974,2.0622403185698386,0.736338291139908,0.7983699193936867,1125,Contribution to community,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_060,0.7651365471696098,5.997652711996601,0.6751933434987349,0.8550797508404846,137,Contribution to community,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_060,0.7089918197660524,20.649121785858444,0.4220519471925113,0.9959316923395936,20,Contribution to community,New Canadians Reasons for Giving,PR,*
+ImmStat,Native-born,2018,rg_060,0.6902333350070727,2.8543262389348527,0.6516190826317352,0.7288475873824103,1079,Contribution to community,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_060,0.7176548358480417,8.120434306482158,0.603434623304846,0.8318750483912374,126,Contribution to community,New Canadians Reasons for Giving,QC,
+ImmStat,Non-Canadian,2018,rg_060,0.7325659530024247,16.02414670001863,0.5024907925175195,0.9626411134873298,25,Contribution to community,New Canadians Reasons for Giving,QC,
+ImmStat,Native-born,2018,rg_070,0.5169937469621376,5.120743177575247,0.46510581326154954,0.5688816806627257,691,Was asked by someone familiar,New Canadians Reasons for Giving,AB,
+ImmStat,Naturalized,2018,rg_070,0.5134177760997024,11.23963206352542,0.40031556721213263,0.6265199849872721,148,Was asked by someone familiar,New Canadians Reasons for Giving,AB,
+ImmStat,Non-Canadian,2018,rg_070,0.37141015207981654,47.33861318128363,0.02680847052313834,0.7160118336364947,12,Was asked by someone familiar,New Canadians Reasons for Giving,AB,...
+ImmStat,Native-born,2018,rg_070,0.5320067348430224,2.6479512581997415,0.504396175306049,0.5596172943799959,2448,Was asked by someone familiar,New Canadians Reasons for Giving,AT,
+ImmStat,Naturalized,2018,rg_070,0.4668753395333895,17.437153573358998,0.3073151224405648,0.6264355566262142,76,Was asked by someone familiar,New Canadians Reasons for Giving,AT,*
+ImmStat,Non-Canadian,2018,rg_070,0.2519869652763327,50.84408657930718,8.754568384289341e-4,0.5030984737142364,15,Was asked by someone familiar,New Canadians Reasons for Giving,AT,...
+ImmStat,Native-born,2018,rg_070,0.535625780686162,4.352264186296076,0.48993539618339654,0.5813161651889274,879,Was asked by someone familiar,New Canadians Reasons for Giving,BC,
+ImmStat,Naturalized,2018,rg_070,0.4562623789819308,8.03927104112297,0.38437056819723436,0.5281541897666272,334,Was asked by someone familiar,New Canadians Reasons for Giving,BC,
+ImmStat,Non-Canadian,2018,rg_070,0.21666170546740965,38.43067186805315,0.05346618805830278,0.3798572228765165,30,Was asked by someone familiar,New Canadians Reasons for Giving,BC,...
+ImmStat,Native-born,2018,rg_070,0.5501029037019428,3.0175647440949898,0.5175680674426083,0.5826377399612773,1968,Was asked by someone familiar,New Canadians Reasons for Giving,ON,
+ImmStat,Naturalized,2018,rg_070,0.4678750980150292,5.284522089539746,0.4194150612000629,0.5163351348299955,702,Was asked by someone familiar,New Canadians Reasons for Giving,ON,
+ImmStat,Non-Canadian,2018,rg_070,0.45247788338961953,21.875104452867387,0.25848062934969,0.646475137429549,60,Was asked by someone familiar,New Canadians Reasons for Giving,ON,*
+ImmStat,Native-born,2018,rg_070,0.5323172485848694,3.654687393036729,0.49418706775378213,0.5704474294159566,1121,Was asked by someone familiar,New Canadians Reasons for Giving,PR,
+ImmStat,Naturalized,2018,rg_070,0.451651717572804,11.697090436425693,0.34810660494367446,0.5551968302019336,136,Was asked by someone familiar,New Canadians Reasons for Giving,PR,
+ImmStat,Non-Canadian,2018,rg_070,0.6161497983162925,25.016740919552984,0.314039776267427,0.918259820365158,20,Was asked by someone familiar,New Canadians Reasons for Giving,PR,*
+ImmStat,Native-born,2018,rg_070,0.40500398101112123,4.740680432124688,0.36737278133079687,0.4426351806914456,1085,Was asked by someone familiar,New Canadians Reasons for Giving,QC,
+ImmStat,Naturalized,2018,rg_070,0.32056879285057266,16.74100342701088,0.21538451778162443,0.4257530679195209,124,Was asked by someone familiar,New Canadians Reasons for Giving,QC,*
+ImmStat,Non-Canadian,2018,rg_070,0.25437010503549884,47.57811396765145,0.01716644678056445,0.49157376329043323,24,Was asked by someone familiar,New Canadians Reasons for Giving,QC,...

@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+ImmStat,Native-born,2018,ng_020,0.689581323410212,1.2896457573477227,0.6721510573909146,0.7070115894295095,7734,Happy with what already given,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_020,0.6311574512833071,3.0460706096929506,0.5934761605147121,0.6688387420519022,1382,Happy with what already given,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_020,0.6107754071703326,9.261754529052206,0.4999031473971273,0.7216476669435379,166,Happy with what already given,New Canadians Barriers to Giving More,CA,
+ImmStat,Native-born,2018,ng_030,0.6727186232766494,1.2171223550661197,0.656670813013185,0.6887664335401139,7739,Could not afford to give more,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_030,0.7039741839087684,2.397762400787793,0.6708907203820315,0.7370576474355054,1389,Could not afford to give more,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_030,0.7446704426872672,6.6731531901346255,0.6472739535752338,0.8420669317993007,168,Could not afford to give more,New Canadians Barriers to Giving More,CA,
+ImmStat,Native-born,2018,ng_040,0.24498161298595605,3.261454598093796,0.22932157114900636,0.26064165482290574,7612,No one asked,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_040,0.27514864192757693,6.095093251614509,0.24227893596740405,0.3080183478877498,1342,No one asked,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_040,0.2070590755381339,22.701185886725654,0.11493123179882439,0.29918691927744345,163,No one asked,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_050,0.0948391815777118,5.876475933624477,0.08391590700425484,0.10576245615116876,7589,Unsure where to give,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_050,0.15930190091576255,9.295966363062988,0.13027747805143952,0.18832632378008557,1334,Unsure where to give,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_050,0.15457134806730544,24.992206100478413,0.0788563912056842,0.23028630492892666,163,Unsure where to give,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_060,0.09493639601177821,6.615651636022446,0.08262652619025083,0.10724626583330558,7593,Hard to find a cause,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_060,0.1707948073656156,9.054657126744491,0.1404841913139421,0.20110542341728907,1336,Hard to find a cause,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_060,0.1915250893657651,28.83338555900031,0.08328967003380097,0.2997605086977292,163,Hard to find a cause,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_070,0.2613646592225162,2.9781037701175945,0.2461088664471206,0.27662045199791185,7560,Gave time instead,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_070,0.2838659372057917,6.133197085186013,0.24974285175939465,0.3179890226521887,1335,Gave time instead,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_070,0.30807507765723247,19.924354893143935,0.1877686236100583,0.4283815317044066,163,Gave time instead,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_080,0.3702288489434905,2.310378952254348,0.3534639257822672,0.3869937721047138,7596,Gave directly instead,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_080,0.40154756657411517,4.660074632490818,0.3648719045872776,0.43822322856095275,1340,Gave directly instead,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_080,0.3037680811410092,18.91419085920896,0.19115781213187183,0.4163783501501466,162,Gave directly instead,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_090,0.16527369066408593,3.9975073188401633,0.15232454596641923,0.17822283536175262,7589,Tax credit was not enough,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_090,0.1778619982694441,8.43288231820922,0.1484647081758343,0.2072592883630539,1330,Tax credit was not enough,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_090,0.2244600782136136,27.826429837145504,0.10204224440540656,0.34687791202182067,164,Tax credit was not enough,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_110,0.22762646600695322,3.3323649078530053,0.21275946402718807,0.24249346798671836,7585,Money would not be used efficiently,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_110,0.2649647363033788,6.624277991462354,0.2305634470510787,0.2993660255556789,1344,Money would not be used efficiently,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_110,0.1438535076116509,23.40326534429595,0.07786854066005729,0.2098384745632445,165,Money would not be used efficiently,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_130,0.21171024755535678,3.2755987177459027,0.19811833213223215,0.2253021629784814,7586,Did not like the way requests were made,New Canadians Barriers to Giving More,CA,
+ImmStat,Naturalized,2018,ng_130,0.23232401841760253,6.9659640513173,0.20060473037080392,0.2640433064644011,1340,Did not like the way requests were made,New Canadians Barriers to Giving More,CA,
+ImmStat,Non-Canadian,2018,ng_130,0.2998902227249779,19.980332222470164,0.18245101764339794,0.41732942780655785,162,Did not like the way requests were made,New Canadians Barriers to Giving More,CA,*
+ImmStat,Native-born,2018,ng_020,0.6662636693916006,1.4699757305966101,0.6470679502099224,0.6854593885732789,6609,Happy with what already given,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_020,0.6461273269521142,3.099912746340197,0.606870456922648,0.6853841969815804,1257,Happy with what already given,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_020,0.5933727080717611,10.971248755607279,0.46577827682560524,0.720967139317917,136,Happy with what already given,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Native-born,2018,ng_030,0.7038524030722677,1.1873538930060468,0.687472554999916,0.7202322511446194,6617,Could not afford to give more,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_030,0.7039130524845716,2.4999611670266857,0.6694224824635123,0.7384036225056309,1262,Could not afford to give more,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_030,0.7143595293197643,8.444144943894184,0.5961314558387679,0.8325876028007607,137,Could not afford to give more,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Native-born,2018,ng_040,0.26182261707720456,3.3620719803914625,0.24456971100895034,0.27907552314545875,6516,No one asked,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_040,0.28992856751914464,6.290695181196289,0.2541817204332756,0.3256754146050137,1220,No one asked,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_040,0.17548989160992234,25.29802001968845,0.08847637342558361,0.26250340979426107,133,No one asked,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_050,0.08794327502270505,6.3840649713018145,0.07693933982824538,0.09894721021716471,6494,Unsure where to give,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_050,0.15789956666328323,9.789231562468288,0.12760410109486836,0.1881950322316981,1213,Unsure where to give,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_050,0.11673682724814134,31.574066361841773,0.04449537065033969,0.188978283845943,133,Unsure where to give,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_060,0.09352962638025131,7.1705805224331485,0.08038489826517692,0.1066743544953257,6499,Hard to find a cause,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_060,0.1798541135936293,9.292506520504014,0.147097323261557,0.2126109039257016,1215,Hard to find a cause,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_060,0.20548294638548203,32.12946042950201,0.07608502272772188,0.3348808700432422,133,Hard to find a cause,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_070,0.27274011729848585,3.2436939086622734,0.2554006009622952,0.2900796336346765,6465,Gave time instead,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_070,0.2763155810840764,6.361872872438544,0.241861676043495,0.31076948612465777,1214,Gave time instead,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_070,0.3109923247248697,22.815731623546267,0.17192273881715792,0.4500619106325815,133,Gave time instead,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_080,0.35585858506243834,2.5766054399417886,0.3378875348347829,0.3738296352900938,6499,Gave directly instead,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_080,0.3930609297437119,5.070780250902655,0.3539963858181253,0.43212547366929843,1219,Gave directly instead,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_080,0.2652875907155011,24.32793756979643,0.1387934761958698,0.39178170523513245,132,Gave directly instead,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_090,0.165629000750105,4.263464592288748,0.1517886488234697,0.1794693526767403,6495,Tax credit was not enough,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_090,0.17322841531920272,9.06852095011274,0.14243884103110221,0.20401798960730322,1210,Tax credit was not enough,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_090,0.20678066266098108,34.05473482930868,0.06876273037840802,0.34479859494355414,134,Tax credit was not enough,New Canadians Barriers to Giving More,CA (without QC),...
+ImmStat,Native-born,2018,ng_110,0.24009228202992525,3.4897090704984266,0.2236706803848666,0.2565138836749839,6488,Money would not be used efficiently,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_110,0.2584540474635822,6.964420845238966,0.22317503372409225,0.29373306120307213,1223,Money would not be used efficiently,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_110,0.12724173637918396,27.997440714835758,0.057419137183117516,0.19706433557525038,135,Money would not be used efficiently,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_130,0.2468902214557521,3.391205968575486,0.23048031338256475,0.26330012952893944,6491,Did not like the way requests were made,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Naturalized,2018,ng_130,0.2486583472333369,7.046208523152467,0.21431784637337456,0.2829988480932992,1219,Did not like the way requests were made,New Canadians Barriers to Giving More,CA (without QC),
+ImmStat,Non-Canadian,2018,ng_130,0.2986324570520825,23.310961340993007,0.1621913348702566,0.43507357923390844,132,Did not like the way requests were made,New Canadians Barriers to Giving More,CA (without QC),*
+ImmStat,Native-born,2018,ng_020,0.6235903900169486,4.666047639662562,0.5665612695975605,0.6806195104363367,593,Happy with what already given,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_020,0.5692524289245728,10.244157133676444,0.4549569070898464,0.6835479507592993,124,Happy with what already given,New Canadians Barriers to Giving More,AB,
+ImmStat,Non-Canadian,2018,ng_020,0.44949270948380476,41.574202163224214,0.08322834461161832,0.8157570743559912,12,Happy with what already given,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_020,0.7462686352470167,1.71962224461766,0.7211164145790945,0.7714208559149389,2374,Happy with what already given,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_020,0.5552908721328741,15.237457582141012,0.38945398572702866,0.7211277585387195,74,Happy with what already given,New Canadians Barriers to Giving More,AT,
+ImmStat,Non-Canadian,2018,ng_020,0.4571528096612904,34.32042044759219,0.14964079829757304,0.7646648210250078,17,Happy with what already given,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_020,0.5759966061115888,4.278880962772883,0.527690923870898,0.6243022883522795,818,Happy with what already given,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_020,0.6884398265139691,5.109819361547487,0.6194921516332385,0.7573875013946997,301,Happy with what already given,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_020,0.3986706012986155,29.567798303019632,0.1676337329338952,0.6297074696633358,29,Happy with what already given,New Canadians Barriers to Giving More,BC,*
+ImmStat,Native-born,2018,ng_020,0.6879726611176492,2.2571560985042023,0.6575371313100693,0.7184081909252291,1791,Happy with what already given,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_020,0.6550222054196512,4.2691878531851515,0.6002135208388937,0.7098308900004087,627,Happy with what already given,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_020,0.6415967246536419,13.410202638013427,0.47296255844893453,0.8102308908583493,62,Happy with what already given,New Canadians Barriers to Giving More,ON,
+ImmStat,Native-born,2018,ng_020,0.6568036146994654,3.0040581695653636,0.6181320305270125,0.6954751988719182,1033,Happy with what already given,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_020,0.5740112640904819,9.655456445705838,0.46538338129850243,0.6826391468824613,131,Happy with what already given,New Canadians Barriers to Giving More,PR,
+ImmStat,Non-Canadian,2018,ng_020,0.8296558212113884,13.76406782145598,0.605838929739126,1.0534727126836507,16,Happy with what already given,New Canadians Barriers to Giving More,PR,
+ImmStat,Native-born,2018,ng_020,0.7492812829105724,2.424677776656253,0.7136733299943865,0.7848892358267583,1125,Happy with what already given,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_020,0.5432208753667017,10.115233932370693,0.43552465221332415,0.6509170985200793,125,Happy with what already given,New Canadians Barriers to Giving More,QC,
+ImmStat,Non-Canadian,2018,ng_020,0.6669879625725322,18.24239069610102,0.4285102266816624,0.9054656984634021,30,Happy with what already given,New Canadians Barriers to Giving More,QC,*
+ImmStat,Native-born,2018,ng_030,0.6742516121143995,3.4791185831591678,0.6282747512222602,0.7202284730065389,593,Could not afford to give more,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_030,0.7022866878594358,6.907450325405811,0.6072086309257237,0.7973647447931479,127,Could not afford to give more,New Canadians Barriers to Giving More,AB,
+ImmStat,Non-Canadian,2018,ng_030,0.6716808319339639,24.100012690315303,0.35441133710289036,0.9889503267650375,12,Could not afford to give more,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_030,0.7022661573393705,1.8733003746718448,0.67648174421172,0.7280505704670209,2387,Could not afford to give more,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_030,0.6625143055514032,12.585753154556322,0.4990877749912025,0.825940836111604,74,Could not afford to give more,New Canadians Barriers to Giving More,AT,
+ImmStat,Non-Canadian,2018,ng_030,0.6090998625495206,27.823807847061904,0.27693540657061055,0.9412643185284307,17,Could not afford to give more,New Canadians Barriers to Giving More,AT,*
+ImmStat,Native-born,2018,ng_030,0.7197122096600128,3.125592913854452,0.6756222831401001,0.7638021361799255,813,Could not afford to give more,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_030,0.6589142731741489,5.707700240236189,0.5852022786305292,0.7326262677177685,300,Could not afford to give more,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_030,0.8366648727570739,10.333400486182795,0.6672143597299988,1.006115385784149,30,Could not afford to give more,New Canadians Barriers to Giving More,BC,
+ImmStat,Native-born,2018,ng_030,0.711661788901001,1.8554187667022277,0.6857818239422016,0.7375417538598004,1793,Could not afford to give more,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_030,0.7166862245925679,3.442210699755609,0.6683342072716233,0.7650382419135126,631,Could not afford to give more,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_030,0.6967653327345815,12.100116353434906,0.5315219138732623,0.8620087515959007,62,Could not afford to give more,New Canadians Barriers to Giving More,ON,
+ImmStat,Native-born,2018,ng_030,0.6884040332048065,2.5731770088054366,0.6536855167295906,0.7231225496800223,1031,Could not afford to give more,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_030,0.7445696155098686,5.908816259834692,0.658340509025261,0.8307987219944761,130,Could not afford to give more,New Canadians Barriers to Giving More,PR,
+ImmStat,Non-Canadian,2018,ng_030,0.6334166303355814,25.767782423030727,0.31351636717911857,0.9533168934920442,16,Could not afford to give more,New Canadians Barriers to Giving More,PR,*
+ImmStat,Native-born,2018,ng_030,0.5934966014477326,3.2393155571988728,0.5558158474785521,0.6311773554169132,1122,Could not afford to give more,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_030,0.7043266730051067,6.833629853840961,0.6099914939897293,0.798661852020484,127,Could not afford to give more,New Canadians Barriers to Giving More,QC,
+ImmStat,Non-Canadian,2018,ng_030,0.8424360332391033,9.266214717305159,0.6894374585515458,0.9954346079266608,31,Could not afford to give more,New Canadians Barriers to Giving More,QC,
+ImmStat,Native-born,2018,ng_040,0.21981389717265662,10.387021261606217,0.1750637716606578,0.26456402268465545,584,No one asked,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_040,0.32134710290627244,18.198217039164536,0.2067295003278543,0.4359647054846906,122,No one asked,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_040,0.3263290314428755,54.79295601195111,-0.024122961200521265,0.6767810240862723,11,No one asked,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_040,0.2718795989159016,4.834407711746894,0.24611828643331474,0.2976409113984884,2350,No one asked,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_040,0.19216163458574687,28.402987345213226,0.08518749657941704,0.2991357725920767,71,No one asked,New Canadians Barriers to Giving More,AT,*
+ImmStat,Non-Canadian,2018,ng_040,0.4147720185828696,40.79901106244569,0.08310126500150272,0.7464427721642365,17,No one asked,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_040,0.26134913978352337,8.214422776987353,0.21927199937401706,0.30342628019302964,801,No one asked,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_040,0.35089876214158555,11.172611308907515,0.27405924673923737,0.42773827754393373,292,No one asked,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_040,0.01301043072936661,118.61120026172118,-0.017235396458998672,0.0432562579177319,29,No one asked,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_040,0.26539444283427516,5.44914624084454,0.23704997032215586,0.29373891534639446,1763,No one asked,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_040,0.26067725297785627,9.392297926463904,0.21269030968204689,0.30866419627366565,608,No one asked,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_040,0.19294727307228654,33.26042321913663,0.06716642832458947,0.3187281178199836,60,No one asked,New Canadians Barriers to Giving More,ON,*
+ImmStat,Native-born,2018,ng_040,0.29673945458114964,5.942798306088568,0.2621762202308859,0.3313026889314134,1018,No one asked,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_040,0.3707176174906937,14.748144907296833,0.2635586026070861,0.47787663237430134,127,No one asked,New Canadians Barriers to Giving More,PR,
+ImmStat,Non-Canadian,2018,ng_040,0.22907973799024214,56.41992627805749,-0.024238980945758742,0.48239845692624306,16,No one asked,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_040,0.20186313113432522,8.902106824347014,0.1666424380525215,0.23708382421612895,1096,No one asked,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_040,0.18881604965040075,22.972150759669578,0.10380240095993108,0.2738296983408704,122,No one asked,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_040,0.30742740208396074,41.364549230581204,0.05818670222116579,0.5566681019467556,30,No one asked,New Canadians Barriers to Giving More,QC,...
+ImmStat,Native-born,2018,ng_050,0.08634051310118589,20.955362176216806,0.05087894896641375,0.12180207723595803,585,Unsure where to give,New Canadians Barriers to Giving More,AB,*
+ImmStat,Naturalized,2018,ng_050,0.23384318599554668,24.084541733456437,0.12345789733339625,0.3442284746576971,121,Unsure where to give,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_050,0.14854935996506016,98.38475223553405,-0.13789921908658723,0.4349979390167076,11,Unsure where to give,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_050,0.11268292454654623,7.674180546068686,0.09573415348430173,0.12963169560879073,2343,Unsure where to give,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_050,0.179725024872428,34.80940532881772,0.057107301768349494,0.3023427479765065,71,Unsure where to give,New Canadians Barriers to Giving More,AT,...
+ImmStat,Non-Canadian,2018,ng_050,0.29036690488680683,58.418098548892075,-0.042095562239363504,0.6228293720129772,17,Unsure where to give,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_050,0.07624135462935946,18.099596313353672,0.04919507189326089,0.10328763736545804,795,Unsure where to give,New Canadians Barriers to Giving More,BC,*
+ImmStat,Naturalized,2018,ng_050,0.20170162737119926,17.567290678523293,0.13225322160552552,0.271150033136873,293,Unsure where to give,New Canadians Barriers to Giving More,BC,*
+ImmStat,Non-Canadian,2018,ng_050,0.0656841129144822,69.6588684554545,-0.023993666435011135,0.15536189226397554,29,Unsure where to give,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_050,0.08147900733045942,11.391615878253827,0.06328706156633407,0.09967095309458476,1754,Unsure where to give,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_050,0.12732166842767478,15.375642375256145,0.0889523856540539,0.16569095120129568,604,Unsure where to give,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_050,0.1253063392134844,41.92333027897211,0.02234435391893351,0.2282683245080353,60,Unsure where to give,New Canadians Barriers to Giving More,ON,...
+ImmStat,Native-born,2018,ng_050,0.10824561324908188,12.083100857086851,0.08261040813102041,0.13388081836714336,1017,Unsure where to give,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_050,0.17033294874216248,24.841956268197812,0.08739896089340894,0.25326693659091604,124,Unsure where to give,New Canadians Barriers to Giving More,PR,*
+ImmStat,Non-Canadian,2018,ng_050,0.08600048480206272,82.94677855842858,-0.05381282415673323,0.2258137937608587,16,Unsure where to give,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_050,0.11243206180693004,12.375327039060474,0.08516144564319188,0.1397026779706682,1095,Unsure where to give,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_050,0.16750157492168283,28.90110418689841,0.07262010124475432,0.26238304859861133,121,Unsure where to give,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_050,0.274859143561735,39.644336704567166,0.061289542725049356,0.48842874439842066,30,Unsure where to give,New Canadians Barriers to Giving More,QC,...
+ImmStat,Native-born,2018,ng_060,0.09623840862767175,21.782114600205517,0.05515215311601202,0.13732466413933148,585,Hard to find a cause,New Canadians Barriers to Giving More,AB,*
+ImmStat,Naturalized,2018,ng_060,0.23052021739728304,25.00470059234058,0.11754614863704772,0.34349428615751837,121,Hard to find a cause,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_060,0,NA,0,0,11,Hard to find a cause,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_060,0.08751433140114337,9.845731861759617,0.07062644596138182,0.10440221684090492,2343,Hard to find a cause,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_060,0.21159600170864878,34.16595065513164,0.06990278575984946,0.35328921765744814,71,Hard to find a cause,New Canadians Barriers to Giving More,AT,...
+ImmStat,Non-Canadian,2018,ng_060,0.08872914897797747,94.37483489732791,-0.0753942913532649,0.25285258930921983,17,Hard to find a cause,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_060,0.08389793461847471,16.424640804073025,0.056889759479034074,0.11090610975791534,799,Hard to find a cause,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_060,0.22179376411679935,16.832070466222163,0.14862344263831406,0.29496408559528464,296,Hard to find a cause,New Canadians Barriers to Giving More,BC,*
+ImmStat,Non-Canadian,2018,ng_060,0.2159964751554857,46.6547351504296,0.01848584102703904,0.41350710928393236,29,Hard to find a cause,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_060,0.09217068305868337,12.3062197335088,0.06993934706953366,0.11440201904783308,1755,Hard to find a cause,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_060,0.15444035521674523,13.464191558463979,0.11368457939833992,0.19519613103515054,602,Hard to find a cause,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_060,0.2375361636952007,38.92085488021261,0.056335326467016666,0.41873700092338473,60,Hard to find a cause,New Canadians Barriers to Giving More,ON,...
+ImmStat,Native-born,2018,ng_060,0.11879698113087478,10.832624317860914,0.09357453650066937,0.1440194257610802,1017,Hard to find a cause,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_060,0.1932265000735289,24.460172203540033,0.10059167435618559,0.2858613257908722,125,Hard to find a cause,New Canadians Barriers to Giving More,PR,*
+ImmStat,Non-Canadian,2018,ng_060,0.08600048480206272,82.94677855842858,-0.05381282415673323,0.2258137937608587,16,Hard to find a cause,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_060,0.0985346261488458,12.886452628514633,0.07364775233353965,0.12342149996415194,1094,Hard to find a cause,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_060,0.11775362016184002,31.08139153198623,0.04601998940620472,0.18948725091747531,121,Hard to find a cause,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_060,0.14679384851907212,53.035648004550914,-0.005795362400948245,0.2993830594390925,30,Hard to find a cause,New Canadians Barriers to Giving More,QC,...
+ImmStat,Native-born,2018,ng_070,0.2778388283110665,9.292712728480485,0.22723498042601098,0.328442676196122,580,Gave time instead,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_070,0.2981823291841497,19.305918258075234,0.18535340248491144,0.411011255883388,121,Gave time instead,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_070,0.12051122203439252,85.52002315370034,-0.08148506714196155,0.3225075112107466,11,Gave time instead,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_070,0.2898633029851183,5.170548111741258,0.2604883005509094,0.31923830541932724,2330,Gave time instead,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_070,0.37561357001707607,20.47902086195337,0.2248492569239302,0.5263778831102219,71,Gave time instead,New Canadians Barriers to Giving More,AT,*
+ImmStat,Non-Canadian,2018,ng_070,0.24837898283591553,53.78698690269101,-0.01346352475345175,0.5102214904252829,17,Gave time instead,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_070,0.21072582278539398,9.472137672928554,0.17160447117119773,0.24984717439959023,791,Gave time instead,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_070,0.311353220458283,11.987499813058777,0.23820056990814098,0.38450587100842504,291,Gave time instead,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_070,0.14316992482036464,43.66375497661123,0.020645980527389626,0.26569386911333964,29,Gave time instead,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_070,0.27327283618845033,5.386240979022309,0.244423864669668,0.3021218077072327,1752,Gave time instead,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_070,0.2525902984121477,9.15230137714153,0.20728019330546324,0.2979004035188321,606,Gave time instead,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_070,0.39468771342191217,24.822295768573078,0.20266896076429072,0.5867064660795336,60,Gave time instead,New Canadians Barriers to Giving More,ON,*
+ImmStat,Native-born,2018,ng_070,0.33333776453704356,5.846711519657076,0.2951394433950891,0.37153608567899804,1012,Gave time instead,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_070,0.3623615662786305,15.065356678780065,0.2553650500445409,0.46935808251272004,125,Gave time instead,New Canadians Barriers to Giving More,PR,
+ImmStat,Non-Canadian,2018,ng_070,0.13914337095755047,70.27122373443639,-0.05249749658557362,0.33078423850067457,16,Gave time instead,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_070,0.23236795337517593,7.16487681589634,0.1997367528590174,0.26499915389133444,1095,Gave time instead,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_070,0.32810761026292495,16.84531121860448,0.21977893462613618,0.4364362858997137,121,Gave time instead,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_070,0.29886332374117897,35.58258133244302,0.09043431466713611,0.5072923328152218,30,Gave time instead,New Canadians Barriers to Giving More,QC,...
+ImmStat,Native-born,2018,ng_080,0.3282928454875469,7.6170940478901175,0.27928125150880584,0.37730443946628794,584,Gave directly instead,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_080,0.4669257530918006,12.796765639938496,0.34981517216782587,0.5840363340157754,121,Gave directly instead,New Canadians Barriers to Giving More,AB,
+ImmStat,Non-Canadian,2018,ng_080,0.3096926627913075,54.77606605819041,-0.02279064443158829,0.6421759700142033,11,Gave directly instead,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_080,0.42651623938426964,3.2961826005085646,0.39896158773774537,0.4540708910307939,2343,Gave directly instead,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_080,0.42558834278679014,18.81201945141033,0.26867017306511426,0.5825065125084661,70,Gave directly instead,New Canadians Barriers to Giving More,AT,*
+ImmStat,Non-Canadian,2018,ng_080,0.16514794845879008,71.6364689223951,-0.06672786188684948,0.39702375880442964,17,Gave directly instead,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_080,0.3078835004354479,7.131819993772913,0.26484720505050313,0.3509197958203926,801,Gave directly instead,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_080,0.4605652875513801,8.621675274003127,0.382738168375018,0.5383924067277421,296,Gave directly instead,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_080,0.18726524090009747,54.99032031392933,-0.014567451691588268,0.38909793349178323,27,Gave directly instead,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_080,0.35090988913690796,4.4520780307328645,0.32028979891800097,0.38152997935581495,1759,Gave directly instead,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_080,0.3559300442999966,7.395822484997323,0.30433604204480424,0.4075240465551889,605,Gave directly instead,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_080,0.2535795660172429,34.43881435689993,0.08241631110409928,0.4247428209303865,61,Gave directly instead,New Canadians Barriers to Giving More,ON,...
+ImmStat,Native-born,2018,ng_080,0.4047186107114694,4.883494467443625,0.3659810770487146,0.44345614437422426,1012,Gave directly instead,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_080,0.38696666996075496,14.109505416433821,0.27995443318635477,0.49397890673515515,127,Gave directly instead,New Canadians Barriers to Giving More,PR,
+ImmStat,Non-Canadian,2018,ng_080,0.5827328979386396,30.256995713943695,0.2371570109053977,0.9283087849718814,16,Gave directly instead,New Canadians Barriers to Giving More,PR,*
+ImmStat,Native-born,2018,ng_080,0.40692871653778817,4.9808112652833625,0.36720347785600976,0.4466539552195666,1097,Gave directly instead,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_080,0.4513126462349351,13.092776370631604,0.33549963757756873,0.5671256548923015,121,Gave directly instead,New Canadians Barriers to Giving More,QC,
+ImmStat,Non-Canadian,2018,ng_080,0.4262625673318566,29.55173393164169,0.17936986382031903,0.6731552708433941,30,Gave directly instead,New Canadians Barriers to Giving More,QC,*
+ImmStat,Native-born,2018,ng_090,0.17442450708494128,12.035172772264998,0.13328037319365443,0.21556864097622813,586,Tax credit was not enough,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_090,0.20013949562433883,27.92232221704909,0.09060966238817356,0.30966932886050413,121,Tax credit was not enough,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_090,0.177227013202963,77.88975634080563,-0.09332972511972035,0.4477837515256463,12,Tax credit was not enough,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_090,0.1673109336998334,5.893832345885206,0.14798367802915524,0.18663818937051158,2342,Tax credit was not enough,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_090,0.16107360365640017,31.296706718666417,0.06227038188058737,0.25987682543221297,73,Tax credit was not enough,New Canadians Barriers to Giving More,AT,*
+ImmStat,Non-Canadian,2018,ng_090,0.11989659148959844,74.02113982868227,-0.05404790650792424,0.2938410894871211,17,Tax credit was not enough,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_090,0.1477631004567183,10.912856764249634,0.11615833722594908,0.17936786368748753,798,Tax credit was not enough,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_090,0.21159406058703756,15.586339881244509,0.14695490024342395,0.27623322093065117,290,Tax credit was not enough,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_090,0.03470841759244793,82.63786494757314,-0.021507848102250322,0.09092468328714617,29,Tax credit was not enough,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_090,0.16301949643230967,7.044529182242419,0.14051135627438632,0.18552763659023302,1751,Tax credit was not enough,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_090,0.1523998731819289,13.02451896075755,0.11349586132306089,0.19130388504079693,600,Tax credit was not enough,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_090,0.24442939375734013,40.86333653618362,0.04866425975546412,0.44019452775921614,60,Tax credit was not enough,New Canadians Barriers to Giving More,ON,...
+ImmStat,Native-born,2018,ng_090,0.19002932091453376,8.024463328160923,0.16014215709597562,0.2199164847330919,1018,Tax credit was not enough,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_090,0.22455369349325816,21.35503992250676,0.1305665000115498,0.3185408869749665,126,Tax credit was not enough,New Canadians Barriers to Giving More,PR,*
+ImmStat,Non-Canadian,2018,ng_090,0.36528277915892127,51.4849670262568,-0.003319255636757834,0.7338848139546004,16,Tax credit was not enough,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_090,0.1643624377488947,9.138753181740821,0.13492245080715068,0.1938024246906387,1094,Tax credit was not enough,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_090,0.2053772972767816,23.05760841818683,0.11256302053980215,0.29819157401376106,120,Tax credit was not enough,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_090,0.2807817055613764,47.104593826580846,0.02155474839477184,0.540008662727981,30,Tax credit was not enough,New Canadians Barriers to Giving More,QC,...
+ImmStat,Native-born,2018,ng_110,0.2307410995183391,9.287928963766591,0.18873697531774564,0.27274522371893256,579,Money would not be used efficiently,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_110,0.2769166213215175,20.48576232801396,0.16573084187809153,0.3881024007649435,119,Money would not be used efficiently,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_110,0.025212359686148236,140.81164405650998,-0.04437016052705113,0.09479487989934761,12,Money would not be used efficiently,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_110,0.2025941957248358,5.9569367302973575,0.17894055057927966,0.22624784087039196,2340,Money would not be used efficiently,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_110,0.2982154333600077,23.369716337399908,0.16162142568593443,0.43480944103408103,72,Money would not be used efficiently,New Canadians Barriers to Giving More,AT,*
+ImmStat,Non-Canadian,2018,ng_110,0.060989904456504686,91.5513578555499,-0.048448772487248166,0.17042858140025754,17,Money would not be used efficiently,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_110,0.25116175283318143,8.320002473400924,0.21020504390215117,0.2921184617642117,799,Money would not be used efficiently,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_110,0.31952010248546503,11.235803897524722,0.24915611729222756,0.38988408767870253,296,Money would not be used efficiently,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_110,0.18969042134049238,55.23296556684317,-0.015658229661603934,0.3950390723425887,29,Money would not be used efficiently,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_110,0.2481492996657331,5.637782269250971,0.2207291737793021,0.2755694255521641,1755,Money would not be used efficiently,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_110,0.24039455471215718,10.125892536558968,0.19268492662704922,0.28810418279726513,610,Money would not be used efficiently,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_110,0.09661117830714049,37.110084045293256,0.02634159019586005,0.16688076641842092,61,Money would not be used efficiently,New Canadians Barriers to Giving More,ON,...
+ImmStat,Native-born,2018,ng_110,0.24638922506227462,6.357777414346738,0.21568662737538813,0.2770918227491611,1015,Money would not be used efficiently,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_110,0.17155146202578514,20.841763459779365,0.10147422387781642,0.24162870017375387,126,Money would not be used efficiently,New Canadians Barriers to Giving More,PR,*
+ImmStat,Non-Canadian,2018,ng_110,0.39323619957501826,46.880781273377764,0.03191252198779254,0.7545598771622439,16,Money would not be used efficiently,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_110,0.19585433611441788,8.058756581738843,0.1649193931253066,0.22678927910352917,1097,Money would not be used efficiently,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_110,0.30334523428855087,17.35974204391992,0.20013362851784394,0.4065568400592578,121,Money would not be used efficiently,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_110,0.1973323424167072,46.36474077517137,0.01801008467274684,0.37665460016066754,30,Money would not be used efficiently,New Canadians Barriers to Giving More,QC,...
+ImmStat,Native-born,2018,ng_130,0.29974506362536085,8.61827850535439,0.24911357980485435,0.3503765474458673,584,Did not like the way requests were made,New Canadians Barriers to Giving More,AB,
+ImmStat,Naturalized,2018,ng_130,0.34284714435830826,17.35294059708306,0.22624092691767608,0.4594533617989405,120,Did not like the way requests were made,New Canadians Barriers to Giving More,AB,*
+ImmStat,Non-Canadian,2018,ng_130,0.13730714077697406,78.94899139602967,-0.0751580564593975,0.3497723380133456,11,Did not like the way requests were made,New Canadians Barriers to Giving More,AB,...
+ImmStat,Native-born,2018,ng_130,0.21571909847173176,5.006215688778613,0.1945527352470581,0.23688546169640542,2341,Did not like the way requests were made,New Canadians Barriers to Giving More,AT,
+ImmStat,Naturalized,2018,ng_130,0.20971072381998349,32.88263465699592,0.07455472153435516,0.3448667261056118,73,Did not like the way requests were made,New Canadians Barriers to Giving More,AT,*
+ImmStat,Non-Canadian,2018,ng_130,0.00752029143357042,125.64414389388318,-0.010999027611810902,0.026039610478951744,17,Did not like the way requests were made,New Canadians Barriers to Giving More,AT,...
+ImmStat,Native-born,2018,ng_130,0.2896242208274297,8.022182972152462,0.2440860551614496,0.33516238649340985,796,Did not like the way requests were made,New Canadians Barriers to Giving More,BC,
+ImmStat,Naturalized,2018,ng_130,0.37434938486362324,10.01334735827331,0.30088032258938063,0.44781844713786584,294,Did not like the way requests were made,New Canadians Barriers to Giving More,BC,
+ImmStat,Non-Canadian,2018,ng_130,0.34158967248661815,34.35026355773126,0.11161347097205845,0.5715658740011779,29,Did not like the way requests were made,New Canadians Barriers to Giving More,BC,...
+ImmStat,Native-born,2018,ng_130,0.22797035107207386,5.536212668869015,0.20323379564409516,0.25270690650005256,1756,Did not like the way requests were made,New Canadians Barriers to Giving More,ON,
+ImmStat,Naturalized,2018,ng_130,0.19080042700969002,11.07395980064702,0.14938802931662765,0.2322128247027524,608,Did not like the way requests were made,New Canadians Barriers to Giving More,ON,
+ImmStat,Non-Canadian,2018,ng_130,0.3269642765813106,30.659356866971077,0.13048740396252728,0.5234411492000939,59,Did not like the way requests were made,New Canadians Barriers to Giving More,ON,*
+ImmStat,Native-born,2018,ng_130,0.23592205282859302,6.758701694087428,0.2046699022534923,0.26717420340369374,1014,Did not like the way requests were made,New Canadians Barriers to Giving More,PR,
+ImmStat,Naturalized,2018,ng_130,0.24620147928177893,21.7524684494258,0.14123580584463694,0.35116715271892096,124,Did not like the way requests were made,New Canadians Barriers to Giving More,PR,*
+ImmStat,Non-Canadian,2018,ng_130,0.14421101516583462,65.12807734694267,-0.0398724507351558,0.328294481066825,16,Did not like the way requests were made,New Canadians Barriers to Giving More,PR,...
+ImmStat,Native-born,2018,ng_130,0.12190149580308265,10.086871650606772,0.09780168570410565,0.14600130590205967,1095,Did not like the way requests were made,New Canadians Barriers to Giving More,QC,
+ImmStat,Naturalized,2018,ng_130,0.13665049444510907,27.626488572151782,0.06265845695707795,0.2106425319331402,121,Did not like the way requests were made,New Canadians Barriers to Giving More,QC,*
+ImmStat,Non-Canadian,2018,ng_130,0.3038697843385418,44.75350829496305,0.03732959945290809,0.5704099692241755,30,Did not like the way requests were made,New Canadians Barriers to Giving More,QC,...

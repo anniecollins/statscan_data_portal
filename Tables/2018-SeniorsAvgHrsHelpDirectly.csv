@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Senior,15 to 64,2018,ivs1hrs1,58.90264419728195,6.519505348736304,51.376066866029774,66.42922152853413,6163,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,65 to 74,2018,ivs1hrs1,91.07530352339396,12.512093126089097,68.74067742316905,113.40992962361886,1333,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,75 and older,2018,ivs1hrs1,66.93640105469247,18.96524437603412,42.05534026679679,91.81746184258814,480,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,15 to 64,2018,ivs1hrs2,32.77257167518342,6.46449649614618,28.62022775150661,36.92491559886023,4723,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,65 to 74,2018,ivs1hrs2,45.50178175283174,10.532610132639777,36.10860481799027,54.89495868767321,1317,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,75 and older,2018,ivs1hrs2,43.72071544850879,14.252149898349018,31.507901737340262,55.93352915967732,604,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,15 to 64,2018,ivs1hrs3,20.29695560461444,9.525396583957885,16.507628824676324,24.086282384552554,2995,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,65 to 74,2018,ivs1hrs3,25.833522920822897,12.515819087035023,19.496416463328195,32.1706293783176,647,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,75 and older,2018,ivs1hrs3,28.77942316072618,22.727498121116376,15.959606730270691,41.599239591181664,234,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,15 to 64,2018,ivs1hrs4,78.74446413544227,7.030334646025471,67.89410480288035,89.5948234680042,4858,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA,
+Senior,65 to 74,2018,ivs1hrs4,122.99803111968146,7.953633776484404,103.8240700749996,142.1719921643633,1336,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA,
+Senior,75 and older,2018,ivs1hrs4,116.94910889793549,17.058111955502746,77.84917992503371,156.04903787083725,669,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,15 to 64,2018,ivs1hrs5,40.66984183982049,8.313615620750202,34.04294033763407,47.29674334200691,1373,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA,
+Senior,65 to 74,2018,ivs1hrs5,45.69919682203739,22.77564609516253,25.299328501715834,66.09906514235895,276,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,75 and older,2018,ivs1hrs5,64.88290893014357,21.530403157510765,37.50309037893781,92.26272748134933,90,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,15 to 64,2018,ivs1hrs6,112.24146828774118,22.326548850420334,63.12546417695139,161.35747239853097,853,Other assistance,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,65 to 74,2018,ivs1hrs6,164.0409628662473,19.375071172599363,101.74732306472737,226.33460266776723,282,Other assistance,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,75 and older,2018,ivs1hrs6,321.31419855961815,26.430462664515403,154.8645917656757,487.7638053535606,152,Other assistance,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior2,15 to 74,2018,ivs1hrs1,62.41901140796735,5.801042649943178,55.32207301031194,69.51594980562277,7496,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA,
+Senior2,75 and older,2018,ivs1hrs1,66.93640105469247,18.96524437603412,42.05534026679679,91.81746184258814,480,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior2,15 to 74,2018,ivs1hrs2,34.46737838860532,5.903388717676565,30.479354749761356,38.45540202744928,6040,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA,
+Senior2,75 and older,2018,ivs1hrs2,43.72071544850879,14.252149898349018,31.507901737340262,55.93352915967732,604,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA,
+Senior2,15 to 74,2018,ivs1hrs3,20.90748498793422,8.296690416151973,17.507674027031808,24.307295948836636,3642,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA,
+Senior2,75 and older,2018,ivs1hrs3,28.77942316072618,22.727498121116376,15.959606730270691,41.599239591181664,234,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior2,15 to 74,2018,ivs1hrs4,84.61204935549944,5.980819565101756,74.69366336703544,94.53043534396343,6194,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA,
+Senior2,75 and older,2018,ivs1hrs4,116.94910889793549,17.058111955502746,77.84917992503371,156.04903787083725,669,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior2,15 to 74,2018,ivs1hrs5,41.13097339854684,7.650079670223129,34.963844344183656,47.29810245291003,1649,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA,
+Senior2,75 and older,2018,ivs1hrs5,64.88290893014357,21.530403157510765,37.50309037893781,92.26272748134933,90,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA,*
+Senior2,15 to 74,2018,ivs1hrs6,120.71769105619995,17.63275138665951,78.99819100232577,162.43719111007414,1135,Other assistance,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior2,75 and older,2018,ivs1hrs6,321.31419855961815,26.430462664515403,154.8645917656757,487.7638053535606,152,Other assistance,Older Canadians Average Informal Volunteer Hours,CA,*
+Senior,15 to 64,2018,ivs1hrs1,58.47822631007563,7.599745089422438,49.767761950376055,67.1886906697752,5458,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ivs1hrs1,86.28343513610056,12.06773255807504,65.8753999249038,106.69147034729733,1176,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,ivs1hrs1,70.3567735272914,22.05712235237474,39.940720384283864,100.77282667029893,429,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,ivs1hrs2,32.42607045601162,7.797715444573075,27.47031582096686,37.381825091056385,4140,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ivs1hrs2,44.54063989222746,11.341127378575804,34.64005683850328,54.441222945951644,1164,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,ivs1hrs2,45.45287397769085,17.23964206873844,30.094767135624885,60.810980819756814,516,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,ivs1hrs3,20.99601894259052,10.95215439822887,16.489049593066923,25.502988292114118,2650,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ivs1hrs3,24.662162432614014,10.113325566037187,19.773689295372755,29.550635569855274,569,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,ivs1hrs3,31.108497785815512,25.728256552785194,15.421584766518059,46.795410805112965,207,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,ivs1hrs4,82.92888034209844,8.161111387794092,69.6640042289453,96.19375645525157,4255,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ivs1hrs4,134.8810481886859,9.155049816322224,110.678575700244,159.0835206771278,1175,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,ivs1hrs4,134.55957400240936,19.121198286865692,84.13087085912463,184.9882771456941,587,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,ivs1hrs5,42.44801244138293,8.764166377439926,35.15652613542965,49.73949874733621,1228,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ivs1hrs5,50.64209029497836,27.138711375863693,23.705108266517186,77.57907232343953,242,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,75 and older,2018,ivs1hrs5,75.88108046144616,21.8537876517562,43.37921292573436,108.38294799715797,79,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,ivs1hrs6,99.68176087347192,21.123126052763787,58.412947369739726,140.9505743772041,737,Other assistance,Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,65 to 74,2018,ivs1hrs6,171.06360522420977,21.90999188348964,97.60411192479256,244.52309852362697,249,Other assistance,Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,75 and older,2018,ivs1hrs6,307.05996311897786,26.3519510578356,148.4669466057532,465.6529796322025,133,Other assistance,Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,ivs1hrs1,61.47109593476644,6.675059658701191,53.428908354619864,69.51328351491301,6634,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs1,70.3567735272914,22.05712235237474,39.940720384283864,100.77282667029893,429,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,ivs1hrs2,34.04167210751383,6.974781225379506,29.38806659645661,38.695277618571055,5304,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs2,45.45287397769085,17.23964206873844,30.094767135624885,60.810980819756814,516,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,ivs1hrs3,21.39164510665173,9.63055640286129,17.353855786249223,25.429434427054236,3219,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs3,31.108497785815512,25.728256552785194,15.421584766518059,46.795410805112965,207,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,ivs1hrs4,89.74951282596972,6.932822008217403,77.55427592459259,101.94474972734685,5430,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs4,134.55957400240936,19.121198286865692,84.13087085912463,184.9882771456941,587,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,ivs1hrs5,43.14922833647621,8.15094875249429,36.25589488736982,50.042561785582606,1470,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs5,75.88108046144616,21.8537876517562,43.37921292573436,108.38294799715797,79,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,ivs1hrs6,112.03198659431506,16.348689904255163,76.13375256442339,147.93022062420673,986,Other assistance,Older Canadians Average Informal Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs6,307.05996311897786,26.3519510578356,148.4669466057532,465.6529796322025,133,Other assistance,Older Canadians Average Informal Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,ivs1hrs1,47.614924491327734,11.734374712530107,36.66399094955372,58.56585803310175,655,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AB,
+Senior,65 to 74,2018,ivs1hrs1,60.116282670794554,22.535889648438214,33.56320191692076,86.66936342466835,94,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,75 and older,2018,ivs1hrs1,37.95747180358072,21.575209518253985,21.906534772603717,54.00840883455771,37,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,15 to 64,2018,ivs1hrs1,70.38948640572922,19.752929081305897,43.13817591653445,97.64079689492398,1537,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,65 to 74,2018,ivs1hrs1,107.45326230567439,11.876574934502742,82.44065818068009,132.46586643066868,363,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AT,
+Senior,75 and older,2018,ivs1hrs1,77.7806514666466,22.748340568705423,43.101426032568185,112.45987690072502,118,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,15 to 64,2018,ivs1hrs1,56.30187072222897,27.103157191939452,26.393634636441604,86.21010680801633,781,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,65 to 74,2018,ivs1hrs1,54.564353670785756,16.884286254517345,36.50759420733787,72.62111313423364,201,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,75 and older,2018,ivs1hrs1,63.48263565720647,30.139656900041352,25.981765543914108,100.98350577049884,69,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,15 to 64,2018,ivs1hrs1,62.39191284254493,10.140960149185679,49.9909482427196,74.79287744237027,1588,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,ON,
+Senior,65 to 74,2018,ivs1hrs1,104.04068068805,20.045294024400814,63.165121515984836,144.91623986011518,349,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,ON,*
+Senior,75 and older,2018,ivs1hrs1,77.07430574633129,37.75624161941677,20.038646045238238,134.10996544742434,133,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior,15 to 64,2018,ivs1hrs1,51.97981597076112,8.337538188826924,43.4856515220877,60.47398041943455,897,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,PR,
+Senior,65 to 74,2018,ivs1hrs1,77.66275076216549,16.977575028066056,51.82013214723992,103.50536937709106,169,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,75 and older,2018,ivs1hrs1,88.08035558132867,30.767873318799545,34.96444525751795,141.1962659051394,72,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,15 to 64,2018,ivs1hrs1,60.46522514259891,10.453994392662386,48.076231555447336,72.85421872975049,705,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,QC,
+Senior,65 to 74,2018,ivs1hrs1,107.39485491753743,31.327404921876873,41.45378533448341,173.33592450059143,157,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,75 and older,2018,ivs1hrs1,52.663473598850246,20.695428757747816,31.301960075276355,74.02498712242414,51,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,15 to 64,2018,ivs1hrs2,24.18401344256425,9.882201001011122,19.499870392102373,28.868156493026127,453,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AB,
+Senior,65 to 74,2018,ivs1hrs2,31.61610233615804,21.317021464866865,18.40670687650759,44.82549779580849,77,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,75 and older,2018,ivs1hrs2,29.711851927843682,31.286928100582646,11.492172254853774,47.931531600833594,37,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,15 to 64,2018,ivs1hrs2,43.26719279875304,15.300379834494004,30.292143332526063,56.24224226498001,1175,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AT,
+Senior,65 to 74,2018,ivs1hrs2,40.84749464009332,8.609982201415882,33.954375749354796,47.74061353083185,374,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AT,
+Senior,75 and older,2018,ivs1hrs2,47.184250074207384,23.53373889827283,25.420382299132434,68.94811784928234,152,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,15 to 64,2018,ivs1hrs2,27.668733833947535,10.83728552543401,21.791704041493297,33.54576362640177,574,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,BC,
+Senior,65 to 74,2018,ivs1hrs2,34.951376937361296,18.753396882513382,22.104654954615626,47.798098920106966,191,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,75 and older,2018,ivs1hrs2,83.41814604461837,46.478322984908196,7.427685933399232,159.4086061558375,83,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,BC,...
+Senior,15 to 64,2018,ivs1hrs2,35.26697556685399,12.84667132505086,26.387099162440013,44.14685197126798,1255,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,ON,
+Senior,65 to 74,2018,ivs1hrs2,51.07629310934663,18.50970614192701,32.54665294713996,69.6059332715533,354,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,ON,*
+Senior,75 and older,2018,ivs1hrs2,36.83269829776546,18.0016273842618,23.837186295595288,49.828210299935634,162,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,ON,*
+Senior,15 to 64,2018,ivs1hrs2,29.374769913078346,10.21194919465488,23.495394254013135,35.25414557214356,683,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,PR,
+Senior,65 to 74,2018,ivs1hrs2,49.664279729419086,18.960620519139784,31.207973873006082,68.12058558583209,168,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,75 and older,2018,ivs1hrs2,36.57352029048108,18.853867435043636,23.058543493398307,50.08849708756385,82,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,15 to 64,2018,ivs1hrs2,33.97133502902974,10.55951239663691,26.94053784991262,41.00213220814686,583,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,QC,
+Senior,65 to 74,2018,ivs1hrs2,48.855053590667914,25.238137040094315,24.688491127684625,73.0216160536512,153,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,75 and older,2018,ivs1hrs2,38.73909615664645,21.120262475826635,22.703065201361692,54.7751271119312,88,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,15 to 64,2018,ivs1hrs3,18.997223950778288,21.203105209570133,11.10248631398559,26.891961587570986,310,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,65 to 74,2018,ivs1hrs3,22.791957221079983,31.73274612088857,8.616490418339607,36.96742402382036,47,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,75 and older,2018,ivs1hrs3,48.03274029355147,60.41209301655481,-8.840678764122849,104.9061593512258,20,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AB,...
+Senior,15 to 64,2018,ivs1hrs3,42.4689248857684,42.200713930913416,7.342078940534378,77.59577083100243,738,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AT,...
+Senior,65 to 74,2018,ivs1hrs3,26.607213514897243,23.815138896909392,14.187813812341423,39.02661321745306,168,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,75 and older,2018,ivs1hrs3,17.579526475198076,26.644681236797446,8.399037939109437,26.760015011286715,46,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,15 to 64,2018,ivs1hrs3,25.137479549626065,24.78532245116078,12.926109430100786,37.34884966915134,415,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,65 to 74,2018,ivs1hrs3,25.279669064921972,15.85519022342937,17.423859768444103,33.13547836139984,108,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,BC,
+Senior,75 and older,2018,ivs1hrs3,11.500139706747213,19.59749666156948,7.082891465804731,15.917387947689694,40,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,15 to 64,2018,ivs1hrs3,16.226247380878675,13.2145968159958,12.023627593714094,20.428867168043254,795,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,ON,
+Senior,65 to 74,2018,ivs1hrs3,22.73398161290234,15.0364785952573,16.034059780815888,29.433903444988793,167,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,ON,
+Senior,75 and older,2018,ivs1hrs3,34.69083083329045,36.50171873451174,9.872297873069193,59.5093637935117,64,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior,15 to 64,2018,ivs1hrs3,23.679093948707624,19.157890463175583,14.787884162299028,32.57030373511622,392,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,65 to 74,2018,ivs1hrs3,36.864438115889115,34.33179275565071,12.058697846378408,61.67017838539982,79,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,PR,...
+Senior,75 and older,2018,ivs1hrs3,44.62874550938851,69.34804879960062,-16.03050170264796,105.28799272142498,37,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,PR,...
+Senior,15 to 64,2018,ivs1hrs3,17.69772435411983,13.159598291127377,13.133067346225358,22.262381362014303,345,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,QC,
+Senior,65 to 74,2018,ivs1hrs3,29.73644410760567,40.83519442364063,5.936729299591082,53.53615891562026,78,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,QC,...
+Senior,75 and older,2018,ivs1hrs3,19.840733800756446,31.354197569205954,7.647988214298747,32.03347938721414,27,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,15 to 64,2018,ivs1hrs4,67.54211199633392,13.337161853597813,49.88636287010174,85.19786112256608,504,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AB,
+Senior,65 to 74,2018,ivs1hrs4,87.6129760373668,16.13496392688862,59.906293888859125,115.31965818587449,89,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AB,
+Senior,75 and older,2018,ivs1hrs4,138.22195396299657,57.15649526635698,-16.620736878834776,293.06464480482794,42,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior,15 to 64,2018,ivs1hrs4,86.97395058428116,10.628928260671124,68.85526185192973,105.09263931663259,1154,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AT,
+Senior,65 to 74,2018,ivs1hrs4,119.43903472500212,12.941166363750591,89.1442552023543,149.73381424764992,343,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AT,
+Senior,75 and older,2018,ivs1hrs4,81.18622551597697,14.918592508311754,57.44745110063213,104.92499993132182,170,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AT,
+Senior,15 to 64,2018,ivs1hrs4,73.43066383950433,14.983253355646632,51.86654738102586,94.9947802979828,669,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,BC,
+Senior,65 to 74,2018,ivs1hrs4,102.90591149633018,14.627747256750395,73.40293300440585,132.4088899882545,203,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,BC,
+Senior,75 and older,2018,ivs1hrs4,65.34186331761417,21.836919587144298,37.37582291677019,93.30790371845815,94,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,15 to 64,2018,ivs1hrs4,90.88027799580125,14.159714158674715,65.65870177870285,116.10185421289965,1257,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,ON,
+Senior,65 to 74,2018,ivs1hrs4,159.47631240544243,14.351027687369855,114.61961676661835,204.3330080442665,355,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,ON,
+Senior,75 and older,2018,ivs1hrs4,142.56227626978918,27.784061586396895,64.92890517738996,220.1956473621884,185,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,ON,*
+Senior,15 to 64,2018,ivs1hrs4,84.13842897494845,16.174075576939874,57.46603743575842,110.81082051413848,671,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,PR,
+Senior,65 to 74,2018,ivs1hrs4,150.07791154974987,20.539792650895503,89.66066573087846,210.49515736862128,185,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,75 and older,2018,ivs1hrs4,298.64778837583174,53.108854426946706,-12.219000857520257,609.5145776091838,96,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,PR,...
+Senior,15 to 64,2018,ivs1hrs4,64.71791234481955,12.960390768960236,48.278333530181534,81.15749115945758,603,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,QC,
+Senior,65 to 74,2018,ivs1hrs4,85.0549642665764,13.149622975659781,63.133929116794754,106.97599941635806,161,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,QC,
+Senior,75 and older,2018,ivs1hrs4,65.03988704996014,21.051221313676578,38.20466665499062,91.87510744492967,82,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,15 to 64,2018,ivs1hrs5,37.123743773861015,24.49191904866355,19.30312938291204,54.94435816480999,138,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,65 to 74,2018,ivs1hrs5,35.01421263655309,27.92439414254131,15.850651562579916,54.17777371052627,15,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior,75 and older,2018,ivs1hrs5,30.341728143532993,43.539090586739675,4.449599422306452,56.23385686475953,2,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AB,...
+Senior,15 to 64,2018,ivs1hrs5,36.42420085079693,13.795002826873642,26.57593152579636,46.272470175797494,273,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AT,
+Senior,65 to 74,2018,ivs1hrs5,37.40360914124233,17.918430485478883,24.267656703940247,50.53956157854441,61,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,75 and older,2018,ivs1hrs5,30.722244902601712,30.17605544271139,12.551885949439626,48.892603855763795,16,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,15 to 64,2018,ivs1hrs5,28.5969612228627,13.52485601546859,21.01641277260352,36.17750967312188,201,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,BC,
+Senior,65 to 74,2018,ivs1hrs5,24.858439190862395,16.59209625259049,16.774496869347622,32.94238151237717,44,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,75 and older,2018,ivs1hrs5,125.94245124572336,28.895691859113125,54.61555435999071,197.269348131456,17,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,15 to 64,2018,ivs1hrs5,49.2279896868073,13.147439995232771,36.54267079313462,61.91330858047998,428,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,ON,
+Senior,65 to 74,2018,ivs1hrs5,67.51639315227781,38.26809465586564,16.876338702370234,118.1564476021854,82,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior,75 and older,2018,ivs1hrs5,56.338420609417085,35.56821985783573,17.063538626543576,95.6133025922906,27,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior,15 to 64,2018,ivs1hrs5,41.33364750291665,22.593914641593436,23.02976133857107,59.637533667262225,188,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,65 to 74,2018,ivs1hrs5,40.69758986673141,16.64730108363117,27.418735248248357,53.97644448521447,40,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,75 and older,2018,ivs1hrs5,108.75232094904678,56.854056621164574,-12.432460224477722,229.93710212257128,17,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,PR,...
+Senior,15 to 64,2018,ivs1hrs5,33.16170891104518,24.225317325615343,17.41628098227162,48.90713683981875,145,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,65 to 74,2018,ivs1hrs5,30.90400352887983,18.155102218927155,19.90732487554211,41.90068218221755,34,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior,75 and older,2018,ivs1hrs5,20.177055429038653,48.15148748149766,1.1349227937892081,39.2191880642881,11,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,QC,...
+Senior,15 to 64,2018,ivs1hrs6,118.02765661400069,58.34426600023268,-16.940108336352367,252.99542156435376,84,Other assistance,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior,65 to 74,2018,ivs1hrs6,39.69968923588595,33.979503132231756,13.260251066801661,66.13912740497024,20,Other assistance,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior,75 and older,2018,ivs1hrs6,597.7662878572975,66.94391644071898,-186.54890184000578,1382.0814775546007,8,Other assistance,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior,15 to 64,2018,ivs1hrs6,110.16076158238813,30.100435588842668,45.17057240911036,175.15095075566592,198,Other assistance,Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,65 to 74,2018,ivs1hrs6,218.55916752192962,30.809065008902948,86.58296209093044,350.5353729529288,84,Other assistance,Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,75 and older,2018,ivs1hrs6,119.6761520830284,29.01207950445875,51.62514339445802,187.7271607715988,41,Other assistance,Older Canadians Average Informal Volunteer Hours,AT,*
+Senior,15 to 64,2018,ivs1hrs6,44.586320417674116,25.09788209352253,22.65388806726567,66.51875276808256,125,Other assistance,Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,65 to 74,2018,ivs1hrs6,233.20350630162545,32.69743168142716,83.75320051926124,382.6538120839897,50,Other assistance,Older Canadians Average Informal Volunteer Hours,BC,*
+Senior,75 and older,2018,ivs1hrs6,191.28279071583648,44.21583169346976,25.514374274448414,357.05120715722455,22,Other assistance,Older Canadians Average Informal Volunteer Hours,BC,...
+Senior,15 to 64,2018,ivs1hrs6,110.42977530367213,30.991734048376458,43.35176744668253,177.50778316066175,207,Other assistance,Older Canadians Average Informal Volunteer Hours,ON,*
+Senior,65 to 74,2018,ivs1hrs6,105.5210753522893,27.455969838203487,48.737322927760545,162.30482777681806,71,Other assistance,Older Canadians Average Informal Volunteer Hours,ON,*
+Senior,75 and older,2018,ivs1hrs6,254.81330360642474,45.67319207312881,26.71001075024691,482.91659646260257,45,Other assistance,Older Canadians Average Informal Volunteer Hours,ON,...
+Senior,15 to 64,2018,ivs1hrs6,122.4031476706026,32.58942156370066,44.21924785334912,200.5870474878561,123,Other assistance,Older Canadians Average Informal Volunteer Hours,PR,*
+Senior,65 to 74,2018,ivs1hrs6,861.7927400084028,52.68208429626357,-28.05124898962231,1751.636729006428,24,Other assistance,Older Canadians Average Informal Volunteer Hours,PR,...
+Senior,75 and older,2018,ivs1hrs6,1033.7079282641807,51.05440526370231,-0.6697969335930338,2068.0856534619543,17,Other assistance,Older Canadians Average Informal Volunteer Hours,PR,...
+Senior,15 to 64,2018,ivs1hrs6,148.92046480977638,50.06273780426559,2.7979726983586204,295.0429569211941,116,Other assistance,Older Canadians Average Informal Volunteer Hours,QC,...
+Senior,65 to 74,2018,ivs1hrs6,136.5436841952452,39.78992839959328,30.057597954132746,243.02977043635764,33,Other assistance,Older Canadians Average Informal Volunteer Hours,QC,...
+Senior,75 and older,2018,ivs1hrs6,374.0748889822695,71.93380109219089,-153.32454144097983,901.4743194055188,19,Other assistance,Older Canadians Average Informal Volunteer Hours,QC,...
+Senior2,15 to 74,2018,ivs1hrs1,48.64277735193549,10.73176267760834,38.41131960742125,58.87423509644974,749,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AB,
+Senior2,75 and older,2018,ivs1hrs1,37.95747180358072,21.575209518253985,21.906534772603717,54.00840883455771,37,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior2,15 to 74,2018,ivs1hrs1,74.9916703596606,16.388616288107983,50.903522670716896,99.07981804860431,1900,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AT,
+Senior2,75 and older,2018,ivs1hrs1,77.7806514666466,22.748340568705423,43.101426032568185,112.45987690072502,118,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior2,15 to 74,2018,ivs1hrs1,56.074209608566946,23.64057249611303,30.09240925771248,82.05600995942142,982,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,75 and older,2018,ivs1hrs1,63.48263565720647,30.139656900041352,25.981765543914108,100.98350577049884,69,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,15 to 74,2018,ivs1hrs1,66.95253902738422,8.98466129793301,55.16245630742723,78.7426217473412,1937,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,ON,
+Senior2,75 and older,2018,ivs1hrs1,77.07430574633129,37.75624161941677,20.038646045238238,134.10996544742434,133,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior2,15 to 74,2018,ivs1hrs1,54.1660757019555,7.6216280077470415,46.07468426496453,62.25746713894647,1066,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,PR,
+Senior2,75 and older,2018,ivs1hrs1,88.08035558132867,30.767873318799545,34.96444525751795,141.1962659051394,72,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior2,15 to 74,2018,ivs1hrs1,65.87877276429484,10.205524606900804,52.70139715035207,79.05614837823761,862,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,QC,
+Senior2,75 and older,2018,ivs1hrs1,52.663473598850246,20.695428757747816,31.301960075276355,74.02498712242414,51,"Cooking, cleaning, work around home",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior2,15 to 74,2018,ivs1hrs2,24.89674430017243,8.883771319159152,20.56175509217564,29.231733508169217,530,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AB,
+Senior2,75 and older,2018,ivs1hrs2,29.711851927843682,31.286928100582646,11.492172254853774,47.931531600833594,37,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior2,15 to 74,2018,ivs1hrs2,42.865201187227385,13.011711840198343,31.933509005249196,53.79689336920558,1549,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AT,
+Senior2,75 and older,2018,ivs1hrs2,47.184250074207384,23.53373889827283,25.420382299132434,68.94811784928234,152,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior2,15 to 74,2018,ivs1hrs2,28.81695910506697,9.666953521582897,23.3570442298077,34.27687398032624,765,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,BC,
+Senior2,75 and older,2018,ivs1hrs2,83.41814604461837,46.478322984908196,7.427685933399232,159.4086061558375,83,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,BC,...
+Senior2,15 to 74,2018,ivs1hrs2,37.39047536340248,11.455223345173573,28.995631196576884,45.78531953022808,1609,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,ON,
+Senior2,75 and older,2018,ivs1hrs2,36.83269829776546,18.0016273842618,23.837186295595288,49.828210299935634,162,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,ON,*
+Senior2,15 to 74,2018,ivs1hrs2,31.684784858221406,8.910889519904853,26.151030044395323,37.218539672047484,851,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,PR,
+Senior2,75 and older,2018,ivs1hrs2,36.57352029048108,18.853867435043636,23.058543493398307,50.08849708756385,82,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior2,15 to 74,2018,ivs1hrs2,35.94180814190772,10.010199514870223,28.890158179668198,42.993458104147244,736,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,QC,
+Senior2,75 and older,2018,ivs1hrs2,38.73909615664645,21.120262475826635,22.703065201361692,54.7751271119312,88,"Shopping, driving, accompaniment",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior2,15 to 74,2018,ivs1hrs3,19.38397920256909,18.839852434174762,12.226361095733388,26.541597309404793,357,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior2,75 and older,2018,ivs1hrs3,48.03274029355147,60.41209301655481,-8.840678764122849,104.9061593512258,20,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AB,...
+Senior2,15 to 74,2018,ivs1hrs3,40.41400464725396,38.849903961136555,9.64099821393668,71.18701108057124,906,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AT,...
+Senior2,75 and older,2018,ivs1hrs3,17.579526475198076,26.644681236797446,8.399037939109437,26.760015011286715,46,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior2,15 to 74,2018,ivs1hrs3,25.155446267902754,21.6008807006697,14.505398010055295,35.80549452575021,523,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,75 and older,2018,ivs1hrs3,11.500139706747213,19.59749666156948,7.082891465804731,15.917387947689694,40,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,15 to 74,2018,ivs1hrs3,16.888847428977126,11.572822354979264,13.05806585269338,20.71962900526087,962,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,ON,
+Senior2,75 and older,2018,ivs1hrs3,34.69083083329045,36.50171873451174,9.872297873069193,59.5093637935117,64,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior2,15 to 74,2018,ivs1hrs3,24.90785439552761,16.843304813550773,16.685206048222916,33.130502742832306,471,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior2,75 and older,2018,ivs1hrs3,44.62874550938851,69.34804879960062,-16.03050170264796,105.28799272142498,37,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,PR,...
+Senior2,15 to 74,2018,ivs1hrs3,19.12953788638281,12.90981508880877,14.289234411517121,23.9698413612485,423,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,QC,
+Senior2,75 and older,2018,ivs1hrs3,19.840733800756446,31.354197569205954,7.647988214298747,32.03347938721414,27,"Paperwork tasks, taxes, etc.",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior2,15 to 74,2018,ivs1hrs4,69.57577798390842,11.77232811547591,53.522322783940396,85.62923318387645,593,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AB,
+Senior2,75 and older,2018,ivs1hrs4,138.22195396299657,57.15649526635698,-16.620736878834776,293.06464480482794,42,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior2,15 to 74,2018,ivs1hrs4,91.8002847839742,9.044677415385255,75.52662615653895,108.07394341140946,1497,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AT,
+Senior2,75 and older,2018,ivs1hrs4,81.18622551597697,14.918592508311754,57.44745110063213,104.92499993132182,170,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,AT,
+Senior2,15 to 74,2018,ivs1hrs4,77.71653249391282,12.52765909419061,58.63420113137283,96.79886385645281,872,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,BC,
+Senior2,75 and older,2018,ivs1hrs4,65.34186331761417,21.836919587144298,37.37582291677019,93.30790371845815,94,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,15 to 74,2018,ivs1hrs4,100.24202237130862,11.589760376079827,77.47153282170298,123.01251192091426,1612,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,ON,
+Senior2,75 and older,2018,ivs1hrs4,142.56227626978918,27.784061586396895,64.92890517738996,220.1956473621884,185,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,ON,*
+Senior2,15 to 74,2018,ivs1hrs4,91.8342061254479,13.629874734579003,67.3015579004481,116.36685435044771,856,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,PR,
+Senior2,75 and older,2018,ivs1hrs4,298.64778837583174,53.108854426946706,-12.219000857520257,609.5145776091838,96,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,PR,...
+Senior2,15 to 74,2018,ivs1hrs4,67.50267752416514,10.912339441354888,53.065345063669355,81.94000998466092,764,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,QC,
+Senior2,75 and older,2018,ivs1hrs4,65.03988704996014,21.051221313676578,38.20466665499062,91.87510744492967,82,Health-related/personal care,Older Canadians Average Informal Volunteer Hours,QC,*
+Senior2,15 to 74,2018,ivs1hrs5,37.012130197417065,23.190506803170933,20.189170208931245,53.835090185902885,153,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AB,*
+Senior2,75 and older,2018,ivs1hrs5,30.341728143532993,43.539090586739675,4.449599422306452,56.23385686475953,2,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AB,...
+Senior2,15 to 74,2018,ivs1hrs5,36.53064426232311,12.301549954890175,27.72288862243898,45.338399902207236,334,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AT,
+Senior2,75 and older,2018,ivs1hrs5,30.722244902601712,30.17605544271139,12.551885949439626,48.892603855763795,16,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,AT,*
+Senior2,15 to 74,2018,ivs1hrs5,28.189797506300813,12.275921063867708,21.407229851585516,34.972365161016114,245,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,BC,
+Senior2,75 and older,2018,ivs1hrs5,125.94245124572336,28.895691859113125,54.61555435999071,197.269348131456,17,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,15 to 74,2018,ivs1hrs5,50.796057182998105,12.011465557214043,38.83762913655874,62.75448522943747,510,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,ON,
+Senior2,75 and older,2018,ivs1hrs5,56.338420609417085,35.56821985783573,17.063538626543576,95.6133025922906,27,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,ON,...
+Senior2,15 to 74,2018,ivs1hrs5,41.28339130774103,20.883768662205775,24.385507060256373,58.18127555522568,228,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,PR,*
+Senior2,75 and older,2018,ivs1hrs5,108.75232094904678,56.854056621164574,-12.432460224477722,229.93710212257128,17,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,PR,...
+Senior2,15 to 74,2018,ivs1hrs5,32.89841655159025,21.501470509780823,19.034330379379327,46.76250272380118,179,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,QC,*
+Senior2,75 and older,2018,ivs1hrs5,20.177055429038653,48.15148748149766,1.1349227937892081,39.2191880642881,11,"Teaching, coaching, reading assistance, etc.",Older Canadians Average Informal Volunteer Hours,QC,...
+Senior2,15 to 74,2018,ivs1hrs6,107.17255766001448,55.75563594377581,-9.944582763381263,224.2896980834102,104,Other assistance,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior2,75 and older,2018,ivs1hrs6,597.7662878572975,66.94391644071898,-186.54890184000578,1382.0814775546007,8,Other assistance,Older Canadians Average Informal Volunteer Hours,AB,...
+Senior2,15 to 74,2018,ivs1hrs6,131.89656807735403,22.607993490913646,73.45207367808098,190.3410624766271,282,Other assistance,Older Canadians Average Informal Volunteer Hours,AT,*
+Senior2,75 and older,2018,ivs1hrs6,119.6761520830284,29.01207950445875,51.62514339445802,187.7271607715988,41,Other assistance,Older Canadians Average Informal Volunteer Hours,AT,*
+Senior2,15 to 74,2018,ivs1hrs6,79.80546261140951,21.291016054521638,46.5029426045927,113.10798261822632,175,Other assistance,Older Canadians Average Informal Volunteer Hours,BC,*
+Senior2,75 and older,2018,ivs1hrs6,191.28279071583648,44.21583169346976,25.514374274448414,357.05120715722455,22,Other assistance,Older Canadians Average Informal Volunteer Hours,BC,...
+Senior2,15 to 74,2018,ivs1hrs6,109.51687917750614,25.695965539150905,54.36071041898336,164.67304793602892,278,Other assistance,Older Canadians Average Informal Volunteer Hours,ON,*
+Senior2,75 and older,2018,ivs1hrs6,254.81330360642474,45.67319207312881,26.71001075024691,482.91659646260257,45,Other assistance,Older Canadians Average Informal Volunteer Hours,ON,...
+Senior2,15 to 74,2018,ivs1hrs6,201.97419994705655,32.27230557803365,74.22035474550104,329.72804514861207,147,Other assistance,Older Canadians Average Informal Volunteer Hours,PR,*
+Senior2,75 and older,2018,ivs1hrs6,1033.7079282641807,51.05440526370231,-0.6697969335930338,2068.0856534619543,17,Other assistance,Older Canadians Average Informal Volunteer Hours,PR,...
+Senior2,15 to 74,2018,ivs1hrs6,147.2498613093943,44.239997107957,19.571272082441013,274.9284505363476,149,Other assistance,Older Canadians Average Informal Volunteer Hours,QC,...
+Senior2,75 and older,2018,ivs1hrs6,374.0748889822695,71.93380109219089,-153.32454144097983,901.4743194055188,19,Other assistance,Older Canadians Average Informal Volunteer Hours,QC,...

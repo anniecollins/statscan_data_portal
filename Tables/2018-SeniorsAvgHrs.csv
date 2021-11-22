@@ -1,0 +1,121 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Senior,15 to 64,2018,vd1dhrs,116.77589831843481,3.353497927328842,109.10052779149346,124.45126884537616,6002,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA,
+Senior,65 to 74,2018,vd1dhrs,181.46254623658385,5.777106941528428,160.91568450130814,202.00940797185956,1560,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA,
+Senior,75 and older,2018,vd1dhrs,223.40276232037152,7.08968640281098,192.35976443631046,254.4457602044326,803,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA,
+Senior,15 to 64,2018,ivs1hrs,126.93304876667993,4.451897391241745,115.85743127762194,138.00866625573792,8605,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA,
+Senior,65 to 74,2018,ivs1hrs,189.6857153879162,6.055266249016972,167.17361785853433,212.19781291729805,2219,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA,
+Senior,75 and older,2018,ivs1hrs,177.53127467746216,12.231481830570916,134.97123375529287,220.09131559963146,1075,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA,
+Senior,15 to 64,2018,ichrs,43.491717101868296,7.7335510975226756,36.8994680743016,50.08396612943499,3517,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA,
+Senior,65 to 74,2018,ichrs,56.889206705307586,15.920376837300232,39.13785976548524,74.64055364512993,952,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA,
+Senior,75 and older,2018,ichrs,40.49772980928224,14.781345812601831,28.76517080261703,52.23028881594745,468,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA,
+Senior2,15 to 74,2018,vd1dhrs,124.61475278545835,2.9461362314280404,117.41909706197744,131.81040850893928,7562,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA,
+Senior2,75 and older,2018,vd1dhrs,223.40276232037152,7.08968640281098,192.35976443631046,254.4457602044326,803,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA,
+Senior2,15 to 74,2018,ivs1hrs,134.73252483286043,3.8468208602158507,124.57419051136611,144.89085915435476,10824,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA,
+Senior2,75 and older,2018,ivs1hrs,177.53127467746216,12.231481830570916,134.97123375529287,220.09131559963146,1075,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA,
+Senior2,15 to 74,2018,ichrs,45.11605091239144,6.972881724520024,38.95022202999122,51.28187979479166,4469,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA,
+Senior2,75 and older,2018,ichrs,40.49772980928224,14.781345812601831,28.76517080261703,52.23028881594745,468,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA,
+Senior,15 to 64,2018,vd1dhrs,118.36170592745687,3.625241694959744,109.95170055438913,126.7717113005246,5305,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,vd1dhrs,185.04118093623288,6.040697100682464,163.1331400953299,206.94922177713585,1379,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,vd1dhrs,211.83175384070768,7.781870764465626,179.5227798255061,244.14072785590926,701,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,15 to 64,2018,ivs1hrs,127.57817892392642,4.987520046528743,115.10695308213762,140.0494047657152,7576,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ivs1hrs,191.27292994510847,6.510099800717146,166.86734349460994,215.678516395607,1962,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,ivs1hrs,192.44352330216645,13.444688659817446,141.7325273399796,243.1545192643533,932,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,15 to 64,2018,ichrs,40.757883639257116,8.293463996741504,34.132734185477105,47.38303309303713,3148,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,65 to 74,2018,ichrs,42.78972083750639,11.068975509598628,33.50657932909131,52.072862345921465,856,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior,75 and older,2018,ichrs,41.70539542789127,17.336923207798232,27.534008372708477,55.87678248307406,418,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA (without QC),*
+Senior2,15 to 74,2018,vd1dhrs,126.38855686225683,3.1866990216101434,118.49456102523308,134.2825526992806,6684,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,vd1dhrs,211.83175384070768,7.781870764465626,179.5227798255061,244.14072785590926,701,Total formal volunteer hours,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior2,15 to 74,2018,ivs1hrs,135.52292857764087,4.259396378823756,124.20911739926501,146.83673975601673,9538,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ivs1hrs,192.44352330216645,13.444688659817446,141.7325273399796,243.1545192643533,932,Total hours spent helping directly,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior2,15 to 74,2018,ichrs,41.00595554101962,7.436726891174302,35.02904356170207,46.982867520337166,4004,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA (without QC),
+Senior2,75 and older,2018,ichrs,41.70539542789127,17.336923207798232,27.534008372708477,55.87678248307406,418,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,CA (without QC),*
+Senior,15 to 64,2018,vd1dhrs,131.4465591912062,9.145146696688986,107.88587002741347,155.00724835499892,613,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AB,
+Senior,65 to 74,2018,vd1dhrs,198.91860616325678,16.318465322905748,135.29726625737476,262.5399460691388,98,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AB,
+Senior,75 and older,2018,vd1dhrs,194.13488181473886,23.827197002271177,103.47302232765138,284.79674130182633,47,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AB,*
+Senior,15 to 64,2018,vd1dhrs,124.60354575889727,8.319142121125969,104.28666481630839,144.92042670148615,1389,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AT,
+Senior,65 to 74,2018,vd1dhrs,186.6994808622596,9.379605776017272,152.37722798342816,221.02173374109105,431,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AT,
+Senior,75 and older,2018,vd1dhrs,190.95254413921245,16.7503831771517,128.26254175740297,253.64254652102193,191,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AT,*
+Senior,15 to 64,2018,vd1dhrs,131.03880473212783,8.13419909318828,110.14763237753513,151.92997708672053,833,Total formal volunteer hours,Older Canadians Average Volunteer Hours,BC,
+Senior,65 to 74,2018,vd1dhrs,235.4151702782977,15.573510471541663,163.55817454973842,307.272166006857,233,Total formal volunteer hours,Older Canadians Average Volunteer Hours,BC,
+Senior,75 and older,2018,vd1dhrs,188.5389683349442,14.952377484712509,133.28550947647554,243.79242719341286,128,Total formal volunteer hours,Older Canadians Average Volunteer Hours,BC,
+Senior,15 to 64,2018,vd1dhrs,108.09412418543803,6.145155896464962,95.07496062563693,121.11328774523913,1684,Total formal volunteer hours,Older Canadians Average Volunteer Hours,ON,
+Senior,65 to 74,2018,vd1dhrs,167.1669095476124,8.63374139293239,138.8792223668538,195.45459672837097,425,Total formal volunteer hours,Older Canadians Average Volunteer Hours,ON,
+Senior,75 and older,2018,vd1dhrs,225.24973845527705,11.94614127642275,172.5097497007,277.9897272098541,238,Total formal volunteer hours,Older Canadians Average Volunteer Hours,ON,
+Senior,15 to 64,2018,vd1dhrs,119.9491522335331,8.4427368097678,100.10061415367524,139.79769031339094,786,Total formal volunteer hours,Older Canadians Average Volunteer Hours,PR,
+Senior,65 to 74,2018,vd1dhrs,144.44302839291825,15.313522726433343,101.08996571004869,187.7960910757878,192,Total formal volunteer hours,Older Canadians Average Volunteer Hours,PR,
+Senior,75 and older,2018,vd1dhrs,238.12769965441623,19.109232756173572,148.940760803048,327.3146385057845,97,Total formal volunteer hours,Older Canadians Average Volunteer Hours,PR,*
+Senior,15 to 64,2018,vd1dhrs,109.54885440164146,9.818966391880423,88.46637401936556,130.63133478391737,697,Total formal volunteer hours,Older Canadians Average Volunteer Hours,QC,
+Senior,65 to 74,2018,vd1dhrs,165.81310599184354,14.85425048217553,117.53861663445889,214.0875953492282,181,Total formal volunteer hours,Older Canadians Average Volunteer Hours,QC,
+Senior,75 and older,2018,vd1dhrs,274.7179065387203,16.153392878232456,187.74202978012624,361.6937832973143,102,Total formal volunteer hours,Older Canadians Average Volunteer Hours,QC,
+Senior,15 to 64,2018,ivs1hrs,110.65615436635656,9.712999744770483,89.59039875896524,131.72190997374787,873,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AB,
+Senior,65 to 74,2018,ivs1hrs,122.86347938311647,12.275265146037727,93.3036595523507,152.42329921388225,147,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AB,
+Senior,75 and older,2018,ivs1hrs,180.31242999083156,38.25923756273972,45.10203910627962,315.5228208753835,73,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AB,...
+Senior,15 to 64,2018,ivs1hrs,145.22467425518008,14.192039360062694,104.82914440175713,185.62020410860302,2127,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AT,
+Senior,65 to 74,2018,ivs1hrs,185.4593413672186,8.48570637531535,154.61433925991437,216.30434347452282,603,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AT,
+Senior,75 and older,2018,ivs1hrs,143.19047662656615,13.298175908149965,105.8693883505054,180.5115649026269,251,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AT,
+Senior,15 to 64,2018,ivs1hrs,112.62425328765227,12.386386295422696,85.28260855991631,139.96589801538823,1111,Total hours spent helping directly,Older Canadians Average Volunteer Hours,BC,
+Senior,65 to 74,2018,ivs1hrs,156.54562525996838,12.17119232398489,119.20151199407866,193.8897385258581,335,Total hours spent helping directly,Older Canadians Average Volunteer Hours,BC,
+Senior,75 and older,2018,ivs1hrs,146.24247034488042,24.05904083088534,77.28204765346942,215.2028930362914,163,Total hours spent helping directly,Older Canadians Average Volunteer Hours,BC,*
+Senior,15 to 64,2018,ivs1hrs,136.09733216376333,7.909134633729415,115.00004222039838,157.19462210712828,2264,Total hours spent helping directly,Older Canadians Average Volunteer Hours,ON,
+Senior,65 to 74,2018,ivs1hrs,214.25161406586167,10.57028150489122,169.86431218628954,258.6389159454338,585,Total hours spent helping directly,Older Canadians Average Volunteer Hours,ON,
+Senior,75 and older,2018,ivs1hrs,189.06714686602604,20.754329818918347,112.15890638896526,265.9753873430868,297,Total hours spent helping directly,Older Canadians Average Volunteer Hours,ON,*
+Senior,15 to 64,2018,ivs1hrs,123.9104359496958,8.389444891558204,103.53583077650374,144.28504112288783,1201,Total hours spent helping directly,Older Canadians Average Volunteer Hours,PR,
+Senior,65 to 74,2018,ivs1hrs,251.03117485391354,19.40837440953421,155.5396317770814,346.52271793074567,292,Total hours spent helping directly,Older Canadians Average Volunteer Hours,PR,*
+Senior,75 and older,2018,ivs1hrs,411.747791912665,36.01916897944692,121.06919273948455,702.4263910858454,148,Total hours spent helping directly,Older Canadians Average Volunteer Hours,PR,...
+Senior,15 to 64,2018,ivs1hrs,124.64732932518422,9.694500589352751,100.96324982465676,148.33140882571166,1029,Total hours spent helping directly,Older Canadians Average Volunteer Hours,QC,
+Senior,65 to 74,2018,ivs1hrs,183.95672646594568,14.75974013251472,130.7406961669563,237.17275676493506,257,Total hours spent helping directly,Older Canadians Average Volunteer Hours,QC,
+Senior,75 and older,2018,ivs1hrs,130.83428254876748,31.449547511339215,50.18805636079222,211.48050873674273,143,Total hours spent helping directly,Older Canadians Average Volunteer Hours,QC,*
+Senior,15 to 64,2018,ichrs,41.071597349467254,19.15190497044429,25.65453379017525,56.48866090875926,373,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AB,*
+Senior,65 to 74,2018,ichrs,32.50895003656021,24.996842308020543,16.581869191587153,48.43603088153326,72,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AB,*
+Senior,75 and older,2018,ichrs,41.46349230216054,34.47941126151259,13.443125845305666,69.48385875901542,34,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AB,...
+Senior,15 to 64,2018,ichrs,35.2258379920784,14.116313073442367,25.47974151771645,44.971934466440345,770,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AT,
+Senior,65 to 74,2018,ichrs,48.39889879962322,13.00224485221321,36.064956520575876,60.73284107867056,240,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AT,
+Senior,75 and older,2018,ichrs,70.8920087607306,29.744649747074885,29.56307198268923,112.22094553877199,88,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AT,*
+Senior,15 to 64,2018,ichrs,27.920883162495556,12.49832039195378,21.081311633069774,34.76045469192134,554,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,BC,
+Senior,65 to 74,2018,ichrs,41.80325873985137,21.84932600883745,23.90147633794819,59.705041141754556,173,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,BC,*
+Senior,75 and older,2018,ichrs,49.23520454358205,39.29213360515343,11.318599076839739,87.15181001032437,83,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,BC,...
+Senior,15 to 64,2018,ichrs,43.9712553814555,13.500902646056542,32.33589708047701,55.60661368243399,973,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,ON,
+Senior,65 to 74,2018,ichrs,45.59312297052996,19.187069216852873,28.447389270737933,62.738856670321994,248,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,ON,*
+Senior,75 and older,2018,ichrs,34.95062771598598,28.773033581833108,15.240532434694348,54.66072299727762,137,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,ON,*
+Senior,15 to 64,2018,ichrs,54.74250529536049,21.685146513788293,31.47578757652484,78.00922301419614,478,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,PR,*
+Senior,65 to 74,2018,ichrs,39.60204178091923,22.196147857635342,22.373707974675774,56.830375587162685,123,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,PR,*
+Senior,75 and older,2018,ichrs,38.94268805016629,27.492187920527694,17.95892755786387,59.926448542468705,76,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,PR,*
+Senior,15 to 64,2018,ichrs,55.30527775159802,19.366731361145114,34.31244734832454,76.2981081548715,369,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,QC,*
+Senior,65 to 74,2018,ichrs,120.50059766673354,35.62498186113098,36.362644269577856,204.63855106388922,96,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,QC,...
+Senior,75 and older,2018,ichrs,34.879526573827505,18.246665094482882,22.405629003918207,47.3534241437368,50,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,QC,*
+Senior2,15 to 74,2018,vd1dhrs,137.9750484509395,8.025559632675312,116.27183846822427,159.67825843365475,711,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AB,
+Senior2,75 and older,2018,vd1dhrs,194.13488181473886,23.827197002271177,103.47302232765138,284.79674130182633,47,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AB,*
+Senior2,15 to 74,2018,vd1dhrs,134.88241406698873,6.893185801890106,116.65926591296947,153.10556222100797,1820,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AT,
+Senior2,75 and older,2018,vd1dhrs,190.95254413921245,16.7503831771517,128.26254175740297,253.64254652102193,191,Total formal volunteer hours,Older Canadians Average Volunteer Hours,AT,*
+Senior2,15 to 74,2018,vd1dhrs,145.37498079325624,7.336904415149567,124.46995910168145,166.28000248483102,1066,Total formal volunteer hours,Older Canadians Average Volunteer Hours,BC,
+Senior2,75 and older,2018,vd1dhrs,188.5389683349442,14.952377484712509,133.28550947647554,243.79242719341286,128,Total formal volunteer hours,Older Canadians Average Volunteer Hours,BC,
+Senior2,15 to 74,2018,vd1dhrs,115.07989111696631,5.264720306171991,103.20518590539785,126.95459632853476,2109,Total formal volunteer hours,Older Canadians Average Volunteer Hours,ON,
+Senior2,75 and older,2018,vd1dhrs,225.24973845527705,11.94614127642275,172.5097497007,277.9897272098541,238,Total formal volunteer hours,Older Canadians Average Volunteer Hours,ON,
+Senior2,15 to 74,2018,vd1dhrs,122.40622903324551,7.603144209214994,104.16538887478214,140.64706919170888,978,Total formal volunteer hours,Older Canadians Average Volunteer Hours,PR,
+Senior2,75 and older,2018,vd1dhrs,238.12769965441623,19.109232756173572,148.940760803048,327.3146385057845,97,Total formal volunteer hours,Older Canadians Average Volunteer Hours,PR,*
+Senior2,15 to 74,2018,vd1dhrs,116.57175423929391,8.61631161482667,96.88551220900823,136.2579962695796,878,Total formal volunteer hours,Older Canadians Average Volunteer Hours,QC,
+Senior2,75 and older,2018,vd1dhrs,274.7179065387203,16.153392878232456,187.74202978012624,361.6937832973143,102,Total formal volunteer hours,Older Canadians Average Volunteer Hours,QC,
+Senior2,15 to 74,2018,ivs1hrs,111.83714462269296,8.78551368125009,92.57958191399882,131.0947073313871,1020,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AB,
+Senior2,75 and older,2018,ivs1hrs,180.31242999083156,38.25923756273972,45.10203910627962,315.5228208753835,73,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AB,...
+Senior2,15 to 74,2018,ivs1hrs,151.1639107727141,11.746178265335242,116.36282469544619,185.96499684998201,2730,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AT,
+Senior2,75 and older,2018,ivs1hrs,143.19047662656615,13.298175908149965,105.8693883505054,180.5115649026269,251,Total hours spent helping directly,Older Canadians Average Volunteer Hours,AT,
+Senior2,15 to 74,2018,ivs1hrs,118.96379720593775,10.307283653852254,94.93084421932072,142.99675019255477,1446,Total hours spent helping directly,Older Canadians Average Volunteer Hours,BC,
+Senior2,75 and older,2018,ivs1hrs,146.24247034488042,24.05904083088534,77.28204765346942,215.2028930362914,163,Total hours spent helping directly,Older Canadians Average Volunteer Hours,BC,*
+Senior2,15 to 74,2018,ivs1hrs,145.95678937949552,6.743202646749798,126.66650616377349,165.24707259521756,2849,Total hours spent helping directly,Older Canadians Average Volunteer Hours,ON,
+Senior2,75 and older,2018,ivs1hrs,189.06714686602604,20.754329818918347,112.15890638896526,265.9753873430868,297,Total hours spent helping directly,Older Canadians Average Volunteer Hours,ON,*
+Senior2,15 to 74,2018,ivs1hrs,137.5331372225477,7.404838917755571,117.57265375891902,157.4936206861764,1493,Total hours spent helping directly,Older Canadians Average Volunteer Hours,PR,
+Senior2,75 and older,2018,ivs1hrs,411.747791912665,36.01916897944692,121.06919273948455,702.4263910858454,148,Total hours spent helping directly,Older Canadians Average Volunteer Hours,PR,...
+Senior2,15 to 74,2018,ivs1hrs,131.92565283909312,8.544543015747399,109.832068276296,154.01923740189022,1286,Total hours spent helping directly,Older Canadians Average Volunteer Hours,QC,
+Senior2,75 and older,2018,ivs1hrs,130.83428254876748,31.449547511339215,50.18805636079222,211.48050873674273,143,Total hours spent helping directly,Older Canadians Average Volunteer Hours,QC,*
+Senior2,15 to 74,2018,ichrs,40.18881887862987,17.733693567401314,26.220230062387362,54.157407694872376,445,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AB,*
+Senior2,75 and older,2018,ichrs,41.46349230216054,34.47941126151259,13.443125845305666,69.48385875901542,34,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AB,...
+Senior2,15 to 74,2018,ichrs,37.23461738938173,11.671776700785207,28.716728772182513,45.75250600658095,1010,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AT,
+Senior2,75 and older,2018,ichrs,70.8920087607306,29.744649747074885,29.56307198268923,112.22094553877199,88,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,AT,*
+Senior2,15 to 74,2018,ichrs,29.929616839920712,10.90817142716313,23.530777553967184,36.32845612587424,727,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,BC,
+Senior2,75 and older,2018,ichrs,49.23520454358205,39.29213360515343,11.318599076839739,87.15181001032437,83,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,BC,...
+Senior2,15 to 74,2018,ichrs,44.1607424158639,12.208811573204988,33.59359300475492,54.72789182697288,1221,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,ON,
+Senior2,75 and older,2018,ichrs,34.95062771598598,28.773033581833108,15.240532434694348,54.66072299727762,137,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,ON,*
+Senior2,15 to 74,2018,ichrs,53.10471837592346,20.046657777654815,32.23948831951424,73.96994843233269,601,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,PR,*
+Senior2,75 and older,2018,ichrs,38.94268805016629,27.492187920527694,17.95892755786387,59.926448542468705,76,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,PR,*
+Senior2,15 to 74,2018,ichrs,62.96874599895088,16.77578720368539,42.26466089448229,83.67283110341947,465,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,QC,*
+Senior2,75 and older,2018,ichrs,34.879526573827505,18.246665094482882,22.405629003918207,47.3534241437368,50,Total hours spent on community involvement,Older Canadians Average Volunteer Hours,QC,*

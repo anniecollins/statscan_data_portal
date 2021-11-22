@@ -1,0 +1,161 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Younger,15 to 24,2018,ng_120a,0.36808331106846554,22.97574131161297,0.20232941294108,0.5338372091958511,52,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA,*
+Younger,25 to 34,2018,ng_120a,0.3500675152288395,12.088539927772409,0.2671256586818289,0.4330093717758501,255,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,>=35,2018,ng_120a,0.5002987020625673,3.242007667853236,0.4685086305485698,0.5320887735765648,2127,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,15 to 24,2018,ng_120b,0.33470272478714863,27.042552789256195,0.15730214899047776,0.5121033005838195,52,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA,*
+Younger,25 to 34,2018,ng_120b,0.4355353190540893,10.396670510422553,0.3467858526023289,0.5242847855058497,255,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,>=35,2018,ng_120b,0.3736856624086684,4.508911148904845,0.3406619264300786,0.4067093983872582,2127,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,15 to 24,2018,ng_120c,0.6657092714273001,13.150668154616168,0.49412379877512436,0.8372947440794758,52,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,25 to 34,2018,ng_120c,0.6903373945627497,5.71486283778737,0.613013218412997,0.7676615707125023,255,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,>=35,2018,ng_120c,0.5762900678676683,2.8365309410886006,0.5442512302720913,0.6083289054632454,2127,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,15 to 24,2018,ng_120d,0.15386492186691977,47.18414482942984,0.011571835336084302,0.29615800839775525,52,Other,Younger Canadians Reasons for Concers About Efficiency,CA,...
+Younger,25 to 34,2018,ng_120d,0.1635927124293913,27.352108910249527,0.07589205250829026,0.2512933723504923,255,Other,Younger Canadians Reasons for Concers About Efficiency,CA,*
+Younger,>=35,2018,ng_120d,0.12197776434212368,10.272524357884787,0.09741903233851375,0.14653649634573362,2127,Other,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,15 to 34,2018,ng_120a,0.35475057311050967,10.292501133653072,0.2831869828847191,0.42631416333630023,307,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,>=35,2018,ng_120a,0.5002987020625673,3.242007667853236,0.4685086305485698,0.5320887735765648,2127,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,15 to 34,2018,ng_120b,0.4093247158970293,10.061386432621173,0.3286060659443866,0.49004336584967195,307,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,>=35,2018,ng_120b,0.3736856624086684,4.508911148904845,0.3406619264300786,0.4067093983872582,2127,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,15 to 34,2018,ng_120c,0.6839355166114837,5.502838391734708,0.6101705743662152,0.7577004588567521,307,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,>=35,2018,ng_120c,0.5762900678676683,2.8365309410886006,0.5442512302720913,0.6083289054632454,2127,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger2,15 to 34,2018,ng_120d,0.16106405331988813,23.976102698331776,0.08537635376990353,0.2367517528698727,307,Other,Younger Canadians Reasons for Concers About Efficiency,CA,*
+Younger2,>=35,2018,ng_120d,0.12197776434212368,10.272524357884787,0.09741903233851375,0.14653649634573362,2127,Other,Younger Canadians Reasons for Concers About Efficiency,CA,
+Younger,15 to 24,2018,ng_120a,0.44555629935822383,20.676541731625058,0.26499337432292414,0.6261192243935235,48,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Younger,25 to 34,2018,ng_120a,0.36312271935823776,12.889527803439915,0.2713869894650941,0.4548584492513814,226,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,>=35,2018,ng_120a,0.5365379336887481,3.3027888733688107,0.5018059701649169,0.5712698972125794,1892,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,15 to 24,2018,ng_120b,0.3636924902342874,25.488741765315854,0.1820025751653603,0.5453824053032145,48,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Younger,25 to 34,2018,ng_120b,0.5038004084067562,9.470416455482237,0.4102866130864065,0.5973142037271059,226,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,>=35,2018,ng_120b,0.40091868524338975,4.81124328833377,0.3631126002143602,0.4387247702724193,1892,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,15 to 24,2018,ng_120c,0.6706877905115081,13.51692855740534,0.49300453214917783,0.8483710488738383,48,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,25 to 34,2018,ng_120c,0.6931249569990907,6.010507030210459,0.6114722218484265,0.7747776921497549,226,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,>=35,2018,ng_120c,0.5892924661645976,2.9665301555113635,0.5550292798929134,0.6235556524362819,1892,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,15 to 24,2018,ng_120d,0.11091096083857245,57.89129962458362,-0.014934008133001511,0.23675592981014643,48,Other,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),...
+Younger,25 to 34,2018,ng_120d,0.16128273260393802,31.914963824444335,0.06039686793882111,0.26216859726905495,226,Other,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Younger,>=35,2018,ng_120d,0.09739220952518855,11.681101264711494,0.07509471332203119,0.11968970572834592,1892,Other,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,15 to 34,2018,ng_120a,0.38525351371670474,10.458437201698239,0.30628363110667484,0.46422339632673465,274,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,>=35,2018,ng_120a,0.5365379336887481,3.3027888733688107,0.5018059701649169,0.5712698972125794,1892,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,15 to 34,2018,ng_120b,0.4661858886313399,9.25433055838175,0.38162837144918405,0.5507434058134958,274,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,>=35,2018,ng_120b,0.40091868524338975,4.81124328833377,0.3631126002143602,0.4387247702724193,1892,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,15 to 34,2018,ng_120c,0.6871012914307207,5.73550899907266,0.6098615482058117,0.7643410346556297,274,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,>=35,2018,ng_120c,0.5892924661645976,2.9665301555113635,0.5550292798929134,0.6235556524362819,1892,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger2,15 to 34,2018,ng_120d,0.14775951400283965,28.972173455809852,0.06385513611284957,0.23166389189282974,274,Other,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Younger2,>=35,2018,ng_120d,0.09739220952518855,11.681101264711494,0.07509471332203119,0.11968970572834592,1892,Other,Younger Canadians Reasons for Concers About Efficiency,CA (without QC),
+Younger,15 to 24,2018,ng_120a,0.7356466077242956,35.46824583740679,0.22425094816071744,1.2470422672878736,4,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger,25 to 34,2018,ng_120a,0.2514999293596042,34.42734473637086,0.0817969422720908,0.4212029164471176,31,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger,>=35,2018,ng_120a,0.5499216512954613,9.461235648044292,0.4479459338726191,0.6518973687183036,191,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger,15 to 24,2018,ng_120a,0.26590320597908884,77.24144644471981,-0.13664886248088048,0.6684552744390582,10,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger,25 to 34,2018,ng_120a,0.17071882845792744,34.94817988136533,0.05378125566151498,0.2876564012543399,43,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger,>=35,2018,ng_120a,0.5235981574358167,5.518855541643616,0.4669618113430132,0.5802345035286203,529,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger,15 to 24,2018,ng_120a,0,NA,0,0,3,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,BC,...
+Younger,25 to 34,2018,ng_120a,0.37957339851155275,24.35459031824524,0.19838737742591,0.5607594195971954,38,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,BC,*
+Younger,>=35,2018,ng_120a,0.4847842101739722,8.50953978021802,0.4039300016989066,0.5656384186490379,282,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger,15 to 24,2018,ng_120a,0.4399876846331544,29.833746887636213,0.1827133803420959,0.6972619889242129,18,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger,25 to 34,2018,ng_120a,0.42972927767242836,20.054714836304154,0.26081765835768733,0.5986408969871694,68,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger,>=35,2018,ng_120a,0.5480339636066215,4.828789823104926,0.4961666365053234,0.5999012907079195,598,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger,15 to 24,2018,ng_120a,0.4127558053486832,45.569703560381946,0.04410304957976091,0.7814085611176056,13,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,PR,...
+Younger,25 to 34,2018,ng_120a,0.3696826134372197,22.326567966437178,0.2079122037607246,0.5314530231137148,46,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,PR,*
+Younger,>=35,2018,ng_120a,0.5676905516860818,6.7466194125481005,0.49262408598737223,0.6427570173847915,292,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger,15 to 24,2018,ng_120a,0,NA,0,0,4,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger,25 to 34,2018,ng_120a,0.3007567351127556,32.60919617639287,0.1085345339231153,0.49297893630239586,29,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,QC,*
+Younger,>=35,2018,ng_120a,0.3649463608871225,10.23761843838375,0.29171854726262225,0.43817417451162277,235,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger,15 to 24,2018,ng_120b,0.7469318355123574,36.45382755295861,0.21326256520921638,1.2806011058154985,4,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger,25 to 34,2018,ng_120b,0.7367952004500747,12.614189508304882,0.5546346917228573,0.9189557091772922,31,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger,>=35,2018,ng_120b,0.4404892999331934,11.561944639651747,0.34067004132554296,0.5403085585408438,191,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger,15 to 24,2018,ng_120b,0.2130747236791138,88.24403946170769,-0.15544896125005214,0.5815984086082797,10,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger,25 to 34,2018,ng_120b,0.585022555874605,17.940577138378174,0.37931174701780423,0.7907333647314059,43,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AT,*
+Younger,>=35,2018,ng_120b,0.43779832425274123,6.235097628281571,0.3842968876252666,0.4912997608802159,529,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger,15 to 24,2018,ng_120b,0,NA,0,0,3,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,BC,...
+Younger,25 to 34,2018,ng_120b,0.5455053633789344,18.16785581894542,0.35125994205925587,0.7397507846986129,38,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,BC,*
+Younger,>=35,2018,ng_120b,0.3973213431448435,10.653852059464691,0.3143560126055889,0.48028667368409816,282,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger,15 to 24,2018,ng_120b,0.36048858936187117,35.0404372559744,0.11291225389695306,0.6080649248267893,18,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,ON,...
+Younger,25 to 34,2018,ng_120b,0.4170317489840007,21.771569311038014,0.2390780806774945,0.5949854172905069,68,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger,>=35,2018,ng_120b,0.3744570918364102,7.465241387333058,0.3196680120538603,0.42924617161896006,598,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger,15 to 24,2018,ng_120b,0.17919717426801546,72.09220967878936,-0.07400509011451933,0.43239943865055025,13,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,PR,...
+Younger,25 to 34,2018,ng_120b,0.3314312345906704,25.982146774045695,0.16265295432846155,0.5002095148528793,46,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,PR,*
+Younger,>=35,2018,ng_120b,0.47390229039977877,8.63809636046137,0.39366893719519713,0.5541356436043604,292,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger,15 to 24,2018,ng_120b,0.19696892764779547,129.10610824886214,-0.3014477908730949,0.6953856461686859,4,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger,25 to 34,2018,ng_120b,0.1776914142549282,40.743560937436825,0.03579431478614381,0.3195885137237126,29,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger,>=35,2018,ng_120b,0.2719712155907362,13.570018513097878,0.19963571795722235,0.3443067132242501,235,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger,15 to 24,2018,ng_120c,0.48257844323665305,59.97521884231609,-0.0846889886369952,1.0498458751103013,4,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger,25 to 34,2018,ng_120c,0.6152819807269215,18.758394351697078,0.389068777697404,0.8414951837564391,31,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AB,*
+Younger,>=35,2018,ng_120c,0.6267110159187511,7.366746625732319,0.5362229819563202,0.717199049881182,191,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger,15 to 24,2018,ng_120c,0.9090475833676457,12.348892234999909,0.6890273057536839,1.1290678609816074,10,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger,25 to 34,2018,ng_120c,0.6618404136629348,14.959552138917601,0.4677875904482861,0.8558932368775835,43,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger,>=35,2018,ng_120c,0.5957882501580417,4.123832477733965,0.54763328869028,0.6439432116258034,529,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger,15 to 24,2018,ng_120c,1,0,1,1,3,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,BC,...
+Younger,25 to 34,2018,ng_120c,0.7206747065417216,11.90612136303033,0.5525011626475408,0.8888482504359024,38,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger,>=35,2018,ng_120c,0.6060648170892293,6.226279313729336,0.5321050110079272,0.6800246231705315,282,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger,15 to 24,2018,ng_120c,0.6866586837145418,17.530564054918337,0.45072774392160464,0.9225896235074789,18,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger,25 to 34,2018,ng_120c,0.7040203772849827,9.920000262421382,0.5671387989449512,0.8409019556250141,68,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger,>=35,2018,ng_120c,0.5733514134177102,4.709226884517856,0.5204315647994932,0.6262712620359273,598,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger,15 to 24,2018,ng_120c,0.5448641510654082,34.875299613103124,0.17242590470117397,0.9173023974296424,13,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,PR,...
+Younger,25 to 34,2018,ng_120c,0.7457043775974997,9.421792110948523,0.6079998242073008,0.8834089309876987,46,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger,>=35,2018,ng_120c,0.5820351744140249,6.914479286604526,0.5031570087572663,0.6609133400707834,292,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger,15 to 24,2018,ng_120c,0.6420557396714447,43.055777178785284,0.10023920213279924,1.18387227721009,4,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger,25 to 34,2018,ng_120c,0.6798084991892386,14.847915651395411,0.48197484509661215,0.877642153281865,29,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger,>=35,2018,ng_120c,0.5277265368154938,8.002326033516105,0.44495647760163887,0.6104965960293486,235,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger,15 to 24,2018,ng_120d,0,NA,0,0,4,Other,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger,25 to 34,2018,ng_120d,0.15538585680938108,50.82653622038704,5.932935778671655e-4,0.310178420040895,31,Other,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger,>=35,2018,ng_120d,0.10858667439539305,24.8656731946545,0.05566606396921731,0.1615072848215688,191,Other,Younger Canadians Reasons for Concers About Efficiency,AB,*
+Younger,15 to 24,2018,ng_120d,0.03279523634923146,162.56816622824724,-0.07169948761301481,0.13728996031147775,10,Other,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger,25 to 34,2018,ng_120d,0.07628010539074642,67.71175108037129,-0.02495320075792816,0.17751341153942102,43,Other,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger,>=35,2018,ng_120d,0.07696091381876537,18.62358907266479,0.048868976725284966,0.10505285091224577,529,Other,Younger Canadians Reasons for Concers About Efficiency,AT,*
+Younger,15 to 24,2018,ng_120d,0,NA,0,0,3,Other,Younger Canadians Reasons for Concers About Efficiency,BC,...
+Younger,25 to 34,2018,ng_120d,0.09922449144563826,60.16753015205285,-0.01778717298325949,0.216236155874536,38,Other,Younger Canadians Reasons for Concers About Efficiency,BC,...
+Younger,>=35,2018,ng_120d,0.089316598827814,23.534994075161286,0.048116869661584204,0.13051632799404378,282,Other,Younger Canadians Reasons for Concers About Efficiency,BC,*
+Younger,15 to 24,2018,ng_120d,0.14715294292480854,67.40154737217375,-0.04724287158946755,0.34154875743908464,18,Other,Younger Canadians Reasons for Concers About Efficiency,ON,...
+Younger,25 to 34,2018,ng_120d,0.21974458375493525,46.179627461802255,0.02085286741883946,0.41863630009103103,68,Other,Younger Canadians Reasons for Concers About Efficiency,ON,...
+Younger,>=35,2018,ng_120d,0.10090922059020677,18.53245612655399,0.06425601832806158,0.13756242285235196,598,Other,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger,15 to 24,2018,ng_120d,0.12902451947188312,91.66194365219799,-0.10277333048820086,0.3608223694319671,13,Other,Younger Canadians Reasons for Concers About Efficiency,PR,...
+Younger,25 to 34,2018,ng_120d,0.1098948679757008,39.36784312556137,0.025100477234835675,0.19468925871656595,46,Other,Younger Canadians Reasons for Concers About Efficiency,PR,...
+Younger,>=35,2018,ng_120d,0.09354507132653117,19.982891629393166,0.056907444517366554,0.13018269813569577,292,Other,Younger Canadians Reasons for Concers About Efficiency,PR,*
+Younger,15 to 24,2018,ng_120d,0.3579442603285553,77.23048509921462,-0.18387227721009014,0.8997607978672008,4,Other,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger,25 to 34,2018,ng_120d,0.17231773167202555,46.02030179041908,0.016890353037475825,0.32774511030657527,29,Other,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger,>=35,2018,ng_120d,0.21380400497260443,18.330166097624716,0.1369917831408316,0.29061622680437726,235,Other,Younger Canadians Reasons for Concers About Efficiency,QC,*
+Younger2,15 to 34,2018,ng_120a,0.35288001710827827,28.714574802344075,0.15428079339151776,0.5514792408250387,35,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AB,*
+Younger2,>=35,2018,ng_120a,0.5499216512954613,9.461235648044292,0.4479459338726191,0.6518973687183036,191,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger2,15 to 34,2018,ng_120a,0.1996938595337381,35.63629514624419,0.060215975901832475,0.33917174316564375,53,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger2,>=35,2018,ng_120a,0.5235981574358167,5.518855541643616,0.4669618113430132,0.5802345035286203,529,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger2,15 to 34,2018,ng_120a,0.35553434440334736,24.663777594414803,0.18366863058241273,0.5274000582242819,41,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,BC,*
+Younger2,>=35,2018,ng_120a,0.4847842101739722,8.50953978021802,0.4039300016989066,0.5656384186490379,282,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger2,15 to 34,2018,ng_120a,0.43329166771830563,16.052766322440007,0.29696578691407893,0.5696175485225323,86,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger2,>=35,2018,ng_120a,0.5480339636066215,4.828789823104926,0.4961666365053234,0.5999012907079195,598,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger2,15 to 34,2018,ng_120a,0.38231068569393106,20.594854995052053,0.22799031197458064,0.5366310594132815,59,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,PR,*
+Younger2,>=35,2018,ng_120a,0.5676905516860818,6.7466194125481005,0.49262408598737223,0.6427570173847915,292,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger2,15 to 34,2018,ng_120a,0.23282755253393625,34.509645167772575,0.07534844032750126,0.39030666474037123,33,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger2,>=35,2018,ng_120a,0.3649463608871225,10.23761843838375,0.29171854726262225,0.43817417451162277,235,Too much spent on fundraising,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger2,15 to 34,2018,ng_120b,0.738917807085654,11.766533914862048,0.5685087102779075,0.9093269038934005,35,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger2,>=35,2018,ng_120b,0.4404892999331934,11.561944639651747,0.34067004132554296,0.5403085585408438,191,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger2,15 to 34,2018,ng_120b,0.47179809323577787,21.609211076455832,0.2719761472672518,0.6716200392043039,53,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AT,*
+Younger2,>=35,2018,ng_120b,0.43779832425274123,6.235097628281571,0.3842968876252666,0.4912997608802159,529,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger2,15 to 34,2018,ng_120b,0.5109575447014268,18.85278597018325,0.3221547387509579,0.6997603506518958,41,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,BC,*
+Younger2,>=35,2018,ng_120b,0.3973213431448435,10.653852059464691,0.3143560126055889,0.48028667368409816,282,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger2,15 to 34,2018,ng_120b,0.39739626466645656,18.352705065046408,0.2544502811689723,0.5403422481639408,86,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger2,>=35,2018,ng_120b,0.3744570918364102,7.465241387333058,0.3196680120538603,0.42924617161896006,598,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger2,15 to 34,2018,ng_120b,0.28679969863116767,24.882270573148197,0.14693220582429098,0.4266671914380443,59,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,PR,*
+Younger2,>=35,2018,ng_120b,0.47390229039977877,8.63809636046137,0.39366893719519713,0.5541356436043604,292,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger2,15 to 34,2018,ng_120b,0.1820454505043202,39.39862620661044,0.041470156777935974,0.3226207442307044,33,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger2,>=35,2018,ng_120b,0.2719712155907362,13.570018513097878,0.19963571795722235,0.3443067132242501,235,No impact on cause/community,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger2,15 to 34,2018,ng_120c,0.5874939221146742,18.185009052556804,0.3780995569332174,0.796888287296131,35,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AB,*
+Younger2,>=35,2018,ng_120c,0.6267110159187511,7.366746625732319,0.5362229819563202,0.717199049881182,191,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AB,
+Younger2,15 to 34,2018,ng_120c,0.7370926305801989,11.432155533665652,0.5719351365716474,0.9022501245887504,53,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger2,>=35,2018,ng_120c,0.5957882501580417,4.123832477733965,0.54763328869028,0.6439432116258034,529,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,AT,
+Younger2,15 to 34,2018,ng_120c,0.7383648709988853,10.929449753154252,0.5801973109796232,0.8965324310181473,41,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger2,>=35,2018,ng_120c,0.6060648170892293,6.226279313729336,0.5321050110079272,0.6800246231705315,282,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,BC,
+Younger2,15 to 34,2018,ng_120c,0.6979912614006454,8.75048884470448,0.5782812721070952,0.8177012506941955,86,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger2,>=35,2018,ng_120c,0.5733514134177102,4.709226884517856,0.5204315647994932,0.6262712620359273,598,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,ON,
+Younger2,15 to 34,2018,ng_120c,0.686822628180955,11.216009924549276,0.5358385780832678,0.8378066782786421,59,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger2,>=35,2018,ng_120c,0.5820351744140249,6.914479286604526,0.5031570087572663,0.6609133400707834,292,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,PR,
+Younger2,15 to 34,2018,ng_120c,0.6712816274861759,14.655928441339029,0.47845536304925296,0.8641078919230989,33,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger2,>=35,2018,ng_120c,0.5277265368154938,8.002326033516105,0.44495647760163887,0.6104965960293486,235,No explanation of how donation would be spent,Younger Canadians Reasons for Concers About Efficiency,QC,
+Younger2,15 to 34,2018,ng_120d,0.12284813115267064,52.08656429174835,-0.0025648111082711006,0.24826107341361237,35,Other,Younger Canadians Reasons for Concers About Efficiency,AB,...
+Younger2,>=35,2018,ng_120d,0.10858667439539305,24.8656731946545,0.05566606396921731,0.1615072848215688,191,Other,Younger Canadians Reasons for Concers About Efficiency,AB,*
+Younger2,15 to 34,2018,ng_120d,0.06304289709440247,61.58563878883074,-0.013053431529690504,0.13913922571849546,53,Other,Younger Canadians Reasons for Concers About Efficiency,AT,...
+Younger2,>=35,2018,ng_120d,0.07696091381876537,18.62358907266479,0.048868976725284966,0.10505285091224577,529,Other,Younger Canadians Reasons for Concers About Efficiency,AT,*
+Younger2,15 to 34,2018,ng_120d,0.09294042905329371,60.091288627017356,-0.01652179840389105,0.20240265651047845,41,Other,Younger Canadians Reasons for Concers About Efficiency,BC,...
+Younger2,>=35,2018,ng_120d,0.089316598827814,23.534994075161286,0.048116869661584204,0.13051632799404378,282,Other,Younger Canadians Reasons for Concers About Efficiency,BC,*
+Younger2,15 to 34,2018,ng_120d,0.1945360168012962,40.32725566508682,0.040774810013447293,0.3482972235891451,86,Other,Younger Canadians Reasons for Concers About Efficiency,ON,...
+Younger2,>=35,2018,ng_120d,0.10090922059020677,18.53245612655399,0.06425601832806158,0.13756242285235196,598,Other,Younger Canadians Reasons for Concers About Efficiency,ON,*
+Younger2,15 to 34,2018,ng_120d,0.11550324317659241,38.09587002801374,0.029260975746171994,0.20174551060701285,59,Other,Younger Canadians Reasons for Concers About Efficiency,PR,...
+Younger2,>=35,2018,ng_120d,0.09354507132653117,19.982891629393166,0.056907444517366554,0.13018269813569577,292,Other,Younger Canadians Reasons for Concers About Efficiency,PR,*
+Younger2,15 to 34,2018,ng_120d,0.21424350384751645,41.96107719348772,0.038044932815382654,0.3904420748796502,33,Other,Younger Canadians Reasons for Concers About Efficiency,QC,...
+Younger2,>=35,2018,ng_120d,0.21380400497260443,18.330166097624716,0.1369917831408316,0.29061622680437726,235,Other,Younger Canadians Reasons for Concers About Efficiency,QC,*

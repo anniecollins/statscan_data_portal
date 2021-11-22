@@ -616,7 +616,6 @@ def perc_don_perc_amt(dff1, dff2, name1, name2, title):
     dff2 = dff2[(dff2.Attribute != "Not in labour force")]
                 #& (dff2.Attribute != "Unknown")]
 
-    # Scatter plot - data frame, x label, y label
     fig = go.Figure()
 
     fig.add_trace(go.Bar(x=dff1['CI Upper'],
@@ -1155,13 +1154,13 @@ def update_graph(region):
     # Donation rate data, filtered for selected region and demographic group (age group)
     # Corresponding name assigned
     dff1 = DonRates_2018[DonRates_2018['Region'] == region]
-    dff1 = dff1[dff1['Group'] == "Personal income category"]
+    dff1 = dff1[dff1['Group'] == "Family income category"]
     name1 = "Donation rate"
 
     # Average annual donation data, filtered for selected region and demographic group (age group)
     # Corresponding name assigned
     dff2 = AvgTotDon_2018[AvgTotDon_2018['Region'] == region]
-    dff2 = dff2[dff2['Group'] == "Personal income category"]
+    dff2 = dff2[dff2['Group'] == "Family income category"]
     name2 = "Average annual donations"
 
     # Format title according to dropdown input
@@ -1430,13 +1429,13 @@ def update_graph(region):
     # Donation rate data, filtered for selected region and demographic group (education)
     # Corresponding name assigned
     dff1 = PropTotDon_2018[PropTotDon_2018['Region'] == region]
-    dff1 = dff1[dff1['Group'] == "Personal income category"]
+    dff1 = dff1[dff1['Group'] == "Family income category"]
     name1 = "Proportion of donors"
 
     # Average annual donation data, filtered for selected region and demographic group (education)
     # Corresponding name assigned
     dff2 = PropTotDonAmt_2018[PropTotDonAmt_2018['Region'] == region]
-    dff2 = dff2[dff2['Group'] == "Personal income category"]
+    dff2 = dff2[dff2['Group'] == "Family income category"]
     name2 = "Percentage of donation value"
 
     # Format title according to dropdown input
@@ -1702,13 +1701,13 @@ def update_graph(region):
     # Average number of annual donations data, filtered for selected region and demographic group
     # Corresponding name assigned
     dff1 = AvgNumCauses_2018[AvgNumCauses_2018['Region'] == region]
-    dff1 = dff1[dff1['Group'] == "Personal income category"]
+    dff1 = dff1[dff1['Group'] == "Family income category"]
     name1 = "Average number of causes"
 
     # Average number of causes supported data, filtered for selected region and demographic group
     # Corresponding name assigned
     dff2 = TopCauseFocus_2018[TopCauseFocus_2018['Region'] == region]
-    dff2 = dff2[dff2['Group'] == "Personal income category"]
+    dff2 = dff2[dff2['Group'] == "Family income category"]
     name2 = "Average concentration on first cause"
 
     # Format title according to dropdown input

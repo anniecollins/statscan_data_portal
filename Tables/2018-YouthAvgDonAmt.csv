@@ -1,0 +1,121 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Younger,15 to 24,2018,gs1datot,179.15871809015803,14.505976312892766,128.2217605169701,230.09567566334596,406,Total donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,25 to 34,2018,gs1datot,464.7004786014567,11.95898217398528,355.7785232039155,573.622433998998,1293,Total donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,>=35,2018,gs1datot,643.51249568198,2.799514002807377,608.2033085526946,678.8216828112654,10455,Total donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,15 to 24,2018,SecDonAmt,117.04521266395493,14.029368653080047,84.86122348737642,149.22920184053345,364,Secular donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,25 to 34,2018,SecDonAmt,265.9124152848086,10.345892693769372,211.9918203428383,319.8330102267789,1224,Secular donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,>=35,2018,SecDonAmt,360.6530732373642,3.0515017158582753,339.08301355201377,382.2231329227146,9951,Secular donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,15 to 24,2018,gs1dax13,255.05375257227004,25.09226242145488,129.61849397097984,380.48901117356024,115,Religious donation amount,Younger Canadians Average Donation Amounts,CA,*
+Younger,25 to 34,2018,gs1dax13,729.6170504714861,18.547358624014404,464.3855300239828,994.8485709189894,361,Religious donation amount,Younger Canadians Average Donation Amounts,CA,*
+Younger,>=35,2018,gs1dax13,755.1816428576022,4.439855498128103,689.4660619841272,820.8972237310772,4234,Religious donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger2,15 to 34,2018,gs1datot,360.7764401474955,10.238169444601253,288.3814400603934,433.17144023459764,1699,Total donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger2,>=35,2018,gs1datot,643.51249568198,2.799514002807377,608.2033085526946,678.8216828112654,10455,Total donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger2,15 to 34,2018,SecDonAmt,213.99660205323016,8.940542083329188,176.49767684105387,251.49552726540645,1588,Secular donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger2,>=35,2018,SecDonAmt,360.6530732373642,3.0515017158582753,339.08301355201377,382.2231329227146,9951,Secular donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger2,15 to 34,2018,gs1dax13,543.3042312943493,15.788064763321774,375.1839617592269,711.4245008294716,476,Religious donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger2,>=35,2018,gs1dax13,755.1816428576022,4.439855498128103,689.4660619841272,820.8972237310772,4234,Religious donation amount,Younger Canadians Average Donation Amounts,CA,
+Younger,15 to 24,2018,gs1datot,217.5504789798409,15.32960677694939,152.1863994630114,282.9145584966704,362,Total donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,25 to 34,2018,gs1datot,531.9735563075664,13.154421587392212,394.8191097119435,669.1280029031892,1139,Total donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,>=35,2018,gs1datot,755.134593700633,2.9209114301277403,711.904035272795,798.365152128471,9144,Total donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,15 to 24,2018,SecDonAmt,137.53319889397955,15.209241886202182,96.53514874512601,178.53124904283308,325,Secular donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,25 to 34,2018,SecDonAmt,291.4749821379377,11.575162702020087,225.34833855328475,357.6016257225906,1077,Secular donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,>=35,2018,SecDonAmt,410.9467800663419,3.2396923683402212,384.85297307035114,437.04058706233263,8698,Secular donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,15 to 24,2018,gs1dax13,330.17786175949874,24.56104916578027,171.23429439442188,489.12142912457557,102,Religious donation amount,Younger Canadians Average Donation Amounts,CA (without QC),*
+Younger,25 to 34,2018,gs1dax13,841.0004336630392,19.810316997770222,514.4609243653184,1167.53994296076,323,Religious donation amount,Younger Canadians Average Donation Amounts,CA (without QC),*
+Younger,>=35,2018,gs1dax13,916.5655428033775,4.525338603454143,835.2707557461137,997.8603298606414,3705,Religious donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger2,15 to 34,2018,gs1datot,419.56546814752494,11.15613851956547,327.82483651280603,511.30609978224385,1501,Total donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger2,>=35,2018,gs1datot,755.134593700633,2.9209114301277403,711.904035272795,798.365152128471,9144,Total donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger2,15 to 34,2018,SecDonAmt,239.14423086107269,9.89244078580397,192.77696808209126,285.51149364005414,1402,Secular donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger2,>=35,2018,SecDonAmt,410.9467800663419,3.2396923683402212,384.85297307035114,437.04058706233263,8698,Secular donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger2,15 to 34,2018,gs1dax13,649.4059953169564,16.459281386327707,439.9102271081523,858.9017635257604,425,Religious donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger2,>=35,2018,gs1dax13,916.5655428033775,4.525338603454143,835.2707557461137,997.8603298606414,3705,Religious donation amount,Younger Canadians Average Donation Amounts,CA (without QC),
+Younger,15 to 24,2018,gs1datot,336.40858227336156,36.82616387155694,93.59574755766619,579.2214169890569,42,Total donation amount,Younger Canadians Average Donation Amounts,AB,...
+Younger,25 to 34,2018,gs1datot,1101.766726113635,31.98529750417705,411.06882238994126,1792.4646298373289,132,Total donation amount,Younger Canadians Average Donation Amounts,AB,*
+Younger,>=35,2018,gs1datot,986.2899624542871,8.609321682807375,819.8637844684148,1152.7161404401593,839,Total donation amount,Younger Canadians Average Donation Amounts,AB,
+Younger,15 to 24,2018,gs1datot,94.46532261464162,18.663861002898273,59.909439641645506,129.02120558763772,107,Total donation amount,Younger Canadians Average Donation Amounts,AT,*
+Younger,25 to 34,2018,gs1datot,301.0236154484019,17.274939784636047,199.1022576314419,402.94497326536197,261,Total donation amount,Younger Canadians Average Donation Amounts,AT,*
+Younger,>=35,2018,gs1datot,558.500389615163,5.111086670189188,502.55235731778924,614.4484219125368,2844,Total donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger,15 to 24,2018,gs1datot,131.27087016075816,25.12454067883413,66.62889977488156,195.91284054663475,49,Total donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger,25 to 34,2018,gs1datot,382.73803164056886,19.035204197228456,239.94492245373294,525.5311408274048,162,Total donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger,>=35,2018,gs1datot,758.786313548348,7.104380500535233,653.1304039112572,864.4422231854387,1321,Total donation amount,Younger Canadians Average Donation Amounts,BC,
+Younger,15 to 24,2018,gs1datot,184.09126852751302,23.25453036976517,100.18607283578437,267.99646421924166,99,Total donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger,25 to 34,2018,gs1datot,441.4463282557275,19.94950713191378,268.8394211980936,614.0532353133615,375,Total donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger,>=35,2018,gs1datot,709.195033968445,4.531715144471279,646.2043418924178,772.1857260444723,2815,Total donation amount,Younger Canadians Average Donation Amounts,ON,
+Younger,15 to 24,2018,gs1datot,418.62187581484136,31.69121337934272,158.6006040970317,678.643147532651,65,Total donation amount,Younger Canadians Average Donation Amounts,PR,*
+Younger,25 to 34,2018,gs1datot,571.3105287829392,18.08290259464301,368.8275777148432,773.7934798510352,209,Total donation amount,Younger Canadians Average Donation Amounts,PR,*
+Younger,>=35,2018,gs1datot,865.2224998253822,6.711932667269519,751.4012142003703,979.0437854503941,1325,Total donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger,15 to 24,2018,gs1datot,52.93515531980664,24.33912699066971,27.683068176408085,78.1872424632052,44,Total donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger,25 to 34,2018,gs1datot,213.86394903184856,20.15523695135972,129.3801215359584,298.3477765277387,154,Total donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger,>=35,2018,gs1datot,284.3070097726344,8.655871846203825,236.07376527134795,332.5402542739208,1311,Total donation amount,Younger Canadians Average Donation Amounts,QC,
+Younger,15 to 24,2018,SecDonAmt,202.84428183332773,29.03526501753117,87.40950839905496,318.2790552676005,36,Secular donation amount,Younger Canadians Average Donation Amounts,AB,*
+Younger,25 to 34,2018,SecDonAmt,484.5848239031612,19.695032495461273,297.52754965746175,671.6420981488607,123,Secular donation amount,Younger Canadians Average Donation Amounts,AB,*
+Younger,>=35,2018,SecDonAmt,458.3722759949168,8.112822777616449,385.4872316894583,531.2573203003752,791,Secular donation amount,Younger Canadians Average Donation Amounts,AB,
+Younger,15 to 24,2018,SecDonAmt,72.969202809854,17.168686866848816,48.4150602845428,97.5233453351652,103,Secular donation amount,Younger Canadians Average Donation Amounts,AT,*
+Younger,25 to 34,2018,SecDonAmt,174.91788207447524,14.294057480445984,125.91317185375576,223.92259229519473,249,Secular donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger,>=35,2018,SecDonAmt,283.46037313998556,5.66537295642502,251.98514036417558,314.9356059157956,2713,Secular donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger,15 to 24,2018,SecDonAmt,114.53898190271852,28.655531220768633,50.20952670387025,178.86843710156677,45,Secular donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger,25 to 34,2018,SecDonAmt,266.3617727212714,20.680556685337674,158.39696574083234,374.32657970171044,152,Secular donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger,>=35,2018,SecDonAmt,426.3393403513371,6.681169977310895,370.51083245444465,482.1678482482296,1259,Secular donation amount,Younger Canadians Average Donation Amounts,BC,
+Younger,15 to 24,2018,SecDonAmt,117.88553536817336,28.5390500660936,51.94565961069452,183.8254111256522,84,Secular donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger,25 to 34,2018,SecDonAmt,267.79231274422057,19.652080887246285,164.6457547770256,370.9388707114156,352,Secular donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger,>=35,2018,SecDonAmt,418.8730502747492,5.137793914369179,376.6929905490279,461.05311000047044,2684,Secular donation amount,Younger Canadians Average Donation Amounts,ON,
+Younger,15 to 24,2018,SecDonAmt,225.00813832395747,36.84369791067294,62.52453928640705,387.4917373615079,57,Secular donation amount,Younger Canadians Average Donation Amounts,PR,...
+Younger,25 to 34,2018,SecDonAmt,258.4920313793571,14.062852456656882,187.24468873926992,329.7393740194443,201,Secular donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger,>=35,2018,SecDonAmt,404.66966274589527,6.9597179006222305,349.46949784575077,459.86982764603977,1251,Secular donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger,15 to 24,2018,SecDonAmt,52.679882960955254,25.931763604253167,25.9051624375616,79.45460348434891,39,Secular donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger,25 to 34,2018,SecDonAmt,170.49649279521435,21.01584023003476,100.26849304853899,240.72449254188973,147,Secular donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger,>=35,2018,SecDonAmt,200.53562890701969,6.673148402164671,174.30731223963735,226.76394557440202,1253,Secular donation amount,Younger Canadians Average Donation Amounts,QC,
+Younger,15 to 24,2018,gs1dax13,512.5314401975193,61.54444346527812,-105.70905928958052,1130.7719396846192,15,Religious donation amount,Younger Canadians Average Donation Amounts,AB,...
+Younger,25 to 34,2018,gs1dax13,2152.263546673221,47.25140508127071,159.0296304512317,4145.4974628952095,40,Religious donation amount,Younger Canadians Average Donation Amounts,AB,...
+Younger,>=35,2018,gs1dax13,1365.7925153727392,12.038311037782702,1043.538468757879,1688.0465619875995,315,Religious donation amount,Younger Canadians Average Donation Amounts,AB,
+Younger,15 to 24,2018,gs1dax13,158.85586879378232,44.12420951629696,21.474356361715195,296.23738122584945,20,Religious donation amount,Younger Canadians Average Donation Amounts,AT,...
+Younger,25 to 34,2018,gs1dax13,474.5656815800006,33.319549147440824,164.65001125638008,784.4813519036211,88,Religious donation amount,Younger Canadians Average Donation Amounts,AT,...
+Younger,>=35,2018,gs1dax13,636.9160602526401,7.556746752088108,542.5827316360715,731.2493888692088,1331,Religious donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger,15 to 24,2018,gs1dax13,155.12020496481503,41.29263235253705,29.578208627227113,280.66220130240293,11,Religious donation amount,Younger Canadians Average Donation Amounts,BC,...
+Younger,25 to 34,2018,gs1dax13,690.2160929970412,31.01454616557455,270.65172067511554,1109.780465318967,34,Religious donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger,>=35,2018,gs1dax13,1135.8405921788865,11.305189396949622,884.1637137067844,1387.5174706509886,406,Religious donation amount,Younger Canadians Average Donation Amounts,BC,
+Younger,15 to 24,2018,gs1dax13,259.7291948074733,35.09412176890768,81.07910501064796,438.3792846042986,31,Religious donation amount,Younger Canadians Average Donation Amounts,ON,...
+Younger,25 to 34,2018,gs1dax13,501.44840095014735,20.54557147035515,299.5222498345763,703.3745520657184,104,Religious donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger,>=35,2018,gs1dax13,765.5867460095643,7.416296924466799,654.3035457571306,876.869946261998,1103,Religious donation amount,Younger Canadians Average Donation Amounts,ON,
+Younger,15 to 24,2018,gs1dax13,512.1494740952434,53.475674323114795,-24.636416393650848,1048.9353645841375,25,Religious donation amount,Younger Canadians Average Donation Amounts,PR,...
+Younger,25 to 34,2018,gs1dax13,1099.168798178509,23.829657164606957,585.799045359642,1612.5385509973758,57,Religious donation amount,Younger Canadians Average Donation Amounts,PR,*
+Younger,>=35,2018,gs1dax13,1079.0286096866662,9.210882958831426,884.2315870255763,1273.825632347756,550,Religious donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger,15 to 24,2018,gs1dax13,19.858185452823285,28.684493635318503,8.693799517886978,31.02257138775959,13,Religious donation amount,Younger Canadians Average Donation Amounts,QC,...
+Younger,25 to 34,2018,gs1dax13,234.90932668097557,48.16927287174909,13.131337420967355,456.6873159409838,38,Religious donation amount,Younger Canadians Average Donation Amounts,QC,...
+Younger,>=35,2018,gs1dax13,234.3510015240017,18.08002008598329,151.30593955594856,317.39606349205485,529,Religious donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger2,15 to 34,2018,gs1datot,780.1143056571793,27.099951270107358,365.7571502059618,1194.4714611083969,174,Total donation amount,Younger Canadians Average Donation Amounts,AB,*
+Younger2,>=35,2018,gs1datot,986.2899624542871,8.609321682807375,819.8637844684148,1152.7161404401593,839,Total donation amount,Younger Canadians Average Donation Amounts,AB,
+Younger2,15 to 34,2018,gs1datot,215.27059972991532,15.016596587696446,151.91218161173163,278.629017848099,368,Total donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger2,>=35,2018,gs1datot,558.500389615163,5.111086670189188,502.55235731778924,614.4484219125368,2844,Total donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger2,15 to 34,2018,gs1datot,294.6342251187332,16.54584393190685,199.0865315083551,390.18191872911126,211,Total donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger2,>=35,2018,gs1datot,758.786313548348,7.104380500535233,653.1304039112572,864.4422231854387,1321,Total donation amount,Younger Canadians Average Donation Amounts,BC,
+Younger2,15 to 34,2018,gs1datot,355.329068562671,17.03659629518586,236.68073009008128,473.97740703526074,474,Total donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger2,>=35,2018,gs1datot,709.195033968445,4.531715144471279,646.2043418924178,772.1857260444723,2815,Total donation amount,Younger Canadians Average Donation Amounts,ON,
+Younger2,15 to 34,2018,gs1datot,519.6049304436175,16.04621529706605,356.18915866897015,683.0207022182649,274,Total donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger2,>=35,2018,gs1datot,865.2224998253822,6.711932667269519,751.4012142003703,979.0437854503941,1325,Total donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger2,15 to 34,2018,gs1datot,151.6011579880119,17.9199618320809,98.35507190436657,204.8472440716572,198,Total donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger2,>=35,2018,gs1datot,284.3070097726344,8.655871846203825,236.07376527134795,332.5402542739208,1311,Total donation amount,Younger Canadians Average Donation Amounts,QC,
+Younger2,15 to 34,2018,SecDonAmt,371.85292389273235,17.37060453013994,245.25277259035778,498.4530751951069,159,Secular donation amount,Younger Canadians Average Donation Amounts,AB,*
+Younger2,>=35,2018,SecDonAmt,458.3722759949168,8.112822777616449,385.4872316894583,531.2573203003752,791,Secular donation amount,Younger Canadians Average Donation Amounts,AB,
+Younger2,15 to 34,2018,SecDonAmt,132.20358322400367,12.056399169256494,100.96373352341081,163.44343292459652,352,Secular donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger2,>=35,2018,SecDonAmt,283.46037313998556,5.66537295642502,251.98514036417558,314.9356059157956,2713,Secular donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger2,15 to 34,2018,SecDonAmt,215.1718911414727,17.63668571763387,140.7928451201229,289.5509371628225,197,Secular donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger2,>=35,2018,SecDonAmt,426.3393403513371,6.681169977310895,370.51083245444465,482.1678482482296,1259,Secular donation amount,Younger Canadians Average Donation Amounts,BC,
+Younger2,15 to 34,2018,SecDonAmt,220.37285312590942,17.121025654618965,146.4232302623272,294.32247598949164,436,Secular donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger2,>=35,2018,SecDonAmt,418.8730502747492,5.137793914369179,376.6929905490279,461.05311000047044,2684,Secular donation amount,Younger Canadians Average Donation Amounts,ON,
+Younger2,15 to 34,2018,SecDonAmt,248.29482484542928,13.914074507012355,180.58213232985196,316.0075173610066,258,Secular donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger2,>=35,2018,SecDonAmt,404.66966274589527,6.9597179006222305,349.46949784575077,459.86982764603977,1251,Secular donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger2,15 to 34,2018,SecDonAmt,125.77168744974415,18.241775057247462,80.80425666385882,170.73911823562946,186,Secular donation amount,Younger Canadians Average Donation Amounts,QC,*
+Younger2,>=35,2018,SecDonAmt,200.53562890701969,6.673148402164671,174.30731223963735,226.76394557440202,1253,Secular donation amount,Younger Canadians Average Donation Amounts,QC,
+Younger2,15 to 34,2018,gs1dax13,1430.2664057412285,39.59385763938597,320.3434178872003,2540.1893935952567,55,Religious donation amount,Younger Canadians Average Donation Amounts,AB,...
+Younger2,>=35,2018,gs1dax13,1365.7925153727392,12.038311037782702,1043.538468757879,1688.0465619875995,315,Religious donation amount,Younger Canadians Average Donation Amounts,AB,
+Younger2,15 to 34,2018,gs1dax13,383.5031007929195,30.794050450992465,152.03892293464713,614.9672786511919,108,Religious donation amount,Younger Canadians Average Donation Amounts,AT,*
+Younger2,>=35,2018,gs1dax13,636.9160602526401,7.556746752088108,542.5827316360715,731.2493888692088,1331,Religious donation amount,Younger Canadians Average Donation Amounts,AT,
+Younger2,15 to 34,2018,gs1dax13,491.8949314799932,28.640770811712397,215.77030550718302,768.0195574528034,45,Religious donation amount,Younger Canadians Average Donation Amounts,BC,*
+Younger2,>=35,2018,gs1dax13,1135.8405921788865,11.305189396949622,884.1637137067844,1387.5174706509886,406,Religious donation amount,Younger Canadians Average Donation Amounts,BC,
+Younger2,15 to 34,2018,gs1dax13,416.7335077493474,17.340618264954546,275.0983435250515,558.3686719736432,135,Religious donation amount,Younger Canadians Average Donation Amounts,ON,*
+Younger2,>=35,2018,gs1dax13,765.5867460095643,7.416296924466799,654.3035457571306,876.869946261998,1103,Religious donation amount,Younger Canadians Average Donation Amounts,ON,
+Younger2,15 to 34,2018,gs1dax13,838.6899506859239,24.01657666102531,443.9049597746675,1233.4749415971803,82,Religious donation amount,Younger Canadians Average Donation Amounts,PR,*
+Younger2,>=35,2018,gs1dax13,1079.0286096866662,9.210882958831426,884.2315870255763,1273.825632347756,550,Religious donation amount,Younger Canadians Average Donation Amounts,PR,
+Younger2,15 to 34,2018,gs1dax13,136.0108742150072,46.860795599913516,11.091045279640241,260.93070315037414,51,Religious donation amount,Younger Canadians Average Donation Amounts,QC,...
+Younger2,>=35,2018,gs1dax13,234.3510015240017,18.08002008598329,151.30593955594856,317.39606349205485,529,Religious donation amount,Younger Canadians Average Donation Amounts,QC,*

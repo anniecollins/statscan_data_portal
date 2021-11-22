@@ -59,7 +59,10 @@ region_names = np.array(['Canada',
                          'Quebec',
                          'Atlantic Provinces (NB, NS, PE, NL)'], dtype=str)
 
-demo_names = TopDonorsDemoLikelihoods["Group"].unique()
+demo_names = ['Age group', 'Gender', 'Education',
+              'Marital status', 'Labour force status',
+              'Personal income category', 'Family income category',
+              'Frequency of religious attendance', 'Immigration status']
 
 app.layout = html.Div([
     html.Div([
@@ -81,7 +84,7 @@ app.layout = html.Div([
             "Choose demographic feature to display below: ",
             dcc.Dropdown(id='demo-selection',
                          options=[{'label': i, 'value': i} for i in demo_names],
-                         value="Personal income category")
+                         value="Family income category")
         ], style={'marginTop': 50, 'width': '100%', 'verticalAlign': 'middle'}),
         dcc.Graph(id='TopDonorsDemographics', style={'marginTop': 50}),
         dcc.Graph(id='TopDonorsSubSecSupport', style={'marginTop': 50}),
@@ -223,7 +226,7 @@ def dist_total_donations(dff1, dff2, name1, name2, title):
 
     return fig
 
-def vertical_percentage_graph(dff, title):
+def vertical_percentage_graph(dff, title, name1, name2):
     dff['Text'] = np.select([dff["Marker"] == "*", dff["Marker"] == "...", pd.isnull(dff["Marker"])],
                              [dff.Estimate.map(str)+"%"+"*", "...", dff.Estimate.map(str)+"%"])
     dff['HoverText'] = np.select([dff["Marker"] == "*",
@@ -233,11 +236,9 @@ def vertical_percentage_graph(dff, title):
                                    "Estimate Suppressed",
                                    "Estimate: "+dff.Estimate.map(str)+"% ± "+(dff["CI Upper"] - dff["Estimate"]).map(str)+"%"])
 
-    dff1 = dff[dff['Attribute'] == "Top donor"]
-    name1 = "Top donors"
+    dff1 = dff[dff['Attribute'] == name1]
 
-    dff2 = dff[dff['Attribute'] == "Regular donor"]
-    name2 = "Regular donors"
+    dff2 = dff[dff['Attribute'] == name2]
 
     fig = go.Figure()
 
@@ -577,9 +578,11 @@ def update_graph(region, demo):
     ])
 def update_graph(region):
     dff = TopDonorsDonRates_2018[TopDonorsDonRates_2018['Region'] == region]
+    name1 = "Top donor"
+    name2 = "Regular donor"
 
     title = '{}, {}'.format("Levels of support by cause, top donors vs. regular donors", region)
-    return vertical_percentage_graph(dff, title)
+    return vertical_percentage_graph(dff, title, name1, name2)
 
 @app.callback(
     dash.dependencies.Output('TopDonorsMotivations', 'figure'),
@@ -588,9 +591,11 @@ def update_graph(region):
     ])
 def update_graph(region):
     dff = TopDonorsMotivations_2018[TopDonorsMotivations_2018['Region'] == region]
+    name1 = "Top donor"
+    name2 = "Regular donor"
 
     title = '{}, {}'.format("Motivations for giving, top donors vs. regular donors", region)
-    return vertical_percentage_graph(dff, title)
+    return vertical_percentage_graph(dff, title, name1, name2)
 
 @app.callback(
     dash.dependencies.Output('TopDonorsBarriers', 'figure'),
@@ -599,9 +604,11 @@ def update_graph(region):
     ])
 def update_graph(region):
     dff = TopDonorsBarriers_2018[TopDonorsBarriers_2018['Region'] == region]
+    name1 = "Top donor"
+    name2 = "Regular donor"
 
     title = '{}, {}'.format("Barriers to giving more, top donors vs. regular donors", region)
-    return vertical_percentage_graph(dff, title)
+    return vertical_percentage_graph(dff, title, name1, name2)
 
 
 if __name__ == '__main__':

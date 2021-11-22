@@ -3977,3 +3977,627 @@ Marital status,Married/common-law,2018,flag_fg1dad17,0.048609358118621,15.299790
 Marital status,Widowed,2018,flag_fg1dad17,0.025070561242512487,44.476770865518375,0.0032158337217164205,0.04692528876330855,164,Any other method,Donation Rate by Donation Method,QC,...
 Marital status,Separated/divorced,2018,flag_fg1dad17,0.055024748195954126,41.1187819371127,0.010679570868573365,0.09936992552333489,254,Any other method,Donation Rate by Donation Method,QC,...
 Marital status,"Single, never married",2018,flag_fg1dad17,0.02084617476545635,30.79559716102728,0.008263786125711606,0.03342856340520109,439,Any other method,Donation Rate by Donation Method,QC,*
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.1013522533638187,9.352351111055318,0.08277411030447072,0.11993039642316668,1741,Mail request,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.1723894931181916,5.6793332023779355,0.1532003212388652,0.191578664997518,3015,Mail request,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.15312115356807074,5.613709727801986,0.13627374004631648,0.169968567089825,2722,Mail request,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.14406905284567664,5.959326968564616,0.12724169205566932,0.16089641363568397,2790,Mail request,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.11890445589523765,8.360766253050524,0.09941981963773011,0.1383890921527452,1674,Mail request,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.15130283759849586,4.76744055757398,0.13716508261275034,0.16544059258424137,4207,Mail request,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.03113824047662938,15.791753129070758,0.021500560407497336,0.04077592054576142,1741,Telephone request,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.04580003577824011,11.31190388754933,0.035645744554865313,0.0559543270016149,3015,Telephone request,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.05270751899242545,10.363046826644542,0.04200199015892345,0.06341304782592745,2722,Telephone request,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.05549345968908957,8.912421437496334,0.045799848259179404,0.06518707111899974,2790,Telephone request,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.05267955787759306,11.857749111493288,0.04043642763202732,0.0649226881231588,1674,Telephone request,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.0807504991817905,6.975239584455298,0.06971092210453342,0.09179007625904759,4207,Telephone request,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.03693359479039203,18.690482358616208,0.023403832050871758,0.0504633575299123,1741,TV or radio request,Donation Rate by Donation Method,CA,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.05530169936928258,11.680065194568732,0.042641753904554304,0.06796164483401086,3015,TV or radio request,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.04728398244310264,12.903483380801267,0.035325691783537096,0.059242273102668185,2722,TV or radio request,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.04664059204627485,11.873208389655312,0.035786831502203194,0.0574943525903465,2790,TV or radio request,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.04466261959699865,14.186801454206787,0.032243901351765164,0.05708133784223214,1674,TV or radio request,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.04070774827829277,9.23131654434825,0.03334247586016323,0.04807302069642232,4207,TV or radio request,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.05632541308181913,15.039039400318902,0.039722948072712004,0.07292787809092627,1741,Online,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.09114864925596843,10.222837521214776,0.072885747347452845,0.109411551164484,3015,Online,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.12496945478042797,9.079104134505437,0.10273149382144393,0.14720741573941198,2722,Online,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.11183493775987352,7.557282944961445,0.09526994410255556,0.1283999314171915,2790,Online,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.12819333586500536,8.728180719956558,0.10626340463057521,0.15012326709943552,1674,Online,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.1713383485876378,4.837261452127738,0.15509400266446471,0.1875826945108109,4207,Online,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.11211482940861023,10.494971398214307,0.0890530713936153,0.13517658742360514,1741,On own,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.150500930734376,6.526176480715076,0.13125025004075686,0.16975161142799516,3015,On own,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.17023290148171139,6.142135491863278,0.14973964455399197,0.1907261584094308,2722,On own,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.15678506647317286,6.196515733861913,0.13774360219875897,0.17582653074758675,2790,On own,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.19262774764747279,7.037076300373895,0.16605972715787184,0.21919576813707373,1674,On own,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.19839326424262901,4.3626507489923725,0.18142937371610057,0.21535715476915746,4207,On own,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.09493773722175619,11.555803035503253,0.07343532921817834,0.11644014522533404,1741,Charity event,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.11819023907829658,8.468520016190292,0.09857303001082429,0.13780744814576887,3015,Charity event,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.14681586586348735,7.352472532270045,0.12565884606300523,0.16797288566396948,2722,Charity event,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.13814195997876735,6.434633385048734,0.12071997991353536,0.15556394004399934,2790,Charity event,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.15045622242335002,7.962394016381003,0.1269760160726209,0.17393642877407914,1674,Charity event,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.1891227860505963,4.468678638946921,0.17255856292609267,0.2056870091750999,4207,Charity event,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.10358017901239601,9.316123855223642,0.08466719732739472,0.1224931606973973,1741,In memoriam,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.15579066706934724,5.477588282228391,0.1390651746144193,0.17251615952427518,3015,In memoriam,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.1701360941687727,5.752307755455862,0.15095441323332598,0.18931777510421943,2722,In memoriam,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.17209614708648,5.650265352873917,0.1530376749107955,0.19115461926216448,2790,In memoriam,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.18469499997510533,7.1760286311918575,0.1587180958015437,0.21067190414866696,1674,In memoriam,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.20166635484425563,3.846141140377336,0.18646414381925383,0.21686856586925743,4207,In memoriam,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.05486628242706762,14.939237822128307,0.03880123297630282,0.07093133187783242,1741,At work,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.09226990759537591,9.813396810542068,0.07452280185725363,0.1100170133334982,3015,At work,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.1200757761387191,7.545929105406737,0.10231686990600344,0.13783468237143476,2722,At work,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.1544493615619009,6.279969906970489,0.13543893897120907,0.17345978415259272,2790,At work,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.198631752905631,6.973311593157863,0.17148387809936824,0.22577962771189378,1674,At work,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.23103630466909233,3.8384481048040042,0.2136549350920653,0.24841767424611938,4207,At work,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.09461335323209122,11.514788004959938,0.07326047258733773,0.11596623387684471,1741,Door-to-door canvassing,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.11682660898673623,7.168411385472839,0.10041267120009773,0.13324054677337474,3015,Door-to-door canvassing,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.13852097765063057,6.732118881654861,0.12024353560180562,0.15679841969945552,2722,Door-to-door canvassing,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.18162219554370485,6.108880326837584,0.1598762332956367,0.203368157791773,2790,Door-to-door canvassing,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.18247747716771615,7.099946697115126,0.15708456869517165,0.20787038564026064,1674,Door-to-door canvassing,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.18957372837779768,3.8115519191057503,0.17541161449382123,0.20373584226177413,4207,Door-to-door canvassing,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.29051839383938816,5.944520152579444,0.25666996386494534,0.324366823813831,1741,Public place,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.32668306841664424,4.4852585206349,0.2979645390192652,0.3554015978140233,3015,Public place,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.3457504405357926,4.290943312749924,0.3166725022618813,0.37482837880970393,2722,Public place,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.31504100559445236,4.0948782689439644,0.2897564006878929,0.34032561050101184,2790,Public place,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.3138489700145654,5.909066222960927,0.2775003727234905,0.35019756730564033,1674,Public place,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.3213140001388851,3.2773881523700483,0.3006741937411224,0.3419538065366478,4207,Public place,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.18235558571242683,8.346760959822122,0.15252339561684583,0.21218777580800782,1741,Place of worship,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.23946846855034828,5.447824056128959,0.2138991295619883,0.26503780753870826,3015,Place of worship,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.24749543477183403,5.065100001490842,0.22292553936790083,0.27206533017576723,2722,Place of worship,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.26061967423619103,5.171296153120709,0.23420442586291626,0.28703492260946584,2790,Place of worship,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.2397359760532343,6.198148301137935,0.2106124962130028,0.2688594558934658,1674,Place of worship,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.22907103312206561,4.044071956878902,0.21091432383481867,0.24722774240931256,4207,Place of worship,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.1031140538915706,9.752763593049309,0.08340373506174124,0.12282437272139997,1741,Sponsoring someone,Donation Rate by Donation Method,CA,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.14840148995139446,6.495021141771585,0.12950996912568935,0.16729301077709957,3015,Sponsoring someone,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.20655443859538228,5.730280443901196,0.18335601362206957,0.22975286356869498,2722,Sponsoring someone,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.18970455646027903,4.797284937749505,0.17186757472297176,0.2075415381975863,2790,Sponsoring someone,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.21508533657587608,6.504870424881077,0.18766343647251169,0.24250723667924048,1674,Sponsoring someone,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.26783922060601245,3.2979546629692296,0.25052643525048846,0.28515200596153645,4207,Sponsoring someone,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.036316956104671935,18.6597147476414,0.023034984956743818,0.04959892725260005,1741,Any other method,Donation Rate by Donation Method,CA,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.04629270082188435,12.54405078983129,0.034911229352896096,0.057674172290872606,3015,Any other method,Donation Rate by Donation Method,CA,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.05075898766611317,12.584384653494707,0.038239313464209626,0.06327866186801671,2722,Any other method,Donation Rate by Donation Method,CA,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.04850678444442799,11.786461025163936,0.0373012131967314,0.05971235569212458,2790,Any other method,Donation Rate by Donation Method,CA,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.050547558719152265,15.546512164401758,0.03514541230684857,0.06594970513145595,1674,Any other method,Donation Rate by Donation Method,CA,
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.06054789232552197,7.291695784187769,0.05189471383288449,0.06920107081815945,4207,Any other method,Donation Rate by Donation Method,CA,
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.0896929795371745,9.567659411855486,0.07287351175953537,0.10651244731481364,1463,Mail request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.16899783000935142,6.664214012757279,0.14692397657431336,0.1910716834443895,2584,Mail request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.14853992189079968,6.63575993196552,0.12922104175146584,0.1678588020301335,2349,Mail request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.153280689429051,6.437142872914538,0.1339419267186164,0.17261945213948557,2493,Mail request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.1329330816855674,8.964899231460329,0.10957556992917744,0.15629059344195734,1462,Mail request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.1566997672684744,4.893716773031144,0.14166989557449722,0.17172963896245158,3785,Mail request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.03058950832161357,16.94819635554831,0.020428329967375335,0.040750686675851806,1463,Telephone request,Donation Rate by Donation Method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.055936439286865605,12.042418890119997,0.04273392524157894,0.06913895333215227,2584,Telephone request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.05700531312529428,11.462970542573819,0.044197924055939655,0.0698127021946489,2349,Telephone request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.059950957363847195,9.21938522671232,0.04911802140055419,0.07078389332714019,2493,Telephone request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.05079061250867293,13.08713292806089,0.03776266335568155,0.0638185616616643,1462,Telephone request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.07720436103338171,7.238325092943751,0.06625148912912025,0.08815723293764317,3785,Telephone request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.021412291510893886,22.559666048284043,0.011944604227106533,0.03087997879468124,1463,TV or radio request,Donation Rate by Donation Method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.04234741737412657,14.596635020963834,0.030232296004800735,0.0544625387434524,2584,TV or radio request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.03588990113925929,16.44666513621013,0.024320837685563437,0.04745896459295515,2349,TV or radio request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.03889995176944597,13.862153412115411,0.028331098834789202,0.04946880470410273,2493,TV or radio request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.03732792766040404,15.045473388831727,0.02632044962052589,0.04833540570028219,1462,TV or radio request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.03552869546166511,9.9483602081484,0.028601158459628566,0.04245623246370165,3785,TV or radio request,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.0662242526893507,15.524796867448776,0.04607350878506761,0.08637499659363379,1463,Online,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.10167623632326864,10.907336251794076,0.07993990453226799,0.12341256811426929,2584,Online,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.1367917961748454,9.8085872515817,0.11049428775221491,0.1630893045974759,2349,Online,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.11675551135093779,8.016374652935644,0.09841111237279764,0.13509991032907792,2493,Online,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.13453698155559138,9.01802514656374,0.11075756401290054,0.1583163990982822,1462,Online,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.17215458931835312,4.7907334238009875,0.1559898501505667,0.18831932848613953,3785,Online,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.10204084161864484,11.213329869608069,0.07961458841593347,0.1244670948213562,1463,On own,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.14962361090853793,7.700119209906164,0.1270424808937234,0.17220474092335247,2584,On own,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.16533206841610928,6.948638688771457,0.14281535915454935,0.18784877767766922,2349,On own,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.14688912497886245,6.652431296634626,0.12773694859302942,0.16604130136469547,2493,On own,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.18189486423025783,7.3854871498112376,0.15556505728070077,0.20822467117981489,1462,On own,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.18693043764966746,4.553055453921937,0.17024909306548258,0.20361178223385235,3785,On own,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.09589920640314248,12.990635176024497,0.07148213964127012,0.12031627316501484,1463,Charity event,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.11381158189906139,9.683816661349352,0.092210221172674,0.13541294262544878,2584,Charity event,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.1360631805624053,7.414923317777043,0.11628914213691396,0.15583721898789663,2349,Charity event,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.14103346622903865,7.110002145861092,0.12137996172190892,0.16068697073616836,2493,Charity event,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.15142360347721603,8.078096870463511,0.12744903909123112,0.17539816786320095,1462,Charity event,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.18701271614869902,4.408338303831867,0.1708544727955902,0.20317095950180783,3785,Charity event,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.09372270159081415,10.857355252532928,0.07377848701575887,0.11366691616586944,1463,In memoriam,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.1585875922506967,5.956158960563098,0.14007430343405924,0.17710088106733418,2584,In memoriam,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.179320144725734,5.884049704810406,0.1586400033002241,0.20000028615124388,2349,In memoriam,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.18360182671156275,5.897840112000879,0.16237827402945465,0.20482537939367085,2493,In memoriam,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.1999439699317916,7.111110331986384,0.17207673885226507,0.2278112010113181,1462,In memoriam,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.21112216636293277,4.022443852333543,0.19447762183647727,0.22776671088938827,3785,In memoriam,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.06391456807833988,15.89009070556667,0.04400901148456472,0.08382012467211504,1463,At work,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.10073567054955372,9.504380520437767,0.08197038453268954,0.1195009565664179,2584,At work,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.13719940407031297,8.08346681435596,0.11546248563549467,0.1589363225051313,2349,At work,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.1621827456390168,6.568839816313904,0.14130222077998686,0.18306327049804674,2493,At work,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.20162738031989405,7.405276035751632,0.17236303247940213,0.23089172816038597,1462,At work,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.22815579804479227,4.144243349664063,0.20962368886770996,0.24668790722187459,3785,At work,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.0828526472030744,15.1480018490494,0.05825407897644003,0.10745121542970879,1463,Door-to-door canvassing,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.10825381168546386,8.077216789909642,0.09111609229664204,0.1253915310742857,2584,Door-to-door canvassing,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.12614188879649044,7.50921193288004,0.10757659688325666,0.14470718070972421,2349,Door-to-door canvassing,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.17100155252218235,6.902367496321483,0.14786779268244676,0.19413531236191794,2493,Door-to-door canvassing,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.19597761864790827,7.353046918710976,0.1677338981937039,0.22422133910211264,1462,Door-to-door canvassing,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.18660244496435008,4.046301385857312,0.17180374215837696,0.2014011477703232,3785,Door-to-door canvassing,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.26470982810989396,7.293939993629245,0.22686728248996127,0.3025523737298267,1463,Public place,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.3076637169899111,5.282752762260304,0.2758081998780654,0.3395192341017568,2584,Public place,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.34106413421445075,4.761587464360571,0.3092341876699725,0.372894080758929,2349,Public place,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.29935291659549723,4.488531223735888,0.27301776422311047,0.325688068967884,2493,Public place,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.31682318883805194,5.843779053568089,0.28053553923789903,0.35311083843820484,1462,Public place,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.31047001058906354,3.387227068463635,0.28985839383257395,0.33108162734555313,3785,Public place,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.16243237310852507,9.903820402621216,0.1309024118931752,0.19396233432387494,1463,Place of worship,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.24369662260030342,6.069027589910255,0.21470872535737356,0.2726845198432333,2584,Place of worship,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.2364608657197402,5.7942534171092355,0.20960712126016307,0.26331461017931734,2349,Place of worship,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.25941203393095813,5.319092085547785,0.23236773555248982,0.2864563323094264,2493,Place of worship,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.2520102256581108,6.488809897650588,0.21995998424707347,0.28406046706914817,1462,Place of worship,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.23447383200930472,4.187996288433061,0.21522746512379431,0.2537201988948151,3785,Place of worship,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.11946458848385094,9.727817774585317,0.09668726398340478,0.14224191298429711,1463,Sponsoring someone,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.17113515982205083,6.9080596080795225,0.1479642326533555,0.19430608699074614,2584,Sponsoring someone,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.23713458570262697,5.90057139801346,0.20971019038560335,0.2645589810196506,2349,Sponsoring someone,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.21442730809555186,4.988792873236136,0.19346091820646133,0.23539369798464238,2493,Sponsoring someone,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.25723057359465157,6.353736366653208,0.22519740732117244,0.2892637398681307,1462,Sponsoring someone,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.2910691526546961,3.380797860889399,0.2717822060775264,0.31035609923186575,3785,Sponsoring someone,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.044497055736658665,20.40163045822945,0.026704257932177972,0.06228985354113936,1463,Any other method,Donation Rate by Donation Method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.04811974612359698,13.205058998888541,0.0356656628776611,0.06057382936953286,2584,Any other method,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.05385604576968441,13.088556735667394,0.04004030059385087,0.06767179094551795,2349,Any other method,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.047089305810947876,11.566076513881072,0.036414587090712366,0.057764024531183386,2493,Any other method,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.05622179295518086,15.790115528572555,0.038822240004602944,0.07362134590575878,1462,Any other method,Donation Rate by Donation Method,CA (without QC),
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.06250445403917443,7.786340596508066,0.052965682347786695,0.07204322573056215,3785,Any other method,Donation Rate by Donation Method,CA (without QC),
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.09510019957436436,29.489358787576705,0.04013410904977187,0.15006629009895683,92,Mail request,Donation Rate by Donation Method,AB,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.1644243442628786,17.30537741597197,0.10865503251258074,0.22019365601317648,230,Mail request,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.14776316331942396,18.83514622692385,0.0932146062341258,0.20231172040472212,225,Mail request,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.13010893678521446,22.41575828893564,0.0729467737998021,0.1872710997706268,214,Mail request,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.10528549308103331,21.0874366904044,0.06177034976931606,0.14880063639275057,160,Mail request,Donation Rate by Donation Method,AB,*
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.13995866164823162,12.607233250814483,0.10537526387768534,0.1745420594187779,491,Mail request,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.1017337661253668,16.018953110038105,0.06979285184425846,0.13367468040647515,466,Mail request,Donation Rate by Donation Method,AT,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.18185049831683908,8.974234469491222,0.1498644934763173,0.21383650315736086,821,Mail request,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.17360965607742632,11.559432815252514,0.13427652739825735,0.21294278475659528,633,Mail request,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.14923885509759405,8.891641954554904,0.12323055509637575,0.17524715509881233,856,Mail request,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.12445070588052895,15.473106225899027,0.08670887516550901,0.1621925365955489,371,Mail request,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.1388096028275276,9.688548731347105,0.11245076059941991,0.1651684450556353,901,Mail request,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.07256245031912215,23.363734416371827,0.03933459646995362,0.10579030416829067,241,Mail request,Donation Rate by Donation Method,BC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.13752289569670328,14.882026715804189,0.09740989240335177,0.1776358989900548,380,Mail request,Donation Rate by Donation Method,BC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.1326584103478154,15.032401515150049,0.09357330858021565,0.17174351211541514,390,Mail request,Donation Rate by Donation Method,BC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.12641404197779443,22.069270933233085,0.07173367821418167,0.1810944057414072,317,Mail request,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.11368608822274641,19.926175255883035,0.06928645729696395,0.15808571914852887,242,Mail request,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.1483664044399628,11.561683727813437,0.11474585953495019,0.1819869493449754,607,Mail request,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.09051389721801699,15.797770126087817,0.06248802447672362,0.11853976995931036,436,Mail request,Donation Rate by Donation Method,ON,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.17922501888180223,10.077291511562438,0.14382605523384967,0.2146239825297548,760,Mail request,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.1450027116668209,10.31878888363384,0.11567670411180431,0.1743287192218375,739,Mail request,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.1759887571690914,9.194063978351178,0.14427552281741335,0.20770199152076946,671,Mail request,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.1424112509919859,14.116063368695812,0.1030103646348276,0.1818121373491442,482,Mail request,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.16452931926169986,7.2223900964109795,0.14123916668188613,0.1878194718415136,1258,Mail request,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.10387026995374854,18.988329596879055,0.06521345103942805,0.14252708886806903,228,Mail request,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.15554314561223065,12.388134091564739,0.11777680843087623,0.19330948279358506,393,Mail request,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.18974057515220003,11.754329981723991,0.1460280211026816,0.23345312920171846,362,Mail request,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.13966091496980457,12.752041533818758,0.10475470533980098,0.17456712459980817,435,Mail request,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.16734839604029605,17.173666815402726,0.11101931344394027,0.22367747863665183,207,Mail request,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.17698551767749424,12.1484125672564,0.1348444675347661,0.21912656782022238,528,Mail request,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad03,0.12975479595329162,18.382968046062174,0.0830042009727103,0.17650539093387294,278,Mail request,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad03,0.18176706877659585,10.616426233456213,0.14394531689710233,0.21958882065608937,431,Mail request,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad03,0.16738619510371183,12.744798042207275,0.12557421969034385,0.2091981705170798,373,Mail request,Donation Rate by Donation Method,QC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad03,0.11087102966287089,15.056057115447352,0.07815373198290881,0.14358832734283297,297,Mail request,Donation Rate by Donation Method,QC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad03,0.07567209203604204,22.884817824779653,0.04173057173387336,0.10961361233821072,212,Mail request,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad03,0.12514566801854857,14.768402920995793,0.08892158133421722,0.1613697547028799,422,Mail request,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.04028867294791726,53.56780706945096,-0.002010796622461966,0.08258814251829649,92,Telephone request,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.051035768963390495,28.401809840833952,0.02262593018893009,0.07944560773785089,230,Telephone request,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.04001493174964949,38.850975297304345,0.009544956804270296,0.07048490669502869,225,Telephone request,Donation Rate by Donation Method,AB,...
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.02979155361053898,34.14029734591962,0.009856906947330615,0.04972620027374734,214,Telephone request,Donation Rate by Donation Method,AB,...
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.03385932216193218,44.00034155580148,0.004659352624614699,0.06305929169924966,160,Telephone request,Donation Rate by Donation Method,AB,...
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.06416337079574612,21.302109065893582,0.037374286655062636,0.0909524549364296,491,Telephone request,Donation Rate by Donation Method,AB,*
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.06144572996390386,20.85660476309646,0.036327825156733135,0.08656363477107458,466,Telephone request,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.10820079280353721,11.95444106615291,0.08284905063904306,0.13355253496803138,821,Telephone request,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.11471086363391372,14.741735894999335,0.0815671424515819,0.14785458481624553,633,Telephone request,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.10780632419181546,11.412945898541068,0.08369116750939447,0.13192148087423647,856,Telephone request,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.056734216081460925,20.15468428019342,0.03432280772899604,0.07914562443392581,371,Telephone request,Donation Rate by Donation Method,AT,*
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.1118781763352011,11.192951072501499,0.0873345870432094,0.1364217656271928,901,Telephone request,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.023384729042284853,37.18755291168483,0.006340473607959796,0.040428984476609905,241,Telephone request,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.07606894199504648,29.02428638279056,0.03279594071812883,0.11934194327196412,380,Telephone request,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.043470298291811274,25.144277988106996,0.02204731836761361,0.06489327821600893,390,Telephone request,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.05745497161615616,25.015860191663634,0.029284692730744157,0.08562525050156816,317,Telephone request,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.04740842892251196,32.97093679382787,0.01677222573570236,0.07804463210932155,242,Telephone request,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.08050255691343228,17.50566014537089,0.05288175657911192,0.10812335724775263,607,Telephone request,Donation Rate by Donation Method,BC,*
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.022538186378984686,36.195393358775476,0.006549221162388753,0.03852715159558062,436,Telephone request,Donation Rate by Donation Method,ON,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.04317683058715856,22.670845526529764,0.02399162009767572,0.062362041076641395,760,Telephone request,Donation Rate by Donation Method,ON,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.05520977673226078,18.71265372100894,0.0349609687091988,0.07545858475532277,739,Telephone request,Donation Rate by Donation Method,ON,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.06009396585884416,15.795143416600425,0.04149012865443061,0.07869780306325772,671,Telephone request,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.0491070974147638,20.49018530595668,0.029385674700216125,0.06882852012931148,482,Telephone request,Donation Rate by Donation Method,ON,*
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.07501586661370369,10.697442966875483,0.0592875877174977,0.09074414550990967,1258,Telephone request,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.05368602953508763,36.14482154670952,0.015653478045884572,0.09171858102429069,228,Telephone request,Donation Rate by Donation Method,PR,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.044090505013911,22.453263261398817,0.024687337516673402,0.0634936725111486,393,Telephone request,Donation Rate by Donation Method,PR,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.07928470764829458,19.197525671191773,0.049452679704824594,0.10911673559176457,362,Telephone request,Donation Rate by Donation Method,PR,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.056317146958616955,21.19913093533416,0.03291763532134388,0.07971665859589003,435,Telephone request,Donation Rate by Donation Method,PR,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.09343578189934881,24.85417112455558,0.0479201475905107,0.13895141620818693,207,Telephone request,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.08211515373209885,21.92956360880745,0.04682111233481382,0.11740919512938389,528,Telephone request,Donation Rate by Donation Method,PR,*
+Family income category,"Less than $25,000",2018,flag_fg1dad04,0.03247497796429636,33.10693034223828,0.011402487250111705,0.053547468678481015,278,Telephone request,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad04,0.017773994347859326,33.07141274351365,0.006253108428424636,0.029294880267294016,431,Telephone request,Donation Rate by Donation Method,QC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad04,0.03932504542725348,24.897484670941044,0.02013514162482022,0.05851494922968674,373,Telephone request,Donation Rate by Donation Method,QC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad04,0.039428984087545714,23.714895894298092,0.02110225749569561,0.05775571067939582,297,Telephone request,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad04,0.058500767646805854,25.282972566519007,0.029511463592582964,0.08749007170102874,212,Telephone request,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad04,0.09793748188749965,17.69283475820188,0.06397538896046398,0.13189957481453532,422,Telephone request,Donation Rate by Donation Method,QC,*
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0,NA,0,0,92,TV or radio request,Donation Rate by Donation Method,AB,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.023218556569985782,34.5135356207649,0.007512297388364678,0.03892481575160689,230,TV or radio request,Donation Rate by Donation Method,AB,...
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.016119561800222348,52.148755763936585,-3.5619123867907526e-4,0.03259531483912377,225,TV or radio request,Donation Rate by Donation Method,AB,...
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.042864489560348745,49.877730582261826,9.607837129160107e-4,0.08476819540778148,214,TV or radio request,Donation Rate by Donation Method,AB,...
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.02654080493559643,44.82209048407256,0.0032247919179488084,0.04985681795324405,160,TV or radio request,Donation Rate by Donation Method,AB,...
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.03526156801236317,24.79707773907054,0.018123959598925782,0.05239917642580057,491,TV or radio request,Donation Rate by Donation Method,AB,*
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.03822112098546747,27.228137846693617,0.01782397275812962,0.058618269212805316,466,TV or radio request,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.06228626614954617,16.12590248462065,0.04259995171729006,0.08197258058180228,821,TV or radio request,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.09104538722315064,16.07594790466766,0.06235855268174402,0.11973222176455726,633,TV or radio request,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.09310818584836517,11.879949362599493,0.07142862177356994,0.11478774992316039,856,TV or radio request,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.08893234658588414,17.308409703849424,0.058763062147341186,0.1191016310244271,371,TV or radio request,Donation Rate by Donation Method,AT,*
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.08999497149118856,11.269008167037281,0.07011791699640174,0.10987202598597537,901,TV or radio request,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.02247888397572509,43.42265702439441,0.00334781528434773,0.04160995266710245,241,TV or radio request,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.06145362819906463,31.457714170484348,0.02356378730231861,0.09934346909581065,380,TV or radio request,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.02090742791422533,33.001284956702804,0.007384225479151876,0.03443063034929879,390,TV or radio request,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.03744343417685835,52.465886236848725,-0.0010601162720294127,0.07594698462574612,317,TV or radio request,Donation Rate by Donation Method,BC,...
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.041797669789481275,34.526481545302204,0.01351291063550477,0.07008242894345779,242,TV or radio request,Donation Rate by Donation Method,BC,...
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.029252585629509022,20.27586881506003,0.017627616105962633,0.04087755515305541,607,TV or radio request,Donation Rate by Donation Method,BC,*
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.020937582001330474,37.40187833423988,0.005589008105472245,0.0362861558971887,436,TV or radio request,Donation Rate by Donation Method,ON,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.03935458938612863,25.320878350689142,0.01982368997798851,0.05888548879426875,760,TV or radio request,Donation Rate by Donation Method,ON,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.03723822935473152,28.01456404715931,0.0167916349518914,0.05768482375757164,739,TV or radio request,Donation Rate by Donation Method,ON,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.026865693731884726,20.24910110118337,0.01620336914700616,0.03752801831676329,671,TV or radio request,Donation Rate by Donation Method,ON,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.02438519873138975,29.75392155815645,0.010164576354881688,0.038605821107897814,482,TV or radio request,Donation Rate by Donation Method,ON,*
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.024113919450120206,20.150032040753906,0.014590527956746957,0.033637310943493454,1258,TV or radio request,Donation Rate by Donation Method,ON,*
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.025930860866915418,40.47490367772987,0.005360076587816939,0.0465016451460139,228,TV or radio request,Donation Rate by Donation Method,PR,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.03485005684293438,30.785091016957132,0.01382234467080522,0.05587776901506354,393,TV or radio request,Donation Rate by Donation Method,PR,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.04772895164546616,27.41595938458618,0.02208213692465772,0.0733757663662746,362,TV or radio request,Donation Rate by Donation Method,PR,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.03063845869453307,27.481740696721157,0.014135597671118275,0.04714131971794787,435,TV or radio request,Donation Rate by Donation Method,PR,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.08516324841481004,34.18113801792709,0.028109152553290814,0.14221734427632926,207,TV or radio request,Donation Rate by Donation Method,PR,...
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.06890975265941814,20.248857650988896,0.04156151726053353,0.09625798805830274,528,TV or radio request,Donation Rate by Donation Method,PR,*
+Family income category,"Less than $25,000",2018,flag_fg1dad05,0.07474422382224805,27.014769492491094,0.03516867068760428,0.11431977695689181,278,TV or radio request,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad05,0.09111886505217369,18.723205345732417,0.057681149952983964,0.12455658015136342,431,TV or radio request,Donation Rate by Donation Method,QC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad05,0.08276287862427478,20.088460827548086,0.050176932043403184,0.11534882520514639,373,TV or radio request,Donation Rate by Donation Method,QC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad05,0.07453725872803751,23.123918960341896,0.04075544629325282,0.10831907116282222,297,TV or radio request,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad05,0.06726612156057289,26.965484250872606,0.03171504941731554,0.10281719370383025,212,TV or radio request,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad05,0.0658089393391303,20.097984720359342,0.03988592536625081,0.0917319533120098,422,TV or radio request,Donation Rate by Donation Method,QC,*
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.16078755777454337,37.81848620534375,0.04160720388228105,0.2799679116668057,92,Online,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.10666296976200203,24.834886375668145,0.05474425420131399,0.15858168532269007,230,Online,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.16798708588562308,23.77277163668943,0.08971555900855767,0.2462586127626885,225,Online,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.1031536948559463,23.31027138578128,0.05602556468016245,0.15028182503173015,214,Online,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.13955514143044503,20.974904084663144,0.0821839438209423,0.19692633903994777,160,Online,Donation Rate by Donation Method,AB,*
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.17818018602905716,11.696049672179834,0.13733445218746915,0.21902591987064518,491,Online,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.042988481962438096,24.933307225509207,0.02198070544497131,0.06399625847990488,466,Online,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.0717747754015831,16.2440902607775,0.048923243082189066,0.09462630772097713,821,Online,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.0982931639778924,17.597662709853733,0.06439107999928942,0.13219524795649537,633,Online,Donation Rate by Donation Method,AT,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.12802775467426944,11.232979624775767,0.09984086269516909,0.1562146466533698,856,Online,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.11173098793808948,17.6002953912625,0.07318832769699816,0.15027364817918082,371,Online,Donation Rate by Donation Method,AT,*
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.1498003912560719,10.020580274050296,0.12037962970435759,0.1792211528077862,901,Online,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.06406467124062357,39.74784877550634,0.014155504209365101,0.11397383827188204,241,Online,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.15863971937350604,18.86775030288233,0.09997457495924073,0.21730486378777136,380,Online,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.1274096138215963,19.95882655877428,0.077568780545394,0.17725044709779858,390,Online,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.11522383332888406,18.411912930740566,0.07364337013246021,0.15680429652530792,317,Online,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.11278805599792446,19.26129558658653,0.07020893434348889,0.15536717765236002,242,Online,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.15762889495737128,11.497766386642267,0.12210689557835311,0.19315089433638946,607,Online,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.06007271853861349,20.421344315572288,0.036028553246621756,0.08411688383060523,436,Online,Donation Rate by Donation Method,ON,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.09276767705538952,18.14008006737519,0.05978514657505998,0.12575020753571906,760,Online,Donation Rate by Donation Method,ON,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.14055694287699333,14.590299492633187,0.10036263078053453,0.18075125497345212,739,Online,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.11967833361889782,13.04811196852563,0.08907200060137119,0.15028466663642445,671,Online,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.14261572048697355,14.092934703712142,0.10322291323605486,0.18200852773789222,482,Online,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.17894319577834814,7.401035615814271,0.15298611943728338,0.2049002721194129,1258,Online,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.03263962970786409,44.08582315722887,0.004436827063424496,0.06084243235230369,228,Online,Donation Rate by Donation Method,PR,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.07431825831429277,23.898614101967176,0.03950727181289434,0.1091292448156912,393,Online,Donation Rate by Donation Method,PR,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.11470468887227611,16.496668174802327,0.0776173646408551,0.1517920131036971,362,Online,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.11439766717547865,14.41846965813816,0.08206925108325064,0.14672608326770667,435,Online,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.1394575105473668,19.394208774171222,0.0864469903822503,0.1924680307124833,207,Online,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.16683914969152466,12.168222140698372,0.12704921848413392,0.2066290808989154,528,Online,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad06,0.03221137152832389,41.525036093513826,0.005995317302753739,0.058427425753894036,278,Online,Donation Rate by Donation Method,QC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad06,0.06204102828773953,25.668235413655918,0.03082892092793395,0.09325313564754512,431,Online,Donation Rate by Donation Method,QC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad06,0.08815704211057741,21.778934117733517,0.05052639191735728,0.12578769230379755,373,Online,Donation Rate by Donation Method,QC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad06,0.09410157250275061,21.88347952954256,0.053740625381243946,0.1344625196242573,297,Online,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad06,0.10864396568519195,24.16501543174595,0.05718740232495809,0.16010052904542582,212,Online,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad06,0.16738229421654838,15.59061277380922,0.1162352204005909,0.21852936803250586,422,Online,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.18436830099396104,31.020907869863372,0.07227262806267064,0.2964639739252514,92,On own,Donation Rate by Donation Method,AB,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.13753455593956188,23.340114501483423,0.0746182953044744,0.20045081657464936,230,On own,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.1966356407373991,18.509613775058924,0.1252998161905764,0.2679714652842218,225,On own,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.14347576362037354,22.816349289494887,0.07931451712814558,0.2076370101126015,214,On own,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.2546764009761144,16.408523419768454,0.1727721776914661,0.33658062426076263,160,On own,Donation Rate by Donation Method,AB,
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.19534227717331787,10.064155856307513,0.15681026481425114,0.2338742895323846,491,On own,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.1063351053182501,16.129956877171885,0.07271818204752198,0.13995202858897823,466,On own,Donation Rate by Donation Method,AT,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.12504904292226265,10.892180612755405,0.09835322095842468,0.15174486488610062,821,On own,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.1792730727276896,13.5953976547866,0.13150309176287261,0.2270430536925066,633,On own,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.19091439866867804,9.184861663623305,0.15654599231704805,0.22528280502030804,856,On own,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.16089244693310417,13.12015764066973,0.11951889556346343,0.20226599830274491,371,On own,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.17764547962984562,8.258249428970938,0.14889201064933053,0.2063989486103607,901,On own,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.11729234986942377,23.19761868090305,0.06396362696865224,0.1706210727701953,241,On own,Donation Rate by Donation Method,BC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.14279928791484636,14.292483128249234,0.10279727727500655,0.1828012985546862,380,On own,Donation Rate by Donation Method,BC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.1495737079875681,14.449244200033759,0.10721443652413293,0.1919329794510033,390,On own,Donation Rate by Donation Method,BC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.12411752216384814,17.395980620824535,0.08179903798898024,0.16643600633871602,317,On own,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.14985503700246783,16.22045837583413,0.10221385159040666,0.197496222414529,242,On own,Donation Rate by Donation Method,BC,
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.21245629277889952,10.056068841819853,0.17058215016141165,0.2543304353963874,607,On own,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.07682237828649836,18.292923588072817,0.049278888855241204,0.10436586771775552,436,On own,Donation Rate by Donation Method,ON,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.15848361453411394,11.274825268451512,0.12346150687440488,0.193505722193823,760,On own,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.16230008263631812,11.1138312052338,0.12694672810333665,0.1976534371692996,739,On own,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.1507876140593369,10.825640102974928,0.11879370210664365,0.18278152601203018,671,On own,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.17967999347939803,11.660998720868315,0.13861388387973878,0.2207461030790573,482,On own,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.17742830264830445,7.586722460901717,0.15104524138968412,0.20381136390692478,1258,On own,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.13907495048701324,23.5893216443363,0.07477473074206878,0.2033751702319577,228,On own,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.1580309883666664,15.572769846072534,0.10979666257653171,0.2062653141568011,393,On own,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.1564071742948134,13.918905948340306,0.11373843008376706,0.19907591850585976,362,On own,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.12843233785572558,14.231399170682657,0.09260866755377342,0.16425600815767774,435,On own,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.1565663888576916,19.442336731715702,0.09690476269463438,0.21622801502074884,207,On own,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.182712978405902,10.652994698398608,0.14456344777574195,0.22086250903606205,528,On own,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad07,0.13665554021998638,19.667792608575823,0.08397733686447408,0.1893337435754987,278,On own,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad07,0.15292662361111578,13.955979288182805,0.11109627274987549,0.19475697447235607,431,On own,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad07,0.18549311798351067,13.712601423435572,0.135639607473814,0.23534662849320734,373,On own,Donation Rate by Donation Method,QC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad07,0.19244927143505203,15.004161651740574,0.13585452781978044,0.24904401505032361,297,On own,Donation Rate by Donation Method,QC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad07,0.22570354053598332,16.13313014871818,0.1543352819165083,0.29707179915545834,212,On own,Donation Rate by Donation Method,QC,
+Family income category,"$125,000 and more",2018,flag_fg1dad07,0.253949870941715,10.750086379293702,0.20044318640444153,0.3074565554789885,422,On own,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.09035315028204419,36.30105696035824,0.026068000401713684,0.15463830016237468,92,Charity event,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.10090044387032183,28.10923542009381,0.04531127247060159,0.15648961527004207,230,Charity event,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.11354426868511387,23.474815116608024,0.06130278663954852,0.16578575073067922,225,Charity event,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.10231877238027783,24.935520697243998,0.052312802687052164,0.1523247420735035,214,Charity event,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.11742744343844931,22.6703967248876,0.06525071832451185,0.16960416855238677,160,Charity event,Donation Rate by Donation Method,AB,*
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.17921914855555518,11.886708041793433,0.13746553219233004,0.22097276491878032,491,Charity event,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.11982791829914974,22.277089669665017,0.06750830099682409,0.1721475356014754,466,Charity event,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.13489044395698108,13.081859319717331,0.10030457038838111,0.16947631752558104,821,Charity event,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.19786195708229715,12.878119015440115,0.14792031408266892,0.24780360008192537,633,Charity event,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.16233244712660078,10.339111574392494,0.1294369352539308,0.19522795899927076,856,Charity event,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.15480070193809786,14.117714472206153,0.11196701967436468,0.19763438420183105,371,Charity event,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.2457192150088923,7.979322089074323,0.2072907350576079,0.28414769496017667,901,Charity event,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.08856630190393426,28.247479698660527,0.039532416555311,0.13760018725255752,241,Charity event,Donation Rate by Donation Method,BC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.0974577893403468,17.280917858743514,0.06444885887354472,0.13046671980714886,380,Charity event,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.10977994625430725,18.162332360645454,0.0707010108921816,0.1488588816164329,390,Charity event,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.11968718285780569,18.53442248731375,0.07620865865787382,0.16316570705773756,317,Charity event,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.14181379121544058,18.47035812356968,0.09047544497897232,0.19315213745190885,242,Charity event,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.22196160306708423,10.334238666278871,0.17700386724664618,0.2669193388875223,607,Charity event,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.08524008858110545,21.234369997285988,0.04976435670914267,0.12071582045306822,436,Charity event,Donation Rate by Donation Method,ON,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.11577883661774507,15.838102589119194,0.07983864203617583,0.15171903119931432,760,Charity event,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.13252752998210135,12.326289383103198,0.10051009367938726,0.16454496628481544,739,Charity event,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.15542589348031924,10.66864622793985,0.12292608678768899,0.1879257001729495,671,Charity event,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.15298859735143083,13.266333465997407,0.11320921244079311,0.19276798226206854,482,Charity event,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.1629752542917737,7.136160637576603,0.14018052830422018,0.18576998027932723,1258,Charity event,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.16450909230288688,22.87394314158816,0.09075620373165873,0.23826198087411504,228,Charity event,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.1319743177707508,15.47786410811931,0.09193851454968663,0.17201012099181498,393,Charity event,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.2073918525912267,12.354294485619231,0.15717404696387494,0.25760965821857845,362,Charity event,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.14861582430141793,14.147551619831056,0.1074066006462577,0.18982504795657815,435,Charity event,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.21808506085894122,15.400904603704088,0.15225560904427549,0.28391451267360696,207,Charity event,Donation Rate by Donation Method,PR,
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.22595010161635007,9.467022642355653,0.18402500734427885,0.2678751958884213,528,Charity event,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad08,0.09259555281311965,22.88141144001643,0.05106946382668895,0.13412164179955036,278,Charity event,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad08,0.13029674484340895,15.59337204196737,0.09047487047641022,0.17011861921040766,431,Charity event,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad08,0.18029758284379577,16.881552118604528,0.12064209943138088,0.23995306625621066,373,Charity event,Donation Rate by Donation Method,QC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad08,0.12772119590922237,16.372437382386625,0.08673624629555346,0.1687061455228913,297,Charity event,Donation Rate by Donation Method,QC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad08,0.14747502024886086,19.655064760656607,0.09066289516219227,0.20428714533552944,212,Charity event,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad08,0.1993496112316792,13.102621581840252,0.14815530259466902,0.2505439198686894,422,Charity event,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.07785801771380207,34.21263738223819,0.025649905771831974,0.1300661296557722,92,In memoriam,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.11270716987816203,19.03361195188971,0.0706615415917751,0.15475279816454895,230,In memoriam,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.13775417617841576,20.651834960781397,0.0819956211465134,0.19351273121031812,225,In memoriam,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.10312758623985573,22.811085915410125,0.05702036977900853,0.1492348027007029,214,In memoriam,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.16637034724557007,18.625462287156076,0.10563646055035827,0.22710423394078186,160,In memoriam,Donation Rate by Donation Method,AB,*
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.14332984580012276,12.436102560812744,0.10839418038001158,0.17826551122023393,491,In memoriam,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.1375237302629066,13.033543010194343,0.1023929153269796,0.1726545451988336,466,In memoriam,Donation Rate by Donation Method,AT,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.258000035770378,7.628568551058536,0.21942459381882373,0.29657547772193227,821,In memoriam,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.2679715248847176,8.450197262606094,0.22358986040087353,0.31235318936856166,633,In memoriam,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.22168922406946917,7.419883931679331,0.1894496135853728,0.2539288345535655,856,In memoriam,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.23721962197726995,10.815366977791008,0.18693444758219496,0.28750479637234494,371,In memoriam,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.2632873639426447,6.922784072119999,0.2275634616277403,0.2990112662575491,901,In memoriam,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.07687037213209146,37.78624384335669,0.019940422788522455,0.13380032147566046,241,In memoriam,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.11236734707764956,17.219257219919427,0.074444351786372015,0.1502903423689271,380,In memoriam,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.11529964202059903,17.202151507112085,0.0764256789011388,0.15417360514005926,390,In memoriam,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.12154781875485533,23.04462167868377,0.06664876697448438,0.17644687053522629,317,In memoriam,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.0915154251557472,21.770690980126407,0.05246600350799791,0.1305648468034965,242,In memoriam,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.14356592095889295,12.14397483224942,0.1093947146288535,0.1777371272889324,607,In memoriam,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.0909175218358777,14.938991099899898,0.06429697643282484,0.11753806723893057,436,In memoriam,Donation Rate by Donation Method,ON,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.16319351766535953,9.562638568975306,0.13260709143426982,0.19377994389644923,760,In memoriam,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.19419236685384828,9.124952092812217,0.15946188257748273,0.22892285113021382,739,In memoriam,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.23337223272005772,7.858630618551959,0.19742676423656938,0.26931770120354603,671,In memoriam,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.24088520822946058,10.217211706298302,0.19264706131285342,0.28912335514606774,482,In memoriam,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.25545709782020054,5.60081319951459,0.2274145704042222,0.2834996252361789,1258,In memoriam,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.11714837273521563,19.958816280159457,0.07132161498885742,0.16297513048157383,228,In memoriam,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.18289198949385185,14.021885466982047,0.13262889872849037,0.23315508025921333,393,In memoriam,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.22780318734577817,11.901585983744125,0.17466426706114266,0.2809421076304137,362,In memoriam,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.15213567224513214,12.71307325328231,0.11422777468892688,0.1900435698013374,435,In memoriam,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.18367248750213871,17.710497505581305,0.11991620887793696,0.24742876612634046,207,In memoriam,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.1842438076859905,10.896288388355748,0.14489608694149872,0.22359152843048227,528,In memoriam,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad09,0.1275934603242588,16.943713605595303,0.08522086077127625,0.16996605987724137,278,In memoriam,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad09,0.148057476402315,13.103502711829728,0.11003277287453445,0.18608217993009557,431,In memoriam,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad09,0.14153879285557636,16.02966099370126,0.09707076018924776,0.18600682552190495,373,In memoriam,Donation Rate by Donation Method,QC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad09,0.13063057085903473,16.548860125984685,0.08826032334823772,0.17300081836983175,297,In memoriam,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad09,0.1377018712468561,21.187587483599277,0.08051854132678815,0.19488520116692404,212,In memoriam,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad09,0.15583709996514916,13.05194648928574,0.11597187371160156,0.19570232621869676,422,In memoriam,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.08178861693863404,48.28879600506407,0.004380352117636446,0.15919688175963165,92,At work,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.06458611183295793,28.296963415072813,0.028765989512489577,0.10040623415342628,230,At work,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.10806242279439283,32.11688755375999,0.04003935059645762,0.17608549499232806,225,At work,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.09212382931740697,21.69802747225729,0.05294600379655194,0.131301654838262,214,At work,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.2392781912160912,17.196258282260516,0.15863175742217303,0.3199246250100094,160,At work,Donation Rate by Donation Method,AB,*
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.22753195652308703,10.142349515258854,0.1823016985275865,0.27276221451858756,491,At work,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.054446839504872,26.189433581095113,0.026499088077297134,0.08239459093244687,466,At work,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.11827563728006235,13.0572693375597,0.08800679918735492,0.1485444753727698,821,At work,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.11829299301599086,13.929303252871403,0.0859979025975336,0.15058808343444813,633,At work,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.20600711126873475,8.312595199409788,0.17244363502295534,0.23957058751451416,856,At work,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.2588051908343979,11.240251702158933,0.20178914299555187,0.3158212386732439,371,At work,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.26265976641156236,6.415363237339494,0.2296332402293304,0.2956862925937943,901,At work,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.06584655430613894,37.134253756577536,0.017922246873347786,0.11377086173893008,241,At work,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.11579257020723203,20.62050279581085,0.0689944902019656,0.16259065021249847,380,At work,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.11096787033306243,19.76485312016096,0.06798069254653186,0.153955048119593,390,At work,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.2008931880657361,17.2921501344372,0.13280648588509483,0.26897989024637736,317,At work,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.16498575988652825,17.492343326656506,0.108421443191709,0.2215500765813475,242,At work,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.21103416564187757,9.72604690698778,0.17080535226675253,0.2512629790170026,607,At work,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.061320162835691173,22.405457667901786,0.034392093927332,0.08824823174405035,436,At work,Donation Rate by Donation Method,ON,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.10541370310863077,14.684440335686466,0.07507461242308172,0.13575279379417982,760,At work,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.15218805462804616,11.658450780891535,0.1174128655333625,0.18696324372272982,739,At work,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.16161212831838057,11.413009781981355,0.12546096890948855,0.19776328772727259,671,At work,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.19904903832856768,11.70305656500718,0.1533920270687977,0.24470604958833767,482,At work,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.22168201990126624,6.394657961346568,0.1938979488578723,0.24946609094466018,1258,At work,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.0684134260708745,28.57040643664591,0.030103982012895485,0.10672287012885351,228,At work,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.08481972360096164,20.974949094597047,0.04995021240712636,0.11968923479479693,393,At work,Donation Rate by Donation Method,PR,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.1691268574426404,15.79697703638952,0.11676263523333363,0.22149107965194714,362,At work,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.15159551409291305,14.123896599615472,0.10963034565302918,0.19356068253279693,435,At work,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.17809893107496338,16.93478486658133,0.11898510250403252,0.23721275964589425,207,At work,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.2709791313069437,8.61890583766888,0.22520331757624545,0.3167549450376419,528,At work,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad10,0.03282423054689952,36.98555458288135,0.009029829320184826,0.05661863177361422,278,At work,Donation Rate by Donation Method,QC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad10,0.06886300364846087,27.982110144946372,0.031095827443078337,0.1066301798538434,431,At work,Donation Rate by Donation Method,QC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad10,0.06675621474282901,18.984544002111324,0.04191687977431241,0.09159554971134562,373,At work,Donation Rate by Donation Method,QC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad10,0.12657884566063318,18.38217610048224,0.08097450888844313,0.17218318243282324,297,At work,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad10,0.18940005364330734,16.544893721178703,0.12798254856215813,0.25081755872445655,212,At work,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad10,0.24499718703283785,10.484199062008452,0.19465356626738817,0.29534080779828753,422,At work,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.06533040474312406,38.408455279104956,0.016150205850160332,0.11451060363608778,92,Door-to-door canvassing,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.08425063843575288,25.46535106295612,0.042200158270517554,0.1263011186009882,230,Door-to-door canvassing,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.1070161115318638,22.463687526342138,0.05989903813622861,0.154133184927499,225,Door-to-door canvassing,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.22763045370404325,18.87512244551649,0.1434195684818061,0.3118413389262804,214,Door-to-door canvassing,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.24029328789383692,16.82611426667293,0.16104797860727066,0.31953859718040317,160,Door-to-door canvassing,Donation Rate by Donation Method,AB,*
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.1797391427277283,10.506750338560195,0.1427257266157742,0.21675255883968242,491,Door-to-door canvassing,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.1348647992805046,16.69885981949047,0.09072467817622248,0.17900492038478671,466,Door-to-door canvassing,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.213133489862346,9.259908139981427,0.1744517085237084,0.2518152712009836,821,Door-to-door canvassing,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.2817621049263119,9.729011804083507,0.2280342620486529,0.33548994780397084,633,Door-to-door canvassing,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.2612548023303267,7.098825882631433,0.2249052641601063,0.2976043405005471,856,Door-to-door canvassing,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.3123152782989381,10.175411732224099,0.2500288665270677,0.37460169007080857,371,Door-to-door canvassing,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.3085125112055681,6.317212091614133,0.27031400938734057,0.34671101302379564,901,Door-to-door canvassing,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.08245758259770748,35.7373731926894,0.0247010228310674,0.14021414236434757,241,Door-to-door canvassing,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.056196128093759984,21.648787789914152,0.03235163643629471,0.08004061975122526,380,Door-to-door canvassing,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.10547190079888777,24.390584364774767,0.05505140993111505,0.1558923916666605,390,Door-to-door canvassing,Donation Rate by Donation Method,BC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.11470912081797131,22.883894401550236,0.06326023462991512,0.1661580070060275,317,Door-to-door canvassing,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.14889845496125503,19.21796766467427,0.09281358197469376,0.20498332794781632,242,Door-to-door canvassing,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.1687539936073802,11.289785269924288,0.13141283128772682,0.20609515592703356,607,Door-to-door canvassing,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.07721896643268121,26.61143179140044,0.0369435242557573,0.11749440860960511,436,Door-to-door canvassing,Donation Rate by Donation Method,ON,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.10458399423854162,13.625974610750324,0.07665335401641057,0.13251463446067266,760,Door-to-door canvassing,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.10781517312212428,12.484205782209886,0.08143431645452069,0.1341960297897279,739,Door-to-door canvassing,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.15015093717472117,12.130574682347108,0.11445181688884948,0.18585005746059285,671,Door-to-door canvassing,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.18497500202664005,12.362613973346651,0.14015504454143274,0.22979495951184736,482,Door-to-door canvassing,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.16455885872261702,7.097683050422397,0.14166674158026468,0.18745097586496937,1258,Door-to-door canvassing,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.07746565344649997,25.182276973082153,0.03923142981882648,0.11569987707417347,228,Door-to-door canvassing,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.15224364924315764,13.606293582089393,0.11164354825607314,0.19284375023024214,393,Door-to-door canvassing,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.19136531393844253,12.601042596779644,0.14410269395543945,0.2386279339214456,362,Door-to-door canvassing,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.18208066246899715,13.334289450808482,0.13449437826177538,0.22966694667621892,435,Door-to-door canvassing,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.18444661646963323,15.670598522707301,0.12779603549536006,0.2410971974439064,207,Door-to-door canvassing,Donation Rate by Donation Method,PR,
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.2614776062592405,7.878031031739316,0.22110374570621688,0.3018514668122641,528,Door-to-door canvassing,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad11,0.1232629894648448,21.657899874002304,0.07093944825346421,0.1755865306762254,278,Door-to-door canvassing,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad11,0.14052945113733412,14.548883866171854,0.10045707286848976,0.18060182940617847,431,Door-to-door canvassing,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad11,0.1770669908448139,14.197961960384466,0.12779368442111314,0.22634029726851465,373,Door-to-door canvassing,Donation Rate by Donation Method,QC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad11,0.21989816855388325,13.348444510720746,0.16236737509650684,0.27742896201125966,297,Door-to-door canvassing,Donation Rate by Donation Method,QC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad11,0.14087375650787756,18.972918580319728,0.08848810740253749,0.19325940561321764,212,Door-to-door canvassing,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad11,0.20397457642811953,12.026586357758976,0.15589434990907747,0.2520548029471616,422,Door-to-door canvassing,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.2992895022902499,21.78568655185823,0.17149539579101822,0.4270836087894816,92,Public place,Donation Rate by Donation Method,AB,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.2810009639642158,16.811544356519004,0.18841108602599752,0.3735908419024341,230,Public place,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.32548321839216293,13.973898902574463,0.23633877254176042,0.4146276642425655,225,Public place,Donation Rate by Donation Method,AB,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.2535564782639236,15.87769047232628,0.1746504591362817,0.33246249739156547,214,Public place,Donation Rate by Donation Method,AB,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.30688668953852255,14.28941498753605,0.220937736184776,0.39283564289226913,160,Public place,Donation Rate by Donation Method,AB,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.2820228880334611,8.76999941119309,0.23354630380331054,0.33049947226361165,491,Public place,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.3471791449129352,9.95458612494247,0.2794423055192603,0.41491598430661014,466,Public place,Donation Rate by Donation Method,AT,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.40930624875564336,5.855045261295279,0.36233558226949497,0.45627691524179176,821,Public place,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.4764344194639242,5.823447767897339,0.42205539596070096,0.5308134429671474,633,Public place,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.41705081631112223,5.364653049746324,0.37319989659786473,0.4609017360243797,856,Public place,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.39802286250027147,8.823088311700525,0.32919302631595587,0.46685269868458706,371,Public place,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.44251281869852627,4.992725344070858,0.39921045309042685,0.4858151843066257,901,Public place,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.27646363202791624,16.23706510534374,0.18848167209384148,0.364445591961991,241,Public place,Donation Rate by Donation Method,BC,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.2993468961881079,10.710116065883177,0.23650966681628496,0.36218412555993085,380,Public place,Donation Rate by Donation Method,BC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.2733375720630452,12.378211491011475,0.207023557222476,0.3396515869036144,390,Public place,Donation Rate by Donation Method,BC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.1813669653780727,13.86469150810157,0.13208176933709764,0.23065216141904776,317,Public place,Donation Rate by Donation Method,BC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.27067527608624375,12.775116624131385,0.20290152037008724,0.33844903180240027,242,Public place,Donation Rate by Donation Method,BC,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.30724206228762346,8.365541273370486,0.2568661633751387,0.35761796120010825,607,Public place,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.2500915428011689,11.532937498875519,0.19356049500191083,0.306622590600427,436,Public place,Donation Rate by Donation Method,ON,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.30138855701031114,8.333552677586074,0.252161368229244,0.3506157457913783,760,Public place,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.3517358919826024,7.181711680391425,0.3022259127850645,0.4012458711801403,739,Public place,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.3300462980925335,6.993989478636823,0.2848036588600074,0.3752889373250596,671,Public place,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.3197850816406823,9.379595225066597,0.2609968512618936,0.37857331201947103,482,Public place,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.3033219161712954,5.449675729797733,0.27092359224550056,0.33572024009709023,1258,Public place,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.19218326459757143,18.208182815349357,0.12359808777892081,0.260768441416222,228,Public place,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.28809447586507775,11.111934809029828,0.22535040294410202,0.3508385487860535,393,Public place,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.3381765160051702,8.755305504675105,0.2801451436070651,0.39620788840327525,362,Public place,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.31244077547467203,9.495905737424382,0.2542904442325582,0.37059110671678586,435,Public place,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.33813198162290997,12.092456287292949,0.25799206858030665,0.4182718946655133,207,Public place,Donation Rate by Donation Method,PR,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.3087200071138486,8.755708046386577,0.2557409605269527,0.3616990537007445,528,Public place,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad12,0.3533892808435192,11.42770468883835,0.27423753980511945,0.432541021881919,278,Public place,Donation Rate by Donation Method,QC,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad12,0.3792694843590454,8.051937428446054,0.31941504274973653,0.43912392596835426,431,Public place,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad12,0.3603426635517872,9.088622045461635,0.29615348485749066,0.4245318422460837,373,Public place,Donation Rate by Donation Method,QC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad12,0.3715796605410907,9.768592299493193,0.30043668770597737,0.44272263337620404,297,Public place,Donation Rate by Donation Method,QC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad12,0.30468324613714387,15.386515294129218,0.2127998713862814,0.3965666208880063,212,Public place,Donation Rate by Donation Method,QC,
+Family income category,"$125,000 and more",2018,flag_fg1dad12,0.3738713041844996,8.560988535081556,0.31113858113928683,0.43660402722971237,422,Public place,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.2595722801399656,26.907255583601458,0.1226809929864856,0.39646356729344556,92,Place of worship,Donation Rate by Donation Method,AB,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.2597522949817483,15.934137755605342,0.17863078016476397,0.3408738097987326,230,Place of worship,Donation Rate by Donation Method,AB,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.21482691370712356,15.966817629035482,0.14759814687597497,0.2820556805382721,225,Place of worship,Donation Rate by Donation Method,AB,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.23066404542620456,17.527609350572128,0.15142291165010766,0.30990517920230143,214,Place of worship,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.2894537299482423,15.811521367962857,0.19975198308136088,0.37915547681512374,160,Place of worship,Donation Rate by Donation Method,AB,
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.22158312514280273,10.755183833566141,0.1748739054430395,0.268292344842566,491,Place of worship,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.19736964429127427,11.56135939118169,0.1526459828591516,0.24209330572339693,466,Place of worship,Donation Rate by Donation Method,AT,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.3372953621897212,6.207315715004799,0.29625961971953235,0.3783311046599101,821,Place of worship,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.3048907901757217,7.994118937203034,0.2571199364978567,0.35266164385358667,633,Place of worship,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.27787797376725676,7.172083965963793,0.23881659400351285,0.31693935353100067,856,Place of worship,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.2523424480190272,11.189976948885445,0.19699882392925278,0.30768607210880167,371,Place of worship,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.23982134919424283,7.129081342793781,0.2063117291922602,0.27333096919622546,901,Place of worship,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.10764147032293522,20.490100197214524,0.06441280823341008,0.15087013241246036,241,Place of worship,Donation Rate by Donation Method,BC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.1674729493099168,13.991943363320617,0.12154566162611383,0.21340023699371977,380,Place of worship,Donation Rate by Donation Method,BC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.1716510858455289,13.619607049332046,0.12583064918165424,0.21747152250940358,390,Place of worship,Donation Rate by Donation Method,BC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.15250469272612688,19.707118079730897,0.09359938659440939,0.21140999885784437,317,Place of worship,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.18911501519506604,17.11800806029243,0.1256656429667375,0.2525643874233946,242,Place of worship,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.1848286715228884,11.930249332957796,0.1416104438336676,0.2280468992121092,607,Place of worship,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.15907375409979935,16.351597460632544,0.10809293502713258,0.21005457317246612,436,Place of worship,Donation Rate by Donation Method,ON,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.24299063364768897,9.390181124518534,0.19826962461616351,0.2877116426792144,760,Place of worship,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.24175177566610348,9.41421416813046,0.1971448967067619,0.2863586546254451,739,Place of worship,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.30101692088767124,7.8747646667688835,0.25455720132257453,0.34747664045276794,671,Place of worship,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.2612448070840156,9.674457235592996,0.21170864374192863,0.31078097042610253,482,Place of worship,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.24515302098861672,6.094926120011682,0.21586744392779947,0.274438598049434,1258,Place of worship,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.15997390986325738,19.163900264157768,0.09988682254953407,0.2200609971769807,228,Place of worship,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.25350749051834864,11.128346645420178,0.19821456961612002,0.3088004114205773,393,Place of worship,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.33504163801247666,9.155750770495981,0.2749186111940372,0.3951646648309161,362,Place of worship,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.28629087010562426,10.199035290479532,0.229062064241718,0.34351967596953054,435,Place of worship,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.2587579962331943,14.948387374488995,0.18294629994327138,0.3345696925231172,207,Place of worship,Donation Rate by Donation Method,PR,
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.29040128535115184,9.028027345814623,0.23901591497670713,0.3417866557255965,528,Place of worship,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad13,0.2308894740930477,14.648411826516213,0.16460027577772043,0.2971786724083749,278,Place of worship,Donation Rate by Donation Method,QC,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad13,0.22777808739324082,10.965627495046812,0.17882348566745077,0.2767326891190309,431,Place of worship,Donation Rate by Donation Method,QC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad13,0.281854881519959,10.842559560088443,0.221957826695058,0.34175193634486,373,Place of worship,Donation Rate by Donation Method,QC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad13,0.2649719161518101,12.524109577930389,0.19992978000428158,0.3300140522993386,297,Place of worship,Donation Rate by Donation Method,QC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad13,0.20191011677467308,16.627925066889286,0.13610733861565,0.26771289493369615,212,Place of worship,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad13,0.2028854173476012,12.726905945848511,0.15227711626650184,0.2534937184287006,422,Place of worship,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.10318680224338843,29.969718655946366,0.042575319142153616,0.16379828534462323,92,Sponsoring someone,Donation Rate by Donation Method,AB,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.1119540646924734,18.55199648741817,0.07124617299071317,0.15266195639423363,230,Sponsoring someone,Donation Rate by Donation Method,AB,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.19845834741996482,19.53145874596967,0.12248659534603284,0.2744300994938968,225,Sponsoring someone,Donation Rate by Donation Method,AB,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.1630842295899519,17.995390233201636,0.10556390525272796,0.22060455392717582,214,Sponsoring someone,Donation Rate by Donation Method,AB,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.24542817798642627,15.25224088190383,0.17206026424265886,0.3187960917301937,160,Sponsoring someone,Donation Rate by Donation Method,AB,
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.2391240291844491,8.860240291619444,0.19759834362442832,0.28064971474446987,491,Sponsoring someone,Donation Rate by Donation Method,AB,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.2022518357725067,15.276469260637418,0.14169494707910524,0.26280872446590814,466,Sponsoring someone,Donation Rate by Donation Method,AT,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.24465374043483568,7.489677105330747,0.20873980101204784,0.28056767985762354,821,Sponsoring someone,Donation Rate by Donation Method,AT,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.3513758326039273,8.085588041884204,0.295691683317975,0.4070599818898796,633,Sponsoring someone,Donation Rate by Donation Method,AT,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.29838959839996054,6.450334016253997,0.26066592509159725,0.33611327170832384,856,Sponsoring someone,Donation Rate by Donation Method,AT,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.2881000441472995,10.009958223718943,0.23157724242527578,0.34462284586932324,371,Sponsoring someone,Donation Rate by Donation Method,AT,
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.34589512457851435,5.771115733486191,0.3067703079258242,0.3850199412312045,901,Sponsoring someone,Donation Rate by Donation Method,AT,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.06479231328906093,25.672457557105794,0.0321907052686406,0.09739392130948127,241,Sponsoring someone,Donation Rate by Donation Method,BC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.13724660368742975,15.980876732043273,0.09425830093585591,0.18023490643900358,380,Sponsoring someone,Donation Rate by Donation Method,BC,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.13256522450538266,16.08563097946602,0.09077104496811983,0.1743594040426455,390,Sponsoring someone,Donation Rate by Donation Method,BC,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.1414254003575095,16.380907402664597,0.0960193775213998,0.1868314231936192,317,Sponsoring someone,Donation Rate by Donation Method,BC,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.15028240751081298,16.71231031271545,0.10105661397723392,0.19950820104439204,242,Sponsoring someone,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.2621794149299413,8.581457672459473,0.2180825468196254,0.30627628304025717,607,Sponsoring someone,Donation Rate by Donation Method,BC,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.1260945361302638,14.792499019398567,0.0895362431894742,0.1626528290710534,436,Sponsoring someone,Donation Rate by Donation Method,ON,
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.1836100206085002,10.858024515558105,0.14453535336851725,0.22268468784848316,760,Sponsoring someone,Donation Rate by Donation Method,ON,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.2610718849147613,8.425162871036166,0.21796104333262528,0.3041827264968973,739,Sponsoring someone,Donation Rate by Donation Method,ON,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.23859075703139312,7.776727138333502,0.2022245030649562,0.27495701099783004,671,Sponsoring someone,Donation Rate by Donation Method,ON,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.2793173227279569,9.409593436182782,0.22780432535632425,0.33083032009958957,482,Sponsoring someone,Donation Rate by Donation Method,ON,
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.3145260184485185,4.954351872663774,0.2839844373249141,0.34506759957212296,1258,Sponsoring someone,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.1193950781667845,19.26749507351176,0.07430720270685146,0.16448295362671755,228,Sponsoring someone,Donation Rate by Donation Method,PR,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.17493099006561783,12.684443205097995,0.13144130593079564,0.21842067420044,393,Sponsoring someone,Donation Rate by Donation Method,PR,
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.29524302364209504,9.878486107504298,0.23807961354770582,0.3524064337364843,362,Sponsoring someone,Donation Rate by Donation Method,PR,
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.22135727291024987,10.98222274414326,0.1737106488523613,0.2690038969681385,435,Sponsoring someone,Donation Rate by Donation Method,PR,
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.33081094972045955,12.567227165842421,0.24932787047860738,0.4122940289623117,207,Sponsoring someone,Donation Rate by Donation Method,PR,
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.2748106713704572,7.964601442874775,0.23191181325512228,0.3177095294857922,528,Sponsoring someone,Donation Rate by Donation Method,PR,
+Family income category,"Less than $25,000",2018,flag_fg1dad14,0.06328337815457596,30.427237619469942,0.025543519310429273,0.10102323699872265,278,Sponsoring someone,Donation Rate by Donation Method,QC,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad14,0.08554539181782576,18.36382825593207,0.054755516284202624,0.1163352673514489,431,Sponsoring someone,Donation Rate by Donation Method,QC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad14,0.11133396092010542,20.347699900171833,0.06693313231094732,0.1557347895292635,373,Sponsoring someone,Donation Rate by Donation Method,QC,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad14,0.10060567869822512,19.8132238582328,0.061537269066847214,0.13967408832960304,297,Sponsoring someone,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad14,0.08520531490021661,23.425812286867014,0.046084361001295295,0.12432626879913794,212,Sponsoring someone,Donation Rate by Donation Method,QC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad14,0.15525126614217571,12.582144431719723,0.11696545013131576,0.19353708215303567,422,Sponsoring someone,Donation Rate by Donation Method,QC,
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.06833558362583278,42.167062899559625,0.011859008695859194,0.12481215855580637,92,Any other method,Donation Rate by Donation Method,AB,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.02618075282863188,41.249505618769255,0.0050142568013085385,0.04734724885595522,230,Any other method,Donation Rate by Donation Method,AB,...
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.0426611750780124,36.92643694809791,0.011785368682286006,0.07353698147373879,225,Any other method,Donation Rate by Donation Method,AB,...
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.04820072347219998,43.39360490406038,0.0072060550240215585,0.0891953919203784,214,Any other method,Donation Rate by Donation Method,AB,...
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.05273052967677737,33.50884280357066,0.01809916106218821,0.08736189829136654,160,Any other method,Donation Rate by Donation Method,AB,...
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.058083807193124,19.387736140768773,0.03601238762102371,0.08015522676522428,491,Any other method,Donation Rate by Donation Method,AB,*
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.01747972240950308,30.558410087765292,0.007010525285038033,0.02794891953396813,466,Any other method,Donation Rate by Donation Method,AT,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.042243275899099576,19.650775326960563,0.025973357642306107,0.058513194155893046,821,Any other method,Donation Rate by Donation Method,AT,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.03816277055620154,25.232036369766835,0.019289798830813585,0.0570357422815895,633,Any other method,Donation Rate by Donation Method,AT,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.05174635485084575,20.585420516036773,0.03086841718927549,0.072624292512416,856,Any other method,Donation Rate by Donation Method,AT,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.04511839759713887,25.20070807422396,0.022833301992728466,0.06740349320154927,371,Any other method,Donation Rate by Donation Method,AT,*
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.05161849928596117,18.84732994214078,0.03255058028153676,0.07068641829038558,901,Any other method,Donation Rate by Donation Method,AT,*
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.043225359353846304,46.72797192389744,0.0036373525917042585,0.08281336611598836,241,Any other method,Donation Rate by Donation Method,BC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.050781207157386626,26.329285997752518,0.02457584333540895,0.0769865709793643,380,Any other method,Donation Rate by Donation Method,BC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.0497551734767494,33.84487277843704,0.016750212640557115,0.08276013431294169,390,Any other method,Donation Rate by Donation Method,BC,...
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.042697398568006646,30.558503019714394,0.017124404258155226,0.06827039287785806,317,Any other method,Donation Rate by Donation Method,BC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.052271854419973965,32.660930596169656,0.01881042006984133,0.08573328877010661,242,Any other method,Donation Rate by Donation Method,BC,*
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.056900753928889526,20.03915983572826,0.03455239585877211,0.07924911199900694,607,Any other method,Donation Rate by Donation Method,BC,*
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.049192999956733756,30.111537817947386,0.020160506625335393,0.07822549328813212,436,Any other method,Donation Rate by Donation Method,ON,*
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.05311831899003628,19.53308445178151,0.032782426302629744,0.07345421167744282,760,Any other method,Donation Rate by Donation Method,ON,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.058200017520172356,17.782638276313467,0.03791537302109228,0.07848466201925243,739,Any other method,Donation Rate by Donation Method,ON,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.04769454949140178,18.267308539160116,0.03061834267303986,0.0647707563097637,671,Any other method,Donation Rate by Donation Method,ON,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.06006278527393378,24.208230464533678,0.031564639477910404,0.08856093106995716,482,Any other method,Donation Rate by Donation Method,ON,*
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.06977733688232249,11.253876189379433,0.05438641570138153,0.08516825806326345,1258,Any other method,Donation Rate by Donation Method,ON,
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.021051465292979642,58.642325566268525,-0.0031444249683040965,0.04524735555426338,228,Any other method,Donation Rate by Donation Method,PR,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.058530875203680194,23.601782660203074,0.03145528602194027,0.08560646438542012,393,Any other method,Donation Rate by Donation Method,PR,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.0687660006111122,24.280508475511105,0.03604100212265247,0.10149099909957193,362,Any other method,Donation Rate by Donation Method,PR,*
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.04562842580285249,22.03814954987557,0.025919692959352408,0.06533715864635257,435,Any other method,Donation Rate by Donation Method,PR,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.05548669477123845,31.629136522424556,0.021089400456894808,0.0898839890855821,207,Any other method,Donation Rate by Donation Method,PR,*
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.049641179340368366,20.25047288170574,0.029938497209887584,0.06934386147084914,528,Any other method,Donation Rate by Donation Method,PR,*
+Family income category,"Less than $25,000",2018,flag_fg1dad17,0.01638984643745635,44.388467777276894,0.0021307131161064103,0.03064897975880629,278,Any other method,Donation Rate by Donation Method,QC,...
+Family income category,"$25,000 to $49,999",2018,flag_fg1dad17,0.04124112140543669,29.53122101135695,0.017370706886754,0.06511153592411938,431,Any other method,Donation Rate by Donation Method,QC,*
+Family income category,"$50,000 to $74,999",2018,flag_fg1dad17,0.04111536656200555,33.96003653366911,0.01374879416783403,0.06848193895617706,373,Any other method,Donation Rate by Donation Method,QC,...
+Family income category,"$75,000 to $99,999",2018,flag_fg1dad17,0.05361526740611325,31.923765972508004,0.020068499362342167,0.08716203544988432,297,Any other method,Donation Rate by Donation Method,QC,*
+Family income category,"$100,000 to $124,999",2018,flag_fg1dad17,0.03306113041315305,46.766466515416184,0.002757103197797612,0.06336515762850849,212,Any other method,Donation Rate by Donation Method,QC,...
+Family income category,"$125,000 and more",2018,flag_fg1dad17,0.0510650715983355,21.277763414461457,0.029769072885146436,0.07236107031152457,422,Any other method,Donation Rate by Donation Method,QC,*

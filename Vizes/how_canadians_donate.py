@@ -586,13 +586,13 @@ def update_graph(region, method):
 def update_graph(region, method):
     dff1 = DonMethDonRates_2018[DonMethDonRates_2018['Region'] == region]
     dff1 = dff1[dff1['QuestionText'] == method]
-    dff1 = dff1[dff1['Group'] == "Personal income category"]
+    dff1 = dff1[dff1['Group'] == "Family income category"]
     name1 = "% donating"
 
 
     dff2 = DonMethAvgDon_2018[DonMethAvgDon_2018['Region'] == region]
     dff2 = dff2[dff2['QuestionText'] == method]
-    dff2 = dff2[dff2['Group'] == "Personal income category"]
+    dff2 = dff2[dff2['Group'] == "Family income category"]
     name2 = "Average amount"
 
 

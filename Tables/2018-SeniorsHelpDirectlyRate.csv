@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Senior,15 to 64,2018,iva105_1,0.5208140526369511,1.429968936715381,0.5062172616866554,0.5354108435872469,11304,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA,
+Senior,65 to 74,2018,iva105_1,0.42769519793307265,3.065312748016238,0.40199968706999517,0.4533907087961501,3019,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA,
+Senior,75 and older,2018,iva105_1,0.22314055770019445,6.02557170992886,0.19678787308226214,0.24949324231812675,1826,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA,
+Senior,15 to 64,2018,iva105_2,0.39608862967143077,1.8555744631580229,0.3816834442261927,0.4104938151166688,11304,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA,
+Senior,65 to 74,2018,iva105_2,0.4071375413794905,3.1625576338054087,0.3819011246989203,0.4323739580600607,3019,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA,
+Senior,75 and older,2018,iva105_2,0.2569686649489283,5.115507359757498,0.23120444648443128,0.2827328834134253,1826,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA,
+Senior,15 to 64,2018,iva105_3,0.23140502606347088,2.648050682927042,0.21939491090512814,0.24341514122181362,11304,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior,65 to 74,2018,iva105_3,0.1919371581107413,5.225702000686465,0.17227859408165702,0.21159572213982558,3019,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior,75 and older,2018,iva105_3,0.10619895119765208,8.168564822967996,0.08919640049626312,0.12320150189904103,1826,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior,15 to 64,2018,iva105_4,0.3929731222133276,1.7753720208759343,0.37929897315542005,0.4066472712712351,11304,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA,
+Senior,65 to 74,2018,iva105_4,0.40200092727807596,3.0758549106373967,0.3777660406935056,0.4262358138626463,3019,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA,
+Senior,75 and older,2018,iva105_4,0.3095364387848828,4.9057259267491204,0.2797743673927745,0.3392985101769911,1826,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA,
+Senior,15 to 64,2018,iva105_5,0.12320389695015169,3.8217677239837995,0.11397527566542047,0.13243251823488292,11304,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior,65 to 74,2018,iva105_5,0.08322990673344066,8.229198553632509,0.06980581101793029,0.09665400244895103,3019,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior,75 and older,2018,iva105_5,0.043776044746996576,14.818242777579696,0.031062070819041512,0.05649001867495164,1826,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior,15 to 64,2018,iva2_005,0.07185641949853327,5.3044940495635515,0.06438578256256551,0.07932705643450104,11304,Other assistance,Older Canadians Rate of Informal Volunteering,CA,
+Senior,65 to 74,2018,iva2_005,0.09408581298563258,8.750059012329462,0.07795028373461063,0.11022134223665453,3019,Other assistance,Older Canadians Rate of Informal Volunteering,CA,
+Senior,75 and older,2018,iva2_005,0.07315481301794755,10.90934513046194,0.057512906824848935,0.08879671921104615,1826,Other assistance,Older Canadians Rate of Informal Volunteering,CA,
+Senior2,15 to 74,2018,iva105_1,0.5087086392065824,1.3190557622972645,0.4955569856629767,0.5218602927501881,14323,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,75 and older,2018,iva105_1,0.22314055770019445,6.02557170992886,0.19678787308226214,0.24949324231812675,1826,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,15 to 74,2018,iva105_2,0.3975249837224663,1.6643016186243906,0.38455783311376257,0.41049213433117004,14323,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,75 and older,2018,iva105_2,0.2569686649489283,5.115507359757498,0.23120444648443128,0.2827328834134253,1826,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,15 to 74,2018,iva105_3,0.2262742192005393,2.426604985660873,0.21551248524416436,0.23703595315691425,14323,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,75 and older,2018,iva105_3,0.10619895119765208,8.168564822967996,0.08919640049626312,0.12320150189904103,1826,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,15 to 74,2018,iva105_4,0.3941467332185863,1.5788919394710752,0.3819495813872973,0.4063438850498753,14323,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA,
+Senior2,75 and older,2018,iva105_4,0.3095364387848828,4.9057259267491204,0.2797743673927745,0.3392985101769911,1826,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA,
+Senior2,15 to 74,2018,iva105_5,0.11800729439770809,3.542174580656293,0.10981459714767625,0.12619999164773993,14323,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,75 and older,2018,iva105_5,0.043776044746996576,14.818242777579696,0.031062070819041512,0.05649001867495164,1826,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA,
+Senior2,15 to 74,2018,iva2_005,0.07474623165659103,4.663175937691827,0.0679146825438904,0.08157778076929166,14323,Other assistance,Older Canadians Rate of Informal Volunteering,CA,
+Senior2,75 and older,2018,iva2_005,0.07315481301794755,10.90934513046194,0.057512906824848935,0.08879671921104615,1826,Other assistance,Older Canadians Rate of Informal Volunteering,CA,
+Senior,15 to 64,2018,iva105_1,0.5274857985664464,1.5420368338573045,0.5115434019148776,0.5434281952180152,9905,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,65 to 74,2018,iva105_1,0.44003137293294775,3.1945511677769627,0.4124801055725293,0.4675826402933662,2647,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,75 and older,2018,iva105_1,0.24099207139047096,6.203366056826541,0.211691353909616,0.27029278887132596,1584,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,15 to 64,2018,iva105_2,0.39573653902846523,1.9440176032338021,0.38065816765913135,0.4108149103977991,9905,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,65 to 74,2018,iva105_2,0.4211595156098849,3.362139453522851,0.3934064839240179,0.4489125472957519,2647,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,75 and older,2018,iva105_2,0.25527233986180714,5.480462097008827,0.22785224021449446,0.2826924395091198,1584,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,15 to 64,2018,iva105_3,0.23486128397642575,2.7740190645295555,0.22209192890693163,0.24763063904591986,9905,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,65 to 74,2018,iva105_3,0.196486520851907,5.493330866940242,0.1753313463796493,0.21764169532416466,2647,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,75 and older,2018,iva105_3,0.11279149481914277,8.854242317531758,0.09321766326038797,0.13236532637789758,1584,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,15 to 64,2018,iva105_4,0.3898198064346848,1.8428706319961126,0.37573967069347913,0.4038999421758904,9905,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,65 to 74,2018,iva105_4,0.4074377108669638,3.227762123944517,0.3816619890949437,0.4332134326389839,2647,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,75 and older,2018,iva105_4,0.30943434382714585,5.253518005309416,0.277572798924831,0.3412958887294607,1584,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,15 to 64,2018,iva105_5,0.12829114720596776,3.912549050168379,0.11845319802345834,0.1381290963884772,9905,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,65 to 74,2018,iva105_5,0.08303352782497882,8.066127960855198,0.06990649145642579,0.09616056419353185,2647,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,75 and older,2018,iva105_5,0.04703643026357249,16.23141239966173,0.032072738360622154,0.06200012216652282,1584,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,15 to 64,2018,iva2_005,0.06893814156091285,5.774550468367519,0.061135784091973275,0.07674049902985243,9905,Other assistance,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,65 to 74,2018,iva2_005,0.09974762317095047,8.729702114482382,0.08268090285826712,0.11681434348363381,2647,Other assistance,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,75 and older,2018,iva2_005,0.07710842895067663,12.181412213783311,0.058698691899305114,0.09551816600204814,1584,Other assistance,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,15 to 74,2018,iva105_1,0.5164379444315262,1.4395283890286854,0.5018670413694656,0.5310088474935869,12552,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,75 and older,2018,iva105_1,0.24099207139047096,6.203366056826541,0.211691353909616,0.27029278887132596,1584,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,15 to 74,2018,iva105_2,0.398948147073598,1.7436947258316988,0.3853137795262267,0.4125825146209693,12552,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,75 and older,2018,iva105_2,0.25527233986180714,5.480462097008827,0.22785224021449446,0.2826924395091198,1584,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,15 to 74,2018,iva105_3,0.23001351575439766,2.5214286410302793,0.21864645636825422,0.2413805751405411,12552,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,75 and older,2018,iva105_3,0.11279149481914277,8.854242317531758,0.09321766326038797,0.13236532637789758,1584,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,15 to 74,2018,iva105_4,0.3920454232278985,1.6477742019316295,0.37938401013475664,0.4047068363210403,12552,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,75 and older,2018,iva105_4,0.30943434382714585,5.253518005309416,0.277572798924831,0.3412958887294607,1584,Health-related/personal care,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,15 to 74,2018,iva105_5,0.12257388848757789,3.633677030242287,0.11384432800539396,0.13130344896976182,12552,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,75 and older,2018,iva105_5,0.04703643026357249,16.23141239966173,0.032072738360622154,0.06200012216652282,1584,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,15 to 74,2018,iva2_005,0.07283021055953216,4.9880480254752815,0.06571004187236892,0.0799503792466954,12552,Other assistance,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior2,75 and older,2018,iva2_005,0.07710842895067663,12.181412213783311,0.058698691899305114,0.09551816600204814,1584,Other assistance,Older Canadians Rate of Informal Volunteering,CA (without QC),
+Senior,15 to 64,2018,iva105_1,0.5917294161018455,3.430975404984539,0.5519380494591757,0.6315207827445153,1098,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AB,
+Senior,65 to 74,2018,iva105_1,0.4736163935906884,9.083362821695676,0.38929816397718475,0.5579346232041921,197,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AB,
+Senior,75 and older,2018,iva105_1,0.29265067834344927,17.219796321194007,0.19388054584422648,0.39142081084267205,117,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AB,*
+Senior,15 to 64,2018,iva105_1,0.5608856017168927,2.4487020374484993,0.53396663874053,0.5878045646932555,2765,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AT,
+Senior,65 to 74,2018,iva105_1,0.42057392194648235,4.912054251625881,0.38008338032352257,0.46106446356944214,835,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AT,
+Senior,75 and older,2018,iva105_1,0.24336580218816367,10.315055608079296,0.194164203355257,0.2925674010210704,448,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AT,
+Senior,15 to 64,2018,iva105_1,0.526053468903712,3.5943377605227713,0.4889941984812576,0.5631127393261663,1483,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,BC,
+Senior,65 to 74,2018,iva105_1,0.49059139944019003,6.240352474392743,0.430587822273379,0.5505949766070011,431,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,BC,
+Senior,75 and older,2018,iva105_1,0.23129385418399068,13.354226100443084,0.1707554582931105,0.29183225007487085,263,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,BC,
+Senior,15 to 64,2018,iva105_1,0.4950382715613163,2.5261682136766264,0.4705279430076676,0.519548600114965,3056,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,ON,
+Senior,65 to 74,2018,iva105_1,0.4231616942430913,5.12157270992536,0.3806843084409907,0.4656390800451919,795,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,ON,
+Senior,75 and older,2018,iva105_1,0.23240997246703882,8.920342011822825,0.19177646088032915,0.27304348405374845,495,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,ON,
+Senior,15 to 64,2018,iva105_1,0.5723166634956398,2.91622235034015,0.5396048127416806,0.605028514249599,1503,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,PR,
+Senior,65 to 74,2018,iva105_1,0.4009183344520742,7.38547004275822,0.3428843820248732,0.4589522868792752,389,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,PR,
+Senior,75 and older,2018,iva105_1,0.24745935625479945,11.625636460607167,0.19107369108762184,0.30384502142197706,261,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,PR,
+Senior,15 to 64,2018,iva105_1,0.4976404657527199,3.5493467314068985,0.46302165010678015,0.5322592813986597,1399,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,QC,
+Senior,65 to 74,2018,iva105_1,0.3904190351981003,8.233301060279825,0.32741721874611596,0.4534208516500846,372,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,QC,
+Senior,75 and older,2018,iva105_1,0.1704522094708304,17.317136650073806,0.11259908616229966,0.22830533277936113,242,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,QC,*
+Senior,15 to 64,2018,iva105_2,0.40084915172260877,5.265529523879024,0.3594805242516764,0.4422177791935411,1098,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AB,
+Senior,65 to 74,2018,iva105_2,0.3798809255474528,10.440604462446167,0.3021450988529675,0.4576167522419381,197,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AB,
+Senior,75 and older,2018,iva105_2,0.236471395628969,18.283217388797482,0.15173317726490018,0.3212096139930378,117,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AB,*
+Senior,15 to 64,2018,iva105_2,0.41392886486288233,3.4636697428482877,0.3858286086767969,0.44202912104896774,2765,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AT,
+Senior,65 to 74,2018,iva105_2,0.4361728099068889,5.003071436567841,0.3934024027952053,0.4789432170185725,835,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AT,
+Senior,75 and older,2018,iva105_2,0.29146486596304266,8.764243924680873,0.24139819002368668,0.34153154190239865,448,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AT,
+Senior,15 to 64,2018,iva105_2,0.37752311845095354,4.468169817592224,0.3444617128684083,0.41058452403349877,1483,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,BC,
+Senior,65 to 74,2018,iva105_2,0.43705288952632065,7.601811429641764,0.37193517054287606,0.5021706085097652,431,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,BC,
+Senior,75 and older,2018,iva105_2,0.23311637992731057,12.729629888770805,0.17495473802606673,0.29127802182855445,263,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,BC,
+Senior,15 to 64,2018,iva105_2,0.3943153651395025,3.067626581661702,0.37060739979200663,0.41802333048699836,3056,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,ON,
+Senior,65 to 74,2018,iva105_2,0.42530779275155617,5.210256887866038,0.38187571885049204,0.4687398666526203,795,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,ON,
+Senior,75 and older,2018,iva105_2,0.25938389659466626,8.066607457676406,0.2183746278998837,0.3003931652894488,495,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,ON,
+Senior,15 to 64,2018,iva105_2,0.4134174562886429,3.9746586744601853,0.38121145982756605,0.44562345274971976,1503,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,PR,
+Senior,65 to 74,2018,iva105_2,0.39989897955102005,7.714504086567482,0.33943365332156916,0.46036430578047094,389,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,PR,
+Senior,75 and older,2018,iva105_2,0.26448446061026776,10.793901652420823,0.20853103136070594,0.32043788985982957,261,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,PR,
+Senior,15 to 64,2018,iva105_2,0.39731157838562203,4.303716626571327,0.3637978318816757,0.4308253248895684,1399,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,QC,
+Senior,65 to 74,2018,iva105_2,0.3647674069348136,8.678736681865729,0.3027204296952127,0.4268143841744145,372,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,QC,
+Senior,75 and older,2018,iva105_2,0.2619753309634256,12.52556691266692,0.19766127783693138,0.32628938408991986,242,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,QC,
+Senior,15 to 64,2018,iva105_3,0.23875578194377994,7.241724720404069,0.20486793314685953,0.27264363074070036,1098,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AB,
+Senior,65 to 74,2018,iva105_3,0.24208176211645485,15.399788823797861,0.1690141476878372,0.31514937654507247,197,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AB,
+Senior,75 and older,2018,iva105_3,0.1449592489781012,22.995101435220867,0.07962673786957652,0.21029176008662587,117,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AB,*
+Senior,15 to 64,2018,iva105_3,0.23323134127057657,4.6100108923474235,0.2121578276440448,0.2543048548971083,2765,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AT,
+Senior,65 to 74,2018,iva105_3,0.18359591482206605,9.264294514029228,0.15025914952511657,0.21693268011901554,835,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AT,
+Senior,75 and older,2018,iva105_3,0.0765554963817055,16.96348055559836,0.05110246967945174,0.10200852308395926,448,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AT,*
+Senior,15 to 64,2018,iva105_3,0.24794116287987875,5.9741985535559285,0.218909201520563,0.2769731242391945,1483,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,BC,
+Senior,65 to 74,2018,iva105_3,0.2217955277910343,10.942912174352005,0.17422545788518,0.2693655976968886,431,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,BC,
+Senior,75 and older,2018,iva105_3,0.13398842275983575,19.060600081183516,0.08393290762059229,0.1840439378990792,263,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,BC,*
+Senior,15 to 64,2018,iva105_3,0.2313374192484437,4.413618015095419,0.21132550095614758,0.25134933754073985,3056,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior,65 to 74,2018,iva105_3,0.18229763406305022,9.035902542200827,0.1500126436789027,0.21458262444719772,795,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior,75 and older,2018,iva105_3,0.10060045366930029,13.756814275116664,0.07347569366271707,0.12772521367588352,495,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior,15 to 64,2018,iva105_3,0.22428859107306623,6.019864679038616,0.19782541278979573,0.25075176935633675,1503,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,PR,
+Senior,65 to 74,2018,iva105_3,0.17353675763351847,12.56136370578571,0.1308123194719566,0.21626119579508035,389,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,PR,
+Senior,75 and older,2018,iva105_3,0.14053956925223302,17.36606517307246,0.09270430959952206,0.18837482890494398,261,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,PR,*
+Senior,15 to 64,2018,iva105_3,0.2194000885423818,6.713466727346486,0.19053108921640619,0.2482690878683574,1399,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,QC,
+Senior,65 to 74,2018,iva105_3,0.17819036983302736,13.61435799795901,0.13064267280993996,0.22573806685611475,372,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,QC,
+Senior,75 and older,2018,iva105_3,0.0867412043604429,20.74749293523847,0.051468467033796275,0.12201394168708952,242,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,QC,*
+Senior,15 to 64,2018,iva105_4,0.4301176493310672,4.698064641192876,0.3905122549133011,0.46972304374883334,1098,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AB,
+Senior,65 to 74,2018,iva105_4,0.4332779165271743,9.074182401550713,0.35621913276185213,0.5103367002924964,197,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AB,
+Senior,75 and older,2018,iva105_4,0.31912360518124405,15.210501285676683,0.2239863652472548,0.4142608451152333,117,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AB,
+Senior,15 to 64,2018,iva105_4,0.3897177024533064,3.283180674481065,0.364639696143747,0.41479570876286576,2765,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AT,
+Senior,65 to 74,2018,iva105_4,0.3599341198350077,5.907040581201318,0.3182624347085539,0.40160580496146153,835,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AT,
+Senior,75 and older,2018,iva105_4,0.32031822868313903,8.400512948049615,0.26757878422065406,0.373057673145624,448,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AT,
+Senior,15 to 64,2018,iva105_4,0.38894369954980673,4.321689039300346,0.3559987879557256,0.42188861114388787,1483,Health-related/personal care,Older Canadians Rate of Informal Volunteering,BC,
+Senior,65 to 74,2018,iva105_4,0.40930291171372457,7.243296637882915,0.35119581234081404,0.4674100110866351,431,Health-related/personal care,Older Canadians Rate of Informal Volunteering,BC,
+Senior,75 and older,2018,iva105_4,0.2890544349020735,11.75577930196706,0.22245367992697707,0.35565518987716993,263,Health-related/personal care,Older Canadians Rate of Informal Volunteering,BC,
+Senior,15 to 64,2018,iva105_4,0.3706119254116001,3.1642513141638067,0.34762724603648093,0.39359660478671926,3056,Health-related/personal care,Older Canadians Rate of Informal Volunteering,ON,
+Senior,65 to 74,2018,iva105_4,0.4071750412228133,5.167188915849841,0.3659383719177948,0.44841171052783174,795,Health-related/personal care,Older Canadians Rate of Informal Volunteering,ON,
+Senior,75 and older,2018,iva105_4,0.3129623319048684,8.06001587417526,0.26352260566995933,0.36240205813977744,495,Health-related/personal care,Older Canadians Rate of Informal Volunteering,ON,
+Senior,15 to 64,2018,iva105_4,0.4310014722821175,3.7544830104847273,0.3992855760583909,0.4627173685058441,1503,Health-related/personal care,Older Canadians Rate of Informal Volunteering,PR,
+Senior,65 to 74,2018,iva105_4,0.42875225986577226,7.231905926258071,0.367979734818913,0.4895247849126315,389,Health-related/personal care,Older Canadians Rate of Informal Volunteering,PR,
+Senior,75 and older,2018,iva105_4,0.3095686619066898,9.622113989830716,0.2511871176310864,0.3679502061822932,261,Health-related/personal care,Older Canadians Rate of Informal Volunteering,PR,
+Senior,15 to 64,2018,iva105_4,0.4039258230418688,4.2851405064791,0.3700012198696473,0.4378504262140903,1399,Health-related/personal care,Older Canadians Rate of Informal Volunteering,QC,
+Senior,65 to 74,2018,iva105_4,0.3855726235440368,8.683952634895311,0.3199472592043582,0.45119798788371546,372,Health-related/personal care,Older Canadians Rate of Informal Volunteering,QC,
+Senior,75 and older,2018,iva105_4,0.309837769796865,10.945656051088125,0.2433679890844067,0.3763075505093233,242,Health-related/personal care,Older Canadians Rate of Informal Volunteering,QC,
+Senior,15 to 64,2018,iva105_5,0.12677062787289758,11.37806197779797,0.09850002776767144,0.15504122797812372,1098,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AB,
+Senior,65 to 74,2018,iva105_5,0.06327422595263024,28.0915825435705,0.028436392549672153,0.09811205935558834,197,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AB,*
+Senior,75 and older,2018,iva105_5,0.010138190570142138,87.3921609753126,-0.0072270586266288146,0.027503439766913093,117,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AB,...
+Senior,15 to 64,2018,iva105_5,0.10645597319475135,8.94946007772318,0.08778293607252018,0.12512901031698254,2765,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AT,
+Senior,65 to 74,2018,iva105_5,0.06865401450659195,15.773046485327816,0.04742989845242131,0.08987813056076259,835,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AT,
+Senior,75 and older,2018,iva105_5,0.03448706160700703,32.92200917785672,0.0122339566891792,0.05674016652483485,448,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AT,*
+Senior,15 to 64,2018,iva105_5,0.12071905608812589,9.224398387154872,0.09889366808306956,0.14254444409318223,1483,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,BC,
+Senior,65 to 74,2018,iva105_5,0.09125575247287782,17.76813803424785,0.059476018239080546,0.12303548670667508,431,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,BC,*
+Senior,75 and older,2018,iva105_5,0.05900263657608522,31.860087261424564,0.02215866226582315,0.09584661088634729,263,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,BC,*
+Senior,15 to 64,2018,iva105_5,0.13264629509862164,5.927827003104727,0.11723501420675905,0.14805757599048422,3056,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior,65 to 74,2018,iva105_5,0.08647549279048475,12.561611459906405,0.06518496180791165,0.10776602377305784,795,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior,75 and older,2018,iva105_5,0.051112723280174355,24.21803682638201,0.026851312729438224,0.07537413383091049,495,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,ON,*
+Senior,15 to 64,2018,iva105_5,0.14095412663193552,9.464875315839267,0.11480598773599682,0.16710226552787422,1503,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,PR,
+Senior,65 to 74,2018,iva105_5,0.09104186526415381,18.182235342687527,0.05859770688683867,0.12348602364146895,389,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,PR,*
+Senior,75 and older,2018,iva105_5,0.05655678185539078,26.202786509444167,0.02751118808468675,0.08560237562609481,261,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,PR,*
+Senior,15 to 64,2018,iva105_5,0.10553388417526464,11.344926431762381,0.08206774199933772,0.12900002635119157,1399,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,QC,
+Senior,65 to 74,2018,iva105_5,0.0838233039695867,22.868375549858104,0.046252699568819215,0.12139390837035419,372,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,QC,*
+Senior,75 and older,2018,iva105_5,0.03415308893272881,35.83669650902077,0.010164425632761338,0.058141752232696284,242,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,QC,...
+Senior,15 to 64,2018,iva2_005,0.076870162276623355,14.299298971060567,0.055326445280744464,0.09841387927250225,1098,Other assistance,Older Canadians Rate of Informal Volunteering,AB,
+Senior,65 to 74,2018,iva2_005,0.11049208038168,26.53529704901823,0.053027108913378376,0.1679570518499816,197,Other assistance,Older Canadians Rate of Informal Volunteering,AB,*
+Senior,75 and older,2018,iva2_005,0.05362366026088303,39.121564142598736,0.01250672310477706,0.094740597416989,117,Other assistance,Older Canadians Rate of Informal Volunteering,AB,...
+Senior,15 to 64,2018,iva2_005,0.058649296051318786,9.90975382770747,0.04725798368687964,0.07004060841575793,2765,Other assistance,Older Canadians Rate of Informal Volunteering,AT,
+Senior,65 to 74,2018,iva2_005,0.07780020484723314,13.767532324539106,0.056806700647122954,0.09879370904734333,835,Other assistance,Older Canadians Rate of Informal Volunteering,AT,
+Senior,75 and older,2018,iva2_005,0.0947607913594836,19.634850679997058,0.05829342729039786,0.13122815542856936,448,Other assistance,Older Canadians Rate of Informal Volunteering,AT,*
+Senior,15 to 64,2018,iva2_005,0.08076333272614557,11.110337453898712,0.06317642143812188,0.09835024401416925,1483,Other assistance,Older Canadians Rate of Informal Volunteering,BC,
+Senior,65 to 74,2018,iva2_005,0.11468586161933891,16.954120136472632,0.0765763635365338,0.15279535970214403,431,Other assistance,Older Canadians Rate of Informal Volunteering,BC,*
+Senior,75 and older,2018,iva2_005,0.09994785065623164,28.386205248567453,0.04434092448885824,0.15555477682360505,263,Other assistance,Older Canadians Rate of Informal Volunteering,BC,*
+Senior,15 to 64,2018,iva2_005,0.06431292589326189,9.648198732617159,0.052151273124744185,0.07647457866177959,3056,Other assistance,Older Canadians Rate of Informal Volunteering,ON,
+Senior,65 to 74,2018,iva2_005,0.10213947994328144,14.645873502793991,0.07281994940978212,0.13145901047678077,795,Other assistance,Older Canadians Rate of Informal Volunteering,ON,
+Senior,75 and older,2018,iva2_005,0.07112554060638594,19.752904985478292,0.04358930010604583,0.09866178110672605,495,Other assistance,Older Canadians Rate of Informal Volunteering,ON,*
+Senior,15 to 64,2018,iva2_005,0.0681002772888122,11.845820377453624,0.05228917623944917,0.08391137833817522,1503,Other assistance,Older Canadians Rate of Informal Volunteering,PR,
+Senior,65 to 74,2018,iva2_005,0.061830626794038814,23.333083500509847,0.03355424250244965,0.09010701108562798,389,Other assistance,Older Canadians Rate of Informal Volunteering,PR,*
+Senior,75 and older,2018,iva2_005,0.07183714960665827,26.007842634361168,0.03521856856153043,0.1084557306517861,261,Other assistance,Older Canadians Rate of Informal Volunteering,PR,*
+Senior,15 to 64,2018,iva2_005,0.08199274184270544,12.486630326327944,0.061926374659781534,0.10205910902562934,1399,Other assistance,Older Canadians Rate of Informal Volunteering,QC,
+Senior,65 to 74,2018,iva2_005,0.07697754742969082,24.137266359453694,0.04056087631310927,0.11339421854627237,372,Other assistance,Older Canadians Rate of Informal Volunteering,QC,*
+Senior,75 and older,2018,iva2_005,0.061485802947263454,29.75251025549921,0.02563106493657609,0.09734054095795082,242,Other assistance,Older Canadians Rate of Informal Volunteering,QC,*
+Senior2,15 to 74,2018,iva105_1,0.5798402024762528,3.2603144751129465,0.5427878397890624,0.6168925651634432,1295,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AB,
+Senior2,75 and older,2018,iva105_1,0.29265067834344927,17.219796321194007,0.19388054584422648,0.39142081084267205,117,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AB,*
+Senior2,15 to 74,2018,iva105_1,0.5385749653298365,2.2176231717205646,0.5151660115554083,0.5619839191042647,3600,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AT,
+Senior2,75 and older,2018,iva105_1,0.24336580218816367,10.315055608079296,0.194164203355257,0.2925674010210704,448,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,AT,
+Senior2,15 to 74,2018,iva105_1,0.521117869622491,3.247438690528761,0.48794943180161415,0.5542863074433677,1914,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,BC,
+Senior2,75 and older,2018,iva105_1,0.23129385418399068,13.354226100443084,0.1707554582931105,0.29183225007487085,263,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,BC,
+Senior2,15 to 74,2018,iva105_1,0.48599889166643506,2.3563721284820196,0.46355349695460846,0.5084442863782617,3851,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,75 and older,2018,iva105_1,0.23240997246703882,8.920342011822825,0.19177646088032915,0.27304348405374845,495,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,15 to 74,2018,iva105_1,0.5522201811118492,2.784128755158925,0.5220866739582029,0.5823536882654956,1892,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,PR,
+Senior2,75 and older,2018,iva105_1,0.24745935625479945,11.625636460607167,0.19107369108762184,0.30384502142197706,261,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,PR,
+Senior2,15 to 74,2018,iva105_1,0.48235931307641583,3.309073920205617,0.4510751005295645,0.5136435256232671,1771,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,QC,
+Senior2,75 and older,2018,iva105_1,0.1704522094708304,17.317136650073806,0.11259908616229966,0.22830533277936113,242,"Cooking, cleaning, work around home",Older Canadians Rate of Informal Volunteering,QC,*
+Senior2,15 to 74,2018,iva105_2,0.39873849774859316,4.814123480032785,0.3611154923505216,0.4363615031466647,1295,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AB,
+Senior2,75 and older,2018,iva105_2,0.236471395628969,18.283217388797482,0.15173317726490018,0.3212096139930378,117,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AB,*
+Senior2,15 to 74,2018,iva105_2,0.4174658232294455,3.01400676021308,0.3928046780500215,0.44212696840886945,3600,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AT,
+Senior2,75 and older,2018,iva105_2,0.29146486596304266,8.764243924680873,0.24139819002368668,0.34153154190239865,448,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,AT,
+Senior2,15 to 74,2018,iva105_2,0.38580845260588964,3.979610158431462,0.3557158077263592,0.4159010974854201,1914,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,BC,
+Senior2,75 and older,2018,iva105_2,0.23311637992731057,12.729629888770805,0.17495473802606673,0.29127802182855445,263,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,BC,
+Senior2,15 to 74,2018,iva105_2,0.39821305111040817,2.7612294991900797,0.3766621176968482,0.4197639845239681,3851,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,75 and older,2018,iva105_2,0.25938389659466626,8.066607457676406,0.2183746278998837,0.3003931652894488,495,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,15 to 74,2018,iva105_2,0.411832412658817,3.665994662688722,0.382241358047484,0.44142346727014997,1892,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,PR,
+Senior2,75 and older,2018,iva105_2,0.26448446061026776,10.793901652420823,0.20853103136070594,0.32043788985982957,261,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,PR,
+Senior2,15 to 74,2018,iva105_2,0.3926733969130266,3.887576083836306,0.3627536116568867,0.4225931821691665,1771,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,QC,
+Senior2,75 and older,2018,iva105_2,0.2619753309634256,12.52556691266692,0.19766127783693138,0.32628938408991986,242,"Shopping, driving, accompaniment",Older Canadians Rate of Informal Volunteering,QC,
+Senior2,15 to 74,2018,iva105_3,0.23909057389090574,6.688187252995313,0.20774913224710695,0.27043201553470453,1295,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AB,
+Senior2,75 and older,2018,iva105_3,0.1449592489781012,22.995101435220867,0.07962673786957652,0.21029176008662587,117,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AB,*
+Senior2,15 to 74,2018,iva105_3,0.22533892666032312,4.125010195455935,0.20712056418298458,0.24355728913766167,3600,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AT,
+Senior2,75 and older,2018,iva105_3,0.0765554963817055,16.96348055559836,0.05110246967945174,0.10200852308395926,448,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,AT,*
+Senior2,15 to 74,2018,iva105_3,0.24430222190142545,5.335333326427386,0.21875538912897236,0.26984905467387854,1914,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,BC,
+Senior2,75 and older,2018,iva105_3,0.13398842275983575,19.060600081183516,0.08393290762059229,0.1840439378990792,263,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,BC,*
+Senior2,15 to 74,2018,iva105_3,0.22517005200874438,4.091792466033265,0.20711194103810882,0.24322816297937994,3851,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,75 and older,2018,iva105_3,0.10060045366930029,13.756814275116664,0.07347569366271707,0.12772521367588352,495,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,15 to 74,2018,iva105_3,0.21833793022150275,5.644649560461147,0.19418252849444084,0.24249333194856465,1892,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,PR,
+Senior2,75 and older,2018,iva105_3,0.14053956925223302,17.36606517307246,0.09270430959952206,0.18837482890494398,261,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,PR,*
+Senior2,15 to 74,2018,iva105_3,0.21352689696036503,6.18749064491365,0.18763193751842291,0.23942185640230715,1771,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,QC,
+Senior2,75 and older,2018,iva105_3,0.0867412043604429,20.74749293523847,0.051468467033796275,0.12201394168708952,242,"Paperwork tasks, taxes, etc.",Older Canadians Rate of Informal Volunteering,QC,*
+Senior2,15 to 74,2018,iva105_4,0.43043576067061,4.318976395237035,0.39399920916905296,0.46687231217216707,1295,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AB,
+Senior2,75 and older,2018,iva105_4,0.31912360518124405,15.210501285676683,0.2239863652472548,0.4142608451152333,117,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AB,
+Senior2,15 to 74,2018,iva105_4,0.384981883716135,2.9031630942467754,0.36307604839193386,0.40688771904033616,3600,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AT,
+Senior2,75 and older,2018,iva105_4,0.32031822868313903,8.400512948049615,0.26757878422065406,0.373057673145624,448,Health-related/personal care,Older Canadians Rate of Informal Volunteering,AT,
+Senior2,15 to 74,2018,iva105_4,0.3917772880696709,3.804583566483055,0.36256305603244565,0.4209915201068961,1914,Health-related/personal care,Older Canadians Rate of Informal Volunteering,BC,
+Senior2,75 and older,2018,iva105_4,0.2890544349020735,11.75577930196706,0.22245367992697707,0.35565518987716993,263,Health-related/personal care,Older Canadians Rate of Informal Volunteering,BC,
+Senior2,15 to 74,2018,iva105_4,0.3752101951997511,2.832986284405955,0.35437645743091073,0.3960439329685914,3851,Health-related/personal care,Older Canadians Rate of Informal Volunteering,ON,
+Senior2,75 and older,2018,iva105_4,0.3129623319048684,8.06001587417526,0.26352260566995933,0.36240205813977744,495,Health-related/personal care,Older Canadians Rate of Informal Volunteering,ON,
+Senior2,15 to 74,2018,iva105_4,0.43073775175488294,3.400249705557263,0.40203180733693267,0.4594436961728332,1892,Health-related/personal care,Older Canadians Rate of Informal Volunteering,PR,
+Senior2,75 and older,2018,iva105_4,0.3095686619066898,9.622113989830716,0.2511871176310864,0.3679502061822932,261,Health-related/personal care,Older Canadians Rate of Informal Volunteering,PR,
+Senior2,15 to 74,2018,iva105_4,0.4013101328559207,3.880548935600523,0.37078754299154315,0.43183272272029827,1771,Health-related/personal care,Older Canadians Rate of Informal Volunteering,QC,
+Senior2,75 and older,2018,iva105_4,0.309837769796865,10.945656051088125,0.2433679890844067,0.3763075505093233,242,Health-related/personal care,Older Canadians Rate of Informal Volunteering,QC,
+Senior2,15 to 74,2018,iva105_5,0.12037910329045583,10.84673075102707,0.09478746701116275,0.1459707395697489,1295,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AB,
+Senior2,75 and older,2018,iva105_5,0.010138190570142138,87.3921609753126,-0.0072270586266288146,0.027503439766913093,117,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AB,...
+Senior2,15 to 74,2018,iva105_5,0.10044517098363062,8.204526851697533,0.08429300778068619,0.11659733418657506,3600,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AT,
+Senior2,75 and older,2018,iva105_5,0.03448706160700703,32.92200917785672,0.0122339566891792,0.05674016652483485,448,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,AT,*
+Senior2,15 to 74,2018,iva105_5,0.1166183630844251,8.403552032682763,0.09741054978892082,0.13582617637992936,1914,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,BC,
+Senior2,75 and older,2018,iva105_5,0.05900263657608522,31.860087261424564,0.02215866226582315,0.09584661088634729,263,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,BC,*
+Senior2,15 to 74,2018,iva105_5,0.12683973839146356,5.576158737857879,0.11297733421650637,0.14070214256642077,3851,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,ON,
+Senior2,75 and older,2018,iva105_5,0.051112723280174355,24.21803682638201,0.026851312729438224,0.07537413383091049,495,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,ON,*
+Senior2,15 to 74,2018,iva105_5,0.1351019057444272,8.860031668409968,0.11164099645024267,0.15856281503861175,1892,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,PR,
+Senior2,75 and older,2018,iva105_5,0.05655678185539078,26.202786509444167,0.02751118808468675,0.08560237562609481,261,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,PR,*
+Senior2,15 to 74,2018,iva105_5,0.10243970151888697,10.36742836394599,0.08162417318056041,0.12325522985721353,1771,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,QC,
+Senior2,75 and older,2018,iva105_5,0.03415308893272881,35.83669650902077,0.010164425632761338,0.058141752232696284,242,"Teaching, coaching, reading assistance, etc.",Older Canadians Rate of Informal Volunteering,QC,...
+Senior2,15 to 74,2018,iva2_005,0.08025453225001425,12.677060939935695,0.0603140233859035,0.100195041114125,1295,Other assistance,Older Canadians Rate of Informal Volunteering,AB,
+Senior2,75 and older,2018,iva2_005,0.05362366026088303,39.121564142598736,0.01250672310477706,0.094740597416989,117,Other assistance,Older Canadians Rate of Informal Volunteering,AB,...
+Senior2,15 to 74,2018,iva2_005,0.06169443786222473,8.377914426039652,0.051563957884534356,0.0718249178399151,3600,Other assistance,Older Canadians Rate of Informal Volunteering,AT,
+Senior2,75 and older,2018,iva2_005,0.0947607913594836,19.634850679997058,0.05829342729039786,0.13122815542856936,448,Other assistance,Older Canadians Rate of Informal Volunteering,AT,*
+Senior2,15 to 74,2018,iva2_005,0.08548465925207407,9.374268770708937,0.06977836690079739,0.10119095160335076,1914,Other assistance,Older Canadians Rate of Informal Volunteering,BC,
+Senior2,75 and older,2018,iva2_005,0.09994785065623164,28.386205248567453,0.04434092448885824,0.15555477682360505,263,Other assistance,Older Canadians Rate of Informal Volunteering,BC,*
+Senior2,15 to 74,2018,iva2_005,0.06907008886526227,8.214300572511869,0.05794998878148194,0.08019018894904259,3851,Other assistance,Older Canadians Rate of Informal Volunteering,ON,
+Senior2,75 and older,2018,iva2_005,0.07112554060638594,19.752904985478292,0.04358930010604583,0.09866178110672605,495,Other assistance,Older Canadians Rate of Informal Volunteering,ON,*
+Senior2,15 to 74,2018,iva2_005,0.06736515973297703,10.714889270087374,0.05321793924311859,0.08151238022283548,1892,Other assistance,Older Canadians Rate of Informal Volunteering,PR,
+Senior2,75 and older,2018,iva2_005,0.07183714960665827,26.007842634361168,0.03521856856153043,0.1084557306517861,261,Other assistance,Older Canadians Rate of Informal Volunteering,PR,*
+Senior2,15 to 74,2018,iva2_005,0.08127797846816173,11.202061973928648,0.06343287972451096,0.0991230772118125,1771,Other assistance,Older Canadians Rate of Informal Volunteering,QC,
+Senior2,75 and older,2018,iva2_005,0.061485802947263454,29.75251025549921,0.02563106493657609,0.09734054095795082,242,Other assistance,Older Canadians Rate of Informal Volunteering,QC,*

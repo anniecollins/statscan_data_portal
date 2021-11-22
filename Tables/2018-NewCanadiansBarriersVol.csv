@@ -1,0 +1,289 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+ImmStat,Native-born,2018,nv_020,0.40200582408931307,2.536586761671258,0.38201962737772216,0.421992020800904,5495,Gave enough time already,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_020,0.408578089374046,5.569146537917334,0.36398045634371273,0.45317572240437926,988,Gave enough time already,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_020,0.3503925714028449,16.47320824491133,0.2372616902422286,0.4635234525634612,142,Gave enough time already,New Canadians Barriers to Volunteering,CA,
+ImmStat,Native-born,2018,nv_030,0.04993010318241311,9.688778813042582,0.04044854758482655,0.05941165877999967,5450,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_030,0.06297009223433907,15.305946024949685,0.0440796294320765,0.08186055503660164,965,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_030,0.0563836387647754,44.60303540537549,0.0070928683631518025,0.105674409166399,140,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,CA,...
+ImmStat,Native-born,2018,nv_040,0.2551518495541598,3.7065291448015008,0.23661592593460382,0.2736877731737158,5479,No one asked,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_040,0.25308001103222144,8.006693233305882,0.2133645941941292,0.29279542787031365,971,No one asked,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_040,0.22442634919735982,21.13899308329762,0.1314427757732406,0.31740992262147905,140,No one asked,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_050,0.12379107226298912,6.479747645343302,0.10806951693895772,0.13951262758702052,5452,Unsure how to get more involved,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_050,0.1988614123426049,10.437729657523217,0.1581791913393301,0.23954363334587972,961,Unsure how to get more involved,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_050,0.2430099901726073,23.060448489799747,0.13317518897664996,0.3528447913685646,139,Unsure how to get more involved,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_060,0.1774763119327068,4.17280199014982,0.16296133790397174,0.19199128596144185,5477,Health probelms/physically unable,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_060,0.15321989492558258,9.061295081262207,0.12600832962095124,0.18043146023021392,962,Health probelms/physically unable,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_060,0.12006329411700671,27.929073266854648,0.05434067366191761,0.1857859145720958,141,Health probelms/physically unable,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_070,0.7365561257624896,1.2116643382847692,0.7190642548872885,0.7540479966376907,6174,Did not have the time,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_070,0.75686448889509506,2.399129435213623,0.7212751517435215,0.7924538260466686,1105,Did not have the time,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_070,0.7698523897614078,6.333117197832328,0.6742930636946654,0.8654117158281502,162,Did not have the time,New Canadians Barriers to Volunteering,CA,
+ImmStat,Native-born,2018,nv_080,0.10171245628347805,7.403095874805703,0.08695418099087303,0.11647073157608308,5453,Financial cost of volunteering,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_080,0.13189043919566093,11.263984810270477,0.10277298093271246,0.16100789745860938,966,Financial cost of volunteering,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_080,0.10211099151812128,28.97213874716754,0.044127930238129665,0.1600940527981129,140,Financial cost of volunteering,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_090,0.42176527664943253,2.3149759168699187,0.4026286497188026,0.4409019035800625,5489,Unable to make commitment,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_090,0.4796032982960714,4.573855608575929,0.43660881812251245,0.5225977784696303,968,Unable to make commitment,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_090,0.3611623134844241,14.659340849637218,0.25739395176139035,0.4649306752074579,141,Unable to make commitment,New Canadians Barriers to Volunteering,CA,
+ImmStat,Native-born,2018,nv_100,0.18832427991933287,3.839809118219656,0.1741512063282301,0.20249735351043563,6055,Preferred to give money instead,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_100,0.20913936685247314,7.6582025468008474,0.17774796370289986,0.24053077000204642,1053,Preferred to give money instead,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_100,0.14709395908188982,22.404166403971697,0.08250300226641073,0.21168491589736893,158,Preferred to give money instead,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_110,0.23523766579784605,3.7506080254998295,0.21794521172265807,0.25253011987303403,5474,No interest,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_110,0.20168365624494938,8.716428648220944,0.1672282498790011,0.23613906261089768,959,No interest,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_110,0.19637056714517387,24.172107001649245,0.10333714561178889,0.2894039886785589,140,No interest,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_120,0.17471397065473587,5.010030231950387,0.15755796931756255,0.1918699719919092,5445,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_120,0.2164540462647289,8.379961041619987,0.18090272063069524,0.25200537189876254,959,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_120,0.2887742153325499,21.184659147271358,0.16887178549044113,0.4086766451746586,140,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_130,0.15538655055266518,4.955898549174707,0.14029326028378586,0.1704798408215445,5444,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,CA,
+ImmStat,Naturalized,2018,nv_130,0.1750605959117781,9.346657058937039,0.14299105065942352,0.2071301411641327,962,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,CA,
+ImmStat,Non-Canadian,2018,nv_130,0.15276020183856462,25.454740056497865,0.07654756620529789,0.22897283747183134,140,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,CA,*
+ImmStat,Native-born,2018,nv_020,0.37666273090088265,2.97103678536455,0.35472918889029526,0.39859627291147004,4789,Gave enough time already,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_020,0.3992972381222529,5.709806344242852,0.35461182513429684,0.4439826511102089,910,Gave enough time already,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_020,0.37201102786004703,16.869106183018552,0.24901361481549572,0.49500844090459833,124,Gave enough time already,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_030,0.051716921611589646,10.878480631879292,0.04069013424531326,0.06274370897786603,4753,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_030,0.06745233112310019,15.980658334337464,0.046325239257860626,0.08857942298833975,890,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_030,0.06111227385337978,46.94446316773496,0.004883202470219804,0.11734134523653975,123,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,CA (without QC),...
+ImmStat,Native-born,2018,nv_040,0.2589935470736428,4.141110240820798,0.23797252507712674,0.28001456907015887,4779,No one asked,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_040,0.25966918893227414,8.260018065927536,0.2176304664596507,0.3017079114048976,895,No one asked,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_040,0.21017054318843648,22.064884022013413,0.1192793956234823,0.3010616907533906,123,No one asked,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_050,0.12705794086613365,6.515506930986296,0.11083243988973754,0.14328344184252975,4755,Unsure how to get more involved,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_050,0.20566818732776615,10.974906830983253,0.16142809206205513,0.24990828259347717,886,Unsure how to get more involved,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_050,0.269141468624476,23.529763447706543,0.1450201816463974,0.39326275560255464,122,Unsure how to get more involved,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_060,0.18344268208097475,4.670575566001803,0.166650045644971,0.2002353185169785,4775,Health probelms/physically unable,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_060,0.1630356864759127,9.112107341936511,0.1339184874767062,0.19215288547511922,887,Health probelms/physically unable,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_060,0.12362016608562433,29.620330374605448,0.05185274970874647,0.1953875824625022,123,Health probelms/physically unable,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_070,0.7379372945449675,1.2613006496820747,0.7196947182976763,0.7561798707922587,5391,Did not have the time,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_070,0.7743722063567283,2.2911075531305447,0.73959911311822,0.8091452995952366,1015,Did not have the time,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_070,0.747666021367914,7.43808671138552,0.6386684121787778,0.8566636305570503,140,Did not have the time,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Native-born,2018,nv_080,0.1083390068775933,8.073003536623112,0.09119674663716601,0.1254812671180206,4758,Financial cost of volunteering,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_080,0.1338624983859238,11.574855743153693,0.10349404990213505,0.1642309468697125,891,Financial cost of volunteering,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_080,0.09709684148683229,32.588732279022715,0.03507842685257526,0.15911525612108932,123,Financial cost of volunteering,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_090,0.42508430626196325,2.4730456984047486,0.4044801277403497,0.4456884847835768,4784,Unable to make commitment,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_090,0.4919878569829326,4.762105167392075,0.44606790163415466,0.5379078123317106,893,Unable to make commitment,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_090,0.34428757220272616,16.695286629549443,0.2316292402260953,0.456945904179357,124,Unable to make commitment,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_100,0.1843297097454123,4.186117770522828,0.16920612052744827,0.19945329896337632,5282,Preferred to give money instead,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_100,0.20603692620329767,8.095189027020595,0.17334653277041145,0.23872731963618388,965,Preferred to give money instead,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_100,0.13897038189754637,24.544208920722596,0.07211761584849855,0.2058231479465942,137,Preferred to give money instead,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_110,0.22145589364671392,4.332492413700086,0.202650902007004,0.24026088528642384,4774,No interest,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_110,0.20797059419596411,9.031909483503691,0.17115518769276372,0.2447860006991645,884,No interest,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_110,0.19894579407268248,26.387799912511735,0.09605274536579654,0.3018388427795684,123,No interest,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_120,0.1790155041287911,5.3714104081978515,0.1601691618958348,0.19786184636174742,4748,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_120,0.22248093113483366,8.867701076795905,0.18381291158704138,0.26114895068262595,884,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_120,0.27059162497027944,24.112191513918113,0.14271265598594704,0.3984705939546118,123,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_130,0.1628989628034779,5.190475573132157,0.14632701481103444,0.17947091079592137,4747,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,nv_130,0.18615880439572297,9.499865443494436,0.15149716290275211,0.22082044588869382,887,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,nv_130,0.14073693347016175,28.768094200601485,0.06138321779246461,0.2200906491478589,123,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,nv_020,0.322134206196265,8.341273905607212,0.26946978482948003,0.37479862756304994,473,Gave enough time already,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_020,0.3775334808148513,17.772116989498915,0.24602834120256703,0.5090386204271355,97,Gave enough time already,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_020,0.28561984194272266,58.676469614984384,-0.042853736120188446,0.6140934200056338,11,Gave enough time already,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_020,0.36743265913467954,4.7643376252653,0.33312205405541856,0.4017432642139405,1497,Gave enough time already,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_020,0.479581061747685,22.81116897805774,0.2651648308598681,0.6939972926355019,45,Gave enough time already,New Canadians Barriers to Volunteering,AT,*
+ImmStat,Non-Canadian,2018,nv_020,0.3383782889226155,46.739903100469355,0.028394923707666497,0.6483616541375645,16,Gave enough time already,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_020,0.4175114570613624,6.085433633228476,0.3677139021639688,0.46730901195875596,680,Gave enough time already,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_020,0.4168688263532274,9.712805204981086,0.33751055676144914,0.4962270959450057,233,Gave enough time already,New Canadians Barriers to Volunteering,BC,
+ImmStat,Non-Canadian,2018,nv_020,0.5401276120893028,22.12640871498919,0.30589066398183784,0.7743645601967678,32,Gave enough time already,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Native-born,2018,nv_020,0.3925901778577826,5.051715280279461,0.3537191176484736,0.43146123806709163,1387,Gave enough time already,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_020,0.4263308656588609,7.950392578787681,0.3598979304933958,0.492763800824326,441,Gave enough time already,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_020,0.3423704596119809,25.991706926655993,0.1679573286801315,0.5167835905438304,54,Gave enough time already,New Canadians Barriers to Volunteering,ON,*
+ImmStat,Native-born,2018,nv_020,0.33930544304310506,6.408557352769895,0.29668684170406096,0.38192404438214916,752,Gave enough time already,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_020,0.1527237021417923,24.554289350121785,0.07922462205843088,0.22622278222515368,94,Gave enough time already,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_020,0.24158533592997877,79.42217813887241,-0.13447753198460838,0.6176482038445659,11,Gave enough time already,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_020,0.4993952281168275,4.830998682635559,0.45210957431050003,0.546680881923155,706,Gave enough time already,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_020,0.4830850956947636,16.016174569931646,0.33143924786833007,0.6347309435211972,78,Gave enough time already,New Canadians Barriers to Volunteering,QC,
+ImmStat,Non-Canadian,2018,nv_020,0.20021527128524533,50.01190019798428,0.00396121271954325,0.3964693298509474,18,Gave enough time already,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_030,0.059604927612605114,24.460809033900617,0.03102895157701592,0.08818090364819431,471,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Naturalized,2018,nv_030,0.09261699028540255,36.91999314729708,0.02559761633021293,0.15963636424059216,96,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Non-Canadian,2018,nv_030,0.06618312867413977,129.06871094713753,-0.10124034847027476,0.2336066058185543,11,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_030,0.04327326890834108,17.119867129930206,0.028753216488439072,0.05779332132824309,1487,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,AT,*
+ImmStat,Naturalized,2018,nv_030,0.02345603769861874,90.58903723909418,-0.018190450525535633,0.0651025259227731,43,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_030,0,NA,0,0,16,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,AT,
+ImmStat,Native-born,2018,nv_030,0.04211951346575612,24.57668285347668,0.02183079096458744,0.0624082359669248,669,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Naturalized,2018,nv_030,0.08546501774013221,26.45477954854411,0.04115105124744723,0.1297789842328172,226,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_030,0.16885172837757814,59.511480551731886,-0.028097533016609083,0.36580098977176534,32,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_030,0.0497891083431717,18.55627270433424,0.031680995756522015,0.06789722092982138,1374,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,ON,*
+ImmStat,Naturalized,2018,nv_030,0.059693796575660124,24.464536917471147,0.031070853173269387,0.08831673997805087,432,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,ON,*
+ImmStat,Non-Canadian,2018,nv_030,0.034056214455225046,70.77422195852458,-0.013184838249450138,0.08129726715990024,53,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_030,0.06998955978640362,17.801515086864534,0.045569972502866665,0.09440914706994057,752,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Naturalized,2018,nv_030,0.03436590927509712,49.22741984559427,0.0012083156973440937,0.06752350285285014,93,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Non-Canadian,2018,nv_030,0,NA,0,0,11,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_030,0.043047060151129614,20.707497891207012,0.02557600180870304,0.06051811849355619,697,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Naturalized,2018,nv_030,0.026327967199221237,80.78650784748355,-0.015359379535388178,0.06801531393383065,75,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Non-Canadian,2018,nv_030,0.02320263166297584,115.01386018739068,-0.029101442207406552,0.07550670553335823,17,Dissatisfied with previous experience,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_040,0.25490690909415303,11.053083860074603,0.19968477795490785,0.3101290402333982,472,No one asked,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_040,0.19205265122794754,26.59889785545348,0.09193006952121706,0.292175232934678,97,No one asked,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_040,0.200931835658067,67.964486681808,-0.06672533573148764,0.46858900704762163,11,No one asked,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_040,0.26763452416497896,6.218599128203676,0.23501461192900433,0.3002544364009536,1496,No one asked,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_040,0.16280076794050174,39.371595903541504,0.03717244588928176,0.28842908999172173,44,No one asked,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_040,0.4269572452296504,40.28156147656454,0.08987275072713474,0.764041739732166,16,No one asked,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_040,0.2750216786522921,9.076749882121259,0.22609503911725087,0.32394831818733333,676,No one asked,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_040,0.2630854945263984,15.51180348670276,0.183100726662893,0.3430702623899038,225,No one asked,New Canadians Barriers to Volunteering,BC,
+ImmStat,Non-Canadian,2018,nv_040,0.2599111759106606,38.77128255088119,0.062403848289308894,0.4574185035320123,32,No one asked,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_040,0.24957854240656752,7.101560500146725,0.21484019722214379,0.2843168875909913,1382,No one asked,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_040,0.28406751408623726,11.074847754393438,0.22240695951292505,0.34572806865954947,436,No one asked,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_040,0.125192329962925,40.5505961551604,0.02569233549688625,0.22469232442896375,53,No one asked,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_040,0.272830232511254,8.595365118947083,0.2268675980081079,0.31879286701440007,753,No one asked,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_040,0.19635103741561905,25.731880310488407,0.09732422177510043,0.2953778530561377,93,No one asked,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_040,0.8045330460598811,21.47386520092057,0.46592115830390585,1.1431449338158564,11,No one asked,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_040,0.24032333254555055,9.692139283511537,0.19467092607730818,0.2859757390137929,700,No one asked,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_040,0.19904255267922838,27.81285728318073,0.09054008109967372,0.30754502425878305,76,No one asked,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Non-Canadian,2018,nv_040,0.3244598665994337,47.051317605455786,0.025246585836276147,0.6236731473625913,17,No one asked,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_050,0.10078363963795517,20.157741424641898,0.060965588583370714,0.14060169069253964,470,Unsure how to get more involved,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Naturalized,2018,nv_050,0.12852287314164298,33.40278912868563,0.04438117967005961,0.21266456661322636,96,Unsure how to get more involved,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Non-Canadian,2018,nv_050,0.1716999498279394,78.74565567934116,-0.09329943319122957,0.4366993328471084,11,Unsure how to get more involved,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_050,0.15979033281365657,9.905292028163457,0.1287686126235042,0.19081205300380893,1488,Unsure how to get more involved,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_050,0.16734256316170146,41.98237820744931,0.029646493379363092,0.3050386329440398,43,Unsure how to get more involved,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_050,0.26366382927163984,60.84358531830928,-0.050758545793434084,0.5780862043367138,16,Unsure how to get more involved,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_050,0.12005552111027447,14.161175784705055,0.08673363758696254,0.1533774046335864,672,Unsure how to get more involved,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_050,0.2223275433720026,16.973391073878723,0.1483653166033541,0.2962897701406511,225,Unsure how to get more involved,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_050,0.29675810422496174,39.67311223280868,0.06600531997115341,0.52751088847877,32,Unsure how to get more involved,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_050,0.12751608213350485,11.636206088824537,0.09843406966976734,0.15659809459724236,1371,Unsure how to get more involved,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_050,0.2051823593802038,15.845464688354344,0.14145981764582588,0.2689049011145817,428,Unsure how to get more involved,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_050,0.2735386988619546,33.526592127392796,0.0937939221741696,0.4532834755497396,52,Unsure how to get more involved,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_050,0.14064831959990334,13.010356933336048,0.10478323577599911,0.17651340342380756,754,Unsure how to get more involved,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_050,0.31387465015604404,20.173340311685482,0.18977168801594185,0.43797761229614623,94,Unsure how to get more involved,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_050,0.25463499635500775,83.18724244842616,-0.16053208499397081,0.6698020777039864,11,Unsure how to get more involved,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_050,0.11120770597236293,19.441367657442175,0.068832698633646,0.15358271331107987,697,Unsure how to get more involved,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Naturalized,2018,nv_050,0.14303939348227843,32.66785437078346,0.0514543909280569,0.23462439603649995,75,Unsure how to get more involved,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Non-Canadian,2018,nv_050,0.060754582649951226,88.78935618657542,-0.044972936012298965,0.16648210131220142,17,Unsure how to get more involved,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_060,0.14437790434602213,12.94591040576954,0.10774415059318085,0.1810116580988634,470,Health probelms/physically unable,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_060,0.09413554974224714,34.90263550716049,0.029739388952528367,0.1585317105319659,96,Health probelms/physically unable,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Non-Canadian,2018,nv_060,0.2761942465446919,76.89566368776032,-0.14006564637952268,0.6924541394689064,11,Health probelms/physically unable,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_060,0.2146804441048975,7.41072399971425,0.183498641708172,0.245862246501623,1496,Health probelms/physically unable,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_060,0.10207482975501028,47.12525392718077,0.007794637680637581,0.19635502182938297,44,Health probelms/physically unable,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_060,0.2410966734027555,60.94193519340572,-0.046878832661291864,0.52907217946680285,16,Health probelms/physically unable,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_060,0.1726564137302931,10.542342748683131,0.13698108869526587,0.20833173876532035,675,Health probelms/physically unable,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_060,0.18672100586360946,16.866197886522052,0.12499638077338665,0.24844563095383226,224,Health probelms/physically unable,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_060,0.16292813364248765,59.16432735137821,-0.026003249933245015,0.3518595172182203,32,Health probelms/physically unable,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_060,0.1945964957114977,7.865814372449434,0.16459611269490795,0.22459687872808745,1378,Health probelms/physically unable,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_060,0.17594642138165315,12.425060576856382,0.1330987678304263,0.21879407493288,430,Health probelms/physically unable,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_060,0.0939121607496134,40.445524453256766,0.0194663274908958,0.16835799400833099,53,Health probelms/physically unable,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_060,0.1773608576050257,9.633811869477835,0.1438717147377416,0.2108500004723098,756,Health probelms/physically unable,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_060,0.13036413138482728,29.982999997594106,0.053754867204348133,0.20697339556530642,93,Health probelms/physically unable,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_060,0.05608249653811574,152.78779882747895,-0.11186135289417788,0.22402634597040938,11,Health probelms/physically unable,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_060,0.15452584069014733,10.261667508990994,0.1234468329299939,0.18560484845030076,702,Health probelms/physically unable,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_060,0.07335463635657345,38.03851078703437,0.018665739220319333,0.12804353349282757,75,Health probelms/physically unable,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Non-Canadian,2018,nv_060,0.0960682406086029,79.7117009957545,-0.054021153676268266,0.2461576348934741,18,Health probelms/physically unable,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_070,0.7462675230838913,3.133179419466689,0.7004398403168309,0.7920952058509517,548,Did not have the time,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_070,0.7936858120104932,7.868940859991335,0.6712769137080112,0.9160947103129751,113,Did not have the time,New Canadians Barriers to Volunteering,AB,
+ImmStat,Non-Canadian,2018,nv_070,0.5477313598060429,35.85262703444228,0.16284131248034184,0.932621407131744,12,Did not have the time,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_070,0.7134899311714502,2.045481913070037,0.684885614104519,0.7420942482383814,1691,Did not have the time,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_070,0.7067578383227368,10.459110796394942,0.561876153276752,0.8516395233687215,47,Did not have the time,New Canadians Barriers to Volunteering,AT,
+ImmStat,Non-Canadian,2018,nv_070,0.9852853764220723,1.9879377070796127,0.9468958371921649,1.0236749156519795,17,Did not have the time,New Canadians Barriers to Volunteering,AT,
+ImmStat,Native-born,2018,nv_070,0.7461218897374771,2.6609721280787757,0.7072085775581378,0.7850352019168163,770,Did not have the time,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_070,0.7395971022484408,4.824752790462734,0.6696582730297854,0.8095359314670961,262,Did not have the time,New Canadians Barriers to Volunteering,BC,
+ImmStat,Non-Canadian,2018,nv_070,0.781871551171377,11.717189605214944,0.6023126413139397,0.9614304610288142,37,Did not have the time,New Canadians Barriers to Volunteering,BC,
+ImmStat,Native-born,2018,nv_070,0.7404140353427497,2.22939671713542,0.7080613680951299,0.7727667025903696,1559,Did not have the time,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_070,0.7851295091044984,2.8694633426712834,0.7409734737226729,0.829285544486324,487,Did not have the time,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_070,0.7508890085460896,11.041035952259918,0.588396380666647,0.9133816364255323,60,Did not have the time,New Canadians Barriers to Volunteering,ON,
+ImmStat,Native-born,2018,nv_070,0.7272942781128022,2.817225159474991,0.6871355619748198,0.7674529942507846,823,Did not have the time,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_070,0.766784960849646,7.008112616156923,0.6614620752009563,0.8721078464983356,106,Did not have the time,New Canadians Barriers to Volunteering,PR,
+ImmStat,Non-Canadian,2018,nv_070,0.7445459487516801,24.38104739271717,0.38875740934333974,1.1003344881600206,14,Did not have the time,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_070,0.7311822311940591,3.3375684007528825,0.6833518441882992,0.779012618199819,783,Did not have the time,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_070,0.6163770953881155,12.70226603452406,0.4629239526505796,0.7698302381256513,90,Did not have the time,New Canadians Barriers to Volunteering,QC,
+ImmStat,Non-Canadian,2018,nv_070,0.8654836690484117,9.991416038828033,0.6959975981713936,1.0349697399254298,22,Did not have the time,New Canadians Barriers to Volunteering,QC,
+ImmStat,Native-born,2018,nv_080,0.11387367232995238,22.014099691984235,0.06474077822570859,0.16300656643419617,469,Financial cost of volunteering,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Naturalized,2018,nv_080,0.1737080259979125,27.540997377419735,0.0799415401572272,0.2674745118385978,97,Financial cost of volunteering,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_080,0.15300035240182844,94.35334198648732,-0.12994190202707914,0.43594260683073605,11,Financial cost of volunteering,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_080,0.0958342218285962,11.080879520460615,0.07502082595266987,0.11664761770452253,1486,Financial cost of volunteering,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_080,0.03279003475076647,89.87568132883433,-0.024970627458825036,0.09055069696035797,43,Financial cost of volunteering,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_080,0.24516458904409413,52.34936998393652,-0.006381339520552337,0.49671051760874063,16,Financial cost of volunteering,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_080,0.10551890064296192,15.202351008394274,0.07407842521404592,0.13695937607187791,671,Financial cost of volunteering,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_080,0.11624968482941185,23.288018462760597,0.06318905363956784,0.16931031601925586,223,Financial cost of volunteering,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_080,0.13539075906215378,51.01736262173151,1.05695167922637e-5,0.27077094860751527,32,Financial cost of volunteering,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_080,0.11508449670896244,12.693271815770077,0.08645336637161266,0.14371562704631222,1377,Financial cost of volunteering,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_080,0.14151631516752203,15.789564875565615,0.09772129155608958,0.18531133877895448,435,Financial cost of volunteering,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_080,0.07322931804133508,56.606062548425264,-0.008015566842963201,0.15447420292563335,53,Financial cost of volunteering,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_080,0.08857076951141389,14.566265089509653,0.06328438612863227,0.11385715289419551,755,Financial cost of volunteering,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_080,0.061581798978960614,47.02561846676135,0.0048227671663392535,0.11834083079158197,93,Financial cost of volunteering,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Non-Canadian,2018,nv_080,0.07643335767102935,151.65197906055695,-0.15075135883806,0.3036180741801187,11,Financial cost of volunteering,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_080,0.0761477431681193,16.370433178466065,0.051715389918589455,0.10058009641764915,695,Financial cost of volunteering,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_080,0.1156849345842599,43.76086610639226,0.016462288372947845,0.21490758079557193,75,Financial cost of volunteering,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Non-Canadian,2018,nv_080,0.13729546752022137,70.30856599126642,-0.05190078568391113,0.32649172072435384,17,Financial cost of volunteering,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_090,0.44011901887541816,6.850066144374638,0.381029154627892,0.4992088831229443,473,Unable to make commitment,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_090,0.5325200054787653,13.751018021092074,0.3889978758181999,0.6760421351393308,97,Unable to make commitment,New Canadians Barriers to Volunteering,AB,
+ImmStat,Non-Canadian,2018,nv_090,0.3247377465186314,52.60969818372888,-0.01010945520330181,0.6595849482405647,11,Unable to make commitment,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_090,0.4364995265980139,4.181083363785752,0.40072938207928893,0.47226967111673884,1494,Unable to make commitment,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_090,0.3575839425260544,25.9574952446805,0.17566040911629408,0.5395074759358147,43,Unable to make commitment,New Canadians Barriers to Volunteering,AT,*
+ImmStat,Non-Canadian,2018,nv_090,0.7003715954076386,21.68512139114165,0.40269926122682875,0.9980439295884485,16,Unable to make commitment,New Canadians Barriers to Volunteering,AT,*
+ImmStat,Native-born,2018,nv_090,0.4202394193834977,6.0975259252865035,0.370016895462561,0.47046194330443436,677,Unable to make commitment,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_090,0.45017008533705266,9.699370136167634,0.3645908787784329,0.5357492918956724,227,Unable to make commitment,New Canadians Barriers to Volunteering,BC,
+ImmStat,Non-Canadian,2018,nv_090,0.40602933019530035,29.385627988900104,0.17217766109941138,0.6398809992911894,33,Unable to make commitment,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Native-born,2018,nv_090,0.4098881039195777,4.53110093807418,0.3734867831200419,0.4462894247191135,1382,Unable to make commitment,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_090,0.4895536238725038,6.8160812383628615,0.42415281514113606,0.5549544326038716,432,Unable to make commitment,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_090,0.27301932120290273,27.631287918919607,0.1251620789212778,0.4208765634845277,53,Unable to make commitment,New Canadians Barriers to Volunteering,ON,*
+ImmStat,Native-born,2018,nv_090,0.46239931714221333,5.278132466840887,0.4145643411075889,0.5102342931768378,758,Unable to make commitment,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_090,0.5812100654729037,10.803212532935937,0.458145183934261,0.7042749470115462,94,Unable to make commitment,New Canadians Barriers to Volunteering,PR,
+ImmStat,Non-Canadian,2018,nv_090,0.7117728319320125,29.089675986794745,0.30595756430054333,1.1175880995634815,11,Unable to make commitment,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_090,0.40903740860497223,6.2106354102529195,0.3592468321409084,0.45882798506903605,705,Unable to make commitment,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_090,0.37758859629807984,20.24329902665583,0.227776027456995,0.5274011651391647,75,Unable to make commitment,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Non-Canadian,2018,nv_090,0.4798409160047624,30.872949934571164,0.1894898016757361,0.7701920303337888,17,Unable to make commitment,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Native-born,2018,nv_100,0.2088962421398913,10.713308466932622,0.1650328385143339,0.25275964576544874,539,Preferred to give money instead,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_100,0.18560331618504614,23.253378543962,0.10101314884057919,0.2701934835295131,106,Preferred to give money instead,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_100,0.2088680408458126,62.37569878293391,-0.04648175097874721,0.4642178326703724,12,Preferred to give money instead,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_100,0.18790846538274122,6.263485348517904,0.16484043564315928,0.21097649512232317,1661,Preferred to give money instead,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_100,0.2734219820579462,34.115463090052515,0.090598157826976,0.4562458062889164,45,Preferred to give money instead,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_100,0.06460060623761231,92.12091234680582,-0.052038159439719206,0.18123937191494383,17,Preferred to give money instead,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_100,0.1830508591003319,9.418449650383156,0.14925999614881907,0.2168417220518447,742,Preferred to give money instead,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_100,0.22313846261196224,15.0002699774476,0.1575357793407854,0.2887411458831391,249,Preferred to give money instead,New Canadians Barriers to Volunteering,BC,
+ImmStat,Non-Canadian,2018,nv_100,0.17247206502014498,51.55273512049426,-0.0017963036987388714,0.34674043373902885,36,Preferred to give money instead,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_100,0.16880574549937352,8.156725038887656,0.1418189611969326,0.19579252980181444,1523,Preferred to give money instead,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_100,0.21036978864399564,11.132776973885235,0.16446743332131283,0.2562721439666784,460,Preferred to give money instead,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_100,0.12233580067697096,36.13184186716424,0.03570112366558051,0.2089704776883614,58,Preferred to give money instead,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_100,0.21071309955460366,8.681843106030552,0.17485794822744805,0.24656825088175927,817,Preferred to give money instead,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_100,0.14907512538254328,23.49911817985394,0.08041496086715978,0.2177352898979268,105,Preferred to give money instead,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_100,0.13095883364185779,81.45071451028161,-0.07810445990309525,0.3400221271868108,14,Preferred to give money instead,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_100,0.20367278028869804,9.475593484943005,0.1658470341471411,0.24149852643025496,773,Preferred to give money instead,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_100,0.23324875367412906,22.450883738825677,0.13061248291545358,0.33588502443280455,88,Preferred to give money instead,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Non-Canadian,2018,nv_100,0.18171732691702355,60.61771701309651,-0.034178380064675384,0.3976130338987225,21,Preferred to give money instead,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_110,0.21013950456632235,10.723169230018852,0.16597443132503073,0.254304577807614,470,No interest,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_110,0.2460463604419115,24.97976321991975,0.1255834494475898,0.3665092714362332,96,No interest,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_110,0.06618312867413977,129.06871094713753,-0.10124034847027476,0.2336066058185543,11,No interest,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_110,0.2281998028049252,6.821753992297787,0.19768859431565253,0.2587110112941979,1493,No interest,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_110,0.2284878660053779,43.93759803307699,0.03172300463751332,0.4252527273732425,44,No interest,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_110,0.3112302648019873,51.922002452262106,-0.005494007224678521,0.6279545368286531,16,No interest,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_110,0.2460522945960322,9.103483088789323,0.202150416423039,0.2899541727690254,677,No interest,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_110,0.23333061991004675,16.764595230949705,0.1566628381279569,0.3099984016921366,223,No interest,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_110,0.25747195545587276,40.26914484858267,0.054259450415428706,0.46068446049631684,32,No interest,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_110,0.21354911127988946,7.696889425586968,0.18133389088250967,0.24576433167726924,1381,No interest,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_110,0.19778330906259745,13.220890304737745,0.1465327707293681,0.2490338473958268,428,No interest,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_110,0.1953746903098728,36.05108077661685,0.05732523970300901,0.3334241409167366,53,No interest,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_110,0.22926089265043798,9.146163260877946,0.18816323979442612,0.27035854550644983,753,No interest,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_110,0.13643252201967238,31.97620818720462,0.050927236567143236,0.22193780747220151,93,No interest,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_110,0.15197656543578025,96.90806221761656,-0.13668211768956884,0.44063524856112934,11,No interest,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_110,0.2882987738752305,7.592014353057721,0.24539970095734548,0.33119784679311554,700,No interest,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_110,0.15042367411079807,36.39276076253398,0.04312872313219081,0.25771862508940535,75,No interest,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Non-Canadian,2018,nv_110,0.17830010466090837,59.43289161322027,-0.029395138400908738,0.3859953477227255,17,No interest,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_120,0.2061417318949177,12.576880628131798,0.15532731453035187,0.2569561492594835,470,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_120,0.16999822520075603,27.757180237635204,0.07751396566323632,0.26248248473827573,96,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_120,0.1819790060393413,80.9173188942344,-0.10663065456229481,0.4705886666409774,11,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_120,0.17885624892256072,7.9563697835373866,0.15096505093061022,0.20674744691451122,1478,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_120,0.14734940918258752,41.0179438603954,0.02888977798931716,0.26580904037585784,44,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_120,0.5124803961714192,32.60410284266673,0.18499072856566962,0.8399700637771688,16,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,AT,*
+ImmStat,Native-born,2018,nv_120,0.20794564187827955,10.186787006892857,0.1664277647216511,0.249463519034908,669,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_120,0.20299752545313612,18.851153122560522,0.12799484992819282,0.2780002009780794,224,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_120,0.19997618404011588,44.43966948794787,0.025796624414816588,0.37415574366541515,32,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_120,0.16599737673331813,9.833023405276634,0.13400574522144518,0.19798900824519108,1380,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_120,0.24539005415026643,12.359274789095247,0.1859474214914814,0.30483268680905146,427,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_120,0.3122653219250065,30.699897411670975,0.12437311292480757,0.5001575309252054,53,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,ON,*
+ImmStat,Native-born,2018,nv_120,0.1545250116006431,10.66959003594837,0.12221072232225383,0.1868393008790324,751,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_120,0.2085893810127836,25.918346359318917,0.10262800836393082,0.3145507536616364,93,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_120,0.0850240429268345,110.1459610855227,-0.09852766070719786,0.26857574656086686,11,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_120,0.15813862648576224,12.769259717223925,0.11856081516942985,0.19771643780209464,697,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_120,0.16723436822653992,29.059365848503084,0.07198551457946796,0.2624832218736119,75,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,QC,*
+ImmStat,Non-Canadian,2018,nv_120,0.41636212360518277,39.01477174965054,0.09798021898883957,0.734744028221526,17,No opportunity to use skills or experiences,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Native-born,2018,nv_130,0.17279404497926465,13.196317541345238,0.12810206251874315,0.21748602743978615,467,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,AB,
+ImmStat,Naturalized,2018,nv_130,0.14971780437656476,31.861130064971537,0.056224024987909155,0.24321158376522037,96,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,AB,*
+ImmStat,Non-Canadian,2018,nv_130,0.28561984194272266,58.676469614984384,-0.042853736120188446,0.6140934200056338,11,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,AB,...
+ImmStat,Native-born,2018,nv_130,0.15040707951064994,8.894594783106772,0.12418648484383162,0.17662767417746827,1483,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,AT,
+ImmStat,Naturalized,2018,nv_130,0.19336098541112204,37.52826846164295,0.05113614065192115,0.33558583017032295,43,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Non-Canadian,2018,nv_130,0.19672813694041932,57.28757093762179,-0.024161315257325372,0.41761758913816405,16,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,AT,...
+ImmStat,Native-born,2018,nv_130,0.21122319859137997,10.82122530702971,0.1664244228827584,0.25602197430000156,672,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,BC,
+ImmStat,Naturalized,2018,nv_130,0.20251745637104113,17.618542626123467,0.13258471764803637,0.2724501950940459,225,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,BC,*
+ImmStat,Non-Canadian,2018,nv_130,0.25909876306554874,42.1964760516688,0.04481482754153965,0.47338269858955784,32,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,BC,...
+ImmStat,Native-born,2018,nv_130,0.14645572262905457,8.66587110276453,0.12158051799969008,0.17133092725841906,1373,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,ON,
+ImmStat,Naturalized,2018,nv_130,0.1888609615000447,13.236368948302887,0.13986512784615143,0.23785679515393796,430,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,ON,
+ImmStat,Non-Canadian,2018,nv_130,0.0932928897502916,50.95769791893119,1.1638040193942545e-4,0.18646939909864377,53,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,ON,...
+ImmStat,Native-born,2018,nv_130,0.161593819519573,9.592932075838936,0.13121127053957696,0.19197636849956903,752,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,PR,
+ImmStat,Naturalized,2018,nv_130,0.18305158074456368,26.539687545459227,0.08783394797286383,0.27826921351626355,93,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,PR,*
+ImmStat,Non-Canadian,2018,nv_130,0.028399894829197792,179.24475042315302,-0.07137270018205254,0.12817248984044813,11,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,PR,...
+ImmStat,Native-born,2018,nv_130,0.1265194367328639,15.018635831177447,0.08927719390160155,0.16376167956412624,697,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,QC,
+ImmStat,Naturalized,2018,nv_130,0.08461717761304954,35.902218168596875,0.02507456206178537,0.1441597931643137,75,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,QC,...
+ImmStat,Non-Canadian,2018,nv_130,0.23712792014278333,54.43311479556628,-0.01585661256961307,0.49011245285517974,17,Not asked to contribute in a way that was meaningful,New Canadians Barriers to Volunteering,QC,...

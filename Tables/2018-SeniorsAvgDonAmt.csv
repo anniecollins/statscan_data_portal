@@ -1,0 +1,121 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Senior,15 to 64,2018,gs1datot,524.0903161596926,3.647244269218804,486.62589070748845,561.5547416118968,8224,Total donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,65 to 74,2018,gs1datot,675.9854389509304,5.836282785970081,598.6601131020993,753.3107647997615,2439,Total donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,75 and older,2018,gs1datot,778.1525348344115,6.8566364653764715,673.5784791415081,882.726590527315,1491,Total donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,15 to 64,2018,SecDonAmt,306.06082298160277,3.5798184657613885,284.5866307413642,327.5350152218413,7845,Secular donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,65 to 74,2018,SecDonAmt,365.0375641019738,5.057356401428025,328.8541777855789,401.2209504183688,2321,Secular donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,75 and older,2018,SecDonAmt,397.59096291770965,8.676763235433931,329.9760734442121,465.2058523912072,1373,Secular donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,15 to 64,2018,gs1dax13,691.2146272733405,5.833596448082838,612.1836425002335,770.2456120464475,2780,Religious donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,65 to 74,2018,gs1dax13,767.6277882004844,9.144834025830413,630.041673576593,905.2139028243757,1090,Religious donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,75 and older,2018,gs1dax13,761.3776675085008,8.672343764520072,631.9626397853635,890.7926952316382,840,Religious donation amount,Older Canadians Average Donation Amounts,CA,
+Senior2,15 to 74,2018,gs1datot,546.8170437200397,3.149314654245737,513.0645249339042,580.5695625061752,10663,Total donation amount,Older Canadians Average Donation Amounts,CA,
+Senior2,75 and older,2018,gs1datot,778.1525348344115,6.8566364653764715,673.5784791415081,882.726590527315,1491,Total donation amount,Older Canadians Average Donation Amounts,CA,
+Senior2,15 to 74,2018,SecDonAmt,314.9780758175552,3.124153126053698,295.6912513159993,334.26490031911106,10166,Secular donation amount,Older Canadians Average Donation Amounts,CA,
+Senior2,75 and older,2018,SecDonAmt,397.59096291770965,8.676763235433931,329.9760734442121,465.2058523912072,1373,Secular donation amount,Older Canadians Average Donation Amounts,CA,
+Senior2,15 to 74,2018,gs1dax13,705.1319062634176,4.907072273347888,637.3145412112619,772.9492713155732,3870,Religious donation amount,Older Canadians Average Donation Amounts,CA,
+Senior2,75 and older,2018,gs1dax13,761.3776675085008,8.672343764520072,631.9626397853635,890.7926952316382,840,Religious donation amount,Older Canadians Average Donation Amounts,CA,
+Senior,15 to 64,2018,gs1datot,619.1631673547578,3.8984601186406618,571.853891558447,666.4724431510685,7214,Total donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,65 to 74,2018,gs1datot,763.9181117077308,5.323588881841239,684.2105714433627,843.6256519720988,2139,Total donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,75 and older,2018,gs1datot,906.0954243338648,7.393031317094717,774.8015167063807,1037.389331961349,1292,Total donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,15 to 64,2018,SecDonAmt,347.52495864458945,3.9296133638755206,320.758931538963,374.2909857502159,6881,Secular donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,65 to 74,2018,SecDonAmt,413.61184204429946,5.573826055057344,368.4268232922905,458.7968607963084,2037,Secular donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,75 and older,2018,SecDonAmt,450.9628798700286,9.434146492179034,367.5771946536337,534.3485650864235,1182,Secular donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,15 to 64,2018,gs1dax13,843.2690377774901,5.967656705353765,744.6369836948161,941.9010918601641,2455,Religious donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,65 to 74,2018,gs1dax13,903.5764793600569,7.558258520727176,769.7214323878177,1037.431526332296,947,Religious donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,75 and older,2018,gs1dax13,913.3039127401322,9.332507178749012,746.2480421756375,1080.359783304627,728,Religious donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior2,15 to 74,2018,gs1datot,640.3701841816466,3.3182531660903396,598.7227058117376,682.0176625515555,9353,Total donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior2,75 and older,2018,gs1datot,906.0954243338648,7.393031317094717,774.8015167063807,1037.389331961349,1292,Total donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior2,15 to 74,2018,SecDonAmt,357.3430378968618,3.4218870992161947,333.3768426744851,381.3092331192385,8918,Secular donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior2,75 and older,2018,SecDonAmt,450.9628798700286,9.434146492179034,367.5771946536337,534.3485650864235,1182,Secular donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior2,15 to 74,2018,gs1dax13,853.5332209209731,5.00041075589464,769.8816307780477,937.1848110638986,3402,Religious donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior2,75 and older,2018,gs1dax13,913.3039127401322,9.332507178749012,746.2480421756375,1080.359783304627,728,Religious donation amount,Older Canadians Average Donation Amounts,CA (without QC),
+Senior,15 to 64,2018,gs1datot,891.6387840585179,11.28534737048323,694.4183213183194,1088.8592467987164,782,Total donation amount,Older Canadians Average Donation Amounts,AB,
+Senior,65 to 74,2018,gs1datot,1390.0714930919096,18.127856534088778,896.1798432952639,1883.9631428885552,139,Total donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior,75 and older,2018,gs1datot,690.2141059324824,17.178941914947774,457.81827485892586,922.609937006039,92,Total donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior,15 to 64,2018,gs1datot,405.9958722750824,6.807808100106372,351.82360475897445,460.1681397911903,2132,Total donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,65 to 74,2018,gs1datot,646.2801770541241,8.153382541162506,543.0024324008571,749.5579217073912,700,Total donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,75 and older,2018,gs1datot,783.2033031014073,10.872361734366748,616.3070853066878,950.0995208961268,380,Total donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,15 to 64,2018,gs1datot,597.7008211688407,8.796271012226363,494.65496191374507,700.7466804239363,1000,Total donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,65 to 74,2018,gs1datot,734.3209413740645,11.180644263387247,573.40434638367606,895.237536364453,333,Total donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,75 and older,2018,gs1datot,855.8884644996754,13.60363336089513,627.6860776192269,1084.0908513801237,199,Total donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,15 to 64,2018,gs1datot,568.5999800187263,6.006200497598151,501.6647505265904,635.5352095108623,2223,Total donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,65 to 74,2018,gs1datot,662.7162598946808,7.772813660447654,561.7551831532091,763.6773366361524,648,Total donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,75 and older,2018,gs1datot,890.0387900034247,11.770225367386143,684.7138029440767,1095.3637770627727,418,Total donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,15 to 64,2018,gs1datot,673.9840217372615,7.829628698220753,570.5558473699282,777.4121961045948,1077,Total donation amount,Older Canadians Average Donation Amounts,PR,
+Senior,65 to 74,2018,gs1datot,811.4643973633815,12.055484870818429,619.7290240044094,1003.1997707223536,319,Total donation amount,Older Canadians Average Donation Amounts,PR,
+Senior,75 and older,2018,gs1datot,1614.7793490845145,18.253059529214426,1037.0865582466113,2192.4721399224177,203,Total donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior,15 to 64,2018,gs1datot,201.27146836326162,7.024357095344859,173.56144527979092,228.98149144673232,1010,Total donation amount,Older Canadians Average Donation Amounts,QC,
+Senior,65 to 74,2018,gs1datot,407.00394944971345,25.542763511539533,203.24598328944703,610.7619156099798,300,Total donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior,75 and older,2018,gs1datot,398.5822730371113,18.789625578743134,251.7964215263845,545.3681245478381,199,Total donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior,15 to 64,2018,SecDonAmt,417.3905225787103,8.622469986000688,346.8526485863443,487.92839657107635,736,Secular donation amount,Older Canadians Average Donation Amounts,AB,
+Senior,65 to 74,2018,SecDonAmt,596.3206351497919,19.588910464383915,367.37192022519014,825.2693500743936,132,Secular donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior,75 and older,2018,SecDonAmt,392.59857022388104,19.817633569505244,240.10603011125292,545.0911103365091,82,Secular donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior,15 to 64,2018,SecDonAmt,230.42481635557237,6.976388409450903,198.91774816175442,261.93188454939036,2055,Secular donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,65 to 74,2018,SecDonAmt,300.7835226774225,9.083551602106745,247.23372675921553,354.3333185956295,663,Secular donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,75 and older,2018,SecDonAmt,315.39429876244037,13.443640079273397,232.29089609693165,398.4977014279491,347,Secular donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,15 to 64,2018,SecDonAmt,339.20883364337914,8.322758199138919,283.87604962700823,394.54161765975005,952,Secular donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,65 to 74,2018,SecDonAmt,490.52756656963294,12.546538097610599,369.90309619618733,611.1520369430785,318,Secular donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,75 and older,2018,SecDonAmt,469.46158493610034,12.77552502690836,351.9104277464358,587.0127421257648,186,Secular donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,15 to 64,2018,SecDonAmt,351.97209674573355,6.380128428588507,307.95861278055105,395.98558071091605,2119,Secular donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,65 to 74,2018,SecDonAmt,369.9112374913816,7.6816168688186,314.2185393997477,425.60393558301547,619,Secular donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,75 and older,2018,SecDonAmt,472.43273619498063,15.564776312868963,328.3105112330191,616.5549611569422,382,Secular donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,15 to 64,2018,SecDonAmt,334.6483766503964,7.313987585539358,286.6760223519611,382.62073094883175,1019,Secular donation amount,Older Canadians Average Donation Amounts,PR,
+Senior,65 to 74,2018,SecDonAmt,431.17190946482845,13.659100750591612,315.7413877435094,546.6024311861476,305,Secular donation amount,Older Canadians Average Donation Amounts,PR,
+Senior,75 and older,2018,SecDonAmt,524.789951435713,19.581395148076627,323.38171201485096,726.1981908565749,185,Secular donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior,15 to 64,2018,SecDonAmt,166.5407334795487,7.104290700123143,143.35134543043716,189.73012152866022,964,Secular donation amount,Older Canadians Average Donation Amounts,QC,
+Senior,65 to 74,2018,SecDonAmt,215.26046264337302,13.093014995002802,160.02067178781482,270.5002534989312,284,Secular donation amount,Older Canadians Average Donation Amounts,QC,
+Senior,75 and older,2018,SecDonAmt,248.87549436037204,22.989238117661333,136.73697814036197,361.0140105803821,191,Secular donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior,15 to 64,2018,gs1dax13,1387.972216730322,16.182445642016688,947.7489210679196,1828.1955123927246,270,Religious donation amount,Older Canadians Average Donation Amounts,AB,
+Senior,65 to 74,2018,gs1dax13,1916.0147666562493,19.195109675144067,1195.176986193836,2636.8525471186626,53,Religious donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior,75 and older,2018,gs1dax13,692.2648991516762,24.2819530074258,362.80389568830196,1021.7259026150505,47,Religious donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior,15 to 64,2018,gs1dax13,559.3297336550073,11.4819991741038,433.45646526673556,685.2030020432791,783,Religious donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,65 to 74,2018,gs1dax13,645.7362693888598,12.24480011572095,490.7636507951173,800.7088879826023,393,Religious donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,75 and older,2018,gs1dax13,712.5828582486889,12.177274418412633,542.5105700135995,882.6551464837784,263,Religious donation amount,Older Canadians Average Donation Amounts,AT,
+Senior,15 to 64,2018,gs1dax13,1043.6877262376727,13.935716438813028,758.620054930336,1328.7553975450094,269,Religious donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,65 to 74,2018,gs1dax13,863.0242845954107,15.026572779882006,608.8503296110434,1117.198239579778,103,Religious donation amount,Older Canadians Average Donation Amounts,BC,
+Senior,75 and older,2018,gs1dax13,1130.86973839485,23.309232867750204,614.2289928876222,1647.5104839020778,79,Religious donation amount,Older Canadians Average Donation Amounts,BC,*
+Senior,15 to 64,2018,gs1dax13,647.1490661521381,8.76540766890465,535.969611545708,758.3285207585682,750,Religious donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,65 to 74,2018,gs1dax13,766.4957278536498,12.714284354969706,575.4885227606658,957.5029329466338,264,Religious donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,75 and older,2018,gs1dax13,829.5489055198608,15.558122825109347,576.591568030055,1082.5062430096666,224,Religious donation amount,Older Canadians Average Donation Amounts,ON,
+Senior,15 to 64,2018,gs1dax13,925.1884815385152,11.504685683443995,716.5698625353849,1133.8071005416455,383,Religious donation amount,Older Canadians Average Donation Amounts,PR,
+Senior,65 to 74,2018,gs1dax13,920.9752778653224,17.814246992898497,599.4141576797172,1242.5363980509276,134,Religious donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior,75 and older,2018,gs1dax13,1741.9183284653388,17.225182681879488,1153.8338509294867,2330.002806001191,115,Religious donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior,15 to 64,2018,gs1dax13,140.30505296305117,17.199217786759746,93.00843368060957,187.60167224549275,325,Religious donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior,65 to 74,2018,gs1dax13,414.88573339509935,40.80772927363338,83.05315512619114,746.7183116640076,143,Religious donation amount,Older Canadians Average Donation Amounts,QC,...
+Senior,75 and older,2018,gs1dax13,304.3516607276837,17.35826871240799,200.80641239529928,407.8969090600681,112,Religious donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior2,15 to 74,2018,gs1datot,943.405639112223,9.993028752944914,758.6304327865492,1128.1808454378966,921,Total donation amount,Older Canadians Average Donation Amounts,AB,
+Senior2,75 and older,2018,gs1datot,690.2141059324824,17.178941914947774,457.81827485892586,922.609937006039,92,Total donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior2,15 to 74,2018,gs1datot,448.5854135997843,5.445540867179055,400.70760541922147,496.46322178034717,2832,Total donation amount,Older Canadians Average Donation Amounts,AT,
+Senior2,75 and older,2018,gs1datot,783.2033031014073,10.872361734366748,616.3070853066878,950.0995208961268,380,Total donation amount,Older Canadians Average Donation Amounts,AT,
+Senior2,15 to 74,2018,gs1datot,620.1616159982821,7.436609572958776,529.7700407130486,710.5531912835155,1333,Total donation amount,Older Canadians Average Donation Amounts,BC,
+Senior2,75 and older,2018,gs1datot,855.8884644996754,13.60363336089513,627.6860776192269,1084.0908513801237,199,Total donation amount,Older Canadians Average Donation Amounts,BC,
+Senior2,15 to 74,2018,gs1datot,582.6253999751003,5.208541977181372,523.1477673968883,642.1030325533123,2871,Total donation amount,Older Canadians Average Donation Amounts,ON,
+Senior2,75 and older,2018,gs1datot,890.0387900034247,11.770225367386143,684.7138029440767,1095.3637770627727,418,Total donation amount,Older Canadians Average Donation Amounts,ON,
+Senior2,15 to 74,2018,gs1datot,693.2144042959849,6.845438064599936,600.2071304639762,786.2216781279935,1396,Total donation amount,Older Canadians Average Donation Amounts,PR,
+Senior2,75 and older,2018,gs1datot,1614.7793490845145,18.253059529214426,1037.0865582466113,2192.4721399224177,203,Total donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior2,15 to 74,2018,gs1datot,234.19717629167474,8.675882932528438,194.373309299171,274.02104328417846,1310,Total donation amount,Older Canadians Average Donation Amounts,QC,
+Senior2,75 and older,2018,gs1datot,398.5822730371113,18.789625578743134,251.7964215263845,545.3681245478381,199,Total donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior2,15 to 74,2018,SecDonAmt,436.638961220169,8.104133893625896,367.28405580017073,505.99386664016725,868,Secular donation amount,Older Canadians Average Donation Amounts,AB,
+Senior2,75 and older,2018,SecDonAmt,392.59857022388104,19.817633569505244,240.10603011125292,545.0911103365091,82,Secular donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior2,15 to 74,2018,SecDonAmt,242.80762844285564,5.755273130641099,215.41861702173549,270.1966398639758,2718,Secular donation amount,Older Canadians Average Donation Amounts,AT,
+Senior2,75 and older,2018,SecDonAmt,315.39429876244037,13.443640079273397,232.29089609693165,398.4977014279491,347,Secular donation amount,Older Canadians Average Donation Amounts,AT,
+Senior2,15 to 74,2018,SecDonAmt,364.8040621919346,7.1758042707265215,313.4968590610331,416.11126532283606,1270,Secular donation amount,Older Canadians Average Donation Amounts,BC,
+Senior2,75 and older,2018,SecDonAmt,469.46158493610034,12.77552502690836,351.9104277464358,587.0127421257648,186,Secular donation amount,Older Canadians Average Donation Amounts,BC,
+Senior2,15 to 74,2018,SecDonAmt,354.6696994599709,5.475612476529244,316.6065357967537,392.7328631231881,2738,Secular donation amount,Older Canadians Average Donation Amounts,ON,
+Senior2,75 and older,2018,SecDonAmt,472.43273619498063,15.564776312868963,328.3105112330191,616.5549611569422,382,Secular donation amount,Older Canadians Average Donation Amounts,ON,
+Senior2,15 to 74,2018,SecDonAmt,348.17549554202935,6.595787155044016,303.16508999452657,393.18590108953214,1324,Secular donation amount,Older Canadians Average Donation Amounts,PR,
+Senior2,75 and older,2018,SecDonAmt,524.789951435713,19.581395148076627,323.38171201485096,726.1981908565749,185,Secular donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior2,15 to 74,2018,SecDonAmt,174.33352652676072,6.13385014496151,153.37493140456783,195.2921216489536,1248,Secular donation amount,Older Canadians Average Donation Amounts,QC,
+Senior2,75 and older,2018,SecDonAmt,248.87549436037204,22.989238117661333,136.73697814036197,361.0140105803821,191,Secular donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior2,15 to 74,2018,gs1dax13,1451.006023470782,14.02345122543582,1052.190352857041,1849.8216940845232,323,Religious donation amount,Older Canadians Average Donation Amounts,AB,
+Senior2,75 and older,2018,gs1dax13,692.2648991516762,24.2819530074258,362.80389568830196,1021.7259026150505,47,Religious donation amount,Older Canadians Average Donation Amounts,AB,*
+Senior2,15 to 74,2018,gs1dax13,582.3690224273213,8.752309395760964,482.4682103728191,682.2698344818235,1176,Religious donation amount,Older Canadians Average Donation Amounts,AT,
+Senior2,75 and older,2018,gs1dax13,712.5828582486889,12.177274418412633,542.5105700135995,882.6551464837784,263,Religious donation amount,Older Canadians Average Donation Amounts,AT,
+Senior2,15 to 74,2018,gs1dax13,1011.1919097991868,11.903510992378495,775.2762582158074,1247.107561382566,372,Religious donation amount,Older Canadians Average Donation Amounts,BC,
+Senior2,75 and older,2018,gs1dax13,1130.86973839485,23.309232867750204,614.2289928876222,1647.5104839020778,79,Religious donation amount,Older Canadians Average Donation Amounts,BC,*
+Senior2,15 to 74,2018,gs1dax13,667.2949635483928,7.623935209288445,567.5834898792707,767.006437217515,1014,Religious donation amount,Older Canadians Average Donation Amounts,ON,
+Senior2,75 and older,2018,gs1dax13,829.5489055198608,15.558122825109347,576.591568030055,1082.5062430096666,224,Religious donation amount,Older Canadians Average Donation Amounts,ON,
+Senior2,15 to 74,2018,gs1dax13,924.5457879067804,10.022763073066274,742.9256589857301,1106.1659168278309,517,Religious donation amount,Older Canadians Average Donation Amounts,PR,
+Senior2,75 and older,2018,gs1dax13,1741.9183284653388,17.225182681879488,1153.8338509294867,2330.002806001191,115,Religious donation amount,Older Canadians Average Donation Amounts,PR,*
+Senior2,15 to 74,2018,gs1dax13,201.4373561787246,21.002854578146785,118.51599373702622,284.35871862042296,468,Religious donation amount,Older Canadians Average Donation Amounts,QC,*
+Senior2,75 and older,2018,gs1dax13,304.3516607276837,17.35826871240799,200.80641239529928,407.8969090600681,112,Religious donation amount,Older Canadians Average Donation Amounts,QC,*

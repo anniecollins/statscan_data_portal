@@ -1,0 +1,161 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Senior,15 to 64,2018,ng_120a,0.42474486683027957,4.4414537230695865,0.38777044672170474,0.4617192869388544,1617,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,65 to 74,2018,ng_120a,0.56862240119441,6.105523000580075,0.5005776034334166,0.6366671989554034,503,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,75 and older,2018,ng_120a,0.6515767537430627,5.927198591120059,0.5758824582599315,0.7272710492261939,314,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,15 to 64,2018,ng_120b,0.38419824517860535,5.137725577060398,0.34551041513167385,0.42288607522553684,1617,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,65 to 74,2018,ng_120b,0.40431505002871426,8.74135102893994,0.33504483124837486,0.47358526880905366,503,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,75 and older,2018,ng_120b,0.3291456423331198,10.860492915323837,0.25908312500527025,0.3992081596609694,314,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,15 to 64,2018,ng_120c,0.6324221866385575,2.8992097541654966,0.5964857653747032,0.6683586079024119,1617,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,65 to 74,2018,ng_120c,0.49517066735101845,6.913752252160027,0.42807154893032867,0.5622697857717083,503,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,75 and older,2018,ng_120c,0.5094985394787932,7.581648379452923,0.43378829068495417,0.5852087882726322,314,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,15 to 64,2018,ng_120d,0.14018153584495158,11.795235841155142,0.10777403554433279,0.17258903614557036,1617,Other,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior,65 to 74,2018,ng_120d,0.10855391279738356,20.284722651490917,0.0653957799817249,0.15171204561304225,503,Other,Older Canadians Reasons for Concers About Efficiency,CA,*
+Senior,75 and older,2018,ng_120d,0.09087322449115241,25.409456537544877,0.045616886838821855,0.13612956214348299,314,Other,Older Canadians Reasons for Concers About Efficiency,CA,*
+Senior2,15 to 74,2018,ng_120a,0.4475088627642544,3.7395271254639164,0.41470942346135165,0.48030830206715713,2120,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,75 and older,2018,ng_120a,0.6515767537430627,5.927198591120059,0.5758824582599315,0.7272710492261939,314,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,15 to 74,2018,ng_120b,0.3873810830402376,4.538321479667807,0.3529237423700147,0.4218384237104605,2120,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,75 and older,2018,ng_120b,0.3291456423331198,10.860492915323837,0.25908312500527025,0.3992081596609694,314,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,15 to 74,2018,ng_120c,0.6107065446462081,2.703619717020043,0.5783452214978362,0.64306786779458,2120,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,75 and older,2018,ng_120c,0.5094985394787932,7.581648379452923,0.43378829068495417,0.5852087882726322,314,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,15 to 74,2018,ng_120d,0.13517748093368243,10.607994776887708,0.10707234195242851,0.16328261991493634,2120,Other,Older Canadians Reasons for Concers About Efficiency,CA,
+Senior2,75 and older,2018,ng_120d,0.09087322449115241,25.409456537544877,0.045616886838821855,0.13612956214348299,314,Other,Older Canadians Reasons for Concers About Efficiency,CA,*
+Senior,15 to 64,2018,ng_120a,0.45092695638172536,4.576543106497525,0.41047944121421676,0.49137447154923397,1442,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,65 to 74,2018,ng_120a,0.6238926522300824,5.788523052547546,0.5531101797034478,0.694675124756717,446,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,75 and older,2018,ng_120a,0.7404215177480061,4.317594922706397,0.6777646014651522,0.8030784340308601,278,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,15 to 64,2018,ng_120b,0.41643223436476856,5.171382826931649,0.37422381206334027,0.45864065666619686,1442,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,65 to 74,2018,ng_120b,0.4530682448921402,8.744896134976425,0.3754137908618749,0.5307226989224055,446,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,75 and older,2018,ng_120b,0.35547231735968854,10.642854982998779,0.28132216955815037,0.4296224651612267,278,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,15 to 64,2018,ng_120c,0.6471144036944796,3.0138603387035503,0.6088889823648614,0.6853398250240977,1442,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,65 to 74,2018,ng_120c,0.4788891656239609,7.637885218331676,0.40719955356657855,0.5505787776813432,446,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,75 and older,2018,ng_120c,0.5224466125718465,7.6035687461561405,0.4445878520673569,0.6003053730763361,278,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,15 to 64,2018,ng_120d,0.11885569368635923,14.15664023320905,0.08587739269586298,0.1518339946768555,1442,Other,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior,65 to 74,2018,ng_120d,0.09166145158641478,25.982181876575083,0.04498364499651904,0.13833925817631054,446,Other,Older Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Senior,75 and older,2018,ng_120d,0.05337940828556057,30.048406938182758,0.021942248788593507,0.08481656778252764,278,Other,Older Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Senior2,15 to 74,2018,ng_120a,0.47782252258410546,3.8262289139608296,0.4419893173473609,0.51365572782085,1888,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,75 and older,2018,ng_120a,0.7404215177480061,4.317594922706397,0.6777646014651522,0.8030784340308601,278,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,15 to 74,2018,ng_120b,0.4221290070207402,4.563521041175148,0.3843723665502792,0.4598856474912012,1888,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,75 and older,2018,ng_120b,0.35547231735968854,10.642854982998779,0.28132216955815037,0.4296224651612267,278,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,15 to 74,2018,ng_120c,0.6209559622460462,2.8663553294985054,0.5860709468155207,0.6558409776765717,1888,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,75 and older,2018,ng_120c,0.5224466125718465,7.6035687461561405,0.4445878520673569,0.6003053730763361,278,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,15 to 74,2018,ng_120d,0.11462708329552285,12.836535266316297,0.08578788712717783,0.14346627946386786,1888,Other,Older Canadians Reasons for Concers About Efficiency,CA (without QC),
+Senior2,75 and older,2018,ng_120d,0.05337940828556057,30.048406938182758,0.021942248788593507,0.08481656778252764,278,Other,Older Canadians Reasons for Concers About Efficiency,CA (without QC),*
+Senior,15 to 64,2018,ng_120a,0.4568274832435844,12.448897923577656,0.3453643567736745,0.5682906097134943,176,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior,65 to 74,2018,ng_120a,0.7120884069200429,15.847920197110263,0.49090411448334315,0.9332726993567427,29,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior,75 and older,2018,ng_120a,0.7416863635050396,13.3769457462361,0.5472285711697971,0.9361441558402821,21,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior,15 to 64,2018,ng_120a,0.39717445497659115,8.853985364687698,0.3282508159807294,0.4660980939724529,367,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,65 to 74,2018,ng_120a,0.6131826005919527,7.888621293783267,0.5183759024471524,0.7079892987367531,142,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,75 and older,2018,ng_120a,0.6168542571418391,12.988127142157053,0.45982622483099805,0.77388228945268,73,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,15 to 64,2018,ng_120a,0.40769436749305515,10.826153443269224,0.3211862262331077,0.4942025087530026,218,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior,65 to 74,2018,ng_120a,0.5793569416112828,15.426189827341974,0.40418966529219225,0.7545242179303734,62,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior,75 and older,2018,ng_120a,0.6998750550587731,13.90569453268285,0.5091264851297541,0.8906236249877921,43,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior,15 to 64,2018,ng_120a,0.4708282110223531,6.685491772876976,0.4091340693154407,0.5325223527292655,451,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,65 to 74,2018,ng_120a,0.6160173252569721,8.478069000783538,0.5136555133853973,0.7183791371285468,143,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,75 and older,2018,ng_120a,0.7793545428060741,5.5763090848927845,0.6941760403887268,0.8645330452234213,90,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,15 to 64,2018,ng_120a,0.4586342815192098,8.998823738899725,0.37774325436196715,0.5395253086764524,230,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,65 to 74,2018,ng_120a,0.7002988689588552,10.088723250852528,0.5618250324513584,0.838772705466352,70,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,75 and older,2018,ng_120a,0.724477273229244,9.981645694181074,0.5827429587631198,0.8662115876953683,51,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,15 to 64,2018,ng_120a,0.32128810630239857,13.391640802660444,0.23695918758467666,0.4056170250201205,175,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior,65 to 74,2018,ng_120a,0.37060951884342036,21.62890033948694,0.2135012293787367,0.527717808308104,57,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior,75 and older,2018,ng_120a,0.38285921807754775,26.074035948992673,0.18720218708254985,0.5785162490725456,36,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior,15 to 64,2018,ng_120b,0.5264631056865754,10.252176338122316,0.42067615472006337,0.6322500566530874,176,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior,65 to 74,2018,ng_120b,0.6072029003456786,17.80419489479414,0.3953159218327773,0.8190898788585799,29,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AB,*
+Senior,75 and older,2018,ng_120b,0.32980925904440833,37.023246978652516,0.09048570754406599,0.5691328105447506,21,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AB,...
+Senior,15 to 64,2018,ng_120b,0.4542889053325456,8.47362325273157,0.3788406203169604,0.5297371903481308,367,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,65 to 74,2018,ng_120b,0.4132766793628304,12.245351090732,0.314088428490077,0.5124649302355838,142,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,75 and older,2018,ng_120b,0.4288669576141397,17.618308492067992,0.28077383582851845,0.5769600793997609,73,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AT,*
+Senior,15 to 64,2018,ng_120b,0.4162081870093079,11.248738812832569,0.32444625631366836,0.5079701177049475,218,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior,65 to 74,2018,ng_120b,0.4885415616246327,18.04553056384147,0.31575129977730443,0.661331823471961,62,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,BC,*
+Senior,75 and older,2018,ng_120b,0.36120388524765856,24.989564646719895,0.18429111043670873,0.5381166600586084,43,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,BC,*
+Senior,15 to 64,2018,ng_120b,0.37796758641580125,8.696094846344165,0.31354666737287257,0.44238850545872993,451,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,65 to 74,2018,ng_120b,0.4172903656387558,14.446302455792273,0.2991378012151984,0.5354429300623132,143,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,75 and older,2018,ng_120b,0.32779461535058724,17.248677954917934,0.2169777860646941,0.4386114446364804,90,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,ON,*
+Senior,15 to 64,2018,ng_120b,0.39766832209504294,10.750210407110586,0.313879506321106,0.48145713786897987,230,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,65 to 74,2018,ng_120b,0.5068886104581948,15.639820264859642,0.35150958910397484,0.6622676318124148,70,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,75 and older,2018,ng_120b,0.4586778611205274,16.149905318676456,0.3134914900373463,0.6038642322037084,51,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,15 to 64,2018,ng_120b,0.2568278115262981,16.135557154264376,0.17560573132743737,0.33804989172515876,175,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior,65 to 74,2018,ng_120b,0.22965037133029964,29.19047408256453,0.09826216270140828,0.361038579959191,57,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior,75 and older,2018,ng_120b,0.24951867371386885,34.87076428507887,0.0789840330117767,0.420053314415961,36,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,QC,...
+Senior,15 to 64,2018,ng_120c,0.6542989840597612,7.464069246577587,0.5585795776288832,0.7500183904906391,176,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior,65 to 74,2018,ng_120c,0.40063798385112087,27.24187735929658,0.18672495052319305,0.6145510171790487,29,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AB,*
+Senior,75 and older,2018,ng_120c,0.3980915864023252,31.583112599381874,0.15166587521086378,0.6445172975937867,21,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AB,*
+Senior,15 to 64,2018,ng_120c,0.6426329401722672,5.188362264485669,0.5772835760688103,0.7079823042757242,367,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,65 to 74,2018,ng_120c,0.5481217109101661,9.146909493779026,0.44985657083545055,0.6463868509848818,142,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,75 and older,2018,ng_120c,0.6172220685605645,11.66516473699152,0.47610471833495255,0.7583394187861765,73,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior,15 to 64,2018,ng_120c,0.676681165511976,5.8006430978148495,0.5997489349156355,0.7536133961083165,218,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior,65 to 74,2018,ng_120c,0.4515593635418754,19.29356770778729,0.28080355464781315,0.6223151724359377,62,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,BC,*
+Senior,75 and older,2018,ng_120c,0.5638505972343626,15.583438603822728,0.3916338310068883,0.7360673634618369,43,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior,15 to 64,2018,ng_120c,0.6360205689081035,4.874991505564033,0.5752500261341036,0.6967911116821035,451,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,65 to 74,2018,ng_120c,0.4881470368422276,11.301359692891785,0.38002120888728214,0.5962728647971731,143,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,75 and older,2018,ng_120c,0.5124608708189456,12.235050696509775,0.38957142818761836,0.6353503134502729,90,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior,15 to 64,2018,ng_120c,0.6410902894679493,6.6766945340556685,0.557196696042817,0.7249838828930817,230,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,65 to 74,2018,ng_120c,0.4852400393194978,15.835973595713204,0.33463153721209105,0.6358485414269045,70,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,75 and older,2018,ng_120c,0.5458793968208545,14.287960421438262,0.3930119428013743,0.6987468508403347,51,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior,15 to 64,2018,ng_120c,0.5743668821300506,8.611343502493657,0.47742568131792534,0.6713080829421759,175,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior,65 to 74,2018,ng_120c,0.5535012706243146,14.957645070232312,0.3912343715538004,0.7157681696948288,57,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior,75 and older,2018,ng_120c,0.4703361382708991,21.90913261153733,0.26836857576309114,0.672303700778707,36,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior,15 to 64,2018,ng_120d,0.12030179908685944,25.329083626808096,0.06057906366758344,0.18002453450613543,176,Other,Older Canadians Reasons for Concers About Efficiency,AB,*
+Senior,65 to 74,2018,ng_120d,0.0902273301073539,64.14995152468376,-0.023216930800157756,0.20367159101486554,29,Other,Older Canadians Reasons for Concers About Efficiency,AB,...
+Senior,75 and older,2018,ng_120d,0.037614679979273535,109.48909024457014,-0.0431044197401894,0.11833377969873647,21,Other,Older Canadians Reasons for Concers About Efficiency,AB,...
+Senior,15 to 64,2018,ng_120d,0.07876774239128076,21.973080988452416,0.04484527407236379,0.11269021071019772,367,Other,Older Canadians Reasons for Concers About Efficiency,AT,*
+Senior,65 to 74,2018,ng_120d,0.06506292306767927,32.77711236211443,0.023265226220340753,0.1068606199150178,142,Other,Older Canadians Reasons for Concers About Efficiency,AT,*
+Senior,75 and older,2018,ng_120d,0.0582402820606512,48.49765260255946,0.002880766773118333,0.11359979734818407,73,Other,Older Canadians Reasons for Concers About Efficiency,AT,...
+Senior,15 to 64,2018,ng_120d,0.08976939901181592,27.07165318053246,0.04213823595075233,0.1374005620728795,218,Other,Older Canadians Reasons for Concers About Efficiency,BC,*
+Senior,65 to 74,2018,ng_120d,0.07899530881376603,47.24620318181808,0.005844976144731534,0.15214564148280052,62,Other,Older Canadians Reasons for Concers About Efficiency,BC,...
+Senior,75 and older,2018,ng_120d,0.11260319269955643,54.856412679925924,-0.008463923895846909,0.23367030929495977,43,Other,Older Canadians Reasons for Concers About Efficiency,BC,...
+Senior,15 to 64,2018,ng_120d,0.137068156606068,21.745292180840643,0.07864972264209807,0.19548659057003792,451,Other,Older Canadians Reasons for Concers About Efficiency,ON,*
+Senior,65 to 74,2018,ng_120d,0.10299878567189127,38.05230776939457,0.026181103992446594,0.17981646735133594,143,Other,Older Canadians Reasons for Concers About Efficiency,ON,...
+Senior,75 and older,2018,ng_120d,0.030075638207424375,67.4860601341149,-0.009705482833016147,0.0698567592478649,90,Other,Older Canadians Reasons for Concers About Efficiency,ON,...
+Senior,15 to 64,2018,ng_120d,0.10534530076523635,22.306427804989955,0.05928855110052265,0.15140205042995006,230,Other,Older Canadians Reasons for Concers About Efficiency,PR,*
+Senior,65 to 74,2018,ng_120d,0.06730608720792207,38.951368556134206,0.01592241291776634,0.1186897614980778,70,Other,Older Canadians Reasons for Concers About Efficiency,PR,...
+Senior,75 and older,2018,ng_120d,0.09908390750843378,46.44031183191785,0.00889640853589889,0.18927140648096868,51,Other,Older Canadians Reasons for Concers About Efficiency,PR,...
+Senior,15 to 64,2018,ng_120d,0.22444916241928067,19.689503152541032,0.1378326212234211,0.31106570361514024,175,Other,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior,65 to 74,2018,ng_120d,0.1690733580994746,34.65942387367003,0.0542197589914474,0.28392695720750183,57,Other,Older Canadians Reasons for Concers About Efficiency,QC,...
+Senior,75 and older,2018,ng_120d,0.20427603450820384,38.30839660605344,0.05089930089124314,0.35765276812516456,36,Other,Older Canadians Reasons for Concers About Efficiency,QC,...
+Senior2,15 to 74,2018,ng_120a,0.48014267971552094,11.05704854196162,0.3760889577952453,0.5841964016357966,205,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior2,75 and older,2018,ng_120a,0.7416863635050396,13.3769457462361,0.5472285711697971,0.9361441558402821,21,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior2,15 to 74,2018,ng_120a,0.4364634203917008,7.0793100575487236,0.37590327953701963,0.4970235612463819,509,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior2,75 and older,2018,ng_120a,0.6168542571418391,12.988127142157053,0.45982622483099805,0.77388228945268,73,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior2,15 to 74,2018,ng_120a,0.43467145741053154,9.027752440246601,0.35776038701273594,0.5115825278083271,280,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior2,75 and older,2018,ng_120a,0.6998750550587731,13.90569453268285,0.5091264851297541,0.8906236249877921,43,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior2,15 to 74,2018,ng_120a,0.4962490939277747,5.547268519408502,0.4422946766310733,0.5502035112244761,594,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior2,75 and older,2018,ng_120a,0.7793545428060741,5.5763090848927845,0.6941760403887268,0.8645330452234213,90,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior2,15 to 74,2018,ng_120a,0.48943102204355654,7.696297493198678,0.4156029664146013,0.5632590776725117,300,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior2,75 and older,2018,ng_120a,0.724477273229244,9.981645694181074,0.5827429587631198,0.8662115876953683,51,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior2,15 to 74,2018,ng_120a,0.32961363932820625,11.643043120612981,0.2543959875051338,0.4048312911512787,232,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior2,75 and older,2018,ng_120a,0.38285921807754775,26.074035948992673,0.18720218708254985,0.5785162490725456,36,Too much spent on fundraising,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior2,15 to 74,2018,ng_120b,0.5338377721590937,9.461553302470605,0.43484127436775216,0.6328342699504351,205,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior2,75 and older,2018,ng_120b,0.32980925904440833,37.023246978652516,0.09048570754406599,0.5691328105447506,21,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AB,...
+Senior2,15 to 74,2018,ng_120b,0.44682933512453116,7.386584018546516,0.3821398922834335,0.5115187779656288,509,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior2,75 and older,2018,ng_120b,0.4288669576141397,17.618308492067992,0.28077383582851845,0.5769600793997609,73,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,AT,*
+Senior2,15 to 74,2018,ng_120b,0.4275755101492265,9.830204887964362,0.3451951884858666,0.5099558318125864,280,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior2,75 and older,2018,ng_120b,0.36120388524765856,24.989564646719895,0.18429111043670873,0.5381166600586084,43,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,BC,*
+Senior2,15 to 74,2018,ng_120b,0.3848525362373639,7.592891973455665,0.32757957148699934,0.4421255009877284,594,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior2,75 and older,2018,ng_120b,0.32779461535058724,17.248677954917934,0.2169777860646941,0.4386114446364804,90,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,ON,*
+Senior2,15 to 74,2018,ng_120b,0.4115869061803275,9.44779760566317,0.3353719468538615,0.4878018655067935,300,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior2,75 and older,2018,ng_120b,0.4586778611205274,16.149905318676456,0.3134914900373463,0.6038642322037084,51,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior2,15 to 74,2018,ng_120b,0.2522402163166007,14.450378673341996,0.18080018287665853,0.32368024975654286,232,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior2,75 and older,2018,ng_120b,0.24951867371386885,34.87076428507887,0.0789840330117767,0.420053314415961,36,No impact on cause/community,Older Canadians Reasons for Concers About Efficiency,QC,...
+Senior2,15 to 74,2018,ng_120c,0.6311299224895361,7.3169193439073785,0.540620221584795,0.7216396233942773,205,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AB,
+Senior2,75 and older,2018,ng_120c,0.3980915864023252,31.583112599381874,0.15166587521086378,0.6445172975937867,21,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AB,*
+Senior2,15 to 74,2018,ng_120c,0.6254426235421238,4.5376930124245,0.5698175398834884,0.6810677072007592,509,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior2,75 and older,2018,ng_120c,0.6172220685605645,11.66516473699152,0.47610471833495255,0.7583394187861765,73,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,AT,
+Senior2,15 to 74,2018,ng_120c,0.6413028594057829,5.63918706599295,0.5704221967916754,0.7121835220198904,280,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior2,75 and older,2018,ng_120c,0.5638505972343626,15.583438603822728,0.3916338310068883,0.7360673634618369,43,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,BC,
+Senior2,15 to 74,2018,ng_120c,0.6101296764450277,4.454917819372856,0.5568563350457917,0.6634030178442637,594,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior2,75 and older,2018,ng_120c,0.5124608708189456,12.235050696509775,0.38957142818761836,0.6353503134502729,90,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,ON,
+Senior2,15 to 74,2018,ng_120c,0.621229374944529,6.272158626227749,0.5448603742833056,0.6975983756057524,300,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior2,75 and older,2018,ng_120c,0.5458793968208545,14.287960421438262,0.3930119428013743,0.6987468508403347,51,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,PR,
+Senior2,15 to 74,2018,ng_120c,0.5708447336605559,7.590149417505011,0.48592347641274247,0.6557659909083693,232,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,QC,
+Senior2,75 and older,2018,ng_120c,0.4703361382708991,21.90913261153733,0.26836857576309114,0.672303700778707,36,No explanation of how donation would be spent,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior2,15 to 74,2018,ng_120d,0.11755483671225372,23.692230878962487,0.06296716767833511,0.17214250574617235,205,Other,Older Canadians Reasons for Concers About Efficiency,AB,*
+Senior2,75 and older,2018,ng_120d,0.037614679979273535,109.48909024457014,-0.0431044197401894,0.11833377969873647,21,Other,Older Canadians Reasons for Concers About Efficiency,AB,...
+Senior2,15 to 74,2018,ng_120d,0.07627502078167951,19.289050715456646,0.04743860488139101,0.10511143668196801,509,Other,Older Canadians Reasons for Concers About Efficiency,AT,*
+Senior2,75 and older,2018,ng_120d,0.0582402820606512,48.49765260255946,0.002880766773118333,0.11359979734818407,73,Other,Older Canadians Reasons for Concers About Efficiency,AT,...
+Senior2,15 to 74,2018,ng_120d,0.08807623087924667,24.087626407376824,0.04649466700641334,0.12965779475208,280,Other,Older Canadians Reasons for Concers About Efficiency,BC,*
+Senior2,75 and older,2018,ng_120d,0.11260319269955643,54.856412679925924,-0.008463923895846909,0.23367030929495977,43,Other,Older Canadians Reasons for Concers About Efficiency,BC,...
+Senior2,15 to 74,2018,ng_120d,0.13110301594283927,19.486963335982594,0.08102986263335824,0.1811761692523203,594,Other,Older Canadians Reasons for Concers About Efficiency,ON,*
+Senior2,75 and older,2018,ng_120d,0.030075638207424375,67.4860601341149,-0.009705482833016147,0.0698567592478649,90,Other,Older Canadians Reasons for Concers About Efficiency,ON,...
+Senior2,15 to 74,2018,ng_120d,0.10049773992859785,20.68446703957623,0.059755141690700626,0.1412403381664951,300,Other,Older Canadians Reasons for Concers About Efficiency,PR,*
+Senior2,75 and older,2018,ng_120d,0.09908390750843378,46.44031183191785,0.00889640853589889,0.18927140648096868,51,Other,Older Canadians Reasons for Concers About Efficiency,PR,...
+Senior2,15 to 74,2018,ng_120d,0.2151016384141286,17.77489403160655,0.14016420238721666,0.29003907444104055,232,Other,Older Canadians Reasons for Concers About Efficiency,QC,*
+Senior2,75 and older,2018,ng_120d,0.20427603450820384,38.30839660605344,0.05089930089124314,0.35765276812516456,36,Other,Older Canadians Reasons for Concers About Efficiency,QC,...

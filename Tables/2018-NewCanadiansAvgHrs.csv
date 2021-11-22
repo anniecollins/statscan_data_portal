@@ -1,0 +1,73 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+ImmStat,Native-born,2018,vd1dhrs,132.92125053831526,3.1913653647209355,124.60707792200935,141.23542315462117,6328,Total formal volunteer hours,New Canadians Average Volunteer Hours,CA,
+ImmStat,Naturalized,2018,vd1dhrs,118.72317676268864,7.203978762568091,101.96001161259088,135.4863419127864,1149,Total formal volunteer hours,New Canadians Average Volunteer Hours,CA,
+ImmStat,Non-Canadian,2018,vd1dhrs,141.92301295669563,21.584720139063695,81.88209333008197,201.9639325833093,164,Total formal volunteer hours,New Canadians Average Volunteer Hours,CA,*
+ImmStat,Native-born,2018,ivs1hrs,143.98931967725784,4.472362951633691,131.36769063130723,156.61094872320845,9047,Total hours spent helping directly,New Canadians Average Volunteer Hours,CA,
+ImmStat,Naturalized,2018,ivs1hrs,107.60015654000914,9.668734534073828,87.20952718105494,127.99078589896334,1712,Total hours spent helping directly,New Canadians Average Volunteer Hours,CA,
+ImmStat,Non-Canadian,2018,ivs1hrs,64.0070842761974,12.47936226319339,48.35152715098863,79.66264140140618,218,Total hours spent helping directly,New Canadians Average Volunteer Hours,CA,
+ImmStat,Native-born,2018,ichrs,42.842564734686185,7.711682190554036,36.36707415367378,49.318055315698594,3630,Total hours spent on community involvement,New Canadians Average Volunteer Hours,CA,
+ImmStat,Naturalized,2018,ichrs,39.13905556857869,18.305815805617982,25.0964557053208,53.18165543183658,768,Total hours spent on community involvement,New Canadians Average Volunteer Hours,CA,*
+ImmStat,Non-Canadian,2018,ichrs,40.591173582627675,25.334780913323705,20.43552155555012,60.746825609705226,114,Total hours spent on community involvement,New Canadians Average Volunteer Hours,CA,*
+ImmStat,Native-born,2018,vd1dhrs,135.21468874006112,3.3870135361193743,126.23856365301963,144.1908138271026,5525,Total formal volunteer hours,New Canadians Average Volunteer Hours,CA (without QC),
+ImmStat,Naturalized,2018,vd1dhrs,118.39427678004208,7.7776306171580085,100.34640016128174,136.44215339880242,1056,Total formal volunteer hours,New Canadians Average Volunteer Hours,CA (without QC),
+ImmStat,Non-Canadian,2018,vd1dhrs,113.66458424005121,19.159369271733155,70.98163040932226,156.34753807078016,141,Total formal volunteer hours,New Canadians Average Volunteer Hours,CA (without QC),*
+ImmStat,Native-born,2018,ivs1hrs,146.79909898331405,4.931344673010143,132.6105873917635,160.98761057486462,7895,Total hours spent helping directly,New Canadians Average Volunteer Hours,CA (without QC),
+ImmStat,Naturalized,2018,ivs1hrs,106.9323975222447,11.128885169176186,83.60807401139891,130.25672103309049,1563,Total hours spent helping directly,New Canadians Average Volunteer Hours,CA (without QC),
+ImmStat,Non-Canadian,2018,ivs1hrs,68.29421944812049,14.571081602572175,48.79021321197196,87.79822568426901,188,Total hours spent helping directly,New Canadians Average Volunteer Hours,CA (without QC),
+ImmStat,Native-born,2018,ichrs,37.805397908253106,7.800909364933306,32.02514106506534,43.58565475144087,3219,Total hours spent on community involvement,New Canadians Average Volunteer Hours,CA (without QC),
+ImmStat,Naturalized,2018,ichrs,34.57691564581426,19.070507375944473,21.652926364240145,47.500904927388376,708,Total hours spent on community involvement,New Canadians Average Volunteer Hours,CA (without QC),*
+ImmStat,Non-Canadian,2018,ichrs,37.74161103134212,29.79736415125141,15.699845721301227,59.783376341383004,97,Total hours spent on community involvement,New Canadians Average Volunteer Hours,CA (without QC),*
+ImmStat,Native-born,2018,vd1dhrs,140.6301884812636,8.040899907121005,118.46704765951156,162.7933293030156,560,Total formal volunteer hours,New Canadians Average Volunteer Hours,AB,
+ImmStat,Naturalized,2018,vd1dhrs,156.01955962095104,24.975945132879417,79.64493821765211,232.39418102424997,117,Total formal volunteer hours,New Canadians Average Volunteer Hours,AB,*
+ImmStat,Non-Canadian,2018,vd1dhrs,103.8169070474106,73.3227912388175,-45.37840129235225,253.01221538717346,12,Total formal volunteer hours,New Canadians Average Volunteer Hours,AB,...
+ImmStat,Native-born,2018,vd1dhrs,142.20092620800003,7.123880593684598,122.34605164778738,162.0558007682127,1731,Total formal volunteer hours,New Canadians Average Volunteer Hours,AT,
+ImmStat,Naturalized,2018,vd1dhrs,99.51865933463213,17.665047517699715,65.06245630461953,133.97486236464474,51,Total formal volunteer hours,New Canadians Average Volunteer Hours,AT,*
+ImmStat,Non-Canadian,2018,vd1dhrs,73.7372430679036,42.20087133550249,12.747556004380996,134.72693013142623,17,Total formal volunteer hours,New Canadians Average Volunteer Hours,AT,...
+ImmStat,Native-born,2018,vd1dhrs,142.07585592159046,6.937298659611598,122.75800705909813,161.3937047840828,799,Total formal volunteer hours,New Canadians Average Volunteer Hours,BC,
+ImmStat,Naturalized,2018,vd1dhrs,141.29585144700587,14.863281997797031,100.13425414547052,182.45744874854122,270,Total formal volunteer hours,New Canadians Average Volunteer Hours,BC,
+ImmStat,Non-Canadian,2018,vd1dhrs,144.07650611662902,40.625466692420595,29.35637827676662,258.7966339564914,37,Total formal volunteer hours,New Canadians Average Volunteer Hours,BC,...
+ImmStat,Native-born,2018,vd1dhrs,131.2220800011267,6.119122037522706,115.48427633000479,146.9598836722486,1598,Total formal volunteer hours,New Canadians Average Volunteer Hours,ON,
+ImmStat,Naturalized,2018,vd1dhrs,103.12764261016362,8.327434773527,86.29569305006876,119.95959217025847,509,Total formal volunteer hours,New Canadians Average Volunteer Hours,ON,
+ImmStat,Non-Canadian,2018,vd1dhrs,96.57053375759872,23.857609952161987,51.414097838639464,141.72696967655799,61,Total formal volunteer hours,New Canadians Average Volunteer Hours,ON,*
+ImmStat,Native-born,2018,vd1dhrs,126.89904350560718,8.277625938846219,106.31113466313401,147.48695234808034,837,Total formal volunteer hours,New Canadians Average Volunteer Hours,PR,
+ImmStat,Naturalized,2018,vd1dhrs,93.20640028152343,17.64072970577152,60.98010573952915,125.4326948235177,109,Total formal volunteer hours,New Canadians Average Volunteer Hours,PR,*
+ImmStat,Non-Canadian,2018,vd1dhrs,209.0996267712094,78.27103059485006,-111.67676715283358,529.8760206952524,14,Total formal volunteer hours,New Canadians Average Volunteer Hours,PR,...
+ImmStat,Native-born,2018,vd1dhrs,123.98719146535342,8.459590920488722,103.42950320876761,144.54487972193922,803,Total formal volunteer hours,New Canadians Average Volunteer Hours,QC,
+ImmStat,Naturalized,2018,vd1dhrs,121.39516675770574,19.23850557881005,75.62096066392982,167.16937285148165,93,Total formal volunteer hours,New Canadians Average Volunteer Hours,QC,*
+ImmStat,Non-Canadian,2018,vd1dhrs,262.20347229470536,39.122707632071226,61.148214980813805,463.2587296085969,23,Total formal volunteer hours,New Canadians Average Volunteer Hours,QC,...
+ImmStat,Native-born,2018,ivs1hrs,119.79630346355732,10.52250164516781,95.08984417339286,144.50276275372178,824,Total hours spent helping directly,New Canadians Average Volunteer Hours,AB,
+ImmStat,Naturalized,2018,ivs1hrs,85.18101627488859,18.714508736785707,53.936821288473325,116.42521126130386,166,Total hours spent helping directly,New Canadians Average Volunteer Hours,AB,*
+ImmStat,Non-Canadian,2018,ivs1hrs,31.089212647596323,43.32535274082503,4.689456112155881,57.488969183036765,17,Total hours spent helping directly,New Canadians Average Volunteer Hours,AB,...
+ImmStat,Native-born,2018,ivs1hrs,136.02509624339777,6.285518427274642,119.26763449075835,152.78255799603718,2606,Total hours spent helping directly,New Canadians Average Volunteer Hours,AT,
+ImmStat,Naturalized,2018,ivs1hrs,94.78966411160339,25.285943134611454,47.812344639826335,141.76698358338044,74,Total hours spent helping directly,New Canadians Average Volunteer Hours,AT,*
+ImmStat,Non-Canadian,2018,ivs1hrs,63.16586031143208,35.744423003773264,18.913259763059898,107.41846085980426,24,Total hours spent helping directly,New Canadians Average Volunteer Hours,AT,...
+ImmStat,Native-born,2018,ivs1hrs,134.7481152014501,12.428658199960527,101.92384833435636,167.57238206854385,1073,Total hours spent helping directly,New Canadians Average Volunteer Hours,BC,
+ImmStat,Naturalized,2018,ivs1hrs,107.06849248952643,17.22037733026811,70.93146364740203,143.20552133165086,377,Total hours spent helping directly,New Canadians Average Volunteer Hours,BC,*
+ImmStat,Non-Canadian,2018,ivs1hrs,52.76007026998316,24.51201684649888,27.412723708889338,78.10741683107699,47,Total hours spent helping directly,New Canadians Average Volunteer Hours,BC,*
+ImmStat,Native-born,2018,ivs1hrs,164.56463333642293,8.001677828977192,138.75596129670691,190.37330537613894,2090,Total hours spent helping directly,New Canadians Average Volunteer Hours,ON,
+ImmStat,Naturalized,2018,ivs1hrs,110.78787624390822,16.613259383107135,74.7138037245818,146.86194876323464,782,Total hours spent helping directly,New Canadians Average Volunteer Hours,ON,*
+ImmStat,Non-Canadian,2018,ivs1hrs,65.57800893226235,21.236637464213022,38.282445038010934,92.87357282651377,77,Total hours spent helping directly,New Canadians Average Volunteer Hours,ON,*
+ImmStat,Native-born,2018,ivs1hrs,142.11452734452988,8.993331893238382,117.06455867134375,167.164496017716,1302,Total hours spent helping directly,New Canadians Average Volunteer Hours,PR,
+ImmStat,Naturalized,2018,ivs1hrs,117.63831218393388,24.85476580209641,60.33146033589716,174.9451640319706,164,Total hours spent helping directly,New Canadians Average Volunteer Hours,PR,*
+ImmStat,Non-Canadian,2018,ivs1hrs,191.86423830131096,32.213625101694895,70.72586848419715,313.00260811842475,23,Total hours spent helping directly,New Canadians Average Volunteer Hours,PR,*
+ImmStat,Native-born,2018,ivs1hrs,135.32817641039304,9.659952754149337,109.70627693504004,160.95007588574603,1152,Total hours spent helping directly,New Canadians Average Volunteer Hours,QC,
+ImmStat,Naturalized,2018,ivs1hrs,111.63097384931531,15.91365984886689,76.81304965845851,146.4488980401721,149,Total hours spent helping directly,New Canadians Average Volunteer Hours,QC,
+ImmStat,Non-Canadian,2018,ivs1hrs,47.678966931861304,25.666210567434373,23.69413493062288,71.66379893309973,30,Total hours spent helping directly,New Canadians Average Volunteer Hours,QC,*
+ImmStat,Native-born,2018,ichrs,45.996027094675156,21.158160418953315,26.92182772389344,65.07022646545687,349,Total hours spent on community involvement,New Canadians Average Volunteer Hours,AB,*
+ImmStat,Naturalized,2018,ichrs,24.947122887885286,25.46877974524445,12.494045269375393,37.40020050639518,85,Total hours spent on community involvement,New Canadians Average Volunteer Hours,AB,*
+ImmStat,Non-Canadian,2018,ichrs,12.661236517632242,78.16865607351417,-6.7367591522147965,32.05923218747928,8,Total hours spent on community involvement,New Canadians Average Volunteer Hours,AB,...
+ImmStat,Native-born,2018,ichrs,34.910205560938685,10.828891592521734,27.500780616118355,42.319630505759015,933,Total hours spent on community involvement,New Canadians Average Volunteer Hours,AT,
+ImmStat,Naturalized,2018,ichrs,27.002356381708005,26.508473918133074,12.973105483718744,41.03160727969727,39,Total hours spent on community involvement,New Canadians Average Volunteer Hours,AT,*
+ImmStat,Non-Canadian,2018,ichrs,19.54731177390494,48.61000272613982,0.923834370043668,38.17078917776621,15,Total hours spent on community involvement,New Canadians Average Volunteer Hours,AT,...
+ImmStat,Native-born,2018,ichrs,31.856528759758863,13.715854015037213,23.292671966792852,40.42038555272487,524,Total hours spent on community involvement,New Canadians Average Volunteer Hours,BC,
+ImmStat,Naturalized,2018,ichrs,24.35654727739303,23.458074601720526,13.158142074258725,35.554952480527334,188,Total hours spent on community involvement,New Canadians Average Volunteer Hours,BC,*
+ImmStat,Non-Canadian,2018,ichrs,38.23106690009289,38.74006808133495,9.202547278933867,67.25958652125192,24,Total hours spent on community involvement,New Canadians Average Volunteer Hours,BC,...
+ImmStat,Native-born,2018,ichrs,34.77149164727334,12.037097304778705,26.568104952744463,42.974878341802224,891,Total hours spent on community involvement,New Canadians Average Volunteer Hours,ON,
+ImmStat,Naturalized,2018,ichrs,42.809868557649935,26.917454745211135,20.2245626644118,65.39517445088808,329,Total hours spent on community involvement,New Canadians Average Volunteer Hours,ON,*
+ImmStat,Non-Canadian,2018,ichrs,24.442297735858013,27.01547694290601,11.50025706733388,37.38433840438215,37,Total hours spent on community involvement,New Canadians Average Volunteer Hours,ON,*
+ImmStat,Native-born,2018,ichrs,52.89570689950609,22.685486756716873,29.37682784859293,76.41458595041925,522,Total hours spent on community involvement,New Canadians Average Volunteer Hours,PR,*
+ImmStat,Naturalized,2018,ichrs,21.263592161391916,25.59167473474569,10.598037835038847,31.929146487744987,67,Total hours spent on community involvement,New Canadians Average Volunteer Hours,PR,*
+ImmStat,Non-Canadian,2018,ichrs,191.5175057265875,57.96472343621535,-26.063177455487335,409.09818890866234,13,Total hours spent on community involvement,New Canadians Average Volunteer Hours,PR,...
+ImmStat,Native-born,2018,ichrs,61.92955858213297,18.431814903851972,39.55707613638478,84.30204102788116,411,Total hours spent on community involvement,New Canadians Average Volunteer Hours,QC,*
+ImmStat,Naturalized,2018,ichrs,69.7851649164792,49.02060085633016,2.736546957955113,136.8337828750033,60,Total hours spent on community involvement,New Canadians Average Volunteer Hours,QC,...
+ImmStat,Non-Canadian,2018,ichrs,48.625731356303056,55.303330941620644,-4.08093243271361,101.33239514531972,17,Total hours spent on community involvement,New Canadians Average Volunteer Hours,QC,...

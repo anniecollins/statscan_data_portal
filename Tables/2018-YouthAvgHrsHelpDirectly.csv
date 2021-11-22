@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Younger,15 to 24,2018,ivs1hrs1,55.33841115628071,24.961274104241003,28.265090556485212,82.41173175607622,456,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA,*
+Younger,25 to 34,2018,ivs1hrs1,45.6002686507287,10.74511543606811,35.99683416820474,55.20370313325266,1072,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,>=35,2018,ivs1hrs1,69.40549370706871,5.53507656195672,61.87600352457511,76.93498388956232,6448,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs2,30.386591656543175,18.966676900746464,19.090678970538054,41.6825043425483,327,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA,*
+Younger,25 to 34,2018,ivs1hrs2,25.722174237799212,16.14461846877363,17.582939891459496,33.86140858413893,730,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,>=35,2018,ivs1hrs2,38.2233827135948,5.82462367069706,33.85978123060618,42.58698419658342,5587,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs3,22.795551259593054,49.54249182684263,0.6607291250695049,44.9303733941166,130,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA,...
+Younger,25 to 34,2018,ivs1hrs3,17.93559202881056,19.98821277366441,10.90911272239653,24.962071335224593,477,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA,*
+Younger,>=35,2018,ivs1hrs3,21.867850587004245,6.578780180821145,19.04817227224379,24.6875289017647,3269,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs4,51.80461017284541,16.727987622660486,34.819819473840326,68.78940087185049,340,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA,*
+Younger,25 to 34,2018,ivs1hrs4,58.93242862701326,14.717722600103947,41.93265872853149,75.93219852549502,813,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,>=35,2018,ivs1hrs4,101.35817619696445,6.396876125651587,88.65024604235667,114.06610635157223,5710,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs5,27.19964603288411,17.63695748244019,17.797326393748392,36.60196567201983,173,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA,*
+Younger,25 to 34,2018,ivs1hrs5,44.13308567231137,14.972154442007865,31.182283106831616,57.083888237791115,243,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,>=35,2018,ivs1hrs5,47.4372012359089,9.528967392189115,38.577624178135565,56.29677829368224,1323,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs6,108.30920105064006,48.688540818459565,4.952127951182675,211.66627415009742,52,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA,...
+Younger,25 to 34,2018,ivs1hrs6,93.74392058689733,60.771501663276695,-17.914420614205284,205.40226178799995,110,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA,...
+Younger,>=35,2018,ivs1hrs6,150.61621070077499,15.86017023501708,103.79661569702623,197.43580570452374,1125,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs1,49.72065818309125,13.578746167257599,36.488075083330365,62.95324128285214,1528,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,>=35,2018,ivs1hrs1,69.40549370706871,5.53507656195672,61.87600352457511,76.93498388956232,6448,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs2,27.84774819247443,12.957427720486029,20.77550853503299,34.91998784991587,1057,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,>=35,2018,ivs1hrs2,38.2233827135948,5.82462367069706,33.85978123060618,42.58698419658342,5587,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs3,19.608719373004117,23.22205869265036,10.68392866065612,28.533510085352113,607,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA,*
+Younger2,>=35,2018,ivs1hrs3,21.867850587004245,6.578780180821145,19.04817227224379,24.6875289017647,3269,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs4,55.746875680222466,11.389604959708938,43.30238047692359,68.19137088352134,1153,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,>=35,2018,ivs1hrs4,101.35817619696445,6.396876125651587,88.65024604235667,114.06610635157223,5710,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs5,34.76551126783147,11.205300135406365,27.130315001841343,42.4007075338216,416,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,>=35,2018,ivs1hrs5,47.4372012359089,9.528967392189115,38.577624178135565,56.29677829368224,1323,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs6,101.1862941210483,38.48500018754674,24.86226747349609,177.51032076860054,162,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA,...
+Younger2,>=35,2018,ivs1hrs6,150.61621070077499,15.86017023501708,103.79661569702623,197.43580570452374,1125,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs1,54.76245188477197,30.549248340199032,21.97320025605311,87.55170351349082,414,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,25 to 34,2018,ivs1hrs1,47.74454068558843,12.27455931981034,36.25830509363113,59.230776277545736,943,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,>=35,2018,ivs1hrs1,67.69645447926524,6.365794405496285,59.25015214546224,76.14275681306825,5706,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs2,32.61432399616631,20.29953729968458,19.638270983869045,45.59037700846358,291,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,25 to 34,2018,ivs1hrs2,27.680068048377425,18.880506407089882,17.437027708238944,37.92310838851591,638,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,>=35,2018,ivs1hrs2,36.84367240038137,7.033262282121432,31.764793983681596,41.92255081708115,4891,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs3,26.418056425408974,51.361906614357785,-0.17633712966082626,53.01244998047878,121,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),...
+Younger,25 to 34,2018,ivs1hrs3,18.76361814998433,23.664653291214716,10.060701518099105,27.46653478186956,421,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,>=35,2018,ivs1hrs3,21.90462208266066,7.338344419844338,18.754104215139385,25.055139950181932,2884,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs4,56.69382672429408,17.09713579130362,37.69585556382278,75.69179788476538,302,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,25 to 34,2018,ivs1hrs4,66.51558699676916,17.08970560533192,44.23605311711894,88.79512087641938,697,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,>=35,2018,ivs1hrs4,106.65373779847108,7.625948491399745,90.71264687215896,122.59482872478321,5018,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs5,31.71250604288725,18.701506872596106,20.088515306086993,43.33649677968751,151,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger,25 to 34,2018,ivs1hrs5,46.53043868402868,16.220913153410308,31.737292900828123,61.32358446722924,215,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,>=35,2018,ivs1hrs5,48.37492327677969,9.744030732020374,39.136304955944645,57.613541597614734,1183,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs6,124.92629236100649,55.08921594351506,-9.960222361291358,259.81280708330434,44,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA (without QC),...
+Younger,25 to 34,2018,ivs1hrs6,115.93126788404977,67.9274893017908,-38.41432712246855,270.2768628905681,94,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA (without QC),...
+Younger,>=35,2018,ivs1hrs6,131.42910860991793,13.45158896434302,96.77831053753992,166.07990668229593,981,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs1,50.71483869360859,15.875361467259868,34.93484729809137,66.49483008912581,1357,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,ivs1hrs1,67.69645447926524,6.365794405496285,59.25015214546224,76.14275681306825,5706,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs2,29.91514245116572,14.094308251701836,21.65128281795017,38.17900208438127,929,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,ivs1hrs2,36.84367240038137,7.033262282121432,31.764793983681596,41.92255081708115,4891,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs3,21.50830542676194,26.45329554811567,10.356785362537217,32.65982549098666,542,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),*
+Younger2,>=35,2018,ivs1hrs3,21.90462208266066,7.338344419844338,18.754104215139385,25.055139950181932,2884,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs4,62.01696478653255,12.424415599947682,46.9149612172894,77.11896835577569,999,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,ivs1hrs4,106.65373779847108,7.625948491399745,90.71264687215896,122.59482872478321,5018,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs5,38.46194402581689,12.214175938500055,29.254406574733085,47.6694814769007,366,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,ivs1hrs5,48.37492327677969,9.744030732020374,39.136304955944645,57.613541597614734,1183,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs6,120.7603592424324,42.8276972461741,19.39321506422864,222.12750342063617,138,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA (without QC),...
+Younger2,>=35,2018,ivs1hrs6,131.42910860991793,13.45158896434302,96.77831053753992,166.07990668229593,981,Other assistance,Younger Canadians Average Informal Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs1,38.787884571351974,32.27706612793612,14.249936810848972,63.325832331854976,47,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,25 to 34,2018,ivs1hrs1,44.594346223397004,16.975112286216493,29.757535782617744,59.431156664176264,125,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,>=35,2018,ivs1hrs1,51.76063847824008,13.483909294830534,38.08134905906327,65.4399278974169,614,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger,15 to 24,2018,ivs1hrs1,113.45392570858917,65.42798775250178,-32.03541725146965,258.943268668648,118,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger,25 to 34,2018,ivs1hrs1,38.07261886254999,13.424586142462077,28.055063569708956,48.09017415539102,217,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger,>=35,2018,ivs1hrs1,75.81032733831671,8.086389459177482,63.795124219597554,87.82553045703587,1683,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger,15 to 24,2018,ivs1hrs1,97.9780592372355,80.4338478711671,-56.48184777701226,252.43796625148326,67,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger,25 to 34,2018,ivs1hrs1,34.07908697149678,15.44549961903895,23.76245345876722,44.39572048422634,131,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger,>=35,2018,ivs1hrs1,52.488726420314315,12.858603941501414,39.260307309206596,65.71714553142203,853,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger,15 to 24,2018,ivs1hrs1,36.48834456512815,27.022532026830177,17.16295347175291,55.81373565850339,107,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,25 to 34,2018,ivs1hrs1,54.10666816172398,21.064484968378043,31.768388316040422,76.44494800740753,280,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,>=35,2018,ivs1hrs1,78.1804368315184,10.247704508603258,62.477793082526965,93.88308058050985,1683,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger,15 to 24,2018,ivs1hrs1,30.807253488032043,28.16533902864404,13.80070990798028,47.8137970680838,75,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,25 to 34,2018,ivs1hrs1,50.96943736656015,16.566036922951117,34.420254472680284,67.51862026044002,190,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,>=35,2018,ivs1hrs1,62.6518778721363,9.053990699260538,51.53399158656744,73.76976415770517,873,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger,15 to 24,2018,ivs1hrs1,57.45129414561421,37.6799810267551,15.02270579717024,99.8798824940582,42,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,25 to 34,2018,ivs1hrs1,37.75311137994867,18.622846468353476,23.973184814129795,51.533037945767546,129,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger,>=35,2018,ivs1hrs1,75.67825600214609,11.229470713168272,59.021957586927115,92.33455441736506,742,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,QC,
+Younger,15 to 24,2018,ivs1hrs2,19.398614343845136,28.67724463250098,8.495358039648105,30.30187064804217,26,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,25 to 34,2018,ivs1hrs2,16.610907986729966,29.16006251265334,7.117330177070025,26.10448579638991,88,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,>=35,2018,ivs1hrs2,29.022729797981043,9.459483172823049,23.641844201427,34.40361539453509,453,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger,15 to 24,2018,ivs1hrs2,67.38963132483106,51.907879035771465,-1.1709443244141653,135.95020697407628,80,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger,25 to 34,2018,ivs1hrs2,24.894928891705806,21.56504585300842,14.37266069648843,35.41719708692318,144,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,>=35,2018,ivs1hrs2,42.207369980039395,7.501254677894495,36.001962670464074,48.412777289614716,1477,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger,15 to 24,2018,ivs1hrs2,36.11996975045735,24.523948073259604,18.758525230605432,53.48141427030927,49,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,25 to 34,2018,ivs1hrs2,17.374535902446663,19.180474909071624,10.842919665933806,23.90615213895952,79,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,>=35,2018,ivs1hrs2,34.163561702093595,13.850331220299744,24.889469872151523,43.43765353203567,720,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger,15 to 24,2018,ivs1hrs2,31.362565572644886,31.29301494447815,12.126906068922992,50.59822507636678,82,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,25 to 34,2018,ivs1hrs2,34.74614876973016,29.751432774030828,14.485065976851967,55.007231562608354,191,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,>=35,2018,ivs1hrs2,39.35245435478326,11.713078870345258,30.3182276925236,48.386681017042925,1498,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger,15 to 24,2018,ivs1hrs2,19.490483233603616,36.609612164842815,5.505375189050964,33.475591278156266,54,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger,25 to 34,2018,ivs1hrs2,31.978253466410084,27.19841790040626,14.931311844229814,49.02519508859035,136,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,>=35,2018,ivs1hrs2,34.52820250778897,8.58092659612915,28.721143379997805,40.33526163558013,743,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger,15 to 24,2018,ivs1hrs2,22.477830675480423,44.95706697625251,2.671662777645693,42.28399857331515,36,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,25 to 34,2018,ivs1hrs2,18.407008770082307,19.337668909249793,11.430543598994635,25.383473941169978,92,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger,>=35,2018,ivs1hrs2,42.820233174777385,10.220043963331198,34.2429473422137,51.397519007341074,696,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,QC,
+Younger,15 to 24,2018,ivs1hrs3,8.973264984491715,44.97791729147259,1.0628744444292444,16.883655524554186,13,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,25 to 34,2018,ivs1hrs3,36.34639305468705,46.01369311928192,3.5673325788645442,69.12545353050956,58,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,>=35,2018,ivs1hrs3,18.267244724424224,15.578128839109656,12.689785173124097,23.84470427572435,306,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger,15 to 24,2018,ivs1hrs3,155.05373568432807,91.94013730395648,-124.35210034037149,434.4595717090276,36,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger,25 to 34,2018,ivs1hrs3,16.127775009283294,19.053224705217563,10.105077703350702,22.150472315215886,94,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,>=35,2018,ivs1hrs3,28.349211879176163,23.0864115294866,15.521608782930864,41.176814975421465,822,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,15 to 24,2018,ivs1hrs3,6.678239399464426,26.585391795485958,3.198448568211784,10.158030230717067,20,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,25 to 34,2018,ivs1hrs3,27.33938205770208,61.42655480021584,-5.575548494971979,60.25431261037613,75,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger,>=35,2018,ivs1hrs3,26.411073634988323,21.698472948639157,15.178912682833337,37.64323458714331,468,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,15 to 24,2018,ivs1hrs3,21.71269442655676,59.04207779041989,-3.413310698817554,46.83869955193107,33,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,ON,...
+Younger,25 to 34,2018,ivs1hrs3,9.88653092359312,14.008959222557046,7.171980637209391,12.60108120997685,117,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger,>=35,2018,ivs1hrs3,18.975100444072343,9.993960466215025,15.258295230357199,22.691905657787487,876,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger,15 to 24,2018,ivs1hrs3,5.415399870825094,26.895763925844758,2.5606865246173123,8.270113217032875,19,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,25 to 34,2018,ivs1hrs3,21.161186800552912,34.74815417479058,6.749332869860851,35.57304073124497,77,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger,>=35,2018,ivs1hrs3,30.117092380829092,18.92405682661268,18.946521320189284,41.2876634414689,412,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,15 to 24,2018,ivs1hrs3,5.833966417708799,42.2845251894733,0.9989998640810587,10.66893297133654,9,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,25 to 34,2018,ivs1hrs3,15.10180010039599,24.729951504254917,7.781985637625035,22.421614563166944,56,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger,>=35,2018,ivs1hrs3,21.734108747367706,13.902591260971823,15.811873137247623,27.65634435748779,385,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,QC,
+Younger,15 to 24,2018,ivs1hrs4,45.16766824136911,47.820915225837176,2.8332451758045565,87.50209130693366,35,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,25 to 34,2018,ivs1hrs4,43.73504851625003,19.530326140638753,26.99382482435591,60.47627220814415,86,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,>=35,2018,ivs1hrs4,86.99912610733706,13.536089045909181,63.918043044506305,110.08020917016782,514,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AB,
+Younger,15 to 24,2018,ivs1hrs4,72.23237972636865,42.38780060745337,12.222756936366082,132.2420025163712,77,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger,25 to 34,2018,ivs1hrs4,60.18478354291604,22.039610586503848,34.18685709632334,86.18270998950874,155,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,>=35,2018,ivs1hrs4,101.58479836954356,8.355655372845513,84.94847577209289,118.22112096699423,1435,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AT,
+Younger,15 to 24,2018,ivs1hrs4,41.592040424501164,24.980201123167383,21.228454932470942,61.95562591653139,50,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,25 to 34,2018,ivs1hrs4,40.06428353699847,22.720948203853748,22.222760568248525,57.90580650574841,112,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,>=35,2018,ivs1hrs4,92.09511772170654,13.571077795249845,67.59889971331832,116.59133573009477,804,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,BC,
+Younger,15 to 24,2018,ivs1hrs4,60.16758671875233,26.879314900507627,28.46980438339197,91.86536905411269,83,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,25 to 34,2018,ivs1hrs4,90.77950694433619,26.224106383693325,44.12037996017558,137.4386339284968,209,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,>=35,2018,ivs1hrs4,114.94111559306768,12.997449825142942,85.6604025406977,144.22182864543765,1505,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,ON,
+Younger,15 to 24,2018,ivs1hrs4,69.82337054039378,34.363546693678806,22.7964130717046,116.85032800908297,57,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger,25 to 34,2018,ivs1hrs4,43.24132018679065,14.472929027131299,30.97530584300786,55.507334530573445,135,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,PR,
+Younger,>=35,2018,ivs1hrs4,129.93362852650074,16.524849255592823,87.85058278375196,172.0166742692495,760,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,15 to 24,2018,ivs1hrs4,35.31124436396149,51.92350529804044,-0.6243735412188371,71.24686226914181,38,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,25 to 34,2018,ivs1hrs4,37.62469601966176,16.67949113769548,25.324730675723174,49.92466136360035,116,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger,>=35,2018,ivs1hrs4,83.15821322859905,11.538388769092517,64.35212764712125,101.96429881007685,692,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,QC,
+Younger,15 to 24,2018,ivs1hrs5,11.529834743323999,25.03358739971091,5.872729431147791,17.18694005550021,19,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,25 to 34,2018,ivs1hrs5,43.639886649255224,37.36727328214069,11.678683974328965,75.60108932418149,25,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,>=35,2018,ivs1hrs5,47.39622298552719,30.69465334961949,18.88245850367692,75.90998746737746,111,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger,15 to 24,2018,ivs1hrs5,28.921233353159217,31.18029669597465,11.24681445012758,46.59565225619085,41,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,25 to 34,2018,ivs1hrs5,28.801395594904733,32.77533215426767,10.299819552215872,47.30297163759359,46,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,>=35,2018,ivs1hrs5,42.71612596498494,14.099912407482659,30.91138764773928,54.520864282230605,263,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger,15 to 24,2018,ivs1hrs5,14.297627620038734,38.76775308254427,3.433804063113593,25.161451176963872,17,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger,25 to 34,2018,ivs1hrs5,23.959607038831763,22.536313189926812,13.37656182890453,34.542652248759,34,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,>=35,2018,ivs1hrs5,39.192063444332604,14.664839646136793,27.92726205558301,50.45686483308219,211,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger,15 to 24,2018,ivs1hrs5,38.24953577370062,25.408250733712517,19.20155140174371,57.29752014565753,51,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,25 to 34,2018,ivs1hrs5,57.64601501508439,23.49298555495463,31.10267360239271,84.18935642777606,73,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,>=35,2018,ivs1hrs5,54.05871222154935,14.87295190719643,38.300354300487925,69.81707014261077,413,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger,15 to 24,2018,ivs1hrs5,52.499372056067614,51.825075527175144,-0.827012911014215,105.82575702314944,23,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger,25 to 34,2018,ivs1hrs5,41.90700427730462,52.732548412704325,-1.4055172152579587,85.2195257698672,37,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger,>=35,2018,ivs1hrs5,40.47420807966914,14.171026440087195,29.232617622691386,51.71579853664689,185,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger,15 to 24,2018,ivs1hrs5,12.916183000211541,27.62081326502442,5.923904103921869,19.908461896501215,22,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger,25 to 34,2018,ivs1hrs5,35.27243197812606,39.321441293080014,8.088459378656538,62.45640457759558,28,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,>=35,2018,ivs1hrs5,42.94924405685677,28.62177801410756,18.85572569537189,67.04276241834165,140,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger,15 to 24,2018,ivs1hrs6,380.32148415114364,87.05467939761084,-268.5983830426118,1029.2413513448992,6,Other assistance,Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,25 to 34,2018,ivs1hrs6,48.78361566680182,24.052668313247167,25.78586617922233,71.78136515438132,13,Other assistance,Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,>=35,2018,ivs1hrs6,73.08594986484393,40.48782333415883,15.088831478882277,131.08306825080558,93,Other assistance,Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger,15 to 24,2018,ivs1hrs6,30.49144418091675,30.13843525445528,12.480072591454633,48.502815770378874,9,Other assistance,Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger,25 to 34,2018,ivs1hrs6,43.92847703298254,22.51554848967388,24.542987660057094,63.31396640590799,22,Other assistance,Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,>=35,2018,ivs1hrs6,152.24742567750073,20.911141950289096,89.84868870380197,214.6461626511995,292,Other assistance,Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger,15 to 24,2018,ivs1hrs6,71.4536972640955,67.52999462783222,-23.119813624224562,166.02720815241554,10,Other assistance,Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger,25 to 34,2018,ivs1hrs6,29.50870857826493,32.81939155602417,10.527283294421359,48.4901338621085,18,Other assistance,Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,>=35,2018,ivs1hrs6,106.52747328084945,21.922684653310036,60.755097582909954,152.29984897878893,169,Other assistance,Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger,15 to 24,2018,ivs1hrs6,53.47282839986286,22.030503499537716,30.38379934339631,76.56185745632942,13,Other assistance,Younger Canadians Average Informal Volunteer Hours,ON,...
+Younger,25 to 34,2018,ivs1hrs6,225.17944622354113,94.967830559859,-193.95500043371632,644.3138928807986,23,Other assistance,Younger Canadians Average Informal Volunteer Hours,ON,...
+Younger,>=35,2018,ivs1hrs6,121.16858029040775,21.574922574209538,69.93114813897603,172.40601244183947,287,Other assistance,Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger,15 to 24,2018,ivs1hrs6,68.53811718463818,65.25539594885353,-19.120918730068453,156.1971530993448,6,Other assistance,Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger,25 to 34,2018,ivs1hrs6,60.40373695750342,21.685439887557667,34.73052922458345,86.07694469042339,18,Other assistance,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,>=35,2018,ivs1hrs6,350.5620351985308,29.992546204787978,144.4865604019274,556.6375099951342,140,Other assistance,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger,15 to 24,2018,ivs1hrs6,51.690612996177,48.05032347773739,3.0099942959213095,100.37123169643269,8,Other assistance,Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,25 to 34,2018,ivs1hrs6,42.74267483810978,67.11911065355103,-13.485758245173251,98.97110792139281,16,Other assistance,Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger,>=35,2018,ivs1hrs6,212.66587569129138,40.921588499552506,42.097551104329824,383.23420027825296,144,Other assistance,Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger2,15 to 34,2018,ivs1hrs1,42.21489848965027,15.430838981928574,29.44747159427439,54.982325385026144,172,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger2,>=35,2018,ivs1hrs1,51.76063847824008,13.483909294830534,38.08134905906327,65.4399278974169,614,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger2,15 to 34,2018,ivs1hrs1,73.55675071980839,47.75559836241907,4.708181624961966,142.40531981465483,335,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger2,>=35,2018,ivs1hrs1,75.81032733831671,8.086389459177482,63.795124219597554,87.82553045703587,1683,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger2,15 to 34,2018,ivs1hrs1,63.93673913241479,56.039246454201816,-6.288117407355351,134.16159567218494,198,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger2,>=35,2018,ivs1hrs1,52.488726420314315,12.858603941501414,39.260307309206596,65.71714553142203,853,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger2,15 to 34,2018,ivs1hrs1,46.93661467621074,16.823435003901352,31.460051375274453,62.41317797714702,387,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger2,>=35,2018,ivs1hrs1,78.1804368315184,10.247704508603258,62.477793082526965,93.88308058050985,1683,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger2,15 to 34,2018,ivs1hrs1,42.68003288566069,14.208218591603938,30.79466944598444,54.565396325336934,265,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger2,>=35,2018,ivs1hrs1,62.6518778721363,9.053990699260538,51.53399158656744,73.76976415770517,873,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger2,15 to 34,2018,ivs1hrs1,46.078638200631374,21.393464914711746,26.75767133306247,65.39960506820029,171,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger2,>=35,2018,ivs1hrs1,75.67825600214609,11.229470713168272,59.021957586927115,92.33455441736506,742,"Cooking, cleaning, work around home",Younger Canadians Average Informal Volunteer Hours,QC,
+Younger2,15 to 34,2018,ivs1hrs2,17.580340529822468,19.83050730308159,10.74737549262649,24.413305567018448,114,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger2,>=35,2018,ivs1hrs2,29.022729797981043,9.459483172823049,23.641844201427,34.40361539453509,453,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger2,15 to 34,2018,ivs1hrs2,45.67465457049303,37.56815736595504,12.043385397729566,79.3059237432565,224,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger2,>=35,2018,ivs1hrs2,42.207369980039395,7.501254677894495,36.001962670464074,48.412777289614716,1477,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger2,15 to 34,2018,ivs1hrs2,26.4092191929244,18.225531194905553,16.97548039789255,35.842957987956254,128,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger2,>=35,2018,ivs1hrs2,34.163561702093595,13.850331220299744,24.889469872151523,43.43765353203567,720,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger2,15 to 34,2018,ivs1hrs2,33.11166215989619,21.857958290286586,18.926357546890813,47.29696677290157,273,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger2,>=35,2018,ivs1hrs2,39.35245435478326,11.713078870345258,30.3182276925236,48.386681017042925,1498,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger2,15 to 34,2018,ivs1hrs2,27.026969565657893,21.740029489606165,15.510865719364006,38.54307341195178,190,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,>=35,2018,ivs1hrs2,34.52820250778897,8.58092659612915,28.721143379997805,40.33526163558013,743,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger2,15 to 34,2018,ivs1hrs2,20.302623549445592,24.63277248571769,10.500649493898067,30.104597604993117,128,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger2,>=35,2018,ivs1hrs2,42.820233174777385,10.220043963331198,34.2429473422137,51.397519007341074,696,"Shopping, driving, accompaniment",Younger Canadians Average Informal Volunteer Hours,QC,
+Younger2,15 to 34,2018,ivs1hrs3,25.546811088470303,41.55802225370191,4.738364558559375,46.35525761838123,71,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger2,>=35,2018,ivs1hrs3,18.267244724424224,15.578128839109656,12.689785173124097,23.84470427572435,306,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AB,
+Younger2,15 to 34,2018,ivs1hrs3,71.87938695598838,78.10398106952613,-38.1542901629732,181.91306407494994,130,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AT,...
+Younger2,>=35,2018,ivs1hrs3,28.349211879176163,23.0864115294866,15.521608782930864,41.176814975421465,822,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger2,15 to 34,2018,ivs1hrs3,19.731950488995817,53.87590720146612,-1.1039706146306791,40.56787159262231,95,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger2,>=35,2018,ivs1hrs3,26.411073634988323,21.698472948639157,15.178912682833337,37.64323458714331,468,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger2,15 to 34,2018,ivs1hrs3,13.963780821622876,33.76845841885468,4.721857747167263,23.20570389607849,150,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,ON,...
+Younger2,>=35,2018,ivs1hrs3,18.975100444072343,9.993960466215025,15.258295230357199,22.691905657787487,876,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger2,15 to 34,2018,ivs1hrs3,16.28281108846594,32.14075723722019,6.025498757106057,26.540123419825825,96,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,>=35,2018,ivs1hrs3,30.117092380829092,18.92405682661268,18.946521320189284,41.2876634414689,412,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,15 to 34,2018,ivs1hrs3,12.413424116738662,23.379681452061543,6.72517937054909,18.101668862928236,65,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger2,>=35,2018,ivs1hrs3,21.734108747367706,13.902591260971823,15.811873137247623,27.65634435748779,385,"Paperwork tasks, taxes, etc.",Younger Canadians Average Informal Volunteer Hours,QC,
+Younger2,15 to 34,2018,ivs1hrs4,44.40226357417997,24.768718778216936,22.846830947722594,65.95769620063734,121,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger2,>=35,2018,ivs1hrs4,86.99912610733706,13.536089045909181,63.918043044506305,110.08020917016782,514,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AB,
+Younger2,15 to 34,2018,ivs1hrs4,66.37536225265285,25.96148457219558,32.601205187434275,100.14951931787142,232,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger2,>=35,2018,ivs1hrs4,101.58479836954356,8.355655372845513,84.94847577209289,118.22112096699423,1435,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,AT,
+Younger2,15 to 34,2018,ivs1hrs4,40.720876624277174,16.395336749967303,27.63552036901304,53.80623287954131,162,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,BC,
+Younger2,>=35,2018,ivs1hrs4,92.09511772170654,13.571077795249845,67.59889971331832,116.59133573009477,804,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,BC,
+Younger2,15 to 34,2018,ivs1hrs4,76.68472723941183,18.96309432017549,48.18332854399005,105.1861259348336,292,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger2,>=35,2018,ivs1hrs4,114.94111559306768,12.997449825142942,85.6604025406977,144.22182864543765,1505,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,ON,
+Younger2,15 to 34,2018,ivs1hrs4,54.81042249741252,20.584066020953816,32.69769026718986,76.92315472763516,192,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,>=35,2018,ivs1hrs4,129.93362852650074,16.524849255592823,87.85058278375196,172.0166742692495,760,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,15 to 34,2018,ivs1hrs4,36.66896031975915,22.353261568565713,20.603706643081264,52.734213996437035,154,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger2,>=35,2018,ivs1hrs4,83.15821322859905,11.538388769092517,64.35212764712125,101.96429881007685,692,Health-related/personal care,Younger Canadians Average Informal Volunteer Hours,QC,
+Younger2,15 to 34,2018,ivs1hrs5,26.18128071172859,28.824867604170823,11.389982285927676,40.97257913752951,44,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger2,>=35,2018,ivs1hrs5,47.39622298552719,30.69465334961949,18.88245850367692,75.90998746737746,111,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AB,*
+Younger2,15 to 34,2018,ivs1hrs5,28.878835051635257,22.59073572949311,16.092145050170693,41.66552505309982,87,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger2,>=35,2018,ivs1hrs5,42.71612596498494,14.099912407482659,30.91138764773928,54.520864282230605,263,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,AT,
+Younger2,15 to 34,2018,ivs1hrs5,19.726221412195006,19.85557281473868,12.04952413395493,27.40291869043508,51,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger2,>=35,2018,ivs1hrs5,39.192063444332604,14.664839646136793,27.92726205558301,50.45686483308219,211,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,BC,
+Younger2,15 to 34,2018,ivs1hrs5,46.76135051738205,17.417785628846786,30.797851946872903,62.724849087891194,124,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger2,>=35,2018,ivs1hrs5,54.05871222154935,14.87295190719643,38.300354300487925,69.81707014261077,413,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,ON,
+Younger2,15 to 34,2018,ivs1hrs5,47.39891659604463,37.82667354330775,12.25787278288967,82.53996040919958,60,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,PR,...
+Younger2,>=35,2018,ivs1hrs5,40.47420807966914,14.171026440087195,29.232617622691386,51.71579853664689,185,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,PR,
+Younger2,15 to 34,2018,ivs1hrs5,22.246942890709033,28.328194808698363,9.894941516526151,34.59894426489191,50,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger2,>=35,2018,ivs1hrs5,42.94924405685677,28.62177801410756,18.85572569537189,67.04276241834165,140,"Teaching, coaching, reading assistance, etc.",Younger Canadians Average Informal Volunteer Hours,QC,*
+Younger2,15 to 34,2018,ivs1hrs6,234.08775989266547,71.59345680111602,-94.38558196237847,562.5611017477095,19,Other assistance,Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger2,>=35,2018,ivs1hrs6,73.08594986484393,40.48782333415883,15.088831478882277,131.08306825080558,93,Other assistance,Younger Canadians Average Informal Volunteer Hours,AB,...
+Younger2,15 to 34,2018,ivs1hrs6,37.273482096121334,18.576760248000344,23.702288880611285,50.844675311631384,31,Other assistance,Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger2,>=35,2018,ivs1hrs6,152.24742567750073,20.911141950289096,89.84868870380197,214.6461626511995,292,Other assistance,Younger Canadians Average Informal Volunteer Hours,AT,*
+Younger2,15 to 34,2018,ivs1hrs6,51.94530348640764,50.63953547059914,0.3887245148060572,103.50188245800922,28,Other assistance,Younger Canadians Average Informal Volunteer Hours,BC,...
+Younger2,>=35,2018,ivs1hrs6,106.52747328084945,21.922684653310036,60.755097582909954,152.29984897878893,169,Other assistance,Younger Canadians Average Informal Volunteer Hours,BC,*
+Younger2,15 to 34,2018,ivs1hrs6,124.12930248333743,69.7405429150183,-45.54174067240754,293.80034563908237,36,Other assistance,Younger Canadians Average Informal Volunteer Hours,ON,...
+Younger2,>=35,2018,ivs1hrs6,121.16858029040775,21.574922574209538,69.93114813897603,172.40601244183947,287,Other assistance,Younger Canadians Average Informal Volunteer Hours,ON,*
+Younger2,15 to 34,2018,ivs1hrs6,62.35618300195356,20.538886888752977,37.25440310749192,87.45796289641521,24,Other assistance,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,>=35,2018,ivs1hrs6,350.5620351985308,29.992546204787978,144.4865604019274,556.6375099951342,140,Other assistance,Younger Canadians Average Informal Volunteer Hours,PR,*
+Younger2,15 to 34,2018,ivs1hrs6,46.66941340236594,42.95086402415093,7.382099398260394,85.95672740647149,24,Other assistance,Younger Canadians Average Informal Volunteer Hours,QC,...
+Younger2,>=35,2018,ivs1hrs6,212.66587569129138,40.921588499552506,42.097551104329824,383.23420027825296,144,Other assistance,Younger Canadians Average Informal Volunteer Hours,QC,...

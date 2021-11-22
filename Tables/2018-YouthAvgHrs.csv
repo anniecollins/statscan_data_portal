@@ -1,0 +1,121 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Younger,15 to 24,2018,vd1dhrs,86.11929732034129,9.308510190958657,70.40739584332913,101.83119879735345,505,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA,
+Younger,25 to 34,2018,vd1dhrs,120.98712821182508,10.158916209922388,96.89724815669013,145.07700826696004,919,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA,
+Younger,>=35,2018,vd1dhrs,145.2134756629479,3.0001788938865044,136.6745710362866,153.7523802896092,6941,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA,
+Younger,15 to 24,2018,ivs1hrs,103.0245927319861,15.469559046334613,71.78776432494172,134.2614211390305,650,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA,
+Younger,25 to 34,2018,ivs1hrs,98.51062022007513,10.047675905579016,79.11084211161446,117.91039832853579,1437,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA,
+Younger,>=35,2018,ivs1hrs,155.6537188650323,3.8673149568207927,143.85548134538934,167.45195638467524,9812,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA,
+Younger,15 to 24,2018,ichrs,28.396640872518713,22.428644760210815,15.913666112269313,40.879615632768115,257,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA,*
+Younger,25 to 34,2018,ichrs,62.308334041941336,16.13936465227476,42.59860450952054,82.01806357436213,600,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA,
+Younger,>=35,2018,ichrs,43.63838635560824,7.558899113154545,37.173285221052815,50.103487490163666,4080,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA,
+Younger2,15 to 34,2018,vd1dhrs,101.82385001571821,7.031016338321357,87.79197485886553,115.85572517257089,1424,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA,
+Younger2,>=35,2018,vd1dhrs,145.2134756629479,3.0001788938865044,136.6745710362866,153.7523802896092,6941,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA,
+Younger2,15 to 34,2018,ivs1hrs,100.53113150128496,9.46808716870682,81.87545899197565,119.18680401059427,2087,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA,
+Younger2,>=35,2018,ivs1hrs,155.6537188650323,3.8673149568207927,143.85548134538934,167.45195638467524,9812,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA,
+Younger2,15 to 34,2018,ichrs,47.08587612610122,13.265573660759527,34.84352638689324,59.3282258653092,857,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA,
+Younger2,>=35,2018,ichrs,43.63838635560824,7.558899113154545,37.173285221052815,50.103487490163666,4080,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA,
+Younger,15 to 24,2018,vd1dhrs,91.95577812678113,8.284164568987027,77.02522722239743,106.88632903116482,450,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger,25 to 34,2018,vd1dhrs,112.36555294630432,11.691122390029374,86.61790920838999,138.11319668421865,819,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger,>=35,2018,vd1dhrs,146.69249400022107,3.310213179280648,137.17523371728055,156.2097542831616,6116,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ivs1hrs,108.4284302048231,17.646779762298806,70.92623182437418,145.93062858527202,583,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA (without QC),*
+Younger,25 to 34,2018,ivs1hrs,104.86075968524871,11.712071731108981,80.78972191578471,128.9317974547127,1263,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger,>=35,2018,ivs1hrs,155.23186825730278,4.189299896806261,142.485970616908,167.97776589769757,8624,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,ichrs,31.182908525303965,25.52556091946515,15.582355062710771,46.783461987897155,231,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA (without QC),*
+Younger,25 to 34,2018,ichrs,53.80713539335734,17.030120811430074,35.847161899338516,71.76710888737617,529,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA (without QC),*
+Younger,>=35,2018,ichrs,39.618588283196054,7.861248314522304,33.51424987075348,45.72292669563863,3662,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,vd1dhrs,101.28621026468177,7.314243905449651,86.76616897451362,115.80625155484992,1269,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,vd1dhrs,146.69249400022107,3.310213179280648,137.17523371728055,156.2097542831616,6116,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ivs1hrs,106.46759074987841,10.771739103122108,83.98991802426414,128.94526347549268,1846,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,ivs1hrs,155.23186825730278,4.189299896806261,142.485970616908,167.97776589769757,8624,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger2,15 to 34,2018,ichrs,43.890133736557125,13.943488256707703,31.895515483448417,55.88475198966583,760,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger2,>=35,2018,ichrs,39.618588283196054,7.861248314522304,33.51424987075348,45.72292669563863,3662,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,CA (without QC),
+Younger,15 to 24,2018,vd1dhrs,82.55254848342041,25.317908127475302,41.588167598797085,123.51692936804373,42,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AB,*
+Younger,25 to 34,2018,vd1dhrs,99.85006605411526,16.716165898164135,67.13610591743223,132.5640261907983,104,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AB,*
+Younger,>=35,2018,vd1dhrs,163.10667541921657,8.99839224444987,134.34032629238388,191.87302454604927,612,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AB,
+Younger,15 to 24,2018,vd1dhrs,84.4721413893517,16.365482391103082,57.37706336497189,111.56721941373152,110,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AT,
+Younger,25 to 34,2018,vd1dhrs,108.82062441618379,25.118036168305157,55.24774540160881,162.39350343075876,168,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AT,*
+Younger,>=35,2018,vd1dhrs,154.88564476408462,6.8114063255238975,134.20823913786003,175.5630503903092,1733,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AT,
+Younger,15 to 24,2018,vd1dhrs,108.16565627314242,17.953153735138283,70.10482840633405,146.2264841399508,71,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,BC,*
+Younger,25 to 34,2018,vd1dhrs,113.51361254861006,26.257056964898247,55.09623153820692,171.9309935590132,125,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,BC,*
+Younger,>=35,2018,vd1dhrs,162.96262392139153,7.544112602928982,138.86666235381375,187.0585854889693,998,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,BC,
+Younger,15 to 24,2018,vd1dhrs,93.82772502013884,12.108785071964283,71.55979498731718,116.09565505296051,148,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,ON,
+Younger,25 to 34,2018,vd1dhrs,121.85683158172147,19.605837724039272,75.03122882405788,168.68243433938505,259,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,ON,*
+Younger,>=35,2018,vd1dhrs,130.91643577412313,4.799794369410757,118.60057144785632,143.23230010038992,1940,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,ON,
+Younger,15 to 24,2018,vd1dhrs,77.47967762358473,16.216418443261023,52.853849822681326,102.10550542448814,79,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,PR,
+Younger,25 to 34,2018,vd1dhrs,91.45751586693578,17.373093534573737,60.31564855568847,122.59938317818309,163,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,PR,*
+Younger,>=35,2018,vd1dhrs,155.92903183147638,8.616621109595036,129.59532053784758,182.26274312510517,833,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,PR,
+Younger,15 to 24,2018,vd1dhrs,62.4308263959049,40.38769848222267,13.011561610692674,111.85009118111714,55,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,QC,...
+Younger,25 to 34,2018,vd1dhrs,161.4855825823609,20.26122228117634,97.3576134059295,225.6135517587923,100,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,QC,*
+Younger,>=35,2018,vd1dhrs,138.35891884247337,7.779723435980943,117.2619816902506,159.45585599469615,825,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,QC,
+Younger,15 to 24,2018,ivs1hrs,119.56044811146914,36.94905844395491,32.97617784380961,206.14471837912868,59,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AB,...
+Younger,25 to 34,2018,ivs1hrs,83.4607979249629,14.361816199881936,59.96771628578505,106.95387956414075,163,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AB,
+Younger,>=35,2018,ivs1hrs,124.14232071717524,8.65596814414248,103.0810970492453,145.20354438510518,871,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AB,
+Younger,15 to 24,2018,ivs1hrs,191.16386911710072,54.0969734518588,-11.52358673551069,393.8513249697121,159,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AT,...
+Younger,25 to 34,2018,ivs1hrs,83.64008641864268,11.949385292618478,64.05127305122377,103.22889978606159,283,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AT,
+Younger,>=35,2018,ivs1hrs,156.4042950169727,6.0481961971857015,137.86374400824343,174.94484602570196,2539,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AT,
+Younger,15 to 24,2018,ivs1hrs,118.53174230235159,46.686542469988105,10.070525806887147,226.99295879781602,97,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,BC,...
+Younger,25 to 34,2018,ivs1hrs,72.27673640278363,15.814882490487909,49.87340545389428,94.68006735167297,183,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,BC,
+Younger,>=35,2018,ivs1hrs,133.31031060613046,8.469009336385652,111.1821944257978,155.4384267864631,1329,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,BC,
+Younger,15 to 24,2018,ivs1hrs,92.51049950879164,25.151193073193205,46.907048583216245,138.11395043436704,158,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,ON,*
+Younger,25 to 34,2018,ivs1hrs,127.83763471116589,18.987380732775296,80.26339280721686,175.41187661511492,383,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,ON,*
+Younger,>=35,2018,ivs1hrs,166.8523594708975,6.914847828523666,144.23910496119203,189.465613980603,2605,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,ON,
+Younger,15 to 24,2018,ivs1hrs,79.05700251707296,20.812678926180077,46.80799011015338,111.30601492399254,110,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,PR,*
+Younger,25 to 34,2018,ivs1hrs,97.9407725899495,13.739730206329714,71.56593332764203,124.31561185225698,251,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,PR,
+Younger,>=35,2018,ivs1hrs,188.05635519250845,9.617826823280192,152.60661483950332,223.50609554551357,1280,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,PR,
+Younger,15 to 24,2018,ivs1hrs,82.6686463783955,29.878415004048808,34.2573767265757,131.0799160302153,67,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,QC,*
+Younger,25 to 34,2018,ivs1hrs,75.8101598495819,14.222059063935626,54.67828736770075,96.94203233146304,174,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,QC,
+Younger,>=35,2018,ivs1hrs,157.11273697924574,9.349288529985136,128.3229767363764,185.90249722211507,1188,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,QC,
+Younger,15 to 24,2018,ichrs,11.740210067803964,33.861652702380574,3.9485120917218284,19.5319080438861,26,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AB,...
+Younger,25 to 34,2018,ichrs,77.06294524525427,35.28435720280547,23.76924139974129,130.35664909076723,67,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AB,...
+Younger,>=35,2018,ichrs,36.205691843167536,17.44235061959444,23.828276802803803,48.58310688353127,386,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AB,*
+Younger,15 to 24,2018,ichrs,24.6052913653533,31.909955721805005,9.216560485476043,39.99402224523055,54,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AT,*
+Younger,25 to 34,2018,ichrs,36.36051903165109,44.42279943221037,4.702474300137183,68.01856376316499,113,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AT,...
+Younger,>=35,2018,ichrs,42.51854018423046,10.509133325756553,33.76077416398608,51.27630620447484,931,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AT,
+Younger,15 to 24,2018,ichrs,19.608709687072956,24.03031163928636,10.373292662503147,28.844126711642765,48,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,BC,*
+Younger,25 to 34,2018,ichrs,26.39622983635482,18.330890626900324,16.912622622047294,35.879837050662346,90,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,BC,*
+Younger,>=35,2018,ichrs,35.01558278095129,13.113673187107514,26.01576314049609,44.01540242140649,672,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,BC,
+Younger,15 to 24,2018,ichrs,38.134962580258694,38.78962361268412,9.142374774200984,67.1275503863164,72,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,ON,...
+Younger,25 to 34,2018,ichrs,53.92370423078748,26.415094441396146,26.005982333136455,81.8414261284385,166,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,ON,*
+Younger,>=35,2018,ichrs,41.70034897450983,13.994004805943167,30.26288341889289,53.13781453012677,1120,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,ON,
+Younger,15 to 24,2018,ichrs,63.88580548239871,54.40273057630572,-4.233963138726992,132.0055741035244,31,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,PR,...
+Younger,25 to 34,2018,ichrs,79.32324136417066,50.38454110942892,0.990044518748789,157.65643820959252,93,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,PR,...
+Younger,>=35,2018,ichrs,42.27879782252983,15.732278102731875,29.24225799462327,55.31533765043639,553,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,PR,
+Younger,15 to 24,2018,ichrs,18.87569350008119,42.38233122327615,3.196062100088122,34.55532490007426,26,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,QC,...
+Younger,25 to 34,2018,ichrs,97.94424192692703,37.87097700140594,25.244392812940276,170.6440910409138,71,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,QC,...
+Younger,>=35,2018,ichrs,62.546171597300784,17.34678083280396,41.28105763560555,83.81128555899602,418,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,QC,*
+Younger2,15 to 34,2018,vd1dhrs,91.18794079328451,14.542515357797308,65.19681861815764,117.17906296841139,146,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AB,
+Younger2,>=35,2018,vd1dhrs,163.10667541921657,8.99839224444987,134.34032629238388,191.87302454604927,612,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AB,
+Younger2,15 to 34,2018,vd1dhrs,95.4482941561208,14.918623525790029,67.53924653364082,123.35734177860077,278,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AT,
+Younger2,>=35,2018,vd1dhrs,154.88564476408462,6.8114063255238975,134.20823913786003,175.5630503903092,1733,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,AT,
+Younger2,15 to 34,2018,vd1dhrs,110.53924758965574,15.161864613212131,77.69062151650618,143.3878736628053,196,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,BC,
+Younger2,>=35,2018,vd1dhrs,162.96262392139153,7.544112602928982,138.86666235381375,187.0585854889693,998,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,BC,
+Younger2,15 to 34,2018,vd1dhrs,106.2127166473679,11.746122293176763,81.76044981868736,130.66498347604843,407,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,ON,
+Younger2,>=35,2018,vd1dhrs,130.91643577412313,4.799794369410757,118.60057144785632,143.23230010038992,1940,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,ON,
+Younger2,15 to 34,2018,vd1dhrs,84.3568541040333,12.02806554590942,64.47008403477835,104.24362417328825,242,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,PR,
+Younger2,>=35,2018,vd1dhrs,155.92903183147638,8.616621109595036,129.59532053784758,182.26274312510517,833,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,PR,
+Younger2,15 to 34,2018,vd1dhrs,104.1505803722721,19.45495680356128,64.43690730645923,143.86425343808497,155,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,QC,*
+Younger2,>=35,2018,vd1dhrs,138.35891884247337,7.779723435980943,117.2619816902506,159.45585599469615,825,Total formal volunteer hours,Younger Canadians Average Volunteer Hours,QC,
+Younger2,15 to 34,2018,ivs1hrs,98.28410613704706,20.18517972174873,59.40072665651147,137.16748561758266,222,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AB,*
+Younger2,>=35,2018,ivs1hrs,124.14232071717524,8.65596814414248,103.0810970492453,145.20354438510518,871,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AB,
+Younger2,15 to 34,2018,ivs1hrs,137.110791788034,37.84457425832288,35.410229581851894,238.8113539942161,442,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AT,...
+Younger2,>=35,2018,ivs1hrs,156.4042950169727,6.0481961971857015,137.86374400824343,174.94484602570196,2539,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,AT,
+Younger2,15 to 34,2018,ivs1hrs,94.37759033835523,28.264918969477034,42.09408218615759,146.6610984905529,280,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,BC,*
+Younger2,>=35,2018,ivs1hrs,133.31031060613046,8.469009336385652,111.1821944257978,155.4384267864631,1329,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,BC,
+Younger2,15 to 34,2018,ivs1hrs,112.04326946972053,15.676552791733963,77.61743837957873,146.46910055986234,541,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,ON,
+Younger2,>=35,2018,ivs1hrs,166.8523594708975,6.914847828523666,144.23910496119203,189.465613980603,2605,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,ON,
+Younger2,15 to 34,2018,ivs1hrs,89.41617854770544,11.937817514729185,68.494856150586,110.33750094482488,361,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,PR,
+Younger2,>=35,2018,ivs1hrs,188.05635519250845,9.617826823280192,152.60661483950332,223.50609554551357,1280,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,PR,
+Younger2,15 to 34,2018,ivs1hrs,78.81049522597826,15.625704458126885,54.67413641602994,102.94685403592658,241,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,QC,
+Younger2,>=35,2018,ivs1hrs,157.11273697924574,9.349288529985136,128.3229767363764,185.90249722211507,1188,Total hours spent helping directly,Younger Canadians Average Volunteer Hours,QC,
+Younger2,15 to 34,2018,ichrs,47.618696095606595,32.73842105509141,17.0636234742542,78.17376871695899,93,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AB,*
+Younger2,>=35,2018,ichrs,36.205691843167536,17.44235061959444,23.828276802803803,48.58310688353127,386,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AB,*
+Younger2,15 to 34,2018,ichrs,31.08212011014663,30.00317086321602,12.804237631765652,49.36000258852761,167,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AT,*
+Younger2,>=35,2018,ichrs,42.51854018423046,10.509133325756553,33.76077416398608,51.27630620447484,931,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,AT,
+Younger2,15 to 34,2018,ichrs,23.326151565576765,14.703948248722057,16.603739194694544,30.048563936458986,138,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,BC,
+Younger2,>=35,2018,ichrs,35.01558278095129,13.113673187107514,26.01576314049609,44.01540242140649,672,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,BC,
+Younger2,15 to 34,2018,ichrs,47.04644397922127,21.27588102082714,27.428095404327895,66.66479255411465,238,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,ON,*
+Younger2,>=35,2018,ichrs,41.70034897450983,13.994004805943167,30.26288341889289,53.13781453012677,1120,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,ON,
+Younger2,15 to 34,2018,ichrs,73.28607154447455,39.317633010380874,16.810985937634435,129.76115715131468,124,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,PR,...
+Younger2,>=35,2018,ichrs,42.27879782252983,15.732278102731875,29.24225799462327,55.31533765043639,553,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,PR,
+Younger2,15 to 34,2018,ichrs,59.270985527253536,34.518512061631235,19.171176299183585,99.37079475532349,97,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,QC,...
+Younger2,>=35,2018,ichrs,62.546171597300784,17.34678083280396,41.28105763560555,83.81128555899602,418,Total hours spent on community involvement,Younger Canadians Average Volunteer Hours,QC,*

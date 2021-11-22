@@ -810,12 +810,12 @@ def update_graph(region):
 def update_graph(region):
 
     dff1 = VolRate_2018[VolRate_2018['Region'] == region]
-    dff1 = dff1[dff1['Group'] == "Personal income category"]
+    dff1 = dff1[dff1['Group'] == "Family income category"]
     name1 = "Volunteer rate"
 
 
     dff2 = AvgTotHours_2018[AvgTotHours_2018['Region'] == region]
-    dff2 = dff2[dff2['Group'] == "Personal income category"]
+    dff2 = dff2[dff2['Group'] == "Family income category"]
     name2 = "Average hours"
 
     title = '{}, {}'.format("Volunteer rate & average hours volunteered by income", region)
@@ -995,12 +995,12 @@ def update_graph(region):
 
 
     dff1 = PercTotVols_2018[PercTotVols_2018['Region'] == region]
-    dff1 = dff1[dff1['Group'] == "Personal income category"]
+    dff1 = dff1[dff1['Group'] == "Family income category"]
     name1 = "% volunteers"
 
 
     dff2 = PercTotHours_2018[PercTotHours_2018['Region'] == region]
-    dff2 = dff2[dff2['Group'] == "Personal income category"]
+    dff2 = dff2[dff2['Group'] == "Family income category"]
     name2 = "% volunteer hours"
 
     title = '{}, {}'.format("Percentage of Canadians & total hours volunteered by income", region)

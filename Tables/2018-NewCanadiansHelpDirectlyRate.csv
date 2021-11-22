@@ -1,0 +1,145 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+ImmStat,Native-born,2018,iva105_1,0.5067150784342273,1.4767269363873874,0.4920490637448504,0.521381093123604,12093,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Naturalized,2018,iva105_1,0.4303567303663444,3.2695041504802798,0.40277899604704615,0.4579344646856427,2492,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Non-Canadian,2018,iva105_1,0.38898196310850935,10.586699874161928,0.3082699543599779,0.4696939718570408,319,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Native-born,2018,iva105_2,0.3898662576583798,1.902772666745484,0.3753267183990641,0.40440579691769546,12093,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Naturalized,2018,iva105_2,0.3685328790884809,3.8480461430688595,0.3407380119652503,0.3963277462117116,2492,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Non-Canadian,2018,iva105_2,0.3500210769233779,11.292006439966931,0.27255467141995304,0.4274874824268028,319,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Native-born,2018,iva105_3,0.20720818048792158,2.8151393677946777,0.19577532041134396,0.2186410405644992,12093,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Naturalized,2018,iva105_3,0.23389814920394994,4.777235200866242,0.21199777678865347,0.2557985216192464,2492,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Non-Canadian,2018,iva105_3,0.20869048182967595,16.351703375299863,0.14180779165729188,0.27557317200206,319,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Native-born,2018,iva105_4,0.40781877864584426,1.74308106520903,0.3938861553203246,0.4217514019713639,12093,Health-related/personal care,New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Naturalized,2018,iva105_4,0.32287568366366654,3.876862563201413,0.29834193933421066,0.3474094279931224,2492,Health-related/personal care,New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Non-Canadian,2018,iva105_4,0.2568893544885076,13.01213200554555,0.19137406581752536,0.3224046431594898,319,Health-related/personal care,New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Native-born,2018,iva105_5,0.10059985863891123,4.522458706381759,0.09168283184576052,0.10951688543206194,12093,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Naturalized,2018,iva105_5,0.12481269275887293,6.584534593856571,0.10870505227881097,0.14092033323893488,2492,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Non-Canadian,2018,iva105_5,0.1955156400193089,17.15198913708746,0.12978859796998257,0.2612426820686352,319,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,CA,*
+ImmStat,Native-born,2018,iva2_005,0.08004087683722273,5.2553096289751595,0.07179649235372235,0.08828526132072312,12093,Other assistance,New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Naturalized,2018,iva2_005,0.06594487592083306,9.424632704994565,0.05376357756628823,0.0781261742753779,2492,Other assistance,New Canadians Rate of Informal Volunteering,CA,
+ImmStat,Non-Canadian,2018,iva2_005,0.07196982583861845,22.622242222545825,0.04005928308952556,0.10388036858771135,319,Other assistance,New Canadians Rate of Informal Volunteering,CA,*
+ImmStat,Native-born,2018,iva105_1,0.524716246647537,1.5430114775910184,0.5088475316995659,0.5405849615955082,10472,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,iva105_1,0.42968326703695453,3.3665028569351154,0.4013318010686483,0.45803473300526076,2280,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,iva105_1,0.3970958111837758,11.091638886907253,0.3107703079776858,0.4834213143898658,274,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Native-born,2018,iva105_2,0.3935188239464167,1.961209279415898,0.3783923556286178,0.4086452922642156,10472,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,iva105_2,0.36658555383721514,3.994827730398832,0.33788293699798927,0.395288170676441,2280,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,iva105_2,0.363703274403091,12.45947577234363,0.27488648460178716,0.4525200642043949,274,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Native-born,2018,iva105_3,0.21074565217158223,2.8269912750173645,0.1990686547923287,0.22242264955083577,10472,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,iva105_3,0.23232120027144892,5.038447132273573,0.2093790753747531,0.25526332516814476,2280,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,iva105_3,0.2065895522123825,18.90171674750081,0.13005497348040407,0.28312413094436095,274,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,iva105_4,0.4112940936769244,1.8252618331451869,0.3965802635887973,0.4260079237650515,10472,Health-related/personal care,New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,iva105_4,0.31907207058071996,4.131591907757752,0.2932343439016001,0.34490979725983983,2280,Health-related/personal care,New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,iva105_4,0.25546802218469605,13.689507060233613,0.18692354837875,0.3240124959906421,274,Health-related/personal care,New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Native-born,2018,iva105_5,0.10792299762062611,4.733176777310469,0.09791113652322045,0.11793485871803178,10472,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,iva105_5,0.12231576444120854,7.007822245936233,0.10551559730633071,0.13911593157608634,2280,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,iva105_5,0.20063613833794036,18.15264537651655,0.12925274733694228,0.27201952933893847,274,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,iva2_005,0.07761104059199082,5.887405953921456,0.06865542218816649,0.08656665899581516,10472,Other assistance,New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Naturalized,2018,iva2_005,0.06775358807756247,10.107732239878702,0.05433106624313401,0.08117610991199094,2280,Other assistance,New Canadians Rate of Informal Volunteering,CA (without QC),
+ImmStat,Non-Canadian,2018,iva2_005,0.06150805592596576,25.832167696326675,0.030366454429766366,0.09264965742216516,274,Other assistance,New Canadians Rate of Informal Volunteering,CA (without QC),*
+ImmStat,Native-born,2018,iva105_1,0.5892410912487352,3.4386103695752372,0.5495288786630341,0.6289533038344364,1039,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Naturalized,2018,iva105_1,0.4363326089059456,10.431761223420528,0.34712058346203156,0.5255446343498597,244,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Non-Canadian,2018,iva105_1,0.42686892176411934,36.74812645151028,0.11941656231911485,0.7343212812091238,23,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,AB,...
+ImmStat,Native-born,2018,iva105_1,0.5132816311352797,2.2989491040319923,0.49015389253882813,0.5364093697317313,3527,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Naturalized,2018,iva105_1,0.4187897915863843,14.55700420779715,0.29930402194299827,0.5382755612297703,114,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Non-Canadian,2018,iva105_1,0.4179200051849044,30.075255316871978,0.17157113517027836,0.6642688751995305,30,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,AT,*
+ImmStat,Native-born,2018,iva105_1,0.5596719062725004,3.4039868600880623,0.5223323224364479,0.5970114901085529,1417,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Naturalized,2018,iva105_1,0.39821212432410835,7.158228661029718,0.34234347948890737,0.45408076915930934,548,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Non-Canadian,2018,iva105_1,0.38364321209777447,20.92693405250148,0.22628797008490903,0.5409984541106398,68,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,BC,*
+ImmStat,Native-born,2018,iva105_1,0.4903053866188576,2.77359560808957,0.4636516626040959,0.5169591106336192,2802,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Naturalized,2018,iva105_1,0.4304715637115729,4.449711917508936,0.3929289544134618,0.468014173009684,1147,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Non-Canadian,2018,iva105_1,0.4027156448617395,15.240752647952924,0.282419140575201,0.523012149148278,120,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Native-born,2018,iva105_1,0.5463226548514302,2.993005652353976,0.5142743665950733,0.578370943107787,1687,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Naturalized,2018,iva105_1,0.5430507979592307,7.147215646834493,0.4669786930877721,0.6191229028306893,227,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Non-Canadian,2018,iva105_1,0.33704098659135917,32.86642725138147,0.11992924803965349,0.5541527251430649,33,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,PR,*
+ImmStat,Native-born,2018,iva105_1,0.4554488429357099,3.608517107583118,0.4232369339972683,0.48766075187415153,1621,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Naturalized,2018,iva105_1,0.4345378711218102,10.418397139348441,0.34580661458612494,0.5232691276574954,212,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Non-Canadian,2018,iva105_1,0.3611978231963406,26.91911568392311,0.17062805567177752,0.5517675907209036,45,"Cooking, cleaning, work around home",New Canadians Rate of Informal Volunteering,QC,*
+ImmStat,Native-born,2018,iva105_2,0.3869450757445264,5.3614303778321055,0.34628407287420004,0.4276060786148528,1039,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Naturalized,2018,iva105_2,0.33137570539265354,12.479900430377215,0.2503206929813081,0.412430717803999,244,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Non-Canadian,2018,iva105_2,0.3968165993564025,37.2410209137793,0.10717595826784548,0.6864572404449596,23,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,AB,...
+ImmStat,Native-born,2018,iva105_2,0.4088799614968843,3.069125690626402,0.38428429516976625,0.4334756278240024,3527,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Naturalized,2018,iva105_2,0.33093271307138933,18.87737090724256,0.20849102743566056,0.4533743987071181,114,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,AT,*
+ImmStat,Non-Canadian,2018,iva105_2,0.368793840121078,34.017191203967776,0.12290987912439913,0.6146778011177569,30,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,AT,...
+ImmStat,Native-born,2018,iva105_2,0.3819701699791819,4.754207986583307,0.34637789760562543,0.4175624423527383,1417,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Naturalized,2018,iva105_2,0.3601711920826093,7.920840459793502,0.30425619195901815,0.4160861922062004,548,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Non-Canadian,2018,iva105_2,0.2919914751732687,23.415149645001442,0.15798826546850253,0.4259946848780348,68,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,BC,*
+ImmStat,Native-born,2018,iva105_2,0.39058630245661285,3.2930474213371053,0.36537686905853833,0.4157957358546874,2802,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Naturalized,2018,iva105_2,0.37876515478285805,5.089811081494529,0.3409801246952946,0.4165501848704215,1147,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Non-Canadian,2018,iva105_2,0.3985116426906268,16.245831736308435,0.2716205737812494,0.5254027116000042,120,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Native-born,2018,iva105_2,0.41963604385745995,3.9545526333298167,0.38711097420760776,0.45216111350731214,1687,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Naturalized,2018,iva105_2,0.3479704864698602,10.248570781777579,0.2780742477063542,0.41786672523336615,227,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Non-Canadian,2018,iva105_2,0.23762749332943275,36.39931522870988,0.06810083895928956,0.4071541476995759,33,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,PR,...
+ImmStat,Native-born,2018,iva105_2,0.3794639703580482,4.274867414537923,0.3476702546130251,0.4112576861030713,1621,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Naturalized,2018,iva105_2,0.38062268504657293,11.411484439022159,0.2954922403552793,0.46575312973786653,212,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Non-Canadian,2018,iva105_2,0.3031693136717234,29.861346468978926,0.1257329134465762,0.48060571389687057,45,"Shopping, driving, accompaniment",New Canadians Rate of Informal Volunteering,QC,*
+ImmStat,Native-born,2018,iva105_3,0.23247392488881766,7.338601327202382,0.19903628363152398,0.26591156614611133,1039,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Naturalized,2018,iva105_3,0.24546276842387002,14.155254125852993,0.17736209764935545,0.3135634391983846,244,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Non-Canadian,2018,iva105_3,0.07915875942628339,78.1659613330353,-0.04211441446806284,0.20043193332062964,23,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,AB,...
+ImmStat,Native-born,2018,iva105_3,0.20441549245805046,4.581340579011663,0.18606048872644532,0.2227704961896556,3527,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Naturalized,2018,iva105_3,0.29584609656581784,18.232251360876568,0.19012680744250676,0.4015653856891289,114,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,AT,*
+ImmStat,Non-Canadian,2018,iva105_3,0.31964387571424363,35.96452165023062,0.09432956985919061,0.5449581815692967,30,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,AT,...
+ImmStat,Native-born,2018,iva105_3,0.23152850106685333,6.416848821289492,0.20240964171491038,0.26064736041879627,1417,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Naturalized,2018,iva105_3,0.2284424800787623,10.242644168637423,0.1825821640739388,0.2743027960835858,548,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Non-Canadian,2018,iva105_3,0.17428732705933833,34.38673727741654,0.056823304011085374,0.2917513501075913,68,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,BC,...
+ImmStat,Native-born,2018,iva105_3,0.20116575732566877,4.814401323046586,0.18218364944364576,0.22014786520769178,2802,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Naturalized,2018,iva105_3,0.22807888710644933,6.858789903210413,0.19741828521934157,0.2587394889935571,1147,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Non-Canadian,2018,iva105_3,0.21558411428798951,26.937126594488486,0.10176476084835982,0.3294034677276192,120,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,ON,*
+ImmStat,Native-born,2018,iva105_3,0.1961546912256345,6.22018554606206,0.17224080658393365,0.22006857586733536,1687,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Naturalized,2018,iva105_3,0.25110108449923496,13.489265823071763,0.18471378656930235,0.31748838242916755,227,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Non-Canadian,2018,iva105_3,0.40135384645282257,30.804052953842366,0.15903712642975934,0.6436705664758858,33,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,PR,*
+ImmStat,Native-born,2018,iva105_3,0.19713367564163067,6.9656344817751235,0.17022021207198598,0.22404713921127536,1621,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Naturalized,2018,iva105_3,0.24368850476338436,14.636373109315146,0.17378215812041975,0.31359485140634896,212,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Non-Canadian,2018,iva105_3,0.21588466662227,34.84436002731934,0.0684490600919026,0.3633202731526374,45,"Paperwork tasks, taxes, etc.",New Canadians Rate of Informal Volunteering,QC,...
+ImmStat,Native-born,2018,iva105_4,0.4624767200838018,4.514657385911085,0.4215541628325021,0.5033992773351015,1039,Health-related/personal care,New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Naturalized,2018,iva105_4,0.30290274062032096,12.519017353666722,0.22858003088318835,0.3772254503574536,244,Health-related/personal care,New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Non-Canadian,2018,iva105_4,0.16242140677683234,53.55234815576878,-0.008057195965061908,0.33290000951872656,23,Health-related/personal care,New Canadians Rate of Informal Volunteering,AB,...
+ImmStat,Native-born,2018,iva105_4,0.39220139376663377,2.9248015658709123,0.36971842639176883,0.4146843611414987,3527,Health-related/personal care,New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Naturalized,2018,iva105_4,0.1883121416817643,22.872550989703853,0.1038929833052232,0.27273130005830537,114,Health-related/personal care,New Canadians Rate of Informal Volunteering,AT,*
+ImmStat,Non-Canadian,2018,iva105_4,0.26200723371881074,36.194547749610386,0.07613927584996794,0.44787519158765354,30,Health-related/personal care,New Canadians Rate of Informal Volunteering,AT,...
+ImmStat,Native-born,2018,iva105_4,0.404052669312406,4.528002046112633,0.36819412249140315,0.4399112161334089,1417,Health-related/personal care,New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Naturalized,2018,iva105_4,0.33111327575552724,8.019552222570686,0.2790687800553671,0.38315777145568736,548,Health-related/personal care,New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Non-Canadian,2018,iva105_4,0.2844229658888559,25.147147039083823,0.1442379894358413,0.4246079423418705,68,Health-related/personal care,New Canadians Rate of Informal Volunteering,BC,*
+ImmStat,Native-born,2018,iva105_4,0.39733653353285286,3.2301415076511923,0.3721813124768108,0.42249175458889493,2802,Health-related/personal care,New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Naturalized,2018,iva105_4,0.31519833471094616,5.687517103559238,0.2800621403328619,0.3503345290890304,1147,Health-related/personal care,New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Non-Canadian,2018,iva105_4,0.25526313389257804,19.849998295266584,0.15595229244293068,0.3545739753422254,120,Health-related/personal care,New Canadians Rate of Informal Volunteering,ON,*
+ImmStat,Native-born,2018,iva105_4,0.43115494812649435,3.786518018171707,0.3991570469040272,0.4631528493489615,1687,Health-related/personal care,New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Naturalized,2018,iva105_4,0.3910053316392378,10.255844164956038,0.3124090168119092,0.4696016464665664,227,Health-related/personal care,New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Non-Canadian,2018,iva105_4,0.2934216696464612,38.92209010189903,0.06958232341150383,0.5172610158814186,33,Health-related/personal care,New Canadians Rate of Informal Volunteering,PR,...
+ImmStat,Native-born,2018,iva105_4,0.39792129217698496,4.095307760825352,0.36598152002999684,0.4298610643239731,1621,Health-related/personal care,New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Naturalized,2018,iva105_4,0.3464900973742643,11.705984634764075,0.2669938061472765,0.42598638860125204,212,Health-related/personal care,New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Non-Canadian,2018,iva105_4,0.2617564034182458,32.0553933631256,0.09730161762203418,0.42621118921445744,45,Health-related/personal care,New Canadians Rate of Informal Volunteering,QC,*
+ImmStat,Native-born,2018,iva105_5,0.12577618528160303,12.398829537866492,0.09521098830248836,0.1563413822607177,1039,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Naturalized,2018,iva105_5,0.11052478395420046,23.581352359063658,0.0594417746869973,0.16160779322140362,244,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,AB,*
+ImmStat,Non-Canadian,2018,iva105_5,0.04142571119623498,97.50606958908983,-0.03774229630839898,0.12059371870086893,23,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,AB,...
+ImmStat,Native-born,2018,iva105_5,0.0890065731547845,8.998841497722927,0.07330812315891017,0.10470502315065883,3527,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Naturalized,2018,iva105_5,0.1403131147595205,27.23292381128715,0.06542021822553708,0.21520601129350392,114,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,AT,*
+ImmStat,Non-Canadian,2018,iva105_5,0.17418482854777478,54.30179210704982,-0.01119931253339973,0.3595689696289493,30,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,AT,...
+ImmStat,Native-born,2018,iva105_5,0.09123776797756368,11.587611673047617,0.07051648336833094,0.11195905258679642,1417,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Naturalized,2018,iva105_5,0.1426990448031835,14.049597483664162,0.10340442970477862,0.18199365990158836,548,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Non-Canadian,2018,iva105_5,0.11548682913397439,39.58796154254796,0.025879467972158926,0.20509419029578985,68,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,BC,...
+ImmStat,Native-born,2018,iva105_5,0.11025680291759814,7.4888595296213545,0.09407342519541914,0.12644018063977713,2802,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Naturalized,2018,iva105_5,0.11361215976155731,9.639323784831543,0.09214772406366888,0.13507659545944573,1147,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Non-Canadian,2018,iva105_5,0.24691337745895373,22.360004651928538,0.13870407420216202,0.35512268071574543,120,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,ON,*
+ImmStat,Native-born,2018,iva105_5,0.1167531790443399,9.749680734417133,0.09444278709051392,0.1390635709981659,1687,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Naturalized,2018,iva105_5,0.1702409950944579,21.04614747153398,0.1000171105647372,0.2404648796241786,227,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,PR,*
+ImmStat,Non-Canadian,2018,iva105_5,0.33253800983941073,39.870973312043354,0.07267394832554269,0.5924020713532787,33,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,PR,...
+ImmStat,Native-born,2018,iva105_5,0.07974400288687258,12.15526548626203,0.06074588527802392,0.09874212049572124,1621,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Naturalized,2018,iva105_5,0.14031466338869222,20.67552000039153,0.08345456709237817,0.19717475968500628,212,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,QC,*
+ImmStat,Non-Canadian,2018,iva105_5,0.17798158707856418,42.54437174686847,0.029570864037084477,0.3263923101200439,45,"Teaching, coaching, reading assistance, etc.",New Canadians Rate of Informal Volunteering,QC,...
+ImmStat,Native-born,2018,iva2_005,0.07758541505361403,15.226599031497102,0.054431145214586286,0.10073968489264179,1039,Other assistance,New Canadians Rate of Informal Volunteering,AB,
+ImmStat,Naturalized,2018,iva2_005,0.0911024383203731,26.223344991226345,0.0442786896090595,0.1379261870316867,244,Other assistance,New Canadians Rate of Informal Volunteering,AB,*
+ImmStat,Non-Canadian,2018,iva2_005,0.03193198127649765,111.76876394192887,-0.03801909565125205,0.10188305820424734,23,Other assistance,New Canadians Rate of Informal Volunteering,AB,...
+ImmStat,Native-born,2018,iva2_005,0.06296127180642942,8.161778859237284,0.052889487728490156,0.07303305588436869,3527,Other assistance,New Canadians Rate of Informal Volunteering,AT,
+ImmStat,Naturalized,2018,iva2_005,0.07677408747452483,38.72249067964128,0.018506633993593334,0.1350415409554563,114,Other assistance,New Canadians Rate of Informal Volunteering,AT,...
+ImmStat,Non-Canadian,2018,iva2_005,0.08664326895145451,98.83058179425717,-0.08118853875198463,0.25447507665489366,30,Other assistance,New Canadians Rate of Informal Volunteering,AT,...
+ImmStat,Native-born,2018,iva2_005,0.08603367316972398,11.007835126282561,0.06747194225676109,0.10459540408268686,1417,Other assistance,New Canadians Rate of Informal Volunteering,BC,
+ImmStat,Naturalized,2018,iva2_005,0.08229361534922564,18.286244082919076,0.0527992710445433,0.11178795965390798,548,Other assistance,New Canadians Rate of Informal Volunteering,BC,*
+ImmStat,Non-Canadian,2018,iva2_005,0.12287061391105948,45.78653459885338,0.012606575621456409,0.23313465220066254,68,Other assistance,New Canadians Rate of Informal Volunteering,BC,...
+ImmStat,Native-born,2018,iva2_005,0.07954438191340223,9.41917990978959,0.0648594920131738,0.09422927181363065,2802,Other assistance,New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Naturalized,2018,iva2_005,0.057854372638624675,14.01774703553963,0.04195930069292629,0.07374944458432306,1147,Other assistance,New Canadians Rate of Informal Volunteering,ON,
+ImmStat,Non-Canadian,2018,iva2_005,0.036454124486398364,40.429333147061875,0.0075678627964658775,0.06534038617633085,120,Other assistance,New Canadians Rate of Informal Volunteering,ON,...
+ImmStat,Native-born,2018,iva2_005,0.07168474376424146,11.436927302599232,0.05561591625665663,0.08775357127182629,1687,Other assistance,New Canadians Rate of Informal Volunteering,PR,
+ImmStat,Naturalized,2018,iva2_005,0.06108637335562526,28.768506312446014,0.02664267741553055,0.09553006929571997,227,Other assistance,New Canadians Rate of Informal Volunteering,PR,*
+ImmStat,Non-Canadian,2018,iva2_005,0.11308961743362919,58.42330088083916,-0.016406550418321703,0.24258578528558009,33,Other assistance,New Canadians Rate of Informal Volunteering,PR,...
+ImmStat,Native-born,2018,iva2_005,0.08696090312078299,11.791579880132046,0.06686330628792321,0.10705849995364276,1621,Other assistance,New Canadians Rate of Informal Volunteering,QC,
+ImmStat,Naturalized,2018,iva2_005,0.054715637767275054,25.956509486558488,0.026879700641471153,0.08255157489307896,212,Other assistance,New Canadians Rate of Informal Volunteering,QC,*
+ImmStat,Non-Canadian,2018,iva2_005,0.10779392265257273,46.67433602733739,0.00918402322112788,0.20640382208401759,45,Other assistance,New Canadians Rate of Informal Volunteering,QC,...

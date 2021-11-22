@@ -1,0 +1,385 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.1817517429229713,12.878128593373873,0.13587638848720018,0.22762709735874243,505,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.2098757824965423,9.092988504282093,0.17247186749454949,0.2472796974985351,919,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.18667520964276402,7.274321659428251,0.1600601625021473,0.21329025678338073,1481,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.24628170410154965,6.209292693997922,0.21630924521815056,0.2762541629849487,1390,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.29316029925389264,5.610946572948113,0.2609207188567416,0.32539987965104367,1707,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.36783115354402574,4.847061319001803,0.332886952600883,0.40277535448716845,1560,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,75 years and over,2018,TopVolunteerFlag,0.4138588667936307,5.705908884617572,0.3675754739711583,0.4601422596161031,803,Top volunteers,Likelihood of being a top volunteer,CA,
+Gender,Male gender,2018,TopVolunteerFlag,0.23967664029315933,4.225687563894728,0.2198261525316725,0.2595271280546462,3493,Top volunteers,Likelihood of being a top volunteer,CA,
+Gender,Female gender,2018,TopVolunteerFlag,0.25791179676186776,3.8759953656897537,0.23831872418727781,0.27750486933645774,4872,Top volunteers,Likelihood of being a top volunteer,CA,
+Education,Less than High School,2018,TopVolunteerFlag,0.18785697192367304,13.25400434794405,0.13905666905287564,0.23665727479447043,545,Top volunteers,Likelihood of being a top volunteer,CA,
+Education,Graduated from High school,2018,TopVolunteerFlag,0.23949276024621352,7.238755922268207,0.2055142437440772,0.27347127674834987,1455,Top volunteers,Likelihood of being a top volunteer,CA,
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.25723607439083057,4.8216372229982145,0.2329266600751684,0.2815454887064927,2618,Top volunteers,Likelihood of being a top volunteer,CA,
+Education,University Diploma,2018,TopVolunteerFlag,0.27204147211231783,4.485529528779638,0.24812501048922336,0.2959579337354123,2973,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status (Original),Married,2018,TopVolunteerFlag,0.2703191529730239,3.24791119752538,0.2531112061435008,0.287527099802547,4495,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.20191039365246116,10.499436689002893,0.1603602274184347,0.24346055988648763,726,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.3692032206615049,7.645445055282019,0.31387886769726026,0.42452757362574955,635,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.275465182752108,14.38401119797064,0.19780564203281092,0.3531247234714051,242,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.27690383335485147,9.630474915735727,0.2246371715292546,0.32917049518044833,677,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.21006851721551195,8.02610147666788,0.1770229122174094,0.2431141222136145,1590,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.25875168127113723,3.1030214710662447,0.24301489479948213,0.27448846774279234,5221,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status,Widowed,2018,TopVolunteerFlag,0.3692032206615049,7.645445055282019,0.31387886769726026,0.42452757362574955,635,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.2764558341337789,7.871238034689145,0.2338060441877865,0.3191056240797713,919,Top volunteers,Likelihood of being a top volunteer,CA,
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.21006851721551195,8.02610147666788,0.1770229122174094,0.2431141222136145,1590,Top volunteers,Likelihood of being a top volunteer,CA,
+Labour force status,Employed,2018,TopVolunteerFlag,0.21174437889236578,3.8815437004304356,0.19563553172582404,0.2278532260589075,4536,Top volunteers,Likelihood of being a top volunteer,CA,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.21891089659525875,20.59742712769312,0.13053609622724976,0.30728569696326774,187,Top volunteers,Likelihood of being a top volunteer,CA,*
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.3289149144877821,4.408320204708549,0.30049617634029735,0.35733365263526684,2852,Top volunteers,Likelihood of being a top volunteer,CA,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.2437470681024042,9.707765625156469,0.19736962789884982,0.2901245083059586,790,Top volunteers,Likelihood of being a top volunteer,CA,
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.25887187215875185,4.886078348451796,0.2340809100151397,0.283662834302364,2213,Top volunteers,Likelihood of being a top volunteer,CA,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.25782444113263725,5.7992788081019615,0.22851914160793188,0.2871297406573426,2297,Top volunteers,Likelihood of being a top volunteer,CA,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.23337067348478185,6.337083186371599,0.20438497443939146,0.26235637253017224,1750,Top volunteers,Likelihood of being a top volunteer,CA,
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.2186469749129843,8.501914969395962,0.18221285182594152,0.2550810980000271,1047,Top volunteers,Likelihood of being a top volunteer,CA,
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.25855297667338223,10.677569893307856,0.20444390835924475,0.3126620449875197,484,Top volunteers,Likelihood of being a top volunteer,CA,
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.23658217824840505,9.334879366484433,0.19329703819113064,0.27986731830567946,574,Top volunteers,Likelihood of being a top volunteer,CA,
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.28295089291308284,9.403718657990172,0.23080035562581036,0.3351014302003553,743,Top volunteers,Likelihood of being a top volunteer,CA,
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.3011241328545658,7.4372628002587176,0.25722996892877675,0.34501829678035484,1272,Top volunteers,Likelihood of being a top volunteer,CA,
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.2628054087489957,6.971342652666161,0.22689678010547887,0.29871403739251257,1379,Top volunteers,Likelihood of being a top volunteer,CA,
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.22697570165388875,7.001911820126283,0.1958267026080538,0.2581247006997237,1455,Top volunteers,Likelihood of being a top volunteer,CA,
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.24226456577691066,9.137983540494982,0.19887469464614002,0.2856544369076813,935,Top volunteers,Likelihood of being a top volunteer,CA,
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.2258374047779042,5.1683122552860725,0.20296073990412747,0.24871406965168094,2581,Top volunteers,Likelihood of being a top volunteer,CA,
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.36327107944026776,4.863540531606405,0.32864275682667854,0.397899402053857,1672,Top volunteers,Likelihood of being a top volunteer,CA,
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.25026768821034906,9.27903893993834,0.20475254954055278,0.29578282688014534,766,Top volunteers,Likelihood of being a top volunteer,CA,
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.21616799143611104,10.879212501423503,0.17007478313434252,0.26226119973787954,734,Top volunteers,Likelihood of being a top volunteer,CA,
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.21182137429769257,8.230964963773829,0.1776495137409021,0.24599323485448304,1150,Top volunteers,Likelihood of being a top volunteer,CA,
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.21767340124768222,5.81408292184324,0.19286866143619244,0.242478141059172,3309,Top volunteers,Likelihood of being a top volunteer,CA,
+Immigration status,Native-born,2018,TopVolunteerFlag,0.2540202631041156,3.176594346675146,0.23820493481816193,0.2698355913900692,6328,Top volunteers,Likelihood of being a top volunteer,CA,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.23317480025799522,6.764639147316466,0.2022594380584077,0.2640901624575827,1149,Top volunteers,Likelihood of being a top volunteer,CA,
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.2980465036309202,21.85598784129353,0.1703724748281203,0.42572053243372016,164,Top volunteers,Likelihood of being a top volunteer,CA,*
+Immigration status,Unknown,2018,TopVolunteerFlag,0.2293368893803673,10.45872210122692,0.18232576568232478,0.27634801307840984,724,Top volunteers,Likelihood of being a top volunteer,CA,
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.20745566112434607,12.21024311812694,0.15780812587844417,0.257103196370248,450,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.1995691863167164,10.123523958484503,0.15997118254726878,0.23916719008616405,819,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.1891746825730151,7.637376739879949,0.16085715584281207,0.2174922093032181,1284,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.2601458564225092,6.533545850697799,0.2268328409044471,0.2934588719405713,1239,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.2971680849157979,6.046083110483369,0.26195335439861706,0.3323828154329787,1513,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.36778141449403673,5.134710130720067,0.3307684559124295,0.404794373075644,1379,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,75 years and over,2018,TopVolunteerFlag,0.401308800106514,6.454571214106332,0.3505403189153647,0.4520772812976633,701,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Gender,Male gender,2018,TopVolunteerFlag,0.2472767200262793,4.428646886599475,0.22581312941709175,0.26874031063546683,3064,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Gender,Female gender,2018,TopVolunteerFlag,0.26249035185347813,4.107805539547802,0.2413568574936694,0.28362384621328685,4321,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Education,Less than High School,2018,TopVolunteerFlag,0.18815579261123128,15.28484761752891,0.13178854907059792,0.24452303615186463,461,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Education,Graduated from High school,2018,TopVolunteerFlag,0.2485765773292877,7.738081270611577,0.21087655724478127,0.28627659741379413,1297,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.2711420702879709,4.90698969705907,0.2450649191018386,0.2972192214741032,2294,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Education,University Diploma,2018,TopVolunteerFlag,0.2697844250379483,4.602901031697397,0.24544576851116753,0.2941230815647291,2625,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status (Original),Married,2018,TopVolunteerFlag,0.27383255838899795,3.478210255969875,0.25516493604230367,0.29250018073569223,4145,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.22411511384295624,13.381450334274078,0.16533608274631906,0.2828941449395934,494,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.36774839624787214,8.224659634291962,0.30846721992558357,0.4270295725701607,571,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.25843555562073106,16.453801344121036,0.17509304015530688,0.3417780710861552,217,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.24395101694218121,10.423715155359488,0.1941115648863117,0.2937904689980507,572,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.21716566724611133,8.164736544376492,0.18241353682925182,0.25191779766297084,1386,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.2681044924282164,3.3459509559680094,0.2505223516484215,0.28568663320801124,4639,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status,Widowed,2018,TopVolunteerFlag,0.36774839624787214,8.224659634291962,0.30846721992558357,0.4270295725701607,571,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.24867956497356708,8.988525203357842,0.20486922428208146,0.2924899056650527,789,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.21716566724611133,8.164736544376492,0.18241353682925182,0.25191779766297084,1386,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Labour force status,Employed,2018,TopVolunteerFlag,0.22114882438888647,4.1256082938802034,0.2032666338723909,0.23903101490538203,4015,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.21359446604200996,22.35089738138205,0.12002523679212242,0.3071636952918975,158,Top volunteers,Likelihood of being a top volunteer,CA (without QC),*
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.3295673226549361,4.683056176456545,0.29931758570718314,0.35981705960268906,2494,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.2490906702994317,10.495985785640087,0.19784835006434454,0.30033299053451884,718,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.27154416915929497,5.414837034707743,0.24272549721392073,0.3003628411046692,1939,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.23947355682221996,6.238912305107504,0.21019062631286956,0.26875648733157037,2006,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.2471331355405389,6.826854609988158,0.21406576025382817,0.2802005108272496,1534,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.23479844945512068,8.879257225522409,0.19393641807256315,0.27566048083767825,942,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.2758379963847349,10.770384873638648,0.21760979123812568,0.3340662015313441,441,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.25293752528329,9.206444901486977,0.20729671831447335,0.29857833225210667,523,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.26760887701100494,11.921532993329203,0.20507998810587358,0.3301377659161363,622,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.28368552897465504,7.464855333011698,0.24217993156001402,0.3251911263892961,1096,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.2695391561388983,7.674256936548366,0.22899705144533664,0.3100812608324599,1196,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.22597308267920613,7.750799833254762,0.19164485970156905,0.2603013056568432,1314,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.27538223408877666,9.241681826706989,0.2255012489121734,0.32526321926537993,827,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.2432932781071808,5.379785213780844,0.21763998412974325,0.26894657208461836,2330,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.3670503630287736,5.004093345156359,0.33105064067647283,0.40305008538107434,1568,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.23941728768634982,9.959702913034686,0.19268145535504505,0.2861531200176546,701,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.20192912329045276,12.93332523274817,0.1507424093762253,0.2531158372046802,641,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.21954171237482623,8.594113598920996,0.18256177015175146,0.256521654597901,970,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.22302262482386356,5.983584230085435,0.19686740208842327,0.24917784755930386,2836,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Immigration status,Native-born,2018,TopVolunteerFlag,0.26492532169823346,3.4438490084482276,0.2470433392836061,0.2828073041128608,5525,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.23240208171757834,7.161684387564657,0.19978063009404548,0.2650235333411112,1056,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.26584720821243096,22.370947356449662,0.1492831737076008,0.3824112427172611,141,Top volunteers,Likelihood of being a top volunteer,CA (without QC),*
+Immigration status,Unknown,2018,TopVolunteerFlag,0.23249213387648612,11.17796432623704,0.18155680978161687,0.2834274579713554,663,Top volunteers,Likelihood of being a top volunteer,CA (without QC),
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.15313016874525018,37.22993079333482,0.041392120534592194,0.2648682169559082,42,Top volunteers,Likelihood of being a top volunteer,AB,...
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.2111548603001339,25.06746129571581,0.10741168739598317,0.3148980332042846,104,Top volunteers,Likelihood of being a top volunteer,AB,*
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.23872225911223927,20.98936222368909,0.14051575555261053,0.336928762671868,159,Top volunteers,Likelihood of being a top volunteer,AB,*
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.3194272746992179,14.925608086096146,0.22598312403122867,0.4128714253672071,141,Top volunteers,Likelihood of being a top volunteer,AB,
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.33837546987306505,14.559360660171599,0.24181724629872076,0.43493369344740934,167,Top volunteers,Likelihood of being a top volunteer,AB,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.42587174021555557,15.092634290397003,0.29989453709687097,0.5518489433342402,98,Top volunteers,Likelihood of being a top volunteer,AB,
+Age group,75 years and over,2018,TopVolunteerFlag,0.38140734926760106,23.288709236056825,0.20731384512664588,0.5555008534085563,47,Top volunteers,Likelihood of being a top volunteer,AB,*
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.16263805054654773,24.077245404160795,0.08588828626814658,0.23938781482494886,110,Top volunteers,Likelihood of being a top volunteer,AT,*
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.17555056188282173,25.311779810664458,0.08845961773564288,0.2626415060300006,168,Top volunteers,Likelihood of being a top volunteer,AT,*
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.2348105941038086,12.583705202556597,0.17689782730910897,0.29272336089850826,352,Top volunteers,Likelihood of being a top volunteer,AT,
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.2642794640899427,11.504365256555499,0.20468935639220648,0.3238695717876789,330,Top volunteers,Likelihood of being a top volunteer,AT,
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.29137445882738977,9.44701569550512,0.23742411611390551,0.345324801540874,429,Top volunteers,Likelihood of being a top volunteer,AT,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.38190977243328894,7.991246395122534,0.32209294379424575,0.44172660107233214,431,Top volunteers,Likelihood of being a top volunteer,AT,
+Age group,75 years and over,2018,TopVolunteerFlag,0.3866543737994104,11.68235063073523,0.29812217406366076,0.4751865735351601,191,Top volunteers,Likelihood of being a top volunteer,AT,
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.23058316270917326,24.327937148783285,0.12063677431383858,0.34052955110450794,71,Top volunteers,Likelihood of being a top volunteer,BC,*
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.20481931501938755,21.72343185248545,0.11761310021832481,0.29202552982045027,125,Top volunteers,Likelihood of being a top volunteer,BC,*
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.2274102628286905,17.784041391059958,0.1481439582652165,0.30667656739216453,189,Top volunteers,Likelihood of being a top volunteer,BC,*
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.23162393272249512,17.20830277073839,0.15350261488695935,0.3097452505580309,210,Top volunteers,Likelihood of being a top volunteer,BC,*
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.32679171945277097,12.15424380546283,0.24894378780909537,0.40463965109644656,238,Top volunteers,Likelihood of being a top volunteer,BC,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.3199005575635049,12.04545994159464,0.24437629807706737,0.39542481704994237,233,Top volunteers,Likelihood of being a top volunteer,BC,
+Age group,75 years and over,2018,TopVolunteerFlag,0.35914032226479853,14.207157477790181,0.2591358428495525,0.45914480168004457,128,Top volunteers,Likelihood of being a top volunteer,BC,
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.22657045467159986,17.898785332203687,0.14708733097606735,0.3060535783671324,148,Top volunteers,Likelihood of being a top volunteer,ON,*
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.195172042560765,17.007265946926942,0.13011411850593047,0.26022996661559955,259,Top volunteers,Likelihood of being a top volunteer,ON,*
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.13052159262328503,15.478605273645613,0.09092459288751069,0.17011859235905935,395,Top volunteers,Likelihood of being a top volunteer,ON,
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.23869188149570855,10.773540808796149,0.18829029582365314,0.28909346716776396,412,Top volunteers,Likelihood of being a top volunteer,ON,
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.27047266314994184,10.267176363834935,0.21604464882638658,0.3249006774734971,470,Top volunteers,Likelihood of being a top volunteer,ON,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.3887637778601235,8.015664368964709,0.32768738091597766,0.44984017480426935,425,Top volunteers,Likelihood of being a top volunteer,ON,
+Age group,75 years and over,2018,TopVolunteerFlag,0.4336160662696571,8.866522690128074,0.3582619838125228,0.5089701487267915,238,Top volunteers,Likelihood of being a top volunteer,ON,
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.1800647276437131,27.295255887568963,0.08373420655190322,0.27639524873552296,79,Top volunteers,Likelihood of being a top volunteer,PR,*
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.20961643297429852,20.841229016614886,0.12399219029760244,0.2952406756509946,163,Top volunteers,Likelihood of being a top volunteer,PR,*
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.2518558586596446,17.517652712439737,0.16538374770855116,0.3383279696107381,189,Top volunteers,Likelihood of being a top volunteer,PR,*
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.3315240814167986,15.116269700697115,0.2333023007295782,0.42974586210401905,146,Top volunteers,Likelihood of being a top volunteer,PR,
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.2957179474242016,13.477683890266478,0.21760175973904602,0.37383413510935715,209,Top volunteers,Likelihood of being a top volunteer,PR,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.2552756182232432,13.99683235724998,0.18524512442363072,0.32530611202285564,192,Top volunteers,Likelihood of being a top volunteer,PR,
+Age group,75 years and over,2018,TopVolunteerFlag,0.35412610745625483,15.67639867798711,0.2453202347881852,0.46293198012432446,97,Top volunteers,Likelihood of being a top volunteer,PR,
+Age group,15 to 24 years,2018,TopVolunteerFlag,0.0774274867229807,67.93843665506743,-0.025672545835884478,0.1805275192818459,55,Top volunteers,Likelihood of being a top volunteer,QC,...
+Age group,25 to 34 years,2018,TopVolunteerFlag,0.25828934988410324,22.127588517247528,0.14627112741164455,0.3703075723565619,100,Top volunteers,Likelihood of being a top volunteer,QC,*
+Age group,35 to 44 years,2018,TopVolunteerFlag,0.17606747142217308,20.37117142785718,0.10576943058198214,0.24636551226236403,197,Top volunteers,Likelihood of being a top volunteer,QC,*
+Age group,45 to 54 years,2018,TopVolunteerFlag,0.1774943334421552,20.14816122842508,0.1074024062538745,0.24758626063043593,151,Top volunteers,Likelihood of being a top volunteer,QC,*
+Age group,55 to 64 years,2018,TopVolunteerFlag,0.27258711702957683,14.559585221687668,0.19480094132483916,0.3503732927343145,194,Top volunteers,Likelihood of being a top volunteer,QC,
+Age group,65 to 74 years,2018,TopVolunteerFlag,0.3680486633923232,13.776208842421287,0.2686723105687751,0.46742501621587135,181,Top volunteers,Likelihood of being a top volunteer,QC,
+Age group,75 years and over,2018,TopVolunteerFlag,0.4695159413806158,12.4734936060378,0.35473057040972056,0.5843013123515111,102,Top volunteers,Likelihood of being a top volunteer,QC,
+Gender,Male gender,2018,TopVolunteerFlag,0.26046614983711486,12.054662871151807,0.19892658079950307,0.3220057188747266,321,Top volunteers,Likelihood of being a top volunteer,AB,
+Gender,Female gender,2018,TopVolunteerFlag,0.2858450760510749,10.040239010812757,0.22959503315891805,0.34209511894323175,437,Top volunteers,Likelihood of being a top volunteer,AB,
+Gender,Male gender,2018,TopVolunteerFlag,0.28376609377709366,6.963387508754303,0.24503772928577414,0.3224944582684132,819,Top volunteers,Likelihood of being a top volunteer,AT,
+Gender,Female gender,2018,TopVolunteerFlag,0.24737861638075398,7.173682283544816,0.21259678980261826,0.2821604429588897,1192,Top volunteers,Likelihood of being a top volunteer,AT,
+Gender,Male gender,2018,TopVolunteerFlag,0.2768083522962131,9.372908689796073,0.2259570982684611,0.32765960632396507,485,Top volunteers,Likelihood of being a top volunteer,BC,
+Gender,Female gender,2018,TopVolunteerFlag,0.2555381277411007,9.010777493399994,0.210408051713037,0.30066820376916437,709,Top volunteers,Likelihood of being a top volunteer,BC,
+Gender,Male gender,2018,TopVolunteerFlag,0.224796660952441,8.128896938016386,0.1889812808582531,0.2606120410466289,991,Top volunteers,Likelihood of being a top volunteer,ON,
+Gender,Female gender,2018,TopVolunteerFlag,0.2631221213801342,6.4376218053966205,0.22992266959991364,0.29632157316035473,1356,Top volunteers,Likelihood of being a top volunteer,ON,
+Gender,Male gender,2018,TopVolunteerFlag,0.25620356399515765,10.602897272003714,0.20296114098781926,0.30944598700249604,448,Top volunteers,Likelihood of being a top volunteer,PR,
+Gender,Female gender,2018,TopVolunteerFlag,0.24753528651159326,9.781950271035075,0.2000771524675043,0.29499342055568223,627,Top volunteers,Likelihood of being a top volunteer,PR,
+Gender,Male gender,2018,TopVolunteerFlag,0.20530056449714187,12.69128008886369,0.15423317434753583,0.25636795464674794,429,Top volunteers,Likelihood of being a top volunteer,QC,
+Gender,Female gender,2018,TopVolunteerFlag,0.23716052846607072,11.184537239292151,0.18517188084577307,0.28914917608636836,551,Top volunteers,Likelihood of being a top volunteer,QC,
+Education,Less than High School,2018,TopVolunteerFlag,0.06820516940284778,68.61416774608085,-0.02351802744822931,0.15992836625392487,34,Top volunteers,Likelihood of being a top volunteer,AB,...
+Education,Graduated from High school,2018,TopVolunteerFlag,0.2530328191601041,19.25697824627225,0.15753068318099303,0.3485349551392152,125,Top volunteers,Likelihood of being a top volunteer,AB,*
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.2775002082554274,13.61891699685752,0.20342822423483653,0.3515721922760183,259,Top volunteers,Likelihood of being a top volunteer,AB,
+Education,University Diploma,2018,TopVolunteerFlag,0.3650117450786326,10.589727137267017,0.2892517914784435,0.4407716986788217,267,Top volunteers,Likelihood of being a top volunteer,AB,
+Education,Less than High School,2018,TopVolunteerFlag,0.2098251153033551,22.235103291784984,0.11838332660373303,0.3012669040029772,126,Top volunteers,Likelihood of being a top volunteer,AT,*
+Education,Graduated from High school,2018,TopVolunteerFlag,0.24338785878134145,12.363893732851022,0.1844081987783117,0.3023675187843712,366,Top volunteers,Likelihood of being a top volunteer,AT,
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.2572712824389314,9.27993632265088,0.21047790436790606,0.3040646605099567,656,Top volunteers,Likelihood of being a top volunteer,AT,
+Education,University Diploma,2018,TopVolunteerFlag,0.31037602018253585,7.851151837662684,0.2626154362906374,0.3581366040744343,627,Top volunteers,Likelihood of being a top volunteer,AT,
+Education,Less than High School,2018,TopVolunteerFlag,0.1530091354991352,33.17312167955062,0.053525466436575964,0.25249280456169443,67,Top volunteers,Likelihood of being a top volunteer,BC,*
+Education,Graduated from High school,2018,TopVolunteerFlag,0.2832870523299233,15.868002787657472,0.19518275646964534,0.37139134819020125,192,Top volunteers,Likelihood of being a top volunteer,BC,
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.29811614549071214,10.58702017234464,0.23625651393501435,0.35997577704640993,362,Top volunteers,Likelihood of being a top volunteer,BC,
+Education,University Diploma,2018,TopVolunteerFlag,0.24864514051012168,9.90994856513562,0.20035044110570935,0.296939839914534,485,Top volunteers,Likelihood of being a top volunteer,BC,
+Education,Less than High School,2018,TopVolunteerFlag,0.2370120632509687,21.646274609362397,0.1364575181437887,0.3375666083581487,164,Top volunteers,Likelihood of being a top volunteer,ON,*
+Education,Graduated from High school,2018,TopVolunteerFlag,0.23661164683104258,13.135242658030116,0.17569691879593247,0.2975263748661527,373,Top volunteers,Likelihood of being a top volunteer,ON,
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.2680189149035547,8.274732461718633,0.22455113126501847,0.3114866985420909,684,Top volunteers,Likelihood of being a top volunteer,ON,
+Education,University Diploma,2018,TopVolunteerFlag,0.24663677378628907,7.6663698504030044,0.20957760372925355,0.2836959438433246,948,Top volunteers,Likelihood of being a top volunteer,ON,
+Education,Less than High School,2018,TopVolunteerFlag,0.14659193937707277,32.83710794820985,0.05224602841900036,0.24093785033514517,70,Top volunteers,Likelihood of being a top volunteer,PR,*
+Education,Graduated from High school,2018,TopVolunteerFlag,0.24587204798203455,16.410935929746078,0.1667876888459624,0.3249564071181067,241,Top volunteers,Likelihood of being a top volunteer,PR,
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.23903086617997,12.870041554883352,0.17873576539649,0.29932596696345,333,Top volunteers,Likelihood of being a top volunteer,PR,
+Education,University Diploma,2018,TopVolunteerFlag,0.26484992098991844,11.842571159577753,0.2033755715120128,0.3263242704678241,298,Top volunteers,Likelihood of being a top volunteer,PR,
+Education,Less than High School,2018,TopVolunteerFlag,0.18655395749269557,22.411167830565542,0.10460997906402772,0.2684979359213634,84,Top volunteers,Likelihood of being a top volunteer,QC,*
+Education,Graduated from High school,2018,TopVolunteerFlag,0.19600691182740987,19.742578478844273,0.12016254146381114,0.2718512821910086,158,Top volunteers,Likelihood of being a top volunteer,QC,*
+Education,Post-secondary diploma,2018,TopVolunteerFlag,0.20369611436851784,13.636908630885724,0.14925252291851543,0.25813970581852025,324,Top volunteers,Likelihood of being a top volunteer,QC,
+Education,University Diploma,2018,TopVolunteerFlag,0.2831893212750991,13.857343480673018,0.20627540139102934,0.36010324115916886,348,Top volunteers,Likelihood of being a top volunteer,QC,
+Marital status (Original),Married,2018,TopVolunteerFlag,0.299979899750982,9.195427804890947,0.24591540039995974,0.35404439910200425,439,Top volunteers,Likelihood of being a top volunteer,AB,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.19715422383610318,34.98521595745286,0.06196603927889624,0.3323424083933101,42,Top volunteers,Likelihood of being a top volunteer,AB,...
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.343669667445045,29.109866402525324,0.1475913796196626,0.5397479552704274,43,Top volunteers,Likelihood of being a top volunteer,AB,*
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.2910446368585463,38.69606881158623,0.07030794043729541,0.5117813332797972,22,Top volunteers,Likelihood of being a top volunteer,AB,...
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.37250592697467283,22.329918164741056,0.20947559619188796,0.5355362577574577,68,Top volunteers,Likelihood of being a top volunteer,AB,*
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.20287212892282974,22.066262004905976,0.11513180201558958,0.2906124558300699,144,Top volunteers,Likelihood of being a top volunteer,AB,*
+Marital status (Original),Married,2018,TopVolunteerFlag,0.3005032933206653,5.58982211766577,0.26758060316740817,0.3334259834739224,1170,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.17998178316483598,20.41863664357408,0.10795344712178982,0.25201011920788213,148,Top volunteers,Likelihood of being a top volunteer,AT,*
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.37833177240380056,12.865105234896038,0.282934875289062,0.4737286695185391,173,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.18753177732066723,34.95065414198705,0.0590687154235231,0.31599483921781135,59,Top volunteers,Likelihood of being a top volunteer,AT,...
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.26718026357250757,18.64522438816007,0.16954199279022952,0.3648185343547856,127,Top volunteers,Likelihood of being a top volunteer,AT,*
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.20043179101534608,15.835850333540408,0.13822238039466164,0.2626412016360305,334,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status (Original),Married,2018,TopVolunteerFlag,0.27055568649490586,8.053088474976512,0.22785181714021652,0.3132595558495952,643,Top volunteers,Likelihood of being a top volunteer,BC,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.32816558205068264,20.603281312467107,0.19564677620001303,0.46068438790135224,93,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.4157297501263831,17.457428620940547,0.27348394418119515,0.557975556071571,90,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.06431209220944545,74.7399801112535,-0.029897192696908617,0.1585213771157995,29,Top volunteers,Likelihood of being a top volunteer,BC,...
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.22420592293481445,21.376641542294657,0.13026936400660408,0.31814248186302485,110,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.2296230679137331,16.563994787653936,0.155076321871912,0.3041698139555542,229,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status (Original),Married,2018,TopVolunteerFlag,0.2624029921442865,5.743198885155088,0.23286569649888805,0.2919402877896849,1298,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.17058198495797297,28.236935399740364,0.07617615492262221,0.26498781499332374,144,Top volunteers,Likelihood of being a top volunteer,ON,*
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.35504222583447903,12.386866876972025,0.2688457383168049,0.44123871335215314,180,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.252052759253349,22.598003206832505,0.1404153850407887,0.36369013346590934,80,Top volunteers,Likelihood of being a top volunteer,ON,*
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.19686033190175972,17.38681421653715,0.12977519388888295,0.2639454699146365,187,Top volunteers,Likelihood of being a top volunteer,ON,*
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.22698411608538083,12.636088188779897,0.17076859943485298,0.28319963273590865,458,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status (Original),Married,2018,TopVolunteerFlag,0.2645986650064952,8.821527733779522,0.21884988221771562,0.3103474477952748,595,Top volunteers,Likelihood of being a top volunteer,PR,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.3087392416721478,21.503001007078083,0.1786207562716126,0.43885772707268295,67,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.3702817314860035,16.955530858468745,0.24722885549207763,0.4933346074799294,85,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.553147919209737,31.057694408502893,0.21643592535003275,0.8898599130694413,27,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.2659435974019549,27.00844242707121,0.12516482644257554,0.40672236836133424,80,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.18248364224612781,19.313394841765827,0.1134070903239885,0.25156019416826714,221,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status (Original),Married,2018,TopVolunteerFlag,0.2443299344414932,11.387707585057512,0.18979672270562786,0.29886314617735854,350,Top volunteers,Likelihood of being a top volunteer,QC,
+Marital status (Original),Living common-law,2018,TopVolunteerFlag,0.17322638799056805,17.50448808429944,0.11379559087392288,0.23265718510721323,232,Top volunteers,Likelihood of being a top volunteer,QC,*
+Marital status (Original),Widowed,2018,TopVolunteerFlag,0.37590304519647,20.544245521107715,0.22454199527048238,0.5272640951224576,64,Top volunteers,Likelihood of being a top volunteer,QC,*
+Marital status (Original),Separated,2018,TopVolunteerFlag,0.3610090562612624,33.51403333111298,0.1238755706550548,0.59814254186747,25,Top volunteers,Likelihood of being a top volunteer,QC,...
+Marital status (Original),Divorced,2018,TopVolunteerFlag,0.39247596444957966,18.464134363943884,0.25044268712491546,0.5345092417742439,105,Top volunteers,Likelihood of being a top volunteer,QC,*
+Marital status (Original),"Single, never married",2018,TopVolunteerFlag,0.18029052238346216,24.199286648622262,0.09477921389142561,0.2658018308754987,204,Top volunteers,Likelihood of being a top volunteer,QC,*
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.290862393141951,8.994025392630043,0.2395892698212117,0.3421355164626903,481,Top volunteers,Likelihood of being a top volunteer,AB,
+Marital status,Widowed,2018,TopVolunteerFlag,0.343669667445045,29.109866402525324,0.1475913796196626,0.5397479552704274,43,Top volunteers,Likelihood of being a top volunteer,AB,*
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.35030618695647203,18.94537982895746,0.22022957532950313,0.4803827985834409,90,Top volunteers,Likelihood of being a top volunteer,AB,*
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.20287212892282974,22.066262004905976,0.11513180201558958,0.2906124558300699,144,Top volunteers,Likelihood of being a top volunteer,AB,*
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.28408036430651173,5.500665592246641,0.2534533578219595,0.314707370791064,1318,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status,Widowed,2018,TopVolunteerFlag,0.37833177240380056,12.865105234896038,0.282934875289062,0.4737286695185391,173,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.23951597868121505,16.31895333857619,0.16290784483265275,0.31612411252977735,186,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.20043179101534608,15.835850333540408,0.13822238039466164,0.2626412016360305,334,Top volunteers,Likelihood of being a top volunteer,AT,
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.2786352233807738,7.724525137399276,0.2364504327219203,0.3208200140396273,736,Top volunteers,Likelihood of being a top volunteer,BC,
+Marital status,Widowed,2018,TopVolunteerFlag,0.4157297501263831,17.457428620940547,0.27348394418119515,0.557975556071571,90,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.18778381663103275,20.150683790701525,0.11361932217118126,0.26194831109088423,139,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.2296230679137331,16.563994787653936,0.155076321871912,0.3041698139555542,229,Top volunteers,Likelihood of being a top volunteer,BC,*
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.2522799778643757,5.578037946396436,0.2246988298067432,0.2798611259220083,1442,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status,Widowed,2018,TopVolunteerFlag,0.35504222583447903,12.386866876972025,0.2688457383168049,0.44123871335215314,180,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.21730885522322765,14.652427145840722,0.15490159947390303,0.2797161109725523,267,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.22698411608538083,12.636088188779897,0.17076859943485298,0.28319963273590865,458,Top volunteers,Likelihood of being a top volunteer,ON,
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.26970967036608934,8.175187163038643,0.2264938945961874,0.31292544613599127,662,Top volunteers,Likelihood of being a top volunteer,PR,
+Marital status,Widowed,2018,TopVolunteerFlag,0.3702817314860035,16.955530858468745,0.24722885549207763,0.4933346074799294,85,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.3649866021052754,23.123700500619535,0.19956876062588974,0.5304044435846611,107,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.18248364224612781,19.313394841765827,0.1134070903239885,0.25156019416826714,221,Top volunteers,Likelihood of being a top volunteer,PR,*
+Marital status,Married/common-law,2018,TopVolunteerFlag,0.21395840912260428,9.708819899069935,0.17324439752863627,0.2546724207165723,582,Top volunteers,Likelihood of being a top volunteer,QC,
+Marital status,Widowed,2018,TopVolunteerFlag,0.37590304519647,20.544245521107715,0.22454199527048238,0.5272640951224576,64,Top volunteers,Likelihood of being a top volunteer,QC,*
+Marital status,Separated/divorced,2018,TopVolunteerFlag,0.3845198567173234,16.40588271653803,0.26087773035106393,0.5081619830835828,130,Top volunteers,Likelihood of being a top volunteer,QC,
+Marital status,"Single, never married",2018,TopVolunteerFlag,0.18029052238346216,24.199286648622262,0.09477921389142561,0.2658018308754987,204,Top volunteers,Likelihood of being a top volunteer,QC,*
+Labour force status,Employed,2018,TopVolunteerFlag,0.2715619277441815,11.019149956309548,0.21291232602112198,0.33021152946724097,449,Top volunteers,Likelihood of being a top volunteer,AB,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.10663422851997723,67.81897701728317,-0.03510692305298138,0.24837538009293583,27,Top volunteers,Likelihood of being a top volunteer,AB,...
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.3242284322164777,12.590873654864529,0.2442164456656146,0.40424041876734074,209,Top volunteers,Likelihood of being a top volunteer,AB,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.23928409316678398,25.17190624426667,0.1212308219880087,0.35733736434555924,73,Top volunteers,Likelihood of being a top volunteer,AB,*
+Labour force status,Employed,2018,TopVolunteerFlag,0.23714472921685975,8.027865543231801,0.19983160125833546,0.27445785717538407,1002,Top volunteers,Likelihood of being a top volunteer,AT,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.19418588818528904,47.92106894225741,0.011799571065571612,0.37657220530500646,27,Top volunteers,Likelihood of being a top volunteer,AT,...
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.3351600653302556,7.03571277809648,0.2889423515019047,0.3813777791586065,741,Top volunteers,Likelihood of being a top volunteer,AT,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.21258982893285916,15.597872591126755,0.1475984214962291,0.2775812363694892,241,Top volunteers,Likelihood of being a top volunteer,AT,
+Labour force status,Employed,2018,TopVolunteerFlag,0.23335902998972266,8.341045354698267,0.19520914925539085,0.2715089107240545,671,Top volunteers,Likelihood of being a top volunteer,BC,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.24252796143535002,45.06768309573454,0.02830050115421129,0.45675542171648875,24,Top volunteers,Likelihood of being a top volunteer,BC,...
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.32779567830757117,10.719541360067776,0.25892608493288316,0.3966652716822592,403,Top volunteers,Likelihood of being a top volunteer,BC,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.2695547968766061,22.135092816134613,0.1526111850036031,0.3864984087496091,96,Top volunteers,Likelihood of being a top volunteer,BC,*
+Labour force status,Employed,2018,TopVolunteerFlag,0.1930066850919748,7.39921617946256,0.16501647496139665,0.22099689522255295,1273,Top volunteers,Likelihood of being a top volunteer,ON,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.23993996454493724,29.892373329741474,0.09936399776949842,0.3805159313203761,68,Top volunteers,Likelihood of being a top volunteer,ON,*
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.34983096938639446,6.794058000027099,0.30324709622587415,0.3964148425469148,821,Top volunteers,Likelihood of being a top volunteer,ON,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.217031606723856,20.799565352531914,0.1285556360031449,0.3055075774445671,185,Top volunteers,Likelihood of being a top volunteer,ON,*
+Labour force status,Employed,2018,TopVolunteerFlag,0.24102015841703578,9.485867454960504,0.1962097904095292,0.2858305264245423,620,Top volunteers,Likelihood of being a top volunteer,PR,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.4223475651067638,50.883168010246706,0.0011438155314233978,0.8435513146821042,12,Top volunteers,Likelihood of being a top volunteer,PR,...
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.2134405963713114,13.289582271199063,0.15784550519931942,0.2690356875433034,320,Top volunteers,Likelihood of being a top volunteer,PR,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.35032915023194033,17.89650821525067,0.22744590538460613,0.47321239507927454,123,Top volunteers,Likelihood of being a top volunteer,PR,*
+Labour force status,Employed,2018,TopVolunteerFlag,0.16963901479691196,13.085530314743925,0.12613141144853346,0.21314661814529046,521,Top volunteers,Likelihood of being a top volunteer,QC,
+Labour force status,Unemployed,2018,TopVolunteerFlag,0.23788991943379698,43.780445399584096,0.033761108491422415,0.44201873037617156,29,Top volunteers,Likelihood of being a top volunteer,QC,...
+Labour force status,Not in labour force,2018,TopVolunteerFlag,0.32598642712281306,11.299774794760964,0.2537897188109718,0.39818313543465433,358,Top volunteers,Likelihood of being a top volunteer,QC,
+Labour force status,Unable to determine,2018,TopVolunteerFlag,0.21387189286181965,26.733285801186096,0.10181098268555179,0.3259328030380875,72,Top volunteers,Likelihood of being a top volunteer,QC,*
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.24792647740878637,14.686757787425062,0.17655956080999352,0.3192933940075792,175,Top volunteers,Likelihood of being a top volunteer,AB,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.2677533100403154,16.12644233987925,0.18312386216758697,0.3523827579130438,184,Top volunteers,Likelihood of being a top volunteer,AB,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.2837621893192401,14.36873895189403,0.20384848325350197,0.3636758953849782,159,Top volunteers,Likelihood of being a top volunteer,AB,
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.31543316787249054,24.64844590084378,0.16304719552866379,0.4678191402163173,90,Top volunteers,Likelihood of being a top volunteer,AB,*
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.33977201134499463,23.380687169403842,0.18407045156920845,0.49547357112078083,70,Top volunteers,Likelihood of being a top volunteer,AB,*
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.27961117012824993,22.113995951242146,0.15842031951038155,0.4008020207461183,80,Top volunteers,Likelihood of being a top volunteer,AB,*
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.21697974553339772,10.327989853515493,0.17305764626547815,0.2609018448013173,546,Top volunteers,Likelihood of being a top volunteer,AT,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.30792376765066765,8.795523259484149,0.25484107012943397,0.3610064651719013,617,Top volunteers,Likelihood of being a top volunteer,AT,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.24855221721993484,10.906392828013153,0.19542135439217168,0.301683080047698,415,Top volunteers,Likelihood of being a top volunteer,AT,
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.29255562718490186,11.607103689088612,0.2260006695789332,0.35911058479087055,259,Top volunteers,Likelihood of being a top volunteer,AT,
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.3401491889305269,18.037554078148535,0.21989639460098032,0.46040198326007353,80,Top volunteers,Likelihood of being a top volunteer,AT,*
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.33514149548539485,18.725884905125408,0.21213766275195334,0.45814532821883636,94,Top volunteers,Likelihood of being a top volunteer,AT,*
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.31411559662830424,10.28440716205679,0.25079910334821937,0.3774320899083891,325,Top volunteers,Likelihood of being a top volunteer,BC,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.2540392692123925,12.395925189012434,0.1923189885438008,0.3157595498809842,304,Top volunteers,Likelihood of being a top volunteer,BC,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.22894540363210278,14.529441274712413,0.16374820524305284,0.2941426020211527,262,Top volunteers,Likelihood of being a top volunteer,BC,
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.16092547494924234,22.511462923125432,0.08992248956069353,0.23192846033779113,132,Top volunteers,Likelihood of being a top volunteer,BC,*
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.31294067542906956,24.7643297417401,0.16104805145477105,0.46483329940336804,77,Top volunteers,Likelihood of being a top volunteer,BC,*
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.23164539558409694,21.038079422410068,0.13612901584161774,0.32716177532657614,94,Top volunteers,Likelihood of being a top volunteer,BC,*
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.2816909439659819,8.186182354590237,0.23649469514805382,0.32688719278390993,621,Top volunteers,Likelihood of being a top volunteer,ON,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.2103582608286966,11.017927501260212,0.16493193904816322,0.25578458260923,576,Top volunteers,Likelihood of being a top volunteer,ON,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.24284080466275385,11.728869205146367,0.1870161689753703,0.2986654403501374,481,Top volunteers,Likelihood of being a top volunteer,ON,
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.21704361931341762,12.632120014382132,0.16330687422541335,0.2707803644014219,309,Top volunteers,Likelihood of being a top volunteer,ON,
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.17892546570716505,19.91195096391425,0.10909674890241165,0.24875418251191844,157,Top volunteers,Likelihood of being a top volunteer,ON,*
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.2145352921326504,15.902949606944725,0.14766633966986709,0.28140424459543373,203,Top volunteers,Likelihood of being a top volunteer,ON,
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.22608559664864575,14.621348509129081,0.16129553169388305,0.29087566160340844,272,Top volunteers,Likelihood of being a top volunteer,PR,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.23546329983292802,12.842406012349805,0.17619564907967325,0.2947309505861828,325,Top volunteers,Likelihood of being a top volunteer,PR,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.24836686385366358,15.273010261729661,0.1740193606894968,0.32271436701783035,217,Top volunteers,Likelihood of being a top volunteer,PR,
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.2400741361033471,20.882632867855992,0.14181369280707706,0.33833457939961714,152,Top volunteers,Likelihood of being a top volunteer,PR,*
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.43490364853479974,21.774812360892568,0.24929613047767973,0.6205111665919197,57,Top volunteers,Likelihood of being a top volunteer,PR,*
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.43746759790555956,19.62500100677008,0.26919876977479285,0.6057364260363263,52,Top volunteers,Likelihood of being a top volunteer,PR,*
+Personal income category,"Less than $25,000",2018,TopVolunteerFlag,0.2040849744482492,13.090269948413436,0.151723999415457,0.2564459494810414,274,Top volunteers,Likelihood of being a top volunteer,QC,
+Personal income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.3299298234216682,13.279395701626989,0.2440585352476431,0.41580111159569333,291,Top volunteers,Likelihood of being a top volunteer,QC,
+Personal income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.1723159078746194,16.886816614757656,0.1152835600094025,0.2293482557398363,216,Top volunteers,Likelihood of being a top volunteer,QC,*
+Personal income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.12727251273747758,27.937868070995247,0.05758162901684684,0.19696339645810834,105,Top volunteers,Likelihood of being a top volunteer,QC,*
+Personal income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.14027686502791045,54.214756700602805,-0.0087798876898946,0.28933361774571553,43,Top volunteers,Likelihood of being a top volunteer,QC,...
+Personal income category,"$125,000 and more",2018,TopVolunteerFlag,0.11287311892972071,39.034887178563174,0.02651731229397282,0.19922892556546862,51,Top volunteers,Likelihood of being a top volunteer,QC,...
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.16803636646802084,33.01910266083313,0.05928952806425994,0.27678320487178176,44,Top volunteers,Likelihood of being a top volunteer,AB,*
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.2459940847402241,23.085885348844222,0.1346879018136274,0.3573002676668208,102,Top volunteers,Likelihood of being a top volunteer,AB,*
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.36110255574904937,16.178588947695282,0.24659891539742243,0.47560619610067634,114,Top volunteers,Likelihood of being a top volunteer,AB,
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.2397639573422799,24.797458089609002,0.12323357965622063,0.3562943350283392,109,Top volunteers,Likelihood of being a top volunteer,AB,*
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.2528559547242902,20.48489295224305,0.1513351677955123,0.3543767416530681,89,Top volunteers,Likelihood of being a top volunteer,AB,*
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.2925375279304356,11.694027051871833,0.22548830139834483,0.3595867544625263,300,Top volunteers,Likelihood of being a top volunteer,AB,
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.2669223338832115,16.83948068061884,0.17882521641898502,0.355019451347438,169,Top volunteers,Likelihood of being a top volunteer,AT,*
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.31879292800558257,11.546620318463185,0.24664702808990824,0.3909388279212569,321,Top volunteers,Likelihood of being a top volunteer,AT,
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.260199517755492,12.597922669744479,0.19595241962627566,0.32444661588470836,315,Top volunteers,Likelihood of being a top volunteer,AT,
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.2572243853481177,11.3988533548098,0.19975700560597043,0.314691765090265,443,Top volunteers,Likelihood of being a top volunteer,AT,
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.21049044102359504,16.548549175118136,0.1422187918364654,0.2787620902107247,196,Top volunteers,Likelihood of being a top volunteer,AT,*
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.26214195898663334,8.768806126547469,0.2170888153505845,0.3071951026226822,567,Top volunteers,Likelihood of being a top volunteer,AT,
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.3133332334734094,20.58173960221576,0.186936272896528,0.4397301940502908,121,Top volunteers,Likelihood of being a top volunteer,BC,*
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.3071691266406606,14.10128126052132,0.22227371295602508,0.39206454032529614,183,Top volunteers,Likelihood of being a top volunteer,BC,
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.26143997440288336,15.220844026294941,0.18344640095598624,0.33943354784978047,194,Top volunteers,Likelihood of being a top volunteer,BC,
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.2677695631946385,17.821275187786433,0.17424017842755407,0.36129894796172296,174,Top volunteers,Likelihood of being a top volunteer,BC,*
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.26803207610226615,18.94779487949521,0.16849301592688987,0.36757113627764243,148,Top volunteers,Likelihood of being a top volunteer,BC,*
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.23453852382146495,12.102936484442592,0.17890289096152437,0.29017415668140556,374,Top volunteers,Likelihood of being a top volunteer,BC,
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.2756534822326507,18.10452857329741,0.17783998324164035,0.373466981223661,202,Top volunteers,Likelihood of being a top volunteer,ON,*
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.2779725585155682,11.57730769924491,0.21489751025480977,0.3410476067763266,337,Top volunteers,Likelihood of being a top volunteer,ON,
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.26635008362597185,12.192810463618455,0.2026991539504736,0.3300010133014701,405,Top volunteers,Likelihood of being a top volunteer,ON,
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.19994266207333805,12.768313369764089,0.14990614244241365,0.24997918170426245,363,Top volunteers,Likelihood of being a top volunteer,ON,
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.2903562703044649,14.145242733619796,0.20985741503237232,0.37085512557655753,270,Top volunteers,Likelihood of being a top volunteer,ON,
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.21718811699130908,9.462495964242821,0.17690808022200738,0.2574681537606108,770,Top volunteers,Likelihood of being a top volunteer,ON,
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.2341665277873637,25.440858246713727,0.11740368355600837,0.350929372018719,86,Top volunteers,Likelihood of being a top volunteer,PR,*
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.30955842807115364,16.37435632332886,0.2102113815491099,0.40890547459319737,153,Top volunteers,Likelihood of being a top volunteer,PR,
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.17809763217481547,20.357274462052626,0.10703752331218659,0.24915774103744437,168,Top volunteers,Likelihood of being a top volunteer,PR,*
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.21328465967077176,16.338526767532013,0.1449846751478337,0.2815846441937098,225,Top volunteers,Likelihood of being a top volunteer,PR,
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.2940969305871635,19.290569119042384,0.1829023493743106,0.40529151180001644,124,Top volunteers,Likelihood of being a top volunteer,PR,*
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.27620432629091063,12.734129584997344,0.2072680480491403,0.3451406045326809,319,Top volunteers,Likelihood of being a top volunteer,PR,
+Family income category,"Less than $25,000",2018,TopVolunteerFlag,0.3383129922356463,15.566061489525612,0.23509735242112922,0.4415286320501634,121,Top volunteers,Likelihood of being a top volunteer,QC,
+Family income category,"$25,000 to $49,999",2018,TopVolunteerFlag,0.3561647089894661,17.096979895417995,0.23681582106020188,0.47551359691873035,176,Top volunteers,Likelihood of being a top volunteer,QC,*
+Family income category,"$50,000 to $74,999",2018,TopVolunteerFlag,0.23610329311540207,17.491929544629002,0.1551586980174451,0.31704788821335905,183,Top volunteers,Likelihood of being a top volunteer,QC,*
+Family income category,"$75,000 to $99,999",2018,TopVolunteerFlag,0.23236366661368554,19.210087179187465,0.14487623890391949,0.3198510943234516,141,Top volunteers,Likelihood of being a top volunteer,QC,*
+Family income category,"$100,000 to $124,999",2018,TopVolunteerFlag,0.10142007956244352,27.427155390979085,0.04690046146590665,0.1559396976589804,108,Top volunteers,Likelihood of being a top volunteer,QC,*
+Family income category,"$125,000 and more",2018,TopVolunteerFlag,0.12257558122913853,20.91307106161003,0.07233324038390908,0.17281792207436797,251,Top volunteers,Likelihood of being a top volunteer,QC,*
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.4984282784755282,10.295389992167834,0.3978524618171253,0.599004095133931,163,Top volunteers,Likelihood of being a top volunteer,AB,
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.25893987138173896,27.49850143210648,0.11938145073679443,0.3984982920266835,63,Top volunteers,Likelihood of being a top volunteer,AB,*
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.2695012593362008,30.776412515572353,0.10693632071636305,0.4320661979560385,56,Top volunteers,Likelihood of being a top volunteer,AB,*
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.2363892465335465,22.13760476944526,0.13382253371006625,0.33895595935702677,96,Top volunteers,Likelihood of being a top volunteer,AB,*
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.16772301689655114,16.86929092347869,0.11226841592138948,0.2231776178717128,302,Top volunteers,Likelihood of being a top volunteer,AB,*
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.3897769222716435,7.780766170147777,0.33033585795719544,0.4492179865860916,455,Top volunteers,Likelihood of being a top volunteer,AT,
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.2953802892671923,14.074600570046613,0.21389753864043848,0.3768630398939461,202,Top volunteers,Likelihood of being a top volunteer,AT,
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.20742410656444968,16.469006986025164,0.14047038329986672,0.27437782982903264,196,Top volunteers,Likelihood of being a top volunteer,AT,
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.22745093968731683,14.45064721130034,0.16303058301715656,0.2918712963574771,312,Top volunteers,Likelihood of being a top volunteer,AT,
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.22887069128677473,10.02118191556477,0.18391784260359045,0.273823539969959,657,Top volunteers,Likelihood of being a top volunteer,AT,
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.3684713296544006,12.060014580004816,0.28137504578272554,0.45556761352607567,207,Top volunteers,Likelihood of being a top volunteer,BC,
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.29695921960897387,23.399932552759026,0.16076473834902322,0.4331537008689245,79,Top volunteers,Likelihood of being a top volunteer,BC,*
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.2351111276792538,24.450488734581903,0.12244099127504356,0.34778126408346405,83,Top volunteers,Likelihood of being a top volunteer,BC,*
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.20808752902980848,24.215963420075294,0.1093241600365081,0.30685089802310883,126,Top volunteers,Likelihood of being a top volunteer,BC,*
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.23704343760656152,10.016974127288297,0.19050491634017608,0.28358195887294696,598,Top volunteers,Likelihood of being a top volunteer,BC,
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.32917540406742835,8.616840946627654,0.27358196446103644,0.38476884367382025,506,Top volunteers,Likelihood of being a top volunteer,ON,
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.2070211235087376,16.28462679314266,0.14094560768527442,0.2730966393322008,241,Top volunteers,Likelihood of being a top volunteer,ON,
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.19208597742325587,21.518574304083817,0.11107250508425988,0.27309944976225187,220,Top volunteers,Likelihood of being a top volunteer,ON,*
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.22816558645109813,13.646698960457963,0.16713804926690545,0.2891931236352908,300,Top volunteers,Likelihood of being a top volunteer,ON,
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.2331134583601389,9.627008060718197,0.189128237816919,0.27709867890335876,883,Top volunteers,Likelihood of being a top volunteer,ON,
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.3212336705479012,13.90305994739921,0.23369911186200404,0.40876822923379835,237,Top volunteers,Likelihood of being a top volunteer,PR,
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.2559731595082853,19.18368917344678,0.15972894128733744,0.35221737772923317,116,Top volunteers,Likelihood of being a top volunteer,PR,*
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.11062164378825597,29.5808045773361,0.04648618866623788,0.17475709891027405,86,Top volunteers,Likelihood of being a top volunteer,PR,*
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.16122570961462343,24.398986097341606,0.08412574696110706,0.2383256722681398,136,Top volunteers,Likelihood of being a top volunteer,PR,*
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.22776017405147633,12.143499038358309,0.1735513832594517,0.281968964843501,396,Top volunteers,Likelihood of being a top volunteer,PR,
+Frequency of religious attendance,At least once a week,2018,TopVolunteerFlag,0.32281652041203396,18.54845896872069,0.2054587968549299,0.440174243969138,104,Top volunteers,Likelihood of being a top volunteer,QC,*
+Frequency of religious attendance,At least once a month,2018,TopVolunteerFlag,0.3314211274931164,22.207772580352806,0.18716532773324943,0.4756769272529834,65,Top volunteers,Likelihood of being a top volunteer,QC,*
+Frequency of religious attendance,At least 3 times a year,2018,TopVolunteerFlag,0.2758630767055448,20.60447253057126,0.1644584653799431,0.3872676880311464,93,Top volunteers,Likelihood of being a top volunteer,QC,*
+Frequency of religious attendance,Once or twice a year,2018,TopVolunteerFlag,0.18910001023718848,18.89796849061373,0.11905861900111107,0.25914140147326586,180,Top volunteers,Likelihood of being a top volunteer,QC,*
+Frequency of religious attendance,Not at all,2018,TopVolunteerFlag,0.1986804031180488,15.111086212465583,0.13983686107702392,0.2575239451590737,473,Top volunteers,Likelihood of being a top volunteer,QC,
+Immigration status,Native-born,2018,TopVolunteerFlag,0.27736789685986357,9.008544122468338,0.2283946504057364,0.3263411433139907,560,Top volunteers,Likelihood of being a top volunteer,AB,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.31600753487696265,18.3922100063555,0.2020929200002698,0.4299221497536555,117,Top volunteers,Likelihood of being a top volunteer,AB,*
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.136883689956419,94.78614983577766,-0.11741532490079412,0.39118270481363215,12,Top volunteers,Likelihood of being a top volunteer,AB,...
+Immigration status,Unknown,2018,TopVolunteerFlag,0.20076260854350475,27.513078510168377,0.09250208864155035,0.30902312844545915,69,Top volunteers,Likelihood of being a top volunteer,AB,*
+Immigration status,Native-born,2018,TopVolunteerFlag,0.26644389038134636,5.538899909299792,0.23751862351045192,0.29536915725224083,1731,Top volunteers,Likelihood of being a top volunteer,AT,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.24960068572035132,30.56975190564274,0.1000509054393455,0.3991504660013572,51,Top volunteers,Likelihood of being a top volunteer,AT,*
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.1515361392298463,61.531478152429166,-0.031215658351645387,0.33428793681133795,17,Top volunteers,Likelihood of being a top volunteer,AT,...
+Immigration status,Unknown,2018,TopVolunteerFlag,0.26069834780548157,15.073427174127179,0.18367925889812034,0.3377174367128428,212,Top volunteers,Likelihood of being a top volunteer,AT,
+Immigration status,Native-born,2018,TopVolunteerFlag,0.2641957479657814,7.374521636626789,0.226009431371506,0.3023820645600568,799,Top volunteers,Likelihood of being a top volunteer,BC,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.24708785180015924,13.315354553951952,0.18260381461845637,0.3115718889818621,270,Top volunteers,Likelihood of being a top volunteer,BC,
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.3113033331390335,33.548036134083695,0.10661223126652342,0.5159944350115436,37,Top volunteers,Likelihood of being a top volunteer,BC,...
+Immigration status,Unknown,2018,TopVolunteerFlag,0.3026224128136551,21.842010409534574,0.17307110833266726,0.43217371729464293,88,Top volunteers,Likelihood of being a top volunteer,BC,*
+Immigration status,Native-born,2018,TopVolunteerFlag,0.2631691850920949,5.932986319136062,0.23256671560450234,0.29377165457968746,1598,Top volunteers,Likelihood of being a top volunteer,ON,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.21162117348965248,10.502785622727565,0.16805878233304128,0.2551835646462637,509,Top volunteers,Likelihood of being a top volunteer,ON,
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.27470253070123046,31.745804426727194,0.10378087630715382,0.4456241850953071,61,Top volunteers,Likelihood of being a top volunteer,ON,*
+Immigration status,Unknown,2018,TopVolunteerFlag,0.18194101510762858,23.651759126033372,0.09759935367028413,0.26628267654497306,179,Top volunteers,Likelihood of being a top volunteer,ON,*
+Immigration status,Native-born,2018,TopVolunteerFlag,0.253367652848365,8.0829468275948,0.21322842801979947,0.2935068776769305,837,Top volunteers,Likelihood of being a top volunteer,PR,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.17616640943766637,26.1968323888781,0.08571403430028263,0.2666187845750501,109,Top volunteers,Likelihood of being a top volunteer,PR,*
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.22871181966769896,68.00138125830425,-0.07611588403985883,0.5335395233752568,14,Top volunteers,Likelihood of being a top volunteer,PR,...
+Immigration status,Unknown,2018,TopVolunteerFlag,0.32929221859203184,20.088719886460208,0.19963944189031438,0.4589449952937493,115,Top volunteers,Likelihood of being a top volunteer,PR,*
+Immigration status,Native-born,2018,TopVolunteerFlag,0.21153974734406827,8.738101303327229,0.17531068053124044,0.2477688141568961,803,Top volunteers,Likelihood of being a top volunteer,QC,
+Immigration status,Naturalized,2018,TopVolunteerFlag,0.2394523810360307,24.624107945764447,0.1238869995574258,0.35501776251463557,93,Top volunteers,Likelihood of being a top volunteer,QC,*
+Immigration status,Non-Canadian,2018,TopVolunteerFlag,0.43510104697200014,46.82094925369947,0.03582024079138335,0.8343818531526169,23,Top volunteers,Likelihood of being a top volunteer,QC,...
+Immigration status,Unknown,2018,TopVolunteerFlag,0.21005570954192465,30.97772080772298,0.08251992944942066,0.33759148963442864,61,Top volunteers,Likelihood of being a top volunteer,QC,*

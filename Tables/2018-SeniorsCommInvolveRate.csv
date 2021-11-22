@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Senior,15 to 64,2018,iva250_1,0.055191437839369736,5.904807588119876,0.04880401672120657,0.0615788589575329,11304,"Maintained park, public space",Older Canadians Community Involvement Rate,CA,
+Senior,65 to 74,2018,iva250_1,0.05180240255955305,11.172038207667997,0.04045933795022836,0.06314546716887774,3019,"Maintained park, public space",Older Canadians Community Involvement Rate,CA,
+Senior,75 and older,2018,iva250_1,0.024137986105576346,20.27190525866814,0.014547432175134788,0.033728540036017905,1826,"Maintained park, public space",Older Canadians Community Involvement Rate,CA,*
+Senior,15 to 64,2018,iva250_2,0.09850480786367398,4.012656054179615,0.09075773831316736,0.1062518774141806,11304,Participated in public meetings,Older Canadians Community Involvement Rate,CA,
+Senior,65 to 74,2018,iva250_2,0.12880926264502907,6.494944251145078,0.112412027947354,0.14520649734270413,3019,Participated in public meetings,Older Canadians Community Involvement Rate,CA,
+Senior,75 and older,2018,iva250_2,0.12821105614622857,8.872829773894933,0.10591460628044688,0.15050750601201027,1826,Participated in public meetings,Older Canadians Community Involvement Rate,CA,
+Senior,15 to 64,2018,iva250_3,0.1474510759910448,3.553412379605514,0.1371817569109307,0.15772039507115887,11304,Produced/disseminated information,Older Canadians Community Involvement Rate,CA,
+Senior,65 to 74,2018,iva250_3,0.10568745990201786,7.398893491699159,0.09036112445142755,0.12101379535260817,3019,Produced/disseminated information,Older Canadians Community Involvement Rate,CA,
+Senior,75 and older,2018,iva250_3,0.07268167282357933,10.503481119573026,0.057719100435877954,0.08764424521128071,1826,Produced/disseminated information,Older Canadians Community Involvement Rate,CA,
+Senior,15 to 64,2018,iva250_4,0.08981324053924211,4.729528895292757,0.08148781692398546,0.09813866415449876,11304,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA,
+Senior,65 to 74,2018,iva250_4,0.07292052945441001,9.200105702075847,0.059771590128590166,0.08606946878022985,3019,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA,
+Senior,75 and older,2018,iva250_4,0.04451468418101484,12.96187641460629,0.033205812822203314,0.05582355553982637,1826,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA,
+Senior,15 to 64,2018,iva250_5,0.026175049008954024,9.10570460303384,0.021503626469805547,0.0308464715481025,11304,Economic/social project,Older Canadians Community Involvement Rate,CA,
+Senior,65 to 74,2018,iva250_5,0.03027792101271803,16.995091114481127,0.020192416222823868,0.04036342580261219,3019,Economic/social project,Older Canadians Community Involvement Rate,CA,*
+Senior,75 and older,2018,iva250_5,0.016587672717524416,17.3948067377287,0.010932405157761829,0.022242940277287,1826,Economic/social project,Older Canadians Community Involvement Rate,CA,*
+Senior,15 to 64,2018,iva3_190,0.03572636877138396,6.2547302265116995,0.03134665679779565,0.04010608074497227,11304,Other way,Older Canadians Community Involvement Rate,CA,
+Senior,65 to 74,2018,iva3_190,0.047175746511738795,12.424422250339614,0.035687782274774614,0.058663710748702975,3019,Other way,Older Canadians Community Involvement Rate,CA,
+Senior,75 and older,2018,iva3_190,0.04132921184668622,15.29201576894181,0.028942103065061234,0.05371632062831121,1826,Other way,Older Canadians Community Involvement Rate,CA,
+Senior2,15 to 74,2018,iva250_1,0.0547508646243882,5.274241240144522,0.04909109097051215,0.06041063827826425,14323,"Maintained park, public space",Older Canadians Community Involvement Rate,CA,
+Senior2,75 and older,2018,iva250_1,0.024137986105576346,20.27190525866814,0.014547432175134788,0.033728540036017905,1826,"Maintained park, public space",Older Canadians Community Involvement Rate,CA,*
+Senior2,15 to 74,2018,iva250_2,0.1024443747223602,3.530979276040657,0.09535461730451508,0.10953413214020533,14323,Participated in public meetings,Older Canadians Community Involvement Rate,CA,
+Senior2,75 and older,2018,iva250_2,0.12821105614622857,8.872829773894933,0.10591460628044688,0.15050750601201027,1826,Participated in public meetings,Older Canadians Community Involvement Rate,CA,
+Senior2,15 to 74,2018,iva250_3,0.14202182279938358,3.246412754457644,0.13298518429662198,0.15105846130214517,14323,Produced/disseminated information,Older Canadians Community Involvement Rate,CA,
+Senior2,75 and older,2018,iva250_3,0.07268167282357933,10.503481119573026,0.057719100435877954,0.08764424521128071,1826,Produced/disseminated information,Older Canadians Community Involvement Rate,CA,
+Senior2,15 to 74,2018,iva250_4,0.0876171949339567,4.385605761507446,0.08008594561674737,0.09514844425116603,14323,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA,
+Senior2,75 and older,2018,iva250_4,0.04451468418101484,12.96187641460629,0.033205812822203314,0.05582355553982637,1826,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA,
+Senior2,15 to 74,2018,iva250_5,0.02670842070919015,8.151314302436864,0.0224414079762337,0.0309754334421466,14323,Economic/social project,Older Canadians Community Involvement Rate,CA,
+Senior2,75 and older,2018,iva250_5,0.016587672717524416,17.3948067377287,0.010932405157761829,0.022242940277287,1826,Economic/social project,Older Canadians Community Involvement Rate,CA,*
+Senior2,15 to 74,2018,iva3_190,0.03721478324456673,5.531989558462628,0.03317977026058353,0.04124979622854993,14323,Other way,Older Canadians Community Involvement Rate,CA,
+Senior2,75 and older,2018,iva3_190,0.04132921184668622,15.29201576894181,0.028942103065061234,0.05371632062831121,1826,Other way,Older Canadians Community Involvement Rate,CA,
+Senior,15 to 64,2018,iva250_1,0.06241585315758472,6.356205845177056,0.05464012703183223,0.07019157928333722,9905,"Maintained park, public space",Older Canadians Community Involvement Rate,CA (without QC),
+Senior,65 to 74,2018,iva250_1,0.05584941273358105,10.64311567629859,0.04419915631424426,0.06749966915291784,2647,"Maintained park, public space",Older Canadians Community Involvement Rate,CA (without QC),
+Senior,75 and older,2018,iva250_1,0.02828013982978632,22.12547160918176,0.0160164211368466,0.04054385852272604,1584,"Maintained park, public space",Older Canadians Community Involvement Rate,CA (without QC),*
+Senior,15 to 64,2018,iva250_2,0.1079151670292232,4.200990845755567,0.09902965798090152,0.11680067607754488,9905,Participated in public meetings,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,65 to 74,2018,iva250_2,0.13784953946440603,6.792689157321627,0.11949704288962579,0.15620203603918628,2647,Participated in public meetings,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,75 and older,2018,iva250_2,0.14351131572498776,9.114085683766847,0.11787548800708399,0.16914714344289153,1584,Participated in public meetings,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,15 to 64,2018,iva250_3,0.1520910734908187,3.7365102817772624,0.14095279690967186,0.16322935007196557,9905,Produced/disseminated information,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,65 to 74,2018,iva250_3,0.11739125596241856,7.94494610804973,0.09911131470411853,0.1356711972207186,2647,Produced/disseminated information,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,75 and older,2018,iva250_3,0.08768018519335602,11.03613816873175,0.06871458118348839,0.10664578920322365,1584,Produced/disseminated information,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,15 to 64,2018,iva250_4,0.09446761078128633,4.71639379003196,0.0857350607710695,0.10320016079150317,9905,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,65 to 74,2018,iva250_4,0.07998547934592694,8.85687120386756,0.06610068114760932,0.09387027754424455,2647,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,75 and older,2018,iva250_4,0.05131703675600197,14.506189159943855,0.03672677787107633,0.06590729564092762,1584,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,15 to 64,2018,iva250_5,0.02659116567839373,10.396425787683365,0.021172784864807337,0.03200954649198012,9905,Economic/social project,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,65 to 74,2018,iva250_5,0.0266438011175762,17.694562837782808,0.01740354281560904,0.03588405941954336,2647,Economic/social project,Older Canadians Community Involvement Rate,CA (without QC),*
+Senior,75 and older,2018,iva250_5,0.017085714108436147,20.230574108303724,0.010311024010149453,0.023860404206722842,1584,Economic/social project,Older Canadians Community Involvement Rate,CA (without QC),*
+Senior,15 to 64,2018,iva3_190,0.038528115352342934,6.679038841668544,0.0334845247640887,0.04357170594059717,9905,Other way,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,65 to 74,2018,iva3_190,0.048131189338739014,11.975296092137521,0.03683424615201217,0.05942813252546586,2647,Other way,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,75 and older,2018,iva3_190,0.04135777196913277,15.785555338283434,0.02856204129550486,0.05415350264276068,1584,Other way,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,15 to 74,2018,iva250_1,0.061586334520139716,5.678852904779698,0.054731561680698954,0.06844110735958048,12552,"Maintained park, public space",Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,75 and older,2018,iva250_1,0.02828013982978632,22.12547160918176,0.0160164211368466,0.04054385852272604,1584,"Maintained park, public space",Older Canadians Community Involvement Rate,CA (without QC),*
+Senior2,15 to 74,2018,iva250_2,0.11169668612203851,3.6640248540532108,0.10367534861100208,0.11971802363307493,12552,Participated in public meetings,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,75 and older,2018,iva250_2,0.14351131572498776,9.114085683766847,0.11787548800708399,0.16914714344289153,1584,Participated in public meetings,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,15 to 74,2018,iva250_3,0.1477075500752208,3.376101887495901,0.13793368519889726,0.15748141495154433,12552,Produced/disseminated information,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,75 and older,2018,iva250_3,0.08768018519335602,11.03613816873175,0.06871458118348839,0.10664578920322365,1584,Produced/disseminated information,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,15 to 74,2018,iva250_4,0.0926381267442966,4.342543167767678,0.08475348436749529,0.10052276912109791,12552,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,75 and older,2018,iva250_4,0.05131703675600197,14.506189159943855,0.03672677787107633,0.06590729564092762,1584,Organized/co-ordinated event,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,15 to 74,2018,iva250_5,0.02659781495486205,9.28318590649745,0.02175841964724151,0.03143721026248259,12552,Economic/social project,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,75 and older,2018,iva250_5,0.017085714108436147,20.230574108303724,0.010311024010149453,0.023860404206722842,1584,Economic/social project,Older Canadians Community Involvement Rate,CA (without QC),*
+Senior2,15 to 74,2018,iva3_190,0.03974124275990447,5.835428074507906,0.03519594587348331,0.044286539646325625,12552,Other way,Older Canadians Community Involvement Rate,CA (without QC),
+Senior2,75 and older,2018,iva3_190,0.04135777196913277,15.785555338283434,0.02856204129550486,0.05415350264276068,1584,Other way,Older Canadians Community Involvement Rate,CA (without QC),
+Senior,15 to 64,2018,iva250_1,0.07539130303197487,12.55216897482996,0.05684368610720788,0.09393891995674186,1098,"Maintained park, public space",Older Canadians Community Involvement Rate,AB,
+Senior,65 to 74,2018,iva250_1,0.06022180524143854,31.301783411812913,0.023275506025848387,0.0971681044570287,197,"Maintained park, public space",Older Canadians Community Involvement Rate,AB,*
+Senior,75 and older,2018,iva250_1,0.00991847367835808,73.72034270733266,-0.004412651241582934,0.024249598598299095,117,"Maintained park, public space",Older Canadians Community Involvement Rate,AB,...
+Senior,15 to 64,2018,iva250_1,0.05011480468841164,11.195622695917876,0.0391181044415593,0.06111150493526398,2765,"Maintained park, public space",Older Canadians Community Involvement Rate,AT,
+Senior,65 to 74,2018,iva250_1,0.03418597539069294,20.090848373393356,0.02072444789177407,0.0476475028896118,835,"Maintained park, public space",Older Canadians Community Involvement Rate,AT,*
+Senior,75 and older,2018,iva250_1,0.015215784273804062,38.68251498034551,0.0036797341143891063,0.02675183443321902,448,"Maintained park, public space",Older Canadians Community Involvement Rate,AT,...
+Senior,15 to 64,2018,iva250_1,0.06591177026064628,13.34821194052627,0.048667923261442016,0.08315561725985054,1483,"Maintained park, public space",Older Canadians Community Involvement Rate,BC,
+Senior,65 to 74,2018,iva250_1,0.0644892948219799,21.68497593942217,0.03708020187107694,0.09189838777288287,431,"Maintained park, public space",Older Canadians Community Involvement Rate,BC,*
+Senior,75 and older,2018,iva250_1,0.05571238372924535,35.46080206405818,0.016991221338748606,0.09443354611974208,263,"Maintained park, public space",Older Canadians Community Involvement Rate,BC,...
+Senior,15 to 64,2018,iva250_1,0.05579688746862031,11.366966378810972,0.0433659855531546,0.06822778938408602,3056,"Maintained park, public space",Older Canadians Community Involvement Rate,ON,
+Senior,65 to 74,2018,iva250_1,0.05406147868110026,16.873862852275938,0.03618217807710152,0.07194077928509901,795,"Maintained park, public space",Older Canadians Community Involvement Rate,ON,*
+Senior,75 and older,2018,iva250_1,0.02549219946762741,36.677307223716696,0.007166825665883253,0.043817573269371565,495,"Maintained park, public space",Older Canadians Community Involvement Rate,ON,...
+Senior,15 to 64,2018,iva250_1,0.08234946692707294,11.431480538712378,0.0638988299285041,0.10080010392564179,1503,"Maintained park, public space",Older Canadians Community Involvement Rate,PR,
+Senior,65 to 74,2018,iva250_1,0.06887992381136661,22.48876817506252,0.03851959878492292,0.0992402488378103,389,"Maintained park, public space",Older Canadians Community Involvement Rate,PR,*
+Senior,75 and older,2018,iva250_1,0.020637374131503572,44.64752236292506,0.0025781165689491986,0.038696631694057945,261,"Maintained park, public space",Older Canadians Community Involvement Rate,PR,...
+Senior,15 to 64,2018,iva250_1,0.030098213691805008,18.898280651270888,0.01894985055614484,0.04124657682746517,1399,"Maintained park, public space",Older Canadians Community Involvement Rate,QC,*
+Senior,65 to 74,2018,iva250_1,0.039573570702135075,40.007752721057535,0.008542448150341733,0.07060469325392842,372,"Maintained park, public space",Older Canadians Community Involvement Rate,QC,...
+Senior,75 and older,2018,iva250_1,0.011912510909060868,53.71419741232185,-6.287295063252419e-4,0.02445375132444698,242,"Maintained park, public space",Older Canadians Community Involvement Rate,QC,...
+Senior,15 to 64,2018,iva250_2,0.10613140959750116,11.19561500627956,0.08284299205772515,0.12941982713727718,1098,Participated in public meetings,Older Canadians Community Involvement Rate,AB,
+Senior,65 to 74,2018,iva250_2,0.14867850936845298,19.48486921629743,0.09189871904735662,0.20545829968954932,197,Participated in public meetings,Older Canadians Community Involvement Rate,AB,*
+Senior,75 and older,2018,iva250_2,0.1483574869337456,26.434559834416326,0.07149230801681859,0.22522266585067258,117,Participated in public meetings,Older Canadians Community Involvement Rate,AB,*
+Senior,15 to 64,2018,iva250_2,0.10941307212084488,7.838641943877373,0.09260344303923505,0.1262227012024547,2765,Participated in public meetings,Older Canadians Community Involvement Rate,AT,
+Senior,65 to 74,2018,iva250_2,0.13627594618165645,11.053392353585087,0.1067527832572348,0.1657991091060781,835,Participated in public meetings,Older Canadians Community Involvement Rate,AT,
+Senior,75 and older,2018,iva250_2,0.08183246287219313,19.71162058188504,0.05021725481514509,0.11344767092924117,448,Participated in public meetings,Older Canadians Community Involvement Rate,AT,*
+Senior,15 to 64,2018,iva250_2,0.13265651118194177,9.542489709443549,0.10784584859231704,0.1574671737715665,1483,Participated in public meetings,Older Canadians Community Involvement Rate,BC,
+Senior,65 to 74,2018,iva250_2,0.1812728382795213,13.15626460373144,0.13453017805550868,0.2280154985035339,431,Participated in public meetings,Older Canadians Community Involvement Rate,BC,
+Senior,75 and older,2018,iva250_2,0.19156241640447708,15.363232115398983,0.13388032613684805,0.2492445066721061,263,Participated in public meetings,Older Canadians Community Involvement Rate,BC,
+Senior,15 to 64,2018,iva250_2,0.09620201744068141,6.844095012004793,0.08329730591701422,0.1091067289643486,3056,Participated in public meetings,Older Canadians Community Involvement Rate,ON,
+Senior,65 to 74,2018,iva250_2,0.11717302765958337,11.388572302033669,0.09101861171389775,0.143327443605269,795,Participated in public meetings,Older Canadians Community Involvement Rate,ON,
+Senior,75 and older,2018,iva250_2,0.13751450560059167,14.343372707593518,0.09885574856939441,0.17617326263178892,495,Participated in public meetings,Older Canadians Community Involvement Rate,ON,
+Senior,15 to 64,2018,iva250_2,0.12979544636813986,8.449669918601554,0.10829995925655056,0.15129093347972916,1503,Participated in public meetings,Older Canadians Community Involvement Rate,PR,
+Senior,65 to 74,2018,iva250_2,0.15081119237796464,13.626936531385446,0.11053207941327912,0.19109030534265015,389,Participated in public meetings,Older Canadians Community Involvement Rate,PR,
+Senior,75 and older,2018,iva250_2,0.13327619661430837,16.974137842150164,0.08893694013831041,0.17761545309030632,261,Participated in public meetings,Older Canadians Community Involvement Rate,PR,*
+Senior,15 to 64,2018,iva250_2,0.06581894451707987,11.4607899265092,0.05103420910767623,0.0806036799264835,1399,Participated in public meetings,Older Canadians Community Involvement Rate,QC,
+Senior,65 to 74,2018,iva250_2,0.10149230014314295,19.950329240522194,0.0618068552425273,0.1411777450437586,372,Participated in public meetings,Older Canadians Community Involvement Rate,QC,*
+Senior,75 and older,2018,iva250_2,0.08305267805729251,27.657752655010597,0.0380313169804905,0.12807403913409451,242,Participated in public meetings,Older Canadians Community Involvement Rate,QC,*
+Senior,15 to 64,2018,iva250_3,0.132718702328447,10.271555670165192,0.10599993352811643,0.1594374711287776,1098,Produced/disseminated information,Older Canadians Community Involvement Rate,AB,
+Senior,65 to 74,2018,iva250_3,0.11451938866368244,23.384137673114143,0.06203278498031698,0.1670059923470479,197,Produced/disseminated information,Older Canadians Community Involvement Rate,AB,*
+Senior,75 and older,2018,iva250_3,0.07159877354304037,41.698087879846554,0.013083422550880651,0.13011412453520008,117,Produced/disseminated information,Older Canadians Community Involvement Rate,AB,...
+Senior,15 to 64,2018,iva250_3,0.13458441800861337,6.9151718864505485,0.11634353527343083,0.1528253007437959,2765,Produced/disseminated information,Older Canadians Community Involvement Rate,AT,
+Senior,65 to 74,2018,iva250_3,0.11468560734898996,12.769660846155126,0.08598200712234624,0.14338920757563367,835,Produced/disseminated information,Older Canadians Community Involvement Rate,AT,
+Senior,75 and older,2018,iva250_3,0.058128394676409595,23.51288110986921,0.031340272674056945,0.08491651667876224,448,Produced/disseminated information,Older Canadians Community Involvement Rate,AT,*
+Senior,15 to 64,2018,iva250_3,0.15972513504938865,7.998839579775632,0.13468432683905698,0.18476594325972032,1483,Produced/disseminated information,Older Canadians Community Involvement Rate,BC,
+Senior,65 to 74,2018,iva250_3,0.15534615235147925,15.404507486180636,0.10844360726237331,0.20224869744058518,431,Produced/disseminated information,Older Canadians Community Involvement Rate,BC,
+Senior,75 and older,2018,iva250_3,0.08674936359442093,25.0066214246081,0.044231698393918044,0.1292670287949238,263,Produced/disseminated information,Older Canadians Community Involvement Rate,BC,*
+Senior,15 to 64,2018,iva250_3,0.16119649022718002,5.7146507680371625,0.14314166172002668,0.17925131873433336,3056,Produced/disseminated information,Older Canadians Community Involvement Rate,ON,
+Senior,65 to 74,2018,iva250_3,0.1062127928022938,12.843345939523171,0.079476382332348,0.1329492032722396,795,Produced/disseminated information,Older Canadians Community Involvement Rate,ON,
+Senior,75 and older,2018,iva250_3,0.0946217264722382,15.963686361438405,0.06501624382806542,0.12422720911641097,495,Produced/disseminated information,Older Canadians Community Involvement Rate,ON,
+Senior,15 to 64,2018,iva250_3,0.13540790332988722,8.90499571766172,0.11177452434066418,0.15904128231911027,1503,Produced/disseminated information,Older Canadians Community Involvement Rate,PR,
+Senior,65 to 74,2018,iva250_3,0.10563223799726601,17.02116440487049,0.0703924052370064,0.1408720707575256,389,Produced/disseminated information,Older Canadians Community Involvement Rate,PR,*
+Senior,75 and older,2018,iva250_3,0.10163332341469478,19.643155812798664,0.06250461795794657,0.14076202887144298,261,Produced/disseminated information,Older Canadians Community Involvement Rate,PR,*
+Senior,15 to 64,2018,iva250_3,0.1313345472233251,9.734563827867387,0.10627671083351929,0.1563923836131309,1399,Produced/disseminated information,Older Canadians Community Involvement Rate,QC,
+Senior,65 to 74,2018,iva250_3,0.07032215367307408,19.890478953355007,0.04290732761145109,0.09773697973469707,372,Produced/disseminated information,Older Canadians Community Involvement Rate,QC,*
+Senior,75 and older,2018,iva250_3,0.02841389495487928,31.114405581133152,0.011086216906270225,0.04574157300348833,242,Produced/disseminated information,Older Canadians Community Involvement Rate,QC,*
+Senior,15 to 64,2018,iva250_4,0.09847662968317562,12.062164500435676,0.07519536787862141,0.12175789148772984,1098,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AB,
+Senior,65 to 74,2018,iva250_4,0.07224308095443543,25.646607629705198,0.035929065201749294,0.10855709670712158,197,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AB,*
+Senior,75 and older,2018,iva250_4,0.07843859808312216,35.20726511504626,0.024312065737017018,0.1325651304292273,117,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AB,...
+Senior,15 to 64,2018,iva250_4,0.09514526676366734,8.832943983725231,0.07867347833406158,0.11161705519327311,2765,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AT,
+Senior,65 to 74,2018,iva250_4,0.07057443794412763,15.792118013794045,0.048730250229270175,0.09241862565898508,835,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AT,
+Senior,75 and older,2018,iva250_4,0.04791483968129488,26.816051578683126,0.02273152091854256,0.07309815844404721,448,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AT,*
+Senior,15 to 64,2018,iva250_4,0.10225113755582142,10.074312623180086,0.08206135400871171,0.12244092110293113,1483,Organized/co-ordinated event,Older Canadians Community Involvement Rate,BC,
+Senior,65 to 74,2018,iva250_4,0.08243459668297205,19.49829086306626,0.05093143420285132,0.11393775916309279,431,Organized/co-ordinated event,Older Canadians Community Involvement Rate,BC,*
+Senior,75 and older,2018,iva250_4,0.033366180741575616,40.60509118914565,0.0068118671840390645,0.05992049429911217,263,Organized/co-ordinated event,Older Canadians Community Involvement Rate,BC,...
+Senior,15 to 64,2018,iva250_4,0.08749548060417198,7.799140408876512,0.0741208914177711,0.10087006979057285,3056,Organized/co-ordinated event,Older Canadians Community Involvement Rate,ON,
+Senior,65 to 74,2018,iva250_4,0.08181891002417649,14.028169609911773,0.05932304027515975,0.10431477977319323,795,Organized/co-ordinated event,Older Canadians Community Involvement Rate,ON,
+Senior,75 and older,2018,iva250_4,0.051922253384039295,21.70604356548339,0.02983293608603517,0.07401157068204342,495,Organized/co-ordinated event,Older Canadians Community Involvement Rate,ON,*
+Senior,15 to 64,2018,iva250_4,0.1121181816084075,10.41570843182814,0.08922991251846889,0.1350064506983461,1503,Organized/co-ordinated event,Older Canadians Community Involvement Rate,PR,
+Senior,65 to 74,2018,iva250_4,0.08695404385578163,19.57594745125168,0.05359138416713314,0.12031670354443014,389,Organized/co-ordinated event,Older Canadians Community Involvement Rate,PR,*
+Senior,75 and older,2018,iva250_4,0.05797483089988431,26.497435946881716,0.027866170545050903,0.08808349125471772,261,Organized/co-ordinated event,Older Canadians Community Involvement Rate,PR,*
+Senior,15 to 64,2018,iva250_4,0.07364678960792616,14.089192699331305,0.053309736627639645,0.09398384258821267,1399,Organized/co-ordinated event,Older Canadians Community Involvement Rate,QC,
+Senior,65 to 74,2018,iva250_4,0.05157240316135114,31.626598151014605,0.01960422105385657,0.0835405852688457,372,Organized/co-ordinated event,Older Canadians Community Involvement Rate,QC,*
+Senior,75 and older,2018,iva250_4,0.02443769085326968,33.15181027031539,0.008558970297848148,0.04031641140869121,242,Organized/co-ordinated event,Older Canadians Community Involvement Rate,QC,*
+Senior,15 to 64,2018,iva250_5,0.016433422602296934,22.08778336833451,0.009319186913028755,0.02354765829156511,1098,Economic/social project,Older Canadians Community Involvement Rate,AB,*
+Senior,65 to 74,2018,iva250_5,0.02179326586530656,58.90479859181631,-0.0033673393486669187,0.04695387107928004,197,Economic/social project,Older Canadians Community Involvement Rate,AB,...
+Senior,75 and older,2018,iva250_5,0.0024487581631268338,104.20800331893543,-0.0025526818288425495,0.007450198155096217,117,Economic/social project,Older Canadians Community Involvement Rate,AB,...
+Senior,15 to 64,2018,iva250_5,0.02087712628694443,22.065989582997954,0.011848072958022163,0.029906179615866696,2765,Economic/social project,Older Canadians Community Involvement Rate,AT,*
+Senior,65 to 74,2018,iva250_5,0.033308810731307856,23.559207175880722,0.017928401568227587,0.048689219894388125,835,Economic/social project,Older Canadians Community Involvement Rate,AT,*
+Senior,75 and older,2018,iva250_5,0.005803528511528621,55.42576904683181,-5.009902456901026e-4,0.012108047268747344,448,Economic/social project,Older Canadians Community Involvement Rate,AT,...
+Senior,15 to 64,2018,iva250_5,0.03342377134526581,19.72692590929714,0.020500782898202626,0.04634675979232899,1483,Economic/social project,Older Canadians Community Involvement Rate,BC,*
+Senior,65 to 74,2018,iva250_5,0.03436489616405911,39.61946842324283,0.00767961571993666,0.061050176608181565,431,Economic/social project,Older Canadians Community Involvement Rate,BC,...
+Senior,75 and older,2018,iva250_5,0.043050706445047826,30.90978828032249,0.016969696556450295,0.06913171633364536,263,Economic/social project,Older Canadians Community Involvement Rate,BC,*
+Senior,15 to 64,2018,iva250_5,0.02914002862399426,15.995446121412254,0.020004484441349474,0.03827557280663905,3056,Economic/social project,Older Canadians Community Involvement Rate,ON,
+Senior,65 to 74,2018,iva250_5,0.023080322087349753,30.15742528560384,0.009438128227697977,0.03672251594700153,795,Economic/social project,Older Canadians Community Involvement Rate,ON,*
+Senior,75 and older,2018,iva250_5,0.0121543678135384,33.046883393464775,0.004281898547903158,0.020026837079173646,495,Economic/social project,Older Canadians Community Involvement Rate,ON,*
+Senior,15 to 64,2018,iva250_5,0.022065166229560375,20.076450256894606,0.013382717615052383,0.030747614844068367,1503,Economic/social project,Older Canadians Community Involvement Rate,PR,*
+Senior,65 to 74,2018,iva250_5,0.029295273473907448,31.557070781471936,0.01117593526297515,0.04741461168483975,389,Economic/social project,Older Canadians Community Involvement Rate,PR,*
+Senior,75 and older,2018,iva250_5,0.01980382129766618,45.533674059187696,0.002130027479493795,0.03747761511583857,261,Economic/social project,Older Canadians Community Involvement Rate,PR,...
+Senior,15 to 64,2018,iva250_5,0.024729712826320423,17.839969562197147,0.016082796165935595,0.03337662948670525,1399,Economic/social project,Older Canadians Community Involvement Rate,QC,*
+Senior,65 to 74,2018,iva250_5,0.041259124230982894,39.91437965723472,0.008981803307170806,0.07353644515479499,372,Economic/social project,Older Canadians Community Involvement Rate,QC,...
+Senior,75 and older,2018,iva250_5,0.015117714556425311,38.60704061164911,0.0036783804519659354,0.026557048660884687,242,Economic/social project,Older Canadians Community Involvement Rate,QC,...
+Senior,15 to 64,2018,iva3_190,0.040169859421248066,17.894153373878087,0.026081528042777892,0.05425819079971824,1098,Other way,Older Canadians Community Involvement Rate,AB,*
+Senior,65 to 74,2018,iva3_190,0.0773411870918462,27.152363680934748,0.036182021042191384,0.11850035314150102,197,Other way,Older Canadians Community Involvement Rate,AB,*
+Senior,75 and older,2018,iva3_190,0.0573716192191277,49.889893156958486,0.0012722765962091404,0.11347096184204626,117,Other way,Older Canadians Community Involvement Rate,AB,...
+Senior,15 to 64,2018,iva3_190,0.03072652556938061,13.564265464303418,0.02255773378307667,0.03889531735568455,2765,Other way,Older Canadians Community Involvement Rate,AT,
+Senior,65 to 74,2018,iva3_190,0.04050792567563309,20.72335555907281,0.024054809135027874,0.05696104221623831,835,Other way,Older Canadians Community Involvement Rate,AT,*
+Senior,75 and older,2018,iva3_190,0.014467175398135025,37.171280936857386,0.003927205630809132,0.025007145165460917,448,Other way,Older Canadians Community Involvement Rate,AT,...
+Senior,15 to 64,2018,iva3_190,0.04425860287071384,14.981490093755474,0.03126286919352519,0.0572543365479025,1483,Other way,Older Canadians Community Involvement Rate,BC,
+Senior,65 to 74,2018,iva3_190,0.06778860878559113,19.635743377109446,0.04169992555037608,0.09387729202080619,431,Other way,Older Canadians Community Involvement Rate,BC,*
+Senior,75 and older,2018,iva3_190,0.04454308629722036,31.615270454810545,0.01694205576645273,0.07214411682798799,263,Other way,Older Canadians Community Involvement Rate,BC,*
+Senior,15 to 64,2018,iva3_190,0.036745135835855765,11.237651711845666,0.02865187539704328,0.04483839627466825,3056,Other way,Older Canadians Community Involvement Rate,ON,
+Senior,65 to 74,2018,iva3_190,0.03921599705257989,23.629065181163966,0.02105423871548872,0.057377755389671055,795,Other way,Older Canadians Community Involvement Rate,ON,*
+Senior,75 and older,2018,iva3_190,0.039183225100939294,24.358744475049246,0.020476267160332382,0.05789018304154621,495,Other way,Older Canadians Community Involvement Rate,ON,*
+Senior,15 to 64,2018,iva3_190,0.04208522934750619,15.537663581397448,0.02926890460199734,0.054901554093015045,1503,Other way,Older Canadians Community Involvement Rate,PR,
+Senior,65 to 74,2018,iva3_190,0.02323894713940544,29.933271584964345,0.009605090434305267,0.036872803844505614,389,Other way,Older Canadians Community Involvement Rate,PR,*
+Senior,75 and older,2018,iva3_190,0.058096110397171274,26.962160415102527,0.02739530024089671,0.08879692055344585,261,Other way,Older Canadians Community Involvement Rate,PR,*
+Senior,15 to 64,2018,iva3_190,0.025994805473324906,16.936889200938825,0.017365649693008446,0.03462396125364137,1399,Other way,Older Canadians Community Involvement Rate,QC,*
+Senior,65 to 74,2018,iva3_190,0.044288689356373964,36.71332525105912,0.012419967839610926,0.076157410873137,372,Other way,Older Canadians Community Involvement Rate,QC,...
+Senior,75 and older,2018,iva3_190,0.041244917276318425,37.418253789389574,0.010996542577029172,0.07149329197560768,242,Other way,Older Canadians Community Involvement Rate,QC,...
+Senior2,15 to 74,2018,iva250_1,0.0738643469352616,11.762084755029727,0.056836205140174303,0.0908924887303489,1295,"Maintained park, public space",Older Canadians Community Involvement Rate,AB,
+Senior2,75 and older,2018,iva250_1,0.00991847367835808,73.72034270733266,-0.004412651241582934,0.024249598598299095,117,"Maintained park, public space",Older Canadians Community Involvement Rate,AB,...
+Senior2,15 to 74,2018,iva250_1,0.04758199830255412,10.21322368153665,0.038057247724478965,0.05710674888062928,3600,"Maintained park, public space",Older Canadians Community Involvement Rate,AT,
+Senior2,75 and older,2018,iva250_1,0.015215784273804062,38.68251498034551,0.0036797341143891063,0.02675183443321902,448,"Maintained park, public space",Older Canadians Community Involvement Rate,AT,...
+Senior2,15 to 74,2018,iva250_1,0.0657137905922612,11.686374854466186,0.050662129771749644,0.08076545141277278,1914,"Maintained park, public space",Older Canadians Community Involvement Rate,BC,
+Senior2,75 and older,2018,iva250_1,0.05571238372924535,35.46080206405818,0.016991221338748606,0.09443354611974208,263,"Maintained park, public space",Older Canadians Community Involvement Rate,BC,...
+Senior2,15 to 74,2018,iva250_1,0.05557863807655679,10.04110155515303,0.04464065238351743,0.06651662376959615,3851,"Maintained park, public space",Older Canadians Community Involvement Rate,ON,
+Senior2,75 and older,2018,iva250_1,0.02549219946762741,36.677307223716696,0.007166825665883253,0.043817573269371565,495,"Maintained park, public space",Older Canadians Community Involvement Rate,ON,...
+Senior2,15 to 74,2018,iva250_1,0.0807701607724972,10.376566898334714,0.06434336988193791,0.09719695166305649,1892,"Maintained park, public space",Older Canadians Community Involvement Rate,PR,
+Senior2,75 and older,2018,iva250_1,0.020637374131503572,44.64752236292506,0.0025781165689491986,0.038696631694057945,261,"Maintained park, public space",Older Canadians Community Involvement Rate,PR,...
+Senior2,15 to 74,2018,iva250_1,0.03144863754260022,17.127545407139266,0.020891527372472088,0.04200574771272836,1771,"Maintained park, public space",Older Canadians Community Involvement Rate,QC,*
+Senior2,75 and older,2018,iva250_1,0.011912510909060868,53.71419741232185,-6.287295063252419e-4,0.02445375132444698,242,"Maintained park, public space",Older Canadians Community Involvement Rate,QC,...
+Senior2,15 to 74,2018,iva250_2,0.11041418509144359,10.095910934056986,0.08856584370784273,0.13226252647504444,1295,Participated in public meetings,Older Canadians Community Involvement Rate,AB,
+Senior2,75 and older,2018,iva250_2,0.1483574869337456,26.434559834416326,0.07149230801681859,0.22522266585067258,117,Participated in public meetings,Older Canadians Community Involvement Rate,AB,*
+Senior2,15 to 74,2018,iva250_2,0.11368447573074193,6.624991273782742,0.09892283725455502,0.12844611420692886,3600,Participated in public meetings,Older Canadians Community Involvement Rate,AT,
+Senior2,75 and older,2018,iva250_2,0.08183246287219313,19.71162058188504,0.05021725481514509,0.11344767092924117,448,Participated in public meetings,Older Canadians Community Involvement Rate,AT,*
+Senior2,15 to 74,2018,iva250_2,0.13942291575754748,8.128130857019201,0.11721166890852791,0.16163416260656704,1914,Participated in public meetings,Older Canadians Community Involvement Rate,BC,
+Senior2,75 and older,2018,iva250_2,0.19156241640447708,15.363232115398983,0.13388032613684805,0.2492445066721061,263,Participated in public meetings,Older Canadians Community Involvement Rate,BC,
+Senior2,15 to 74,2018,iva250_2,0.09883938465015236,6.096945899192269,0.08702828141987387,0.11065048788043086,3851,Participated in public meetings,Older Canadians Community Involvement Rate,ON,
+Senior2,75 and older,2018,iva250_2,0.13751450560059167,14.343372707593518,0.09885574856939441,0.17617326263178892,495,Participated in public meetings,Older Canadians Community Involvement Rate,ON,
+Senior2,15 to 74,2018,iva250_2,0.13225954605817425,7.554563452666343,0.11267630850619263,0.15184278361015588,1892,Participated in public meetings,Older Canadians Community Involvement Rate,PR,
+Senior2,75 and older,2018,iva250_2,0.13327619661430837,16.974137842150164,0.08893694013831041,0.17761545309030632,261,Participated in public meetings,Older Canadians Community Involvement Rate,PR,*
+Senior2,15 to 74,2018,iva250_2,0.07090309598734273,10.12433455394555,0.05683355989526784,0.08497263207941763,1771,Participated in public meetings,Older Canadians Community Involvement Rate,QC,
+Senior2,75 and older,2018,iva250_2,0.08305267805729251,27.657752655010597,0.0380313169804905,0.12807403913409451,242,Participated in public meetings,Older Canadians Community Involvement Rate,QC,*
+Senior2,15 to 74,2018,iva250_3,0.13088676607451602,9.53164567661916,0.10643491634282502,0.15533861580620703,1295,Produced/disseminated information,Older Canadians Community Involvement Rate,AB,
+Senior2,75 and older,2018,iva250_3,0.07159877354304037,41.698087879846554,0.013083422550880651,0.13011412453520008,117,Produced/disseminated information,Older Canadians Community Involvement Rate,AB,...
+Senior2,15 to 74,2018,iva250_3,0.13142035404837732,6.249767749841929,0.11532225472824023,0.1475184533685144,3600,Produced/disseminated information,Older Canadians Community Involvement Rate,AT,
+Senior2,75 and older,2018,iva250_3,0.058128394676409595,23.51288110986921,0.031340272674056945,0.08491651667876224,448,Produced/disseminated information,Older Canadians Community Involvement Rate,AT,*
+Senior2,15 to 74,2018,iva250_3,0.15911566966332275,7.155972618525627,0.13679898318954253,0.18143235613710296,1914,Produced/disseminated information,Older Canadians Community Involvement Rate,BC,
+Senior2,75 and older,2018,iva250_3,0.08674936359442093,25.0066214246081,0.044231698393918044,0.1292670287949238,263,Produced/disseminated information,Older Canadians Community Involvement Rate,BC,*
+Senior2,15 to 74,2018,iva250_3,0.1542816015723091,5.268154077178195,0.1383514210307016,0.1702117821139166,3851,Produced/disseminated information,Older Canadians Community Involvement Rate,ON,
+Senior2,75 and older,2018,iva250_3,0.0946217264722382,15.963686361438405,0.06501624382806542,0.12422720911641097,495,Produced/disseminated information,Older Canadians Community Involvement Rate,ON,
+Senior2,15 to 74,2018,iva250_3,0.1319167016527077,8.276386469595815,0.11051794021562139,0.153315463089794,1892,Produced/disseminated information,Older Canadians Community Involvement Rate,PR,
+Senior2,75 and older,2018,iva250_3,0.10163332341469478,19.643155812798664,0.06250461795794657,0.14076202887144298,261,Produced/disseminated information,Older Canadians Community Involvement Rate,PR,*
+Senior2,15 to 74,2018,iva250_3,0.122639086845997,9.060197046407904,0.10086125489476425,0.14441691879722976,1771,Produced/disseminated information,Older Canadians Community Involvement Rate,QC,
+Senior2,75 and older,2018,iva250_3,0.02841389495487928,31.114405581133152,0.011086216906270225,0.04574157300348833,242,Produced/disseminated information,Older Canadians Community Involvement Rate,QC,*
+Senior2,15 to 74,2018,iva250_4,0.09583597026762367,11.342881699446082,0.07453006273924151,0.11714187779600582,1295,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AB,
+Senior2,75 and older,2018,iva250_4,0.07843859808312216,35.20726511504626,0.024312065737017018,0.1325651304292273,117,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AB,...
+Senior2,15 to 74,2018,iva250_4,0.0912383159779712,7.90769228862603,0.07709747908129222,0.10537915287465019,3600,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AT,
+Senior2,75 and older,2018,iva250_4,0.04791483968129488,26.816051578683126,0.02273152091854256,0.07309815844404721,448,Organized/co-ordinated event,Older Canadians Community Involvement Rate,AT,*
+Senior2,15 to 74,2018,iva250_4,0.09949307784955044,9.224457910819577,0.08150512209132736,0.11748103360777352,1914,Organized/co-ordinated event,Older Canadians Community Involvement Rate,BC,
+Senior2,75 and older,2018,iva250_4,0.033366180741575616,40.60509118914565,0.0068118671840390645,0.05992049429911217,263,Organized/co-ordinated event,Older Canadians Community Involvement Rate,BC,...
+Senior2,15 to 74,2018,iva250_4,0.08678158075129634,7.046137573158433,0.07479689182373457,0.09876626967885811,3851,Organized/co-ordinated event,Older Canadians Community Involvement Rate,ON,
+Senior2,75 and older,2018,iva250_4,0.051922253384039295,21.70604356548339,0.02983293608603517,0.07401157068204342,495,Organized/co-ordinated event,Older Canadians Community Involvement Rate,ON,*
+Senior2,15 to 74,2018,iva250_4,0.10916768230149544,9.700520530910278,0.08841199016705743,0.12992337443593346,1892,Organized/co-ordinated event,Older Canadians Community Involvement Rate,PR,
+Senior2,75 and older,2018,iva250_4,0.05797483089988431,26.497435946881716,0.027866170545050903,0.08808349125471772,261,Organized/co-ordinated event,Older Canadians Community Involvement Rate,PR,*
+Senior2,15 to 74,2018,iva250_4,0.07050075744083979,13.211052093947536,0.05224586497234818,0.08875564990933141,1771,Organized/co-ordinated event,Older Canadians Community Involvement Rate,QC,
+Senior2,75 and older,2018,iva250_4,0.02443769085326968,33.15181027031539,0.008558970297848148,0.04031641140869121,242,Organized/co-ordinated event,Older Canadians Community Involvement Rate,QC,*
+Senior2,15 to 74,2018,iva250_5,0.01697294246385662,20.787488690154127,0.010057702485030275,0.023888182442682968,1295,Economic/social project,Older Canadians Community Involvement Rate,AB,*
+Senior2,75 and older,2018,iva250_5,0.0024487581631268338,104.20800331893543,-0.0025526818288425495,0.007450198155096217,117,Economic/social project,Older Canadians Community Involvement Rate,AB,...
+Senior2,15 to 74,2018,iva250_5,0.022853859740429222,17.854295763929994,0.014856431103158822,0.030851288377699623,3600,Economic/social project,Older Canadians Community Involvement Rate,AT,*
+Senior2,75 and older,2018,iva250_5,0.005803528511528621,55.42576904683181,-5.009902456901026e-4,0.012108047268747344,448,Economic/social project,Older Canadians Community Involvement Rate,AT,...
+Senior2,15 to 74,2018,iva250_5,0.03355475679110827,17.84019141760444,0.021821956019196523,0.04528755756302001,1914,Economic/social project,Older Canadians Community Involvement Rate,BC,*
+Senior2,75 and older,2018,iva250_5,0.043050706445047826,30.90978828032249,0.016969696556450295,0.06913171633364536,263,Economic/social project,Older Canadians Community Involvement Rate,BC,*
+Senior2,15 to 74,2018,iva250_5,0.028377944625563027,14.636157912883546,0.020237350269500375,0.03651853898162568,3851,Economic/social project,Older Canadians Community Involvement Rate,ON,
+Senior2,75 and older,2018,iva250_5,0.0121543678135384,33.046883393464775,0.004281898547903158,0.020026837079173646,495,Economic/social project,Older Canadians Community Involvement Rate,ON,*
+Senior2,15 to 74,2018,iva250_5,0.022912897497885668,17.35012161918199,0.015121226132877471,0.030704568862893866,1892,Economic/social project,Older Canadians Community Involvement Rate,PR,*
+Senior2,75 and older,2018,iva250_5,0.01980382129766618,45.533674059187696,0.002130027479493795,0.03747761511583857,261,Economic/social project,Older Canadians Community Involvement Rate,PR,...
+Senior2,15 to 74,2018,iva250_5,0.02708547750897327,16.37235842439274,0.018393955561557727,0.03577699945638881,1771,Economic/social project,Older Canadians Community Involvement Rate,QC,
+Senior2,75 and older,2018,iva250_5,0.015117714556425311,38.60704061164911,0.0036783804519659354,0.026557048660884687,242,Economic/social project,Older Canadians Community Involvement Rate,QC,...
+Senior2,15 to 74,2018,iva3_190,0.043911511662692505,15.33096611271128,0.030716918534622953,0.05710610479076206,1295,Other way,Older Canadians Community Involvement Rate,AB,
+Senior2,75 and older,2018,iva3_190,0.0573716192191277,49.889893156958486,0.0012722765962091404,0.11347096184204626,117,Other way,Older Canadians Community Involvement Rate,AB,...
+Senior2,15 to 74,2018,iva3_190,0.03228184342662526,11.620914943211929,0.024929145225913222,0.039634541627337296,3600,Other way,Older Canadians Community Involvement Rate,AT,
+Senior2,75 and older,2018,iva3_190,0.014467175398135025,37.171280936857386,0.003927205630809132,0.025007145165460917,448,Other way,Older Canadians Community Involvement Rate,AT,...
+Senior2,15 to 74,2018,iva3_190,0.047533501432402626,12.587800965156562,0.03580620872603975,0.059260794138765505,1914,Other way,Older Canadians Community Involvement Rate,BC,
+Senior2,75 and older,2018,iva3_190,0.04454308629722036,31.615270454810545,0.01694205576645273,0.07214411682798799,263,Other way,Older Canadians Community Involvement Rate,BC,*
+Senior2,15 to 74,2018,iva3_190,0.03705587758287318,9.982876039899777,0.029805495856580287,0.044306259309166075,3851,Other way,Older Canadians Community Involvement Rate,ON,
+Senior2,75 and older,2018,iva3_190,0.039183225100939294,24.358744475049246,0.020476267160332382,0.05789018304154621,495,Other way,Older Canadians Community Involvement Rate,ON,*
+Senior2,15 to 74,2018,iva3_190,0.039875499646472905,14.571375462661637,0.028487307719661507,0.0512636915732843,1892,Other way,Older Canadians Community Involvement Rate,PR,
+Senior2,75 and older,2018,iva3_190,0.058096110397171274,26.962160415102527,0.02739530024089671,0.08879692055344585,261,Other way,Older Canadians Community Involvement Rate,PR,*
+Senior2,15 to 74,2018,iva3_190,0.028602042023083897,15.085458623954374,0.020145288959364637,0.037058795086803153,1771,Other way,Older Canadians Community Involvement Rate,QC,
+Senior2,75 and older,2018,iva3_190,0.041244917276318425,37.418253789389574,0.010996542577029172,0.07149329197560768,242,Other way,Older Canadians Community Involvement Rate,QC,...

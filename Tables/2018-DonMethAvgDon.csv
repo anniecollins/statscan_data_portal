@@ -3969,3 +3969,626 @@ Marital status,Married/common-law,2018,fg1dad17,125.25615309373207,23.9353890301
 Marital status,Widowed,2018,fg1dad17,161.42740452958748,25.32845661844555,81.29021964816798,241.56458941100698,8,Any other method,Average donation by method,QC,...
 Marital status,Separated/divorced,2018,fg1dad17,55.637046178846184,72.16762458749123,-23.059299581881753,134.3333919395741,15,Any other method,Average donation by method,QC,...
 Marital status,"Single, never married",2018,fg1dad17,96.1060223324389,46.27396167667808,8.94237868581537,183.26966597906244,17,Any other method,Average donation by method,QC,...
+Family income category,"Less than $25,000",2018,fg1dad03,185.13919825756932,17.766641445988622,120.67006855514,249.60832795999863,284,Mail request,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,170.66542034661333,8.447915501255935,142.40730542418729,198.92353526903938,672,Mail request,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad03,227.89985938281157,8.986202830918447,187.76069147658032,268.0390272890428,587,Mail request,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad03,252.54649496243454,10.176594937497617,202.17417829307993,302.91881163178914,600,Mail request,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad03,271.872977194243,12.568662513941831,204.89944580971775,338.84650857876824,298,Mail request,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad03,297.43805488171273,7.158932328166356,255.7037792012094,339.1723305622161,854,Mail request,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad04,156.2212793563697,28.246790483744675,69.73297358568172,242.7095851270577,102,Telephone request,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad04,195.82019873802275,62.2389330441501,-43.053160491069036,434.69355796711454,234,Telephone request,Average donation by method,CA,...
+Family income category,"$50,000 to $74,999",2018,fg1dad04,104.42894573405083,13.76908361232935,76.24680224401953,132.61108922408212,230,Telephone request,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad04,164.5817119032319,23.429962153741027,89.00269240159439,240.1607314048694,275,Telephone request,Average donation by method,CA,*
+Family income category,"$100,000 to $124,999",2018,fg1dad04,97.30344845344288,13.065868650234627,72.38536643399297,122.2215304728928,136,Telephone request,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad04,225.63397898936122,20.826662638925196,133.53129732716982,317.7366606515526,465,Telephone request,Average donation by method,CA,*
+Family income category,"Less than $25,000",2018,fg1dad05,54.730386584390956,22.493880892675246,30.601293548313624,78.85947962046829,86,TV or radio request,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad05,168.45445776487836,35.30183326455981,51.9002763731916,285.0086391565651,175,TV or radio request,Average donation by method,CA,...
+Family income category,"$50,000 to $74,999",2018,fg1dad05,184.650914331632,44.63863855124232,23.099600638560275,346.20222802470374,168,TV or radio request,Average donation by method,CA,...
+Family income category,"$75,000 to $99,999",2018,fg1dad05,109.97445704248995,28.890460207814993,47.70223289903089,172.246681185949,194,TV or radio request,Average donation by method,CA,*
+Family income category,"$100,000 to $124,999",2018,fg1dad05,81.15622985628025,16.750420786945632,54.51245985913718,107.79999985342332,108,TV or radio request,Average donation by method,CA,*
+Family income category,"$125,000 and more",2018,fg1dad05,109.64158669431717,13.841897740062754,79.89623971290499,139.38693367572935,283,TV or radio request,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad06,203.96495604931326,23.595783482298234,109.63751572805982,298.2923963705667,101,Online,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad06,121.33916976313259,15.829503842472265,83.69337998751035,158.98495953875482,265,Online,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad06,194.55881571504608,14.665397507581671,138.6355088649322,250.48212256515995,328,Online,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad06,176.92543294363725,14.176343773138782,127.76648337891011,226.0843825083644,396,Online,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad06,123.46089167651903,10.657641530951983,97.67164780766622,149.25013554537185,256,Online,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad06,223.6146791650526,9.889351130123917,180.27195564218442,266.95740268792076,851,Online,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad07,197.00875987969002,15.099317479391452,138.70575412255403,255.311765636826,243,On own,Average donation by method,CA,
+Family income category,"$25,000 to $49,999",2018,fg1dad07,329.876091687658,12.140824291191343,251.38016782110628,408.3720155542097,503,On own,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad07,413.1817412187326,12.778079804557791,309.7021251595508,516.6613572779145,542,On own,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad07,422.0197821098576,15.241736109318044,295.94874136150975,548.0908228582055,544,On own,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad07,288.73839520506834,11.087389934118784,225.9929867266901,351.4838036834466,363,On own,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad07,824.3166818576577,12.271236219909179,626.058784387485,1022.5745793278304,996,On own,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad08,91.8802138527495,20.430725397769685,55.08817332075915,128.67225438473986,208,Charity event,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,94.60313373117381,10.945576528247756,74.30798420085605,114.89828326149157,425,Charity event,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad08,104.57068014203253,9.35802023663574,85.39097157796745,123.75038870609761,482,Charity event,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad08,134.53776586663204,12.729010029373928,100.9727442506142,168.1027874826499,522,Charity event,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad08,145.13000924879967,15.258101452371765,101.72840204209575,188.53161645550358,338,Charity event,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad08,170.42969219225762,8.05699543032248,143.51642221578447,197.34296216873076,1045,Charity event,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad09,162.9079586793502,33.55535434519889,55.76781556968163,270.0481017890188,292,In memoriam,Average donation by method,CA,...
+Family income category,"$25,000 to $49,999",2018,fg1dad09,144.81540325312855,18.258790669589136,92.99093453627367,196.63987196998343,666,In memoriam,Average donation by method,CA,*
+Family income category,"$50,000 to $74,999",2018,fg1dad09,115.57422596937525,19.748152430569686,70.84045032093368,160.3080016178168,647,In memoriam,Average donation by method,CA,*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,115.64091901648254,16.98512782431128,77.14378091559851,154.13805711736657,700,In memoriam,Average donation by method,CA,*
+Family income category,"$100,000 to $124,999",2018,fg1dad09,83.59496810095257,12.351160883451387,63.358439917527456,103.83149628437769,413,In memoriam,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad09,198.69500939936708,16.1199492269098,135.9182750798887,261.47174371884546,1095,In memoriam,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad10,43.26942296621014,15.270672482094003,30.318898482028057,56.219947450392226,108,At work,Average donation by method,CA,
+Family income category,"$25,000 to $49,999",2018,fg1dad10,123.4818144947315,48.984173327649536,4.930362706664852,242.03326628279814,302,At work,Average donation by method,CA,...
+Family income category,"$50,000 to $74,999",2018,fg1dad10,65.26727767510022,15.408697407459373,45.55623872355876,84.97831662664169,393,At work,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad10,65.82731539222758,15.403367483954241,45.954018917838894,85.70061186661626,554,At work,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad10,61.0397244657035,11.501782726040132,47.27949060802312,74.79995832338389,395,At work,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad10,123.90832175273914,15.257095231884527,86.85557374410111,160.9610697613772,1217,At work,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad11,41.51339882682186,23.20234951378585,22.634861304685312,60.39193634895841,192,Door-to-door canvassing,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad11,46.06254006093909,22.615897683202142,25.644699666728588,66.4803804551496,482,Door-to-door canvassing,Average donation by method,CA,*
+Family income category,"$50,000 to $74,999",2018,fg1dad11,38.09725700483255,10.860891490857025,29.98751060725992,46.20700340240518,510,Door-to-door canvassing,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad11,33.34740143733428,14.937155551605894,23.584520514637106,43.11028236003145,636,Door-to-door canvassing,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad11,31.742726917727616,17.575673070744724,20.808091950577055,42.67736188487818,394,Door-to-door canvassing,Average donation by method,CA,*
+Family income category,"$125,000 and more",2018,fg1dad11,39.015995415150336,6.938829684778143,33.70987611364017,44.3221147166605,1100,Door-to-door canvassing,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad12,24.328466635152544,8.656378328890375,20.20085281984765,28.45608045045744,555,Public place,Average donation by method,CA,
+Family income category,"$25,000 to $49,999",2018,fg1dad12,26.028698863682326,11.768730914448632,20.024844029545154,32.032553697819495,1027,Public place,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad12,25.61669676676291,9.273658757454308,20.960596440831598,30.272797092694223,1004,Public place,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad12,40.850568664861356,42.231750459535874,7.0374459694455,74.66369136027721,1050,Public place,Average donation by method,CA,...
+Family income category,"$100,000 to $124,999",2018,fg1dad12,27.39393594869869,10.509936043534857,21.751032750164853,33.03683914723253,597,Public place,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad12,28.539491209721273,8.992993254926056,23.50913678718109,33.569845632261455,1515,Public place,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad13,264.4785053374276,17.415727544157757,174.20088667158126,354.7561240032739,403,Place of worship,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,453.34214892647174,10.18340976158623,362.85906185654244,543.825235996401,867,Place of worship,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad13,470.81384290011925,9.347158237494718,384.56030665440085,557.0673791458377,792,Place of worship,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad13,673.4345744431622,10.77296994114422,531.2413349403711,815.6278139459533,839,Place of worship,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad13,557.5844116830024,10.14993099691441,446.66136120820175,668.5074621578029,463,Place of worship,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad13,691.6242935889267,7.968976658110316,583.6001366995072,799.6484504783461,1117,Place of worship,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad14,44.326922243750246,12.564440141948092,33.411040789634974,55.24280369786552,289,Sponsoring someone,Average donation by method,CA,
+Family income category,"$25,000 to $49,999",2018,fg1dad14,52.109690963107006,9.802003849256886,42.09859885113649,62.120783075077526,659,Sponsoring someone,Average donation by method,CA,
+Family income category,"$50,000 to $74,999",2018,fg1dad14,51.641582470276774,8.26867992920679,43.27238501597456,60.01077992457899,767,Sponsoring someone,Average donation by method,CA,
+Family income category,"$75,000 to $99,999",2018,fg1dad14,59.7431361733293,9.881354470918772,48.17262391574657,71.31364843091202,826,Sponsoring someone,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad14,55.211709519201776,7.773850239251827,46.799395899674245,63.62402313872931,524,Sponsoring someone,Average donation by method,CA,
+Family income category,"$125,000 and more",2018,fg1dad14,65.48723175601216,4.502265666024632,59.70845600840125,71.26600750362307,1519,Sponsoring someone,Average donation by method,CA,
+Family income category,"Less than $25,000",2018,fg1dad17,104.67221483349141,28.84228466628062,45.50118012431732,163.8432495426655,65,Any other method,Average donation by method,CA,*
+Family income category,"$25,000 to $49,999",2018,fg1dad17,195.84798238588948,21.653465451148765,112.73007432772728,278.9658904440517,154,Any other method,Average donation by method,CA,*
+Family income category,"$50,000 to $74,999",2018,fg1dad17,205.16008085971563,23.62860872699256,110.14794013234447,300.1722215870868,146,Any other method,Average donation by method,CA,*
+Family income category,"$75,000 to $99,999",2018,fg1dad17,283.1559548046043,15.952242913416109,194.62491917395516,371.6869904352534,170,Any other method,Average donation by method,CA,
+Family income category,"$100,000 to $124,999",2018,fg1dad17,168.99054113927838,18.700153862689863,107.05275651690212,230.92832576165463,108,Any other method,Average donation by method,CA,*
+Family income category,"$125,000 and more",2018,fg1dad17,364.53934650968614,17.316999218175226,240.8121595289128,488.2665334904595,302,Any other method,Average donation by method,CA,*
+Family income category,"Less than $25,000",2018,fg1dad03,245.06175727580842,20.159679712863802,148.232352455123,341.8911620964939,231,Mail request,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,197.69413483358372,9.6584523462513,160.27020266345434,235.1180670037131,569,Mail request,Average donation by method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,fg1dad03,252.97714975851517,9.84922047386055,204.1421437624188,301.8121557546115,495,Mail request,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad03,247.6753824920218,11.282873680854262,192.9043838719791,302.4463811120645,542,Mail request,Average donation by method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,fg1dad03,295.8693453712788,13.283399055072637,218.83980941158362,372.89888133097406,268,Mail request,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad03,307.978139623038,7.677777011363515,261.6330766242497,354.3232026218262,782,Mail request,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad04,196.26553926632627,31.547157195026625,74.91202075033357,317.619057782319,89,Telephone request,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad04,206.35696588328463,65.98337657858112,-60.514266239096486,473.2281980056657,221,Telephone request,Average donation by method,CA (without QC),...
+Family income category,"$50,000 to $74,999",2018,fg1dad04,104.40113524834277,16.18238599264403,71.28833812922625,137.5139323674593,209,Telephone request,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad04,174.792736942159,25.47835029490837,87.50710148163137,262.0783724026866,251,Telephone request,Average donation by method,CA (without QC),*
+Family income category,"$100,000 to $124,999",2018,fg1dad04,93.65309181432318,16.729283629773168,62.945373025197426,124.36081060344893,114,Telephone request,Average donation by method,CA (without QC),*
+Family income category,"$125,000 and more",2018,fg1dad04,207.01166425936051,18.460155578876325,132.11227701261757,281.9110515061035,412,Telephone request,Average donation by method,CA (without QC),*
+Family income category,"Less than $25,000",2018,fg1dad05,104.52490335243864,19.82887248987908,63.902474593204374,145.1473321116729,58,TV or radio request,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad05,234.14900070749007,46.211783739808865,22.072215261495927,446.22578615348425,130,TV or radio request,Average donation by method,CA (without QC),...
+Family income category,"$50,000 to $74,999",2018,fg1dad05,289.5981175544366,47.97257239995679,17.304894537329403,561.8913405715439,130,TV or radio request,Average donation by method,CA (without QC),...
+Family income category,"$75,000 to $99,999",2018,fg1dad05,146.11463952759505,30.101016100626566,59.911520866871626,232.31775818831846,168,TV or radio request,Average donation by method,CA (without QC),*
+Family income category,"$100,000 to $124,999",2018,fg1dad05,112.8273386154271,16.717817267790757,75.85797208493177,149.79670514592243,90,TV or radio request,Average donation by method,CA (without QC),*
+Family income category,"$125,000 and more",2018,fg1dad05,124.86317477476544,14.757969098544462,88.74639169383094,160.97995785569992,245,TV or radio request,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad06,226.29161175099424,24.62087783431005,117.09225504580402,335.4909684561844,92,Online,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad06,131.33023565698332,16.956907840721463,87.68272553134264,174.977745782624,242,Online,Average donation by method,CA (without QC),*
+Family income category,"$50,000 to $74,999",2018,fg1dad06,204.48226194379282,16.078032991883674,140.0450639599535,268.91945992763215,294,Online,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad06,184.80131279836777,15.823086712329824,127.48947287579236,242.1131527209432,359,Online,Average donation by method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,fg1dad06,136.98758384211692,11.175466403126288,106.98249244173272,166.99267524250112,231,Online,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad06,247.2668338090032,10.597173880670555,195.90931672995382,298.6243508880526,779,Online,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad07,243.0448574634525,15.759862944203393,167.97130558175235,318.11840934515266,197,On own,Average donation by method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,fg1dad07,381.2677743347917,14.288734683332837,274.49218861010615,488.0433600594772,422,On own,Average donation by method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,fg1dad07,470.5388491025879,13.032038767171652,350.35227934947346,590.7254188557023,448,On own,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad07,513.0087415016056,16.057685398244594,351.5521419984161,674.4653410047952,476,On own,Average donation by method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,fg1dad07,361.2434757472752,11.009325400579863,283.2947874216056,439.1921640729449,307,On own,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad07,966.7277724937297,12.895593255295513,722.3883107747106,1211.0672342127489,870,On own,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad08,108.25801599313559,23.18673053313602,59.05999091526212,157.45604107100905,174,Charity event,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,95.76901609624505,13.010618250966422,71.34758832345881,120.1904438690313,356,Charity event,Average donation by method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,fg1dad08,122.31720620352911,10.674599181645142,96.72620832763165,147.90820407942655,420,Charity event,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad08,145.79048954551388,13.982602974172087,105.8360252902493,185.74495380077846,469,Charity event,Average donation by method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,fg1dad08,170.6770273575793,16.484174538462725,115.5340304318084,225.82002428335022,297,Charity event,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad08,187.34769453633768,8.402994920036038,156.4923397019435,218.20304937073186,951,Charity event,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad09,220.18665884777116,37.85826829954279,56.80630316519216,383.56701453035015,242,In memoriam,Average donation by method,CA (without QC),...
+Family income category,"$25,000 to $49,999",2018,fg1dad09,171.21840939075784,20.256518184416574,103.24119757364679,239.1956212078689,592,In memoriam,Average donation by method,CA (without QC),*
+Family income category,"$50,000 to $74,999",2018,fg1dad09,131.79847314839793,21.484058902330297,76.30079620696964,187.29615008982623,586,In memoriam,Average donation by method,CA (without QC),*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,129.1158283196534,18.068589665070487,83.39102648405574,174.84063015525103,645,In memoriam,Average donation by method,CA (without QC),*
+Family income category,"$100,000 to $124,999",2018,fg1dad09,93.80294926315626,13.416878249678618,69.13596463851505,118.46993388779748,374,In memoriam,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad09,199.8845383601036,17.9479733406801,129.57039205503904,270.1986846651681,1016,In memoriam,Average donation by method,CA (without QC),*
+Family income category,"Less than $25,000",2018,fg1dad10,49.32021187354133,15.144436583565247,34.68071519093715,63.959708556145515,98,At work,Average donation by method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,fg1dad10,133.6487484663248,56.45636783410877,-14.236862968995894,281.53435990164553,276,At work,Average donation by method,CA (without QC),...
+Family income category,"$50,000 to $74,999",2018,fg1dad10,71.76591354958656,16.018235948899367,49.234886178127915,94.2969409210452,353,At work,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad10,66.81786512899038,16.649154109264806,45.01403148473362,88.62169877324713,511,At work,Average donation by method,CA (without QC),*
+Family income category,"$100,000 to $124,999",2018,fg1dad10,63.963414302962796,13.089738377105581,47.553334412501584,80.37349419342401,342,At work,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad10,119.3714600524491,17.167755626722542,79.20513305397961,159.53778705091858,1088,At work,Average donation by method,CA (without QC),*
+Family income category,"Less than $25,000",2018,fg1dad11,49.70142458250056,29.510081676502224,20.95476808095122,78.4480810840499,152,Door-to-door canvassing,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad11,49.85968069943873,27.267025180636022,23.21347702373215,76.5058843751453,419,Door-to-door canvassing,Average donation by method,CA (without QC),*
+Family income category,"$50,000 to $74,999",2018,fg1dad11,42.54132147177168,12.911935473344613,31.77541966461017,53.30722327893319,433,Door-to-door canvassing,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad11,35.79385544263216,18.245432230513853,22.993833120919906,48.59387776434441,560,Door-to-door canvassing,Average donation by method,CA (without QC),*
+Family income category,"$100,000 to $124,999",2018,fg1dad11,31.409449246866597,20.542823191080746,18.763001889385578,44.055896604347616,360,Door-to-door canvassing,Average donation by method,CA (without QC),*
+Family income category,"$125,000 and more",2018,fg1dad11,41.65596925895006,7.259999534755685,35.72860075591908,47.583337761981035,1009,Door-to-door canvassing,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad12,28.84000118045773,10.365050626808646,22.98111862344964,34.69888373746582,452,Public place,Average donation by method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,fg1dad12,29.885261518090335,14.780956085147073,21.227458943563924,38.543064092616746,863,Public place,Average donation by method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,fg1dad12,25.844765746851373,9.994690370429282,20.78197432435461,30.907557169348134,857,Public place,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad12,49.47595680685145,47.006498644701956,3.8932410822436125,95.05867253145928,941,Public place,Average donation by method,CA (without QC),...
+Family income category,"$100,000 to $124,999",2018,fg1dad12,29.45960201853033,12.04420468580807,22.505307264873494,36.413896772187165,528,Public place,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad12,28.880288695179996,9.843868160272558,23.308233499702368,34.45234389065762,1371,Public place,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad13,357.0333684282706,19.806818779652133,218.43068888758094,495.63604796896027,324,Place of worship,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,554.236750107626,10.86591048953778,436.2020954949954,672.2714047202567,752,Place of worship,Average donation by method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,fg1dad13,616.8673097868461,9.813436246672877,498.2191648763173,735.5154546973749,681,Place of worship,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad13,813.2830888182192,11.105514362931974,636.2605720378708,990.3056055985676,744,Place of worship,Average donation by method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,fg1dad13,684.258995814505,10.001406896293549,550.1278288154991,818.390162813511,412,Place of worship,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad13,792.81523556382,8.000921077190345,668.4897783958618,917.1406927317782,1021,Place of worship,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad14,45.39406952808887,11.87153949570363,34.831872824739165,55.956266231438576,264,Sponsoring someone,Average donation by method,CA (without QC),
+Family income category,"$25,000 to $49,999",2018,fg1dad14,49.57779917399451,8.922989852998903,40.907267400292206,58.24833094769681,615,Sponsoring someone,Average donation by method,CA (without QC),
+Family income category,"$50,000 to $74,999",2018,fg1dad14,51.086824432716035,9.381259660005053,41.693525241880025,60.480123623552046,717,Sponsoring someone,Average donation by method,CA (without QC),
+Family income category,"$75,000 to $99,999",2018,fg1dad14,56.52828471452987,7.313849119389166,48.42502244716479,64.63154698189494,780,Sponsoring someone,Average donation by method,CA (without QC),
+Family income category,"$100,000 to $124,999",2018,fg1dad14,57.07397935357185,8.184377761701343,47.91869344228401,66.22926526485969,493,Sponsoring someone,Average donation by method,CA (without QC),
+Family income category,"$125,000 and more",2018,fg1dad14,65.73115482498643,4.627934169389123,59.768955018624126,71.69335463134874,1435,Sponsoring someone,Average donation by method,CA (without QC),
+Family income category,"Less than $25,000",2018,fg1dad17,112.51437941170568,31.39872835403001,43.27260644153249,181.75615238187885,57,Any other method,Average donation by method,CA (without QC),*
+Family income category,"$25,000 to $49,999",2018,fg1dad17,237.85227117852546,22.268929895752596,134.0385539875594,341.6659883694915,134,Any other method,Average donation by method,CA (without QC),*
+Family income category,"$50,000 to $74,999",2018,fg1dad17,242.09915551421187,24.11716869243488,127.6618333583889,356.53647767003486,127,Any other method,Average donation by method,CA (without QC),*
+Family income category,"$75,000 to $99,999",2018,fg1dad17,314.35573449879126,17.592267800248717,205.96521302606385,422.7462559715187,152,Any other method,Average donation by method,CA (without QC),*
+Family income category,"$100,000 to $124,999",2018,fg1dad17,193.98480524884332,18.837644747387532,122.36347111753865,265.60613938014797,99,Any other method,Average donation by method,CA (without QC),*
+Family income category,"$125,000 and more",2018,fg1dad17,393.8595362489454,18.612228324772353,250.18234551509,537.5367269828008,271,Any other method,Average donation by method,CA (without QC),*
+Family income category,"Less than $25,000",2018,fg1dad03,218.2848868809496,34.2369300567064,71.80885213216843,364.7609216297308,15,Mail request,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad03,216.10696693304772,36.45156655483147,61.71202926118508,370.50190460491035,47,Mail request,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad03,232.96968718796654,33.80911703675834,78.59313531042355,387.3462390655095,43,Mail request,Average donation by method,AB,...
+Family income category,"$75,000 to $99,999",2018,fg1dad03,159.28683406702,27.17650853147396,74.44273702837386,244.13093110566615,41,Mail request,Average donation by method,AB,*
+Family income category,"$100,000 to $124,999",2018,fg1dad03,291.6074887061854,35.24988464611449,90.14023614106651,493.0747412713043,26,Mail request,Average donation by method,AB,...
+Family income category,"$125,000 and more",2018,fg1dad03,381.77675291774494,20.865894777632775,225.64379627359332,537.9097095618965,93,Mail request,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad03,129.35415303413959,24.755376795512284,66.59197467596721,192.11633139231196,78,Mail request,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,210.47836666348593,21.939083962837792,119.9730596019143,300.98367372505754,184,Mail request,Average donation by method,AT,*
+Family income category,"$50,000 to $74,999",2018,fg1dad03,200.70478677353333,20.2695313903214,120.9696892279845,280.4398843190821,136,Mail request,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad03,189.40208718115656,19.241326279151238,117.9741915044837,260.8299828578294,170,Mail request,Average donation by method,AT,*
+Family income category,"$100,000 to $124,999",2018,fg1dad03,147.315670859014,30.44381360441828,59.41420993568994,235.21713178233807,61,Mail request,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad03,271.3023830456182,15.138622193201734,190.80383442247916,351.8009316687573,171,Mail request,Average donation by method,AT,
+Family income category,"Less than $25,000",2018,fg1dad03,287.858240834921,28.806015068367756,125.33707032277005,450.37941134707194,30,Mail request,Average donation by method,BC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,271.89860612058874,20.6963895507059,161.60517120249193,382.19204103868555,72,Mail request,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad03,409.92095412821413,20.241243526237135,247.2966692057964,572.5452390506318,74,Mail request,Average donation by method,BC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad03,386.15624384562267,41.00973273382275,75.7731259823774,696.539361708868,66,Mail request,Average donation by method,BC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad03,516.2100937435316,30.162988048502786,211.03509930190097,821.3850881851622,39,Mail request,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad03,316.4288651853488,12.449820563372795,239.2164251925903,393.6413051781073,119,Mail request,Average donation by method,BC,
+Family income category,"Less than $25,000",2018,fg1dad03,272.5978840190822,31.58962500395749,103.82019271826704,441.37557531989734,69,Mail request,Average donation by method,ON,*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,172.99681744920312,12.85061037401986,129.42457005327745,216.5690648451288,179,Mail request,Average donation by method,ON,
+Family income category,"$50,000 to $74,999",2018,fg1dad03,208.2405394083123,14.945958194326423,147.23951416839515,269.2415646482294,157,Mail request,Average donation by method,ON,
+Family income category,"$75,000 to $99,999",2018,fg1dad03,223.64605048369418,13.31731333023435,165.27117837990733,282.02092258748104,169,Mail request,Average donation by method,ON,
+Family income category,"$100,000 to $124,999",2018,fg1dad03,259.5207803298733,20.277514687035087,156.37892149985532,362.6626391598912,94,Mail request,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad03,285.9035243055162,10.968410035119941,224.44087484952826,347.36617376150417,293,Mail request,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad03,177.86787287799837,26.56567904040189,85.25603055307705,270.4797152029197,39,Mail request,Average donation by method,PR,*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,201.3620363772787,28.215605760515206,90.00566667660964,312.7184060779478,87,Mail request,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad03,286.20222032941774,23.419116149192625,154.83361471772253,417.57082594111296,85,Mail request,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad03,341.867688459439,21.2140029676935,199.72361015050382,484.01176676837423,96,Mail request,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad03,288.7580528749987,21.819760584585644,165.26794309661153,412.2481626533859,48,Mail request,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad03,314.6086243372636,28.890502688948782,136.46355223022897,492.75369644429827,106,Mail request,Average donation by method,PR,*
+Family income category,"Less than $25,000",2018,fg1dad03,84.23456656311872,16.773331854463216,56.54234638734411,111.92678673889333,53,Mail request,Average donation by method,QC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad03,101.18392056637495,13.428937091059101,74.55207686505858,127.81576426769132,103,Mail request,Average donation by method,QC,
+Family income category,"$50,000 to $74,999",2018,fg1dad03,158.60596846372678,20.298240155024647,95.50645601060032,221.70548091685325,92,Mail request,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad03,276.81667229050345,26.313155109219437,134.0544629457656,419.57888163524126,58,Mail request,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad03,141.96473668911975,25.326871937913513,71.49378659899075,212.43568677924873,30,Mail request,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad03,233.4733172979525,17.129481117091007,155.0889327678818,311.8577018280232,72,Mail request,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad04,309.76082826591454,52.54187691032196,-9.231450151989634,628.7531066838187,4,Telephone request,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad04,1047.986636622412,94.04643748673855,-883.7422970305838,2979.715570275408,19,Telephone request,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad04,73.0164018866735,22.90593134913868,40.23583394441612,105.79696982893088,12,Telephone request,Average donation by method,AB,...
+Family income category,"$75,000 to $99,999",2018,fg1dad04,110.12613171715873,30.166903703751213,45.012905758699716,175.23935767561773,11,Telephone request,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad04,78.9622925976663,56.568807665951695,-8.585432422052705,166.5100176173853,7,Telephone request,Average donation by method,AB,...
+Family income category,"$125,000 and more",2018,fg1dad04,173.87089067852716,33.04184695753367,61.27065871290186,286.47112264415244,42,Telephone request,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad04,64.61405979808262,27.621440684911413,29.633927543601153,99.5941920525641,45,Telephone request,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad04,41.528654013190994,15.911115734010755,28.57785447402574,54.47945355235625,109,Telephone request,Average donation by method,AT,
+Family income category,"$50,000 to $74,999",2018,fg1dad04,60.00692573127705,27.507914536223232,27.654478687897196,92.3593727746569,89,Telephone request,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad04,95.84329439478756,38.442133910483,23.6299745079629,168.0566142816122,125,Telephone request,Average donation by method,AT,...
+Family income category,"$100,000 to $124,999",2018,fg1dad04,55.17996877912038,39.89387521009766,12.034442946852934,98.32549461138782,33,Telephone request,Average donation by method,AT,...
+Family income category,"$125,000 and more",2018,fg1dad04,103.95262874342302,32.945202863510396,36.82894951335906,171.07630797348696,142,Telephone request,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad04,70.65499366189427,44.784020802852424,8.637525031172608,132.67246229261593,11,Telephone request,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad04,72.03868872953774,28.036332928064184,32.453283179939206,111.62409427913627,28,Telephone request,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad04,91.81116766591254,22.680748656694906,50.99793568532706,132.624399646498,24,Telephone request,Average donation by method,BC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad04,202.2194004700818,57.06634379560994,-23.958911229603075,428.3977121697667,31,Telephone request,Average donation by method,BC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad04,108.56575256296979,49.35720332526184,3.541044753236619,213.59046037270298,15,Telephone request,Average donation by method,BC,...
+Family income category,"$125,000 and more",2018,fg1dad04,327.8691680838362,41.871919128342284,58.79529117292958,596.9430449947429,55,Telephone request,Average donation by method,BC,...
+Family income category,"Less than $25,000",2018,fg1dad04,313.4142437952462,47.11426448956306,24.000443030946826,602.8280445595456,15,Telephone request,Average donation by method,ON,...
+Family income category,"$25,000 to $49,999",2018,fg1dad04,90.52179947111259,34.50000476193656,29.31207498370768,151.7315239585175,38,Telephone request,Average donation by method,ON,...
+Family income category,"$50,000 to $74,999",2018,fg1dad04,124.11146103177909,25.80341340592013,61.343627413296694,186.87929465026147,49,Telephone request,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad04,115.78894803058073,24.64711620652085,59.85424817490892,171.72364788625254,52,Telephone request,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad04,100.72440113127661,25.39361533649797,50.59329105151098,150.85551121104223,38,Telephone request,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad04,174.31909848700636,27.471025293765784,80.46182563914071,268.176371334872,126,Telephone request,Average donation by method,ON,*
+Family income category,"Less than $25,000",2018,fg1dad04,76.6649765744581,34.99305082608531,24.08421090784757,129.24574224106863,14,Telephone request,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad04,95.39732682069769,64.12140311036029,-24.493874904780782,215.28852854617617,27,Telephone request,Average donation by method,PR,...
+Family income category,"$50,000 to $74,999",2018,fg1dad04,115.63397799577525,30.062709282557925,47.500324982658995,183.7676310088915,35,Telephone request,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad04,595.5683245249677,51.61252972499323,-6.900846674267655,1198.037495724203,32,Telephone request,Average donation by method,PR,...
+Family income category,"$100,000 to $124,999",2018,fg1dad04,83.7007176980626,18.60511728697821,53.17894982539208,114.22248557073313,21,Telephone request,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad04,319.31321062625756,33.237916588408524,111.29623819387825,527.3301830586369,47,Telephone request,Average donation by method,PR,*
+Family income category,"Less than $25,000",2018,fg1dad04,64.33522130931917,42.617761673875435,10.596475461196697,118.07396715744164,13,Telephone request,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad04,104.13588655424337,39.80236176488525,22.898236447512915,185.37353666097383,13,Telephone request,Average donation by method,QC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad04,104.55447513663334,18.40956497083635,66.82904126388877,142.27990900937792,21,Telephone request,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad04,108.62846353544347,46.563653944630865,9.490776828989056,207.7661502418979,24,Telephone request,Average donation by method,QC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad04,107.07022010910781,24.086146892977823,56.524531546599356,157.61590867161627,22,Telephone request,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad04,296.7832657931157,59.153604869011225,-47.3040921193836,640.8706237056149,53,Telephone request,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad05,1202.2246938727362,81.57792158085336,-720.009823234459,3124.4592109799314,10,TV or radio request,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad05,65.81676023619345,30.410865282409983,26.58720637589345,105.04631409649343,6,TV or radio request,Average donation by method,AB,...
+Family income category,"$75,000 to $99,999",2018,fg1dad05,476.81305476676005,32.29884252758705,174.96860981940551,778.6574997141146,8,TV or radio request,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad05,213.98750328981635,40.98946124527395,42.07450581734565,385.90050076228704,6,TV or radio request,Average donation by method,AB,...
+Family income category,"$125,000 and more",2018,fg1dad05,121.8634572734932,27.645829346218097,55.831950311091504,187.8949642358949,24,TV or radio request,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad05,45.70137991918641,22.923605208786736,25.168005572713348,66.23475426565946,28,TV or radio request,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad05,61.33337644990473,22.307332500793216,34.517462379131956,88.14929052067751,57,TV or radio request,Average donation by method,AT,*
+Family income category,"$50,000 to $74,999",2018,fg1dad05,57.30897300992983,18.32618139584727,36.72436041816931,77.89358560169035,60,TV or radio request,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad05,70.1570549390361,21.302327330341253,40.86522563581991,99.44888424225229,94,TV or radio request,Average donation by method,AT,*
+Family income category,"$100,000 to $124,999",2018,fg1dad05,88.91891735511894,41.66766903094029,16.301388972488056,161.53644573774983,40,TV or radio request,Average donation by method,AT,...
+Family income category,"$125,000 and more",2018,fg1dad05,69.27071321577709,17.593078609198106,45.38492411358267,93.15650231797152,111,TV or radio request,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad05,138.2387958447344,19.638448055855154,85.02978352537313,191.44780816409565,10,TV or radio request,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad05,65.15495653918472,38.38137442871594,16.14141624782271,114.16849683054673,18,TV or radio request,Average donation by method,BC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad05,149.21281701187962,15.172726718646986,104.8399125987555,193.58572142500373,16,TV or radio request,Average donation by method,BC,
+Family income category,"$75,000 to $99,999",2018,fg1dad05,63.67140066138692,58.24065808669958,-9.009243596271538,136.35204491904537,15,TV or radio request,Average donation by method,BC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad05,126.05377671107672,23.52100940810964,67.94256800599484,184.1649854161586,12,TV or radio request,Average donation by method,BC,...
+Family income category,"$125,000 and more",2018,fg1dad05,93.07682011678205,19.137627462062373,58.1645792777205,127.9890609558436,28,TV or radio request,Average donation by method,BC,*
+Family income category,"Less than $25,000",2018,fg1dad05,116.4989656022555,33.941880070340744,38.99818891508856,193.99974228942244,12,TV or radio request,Average donation by method,ON,...
+Family income category,"$25,000 to $49,999",2018,fg1dad05,216.86207838882424,55.76316880092607,-20.154733292438266,453.87889007008675,28,TV or radio request,Average donation by method,ON,...
+Family income category,"$50,000 to $74,999",2018,fg1dad05,203.06794004619152,31.80309823610788,76.48974893339205,329.646131158991,30,TV or radio request,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad05,96.2364100833609,24.200619977454927,50.58922542343411,141.8835947432877,29,TV or radio request,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad05,71.65427483502052,32.16880642919834,26.476468062026107,116.83208160801493,17,TV or radio request,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad05,138.132434332296,23.47269772720783,74.58372087913078,201.68114778546118,44,TV or radio request,Average donation by method,ON,*
+Family income category,"Less than $25,000",2018,fg1dad05,76.46232388141213,38.76801825107425,18.363253237105518,134.56139452571875,8,TV or radio request,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad05,128.6901253695056,26.47052884243392,61.92403699812439,195.45621374088682,17,TV or radio request,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad05,1437.844453720915,90.38120140160592,-1109.2092821652216,3984.898189607052,18,TV or radio request,Average donation by method,PR,...
+Family income category,"$75,000 to $99,999",2018,fg1dad05,93.53459050989522,29.895801458229354,38.728283278889464,148.34089774090097,22,TV or radio request,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad05,145.02261840938004,55.490291710438335,-12.702492344342716,302.7477291631028,15,TV or radio request,Average donation by method,PR,...
+Family income category,"$125,000 and more",2018,fg1dad05,186.30991640914905,43.76854173704098,26.484391588021566,346.13544123027657,38,TV or radio request,Average donation by method,PR,...
+Family income category,"Less than $25,000",2018,fg1dad05,19.980551274788738,16.52957577253726,13.507377512097115,26.45372503748036,28,TV or radio request,Average donation by method,QC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad05,84.03825897618164,41.02071068805185,16.47224201989806,151.6042759324652,45,TV or radio request,Average donation by method,QC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad05,42.94162200308095,21.46264646019714,24.877793247273505,61.0054507588884,38,TV or radio request,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad05,42.0006780052612,32.20811910934027,15.487013547636547,68.51434246288585,26,TV or radio request,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad05,26.99423999918684,21.621645906574123,15.554716190905756,38.43376380746792,18,TV or radio request,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad05,69.81268554883324,39.9342742250602,15.170478620396409,124.45489247727008,38,TV or radio request,Average donation by method,QC,...
+Family income category,"Less than $25,000",2018,fg1dad06,485.7426314919952,57.20646165768631,-58.88465825928267,1030.369921243273,9,Online,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad06,256.98152891532936,52.81033533914415,-9.010685397995871,522.9737432286546,24,Online,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad06,324.099616877235,33.18941982488558,113.2725972517683,534.9266365027017,31,Online,Average donation by method,AB,*
+Family income category,"$75,000 to $99,999",2018,fg1dad06,210.39875453896929,33.18891239535159,73.53631514791775,347.2611939300208,29,Online,Average donation by method,AB,*
+Family income category,"$100,000 to $124,999",2018,fg1dad06,100.69928721705476,28.640672556115693,44.17205782561553,157.226516608494,27,Online,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad06,257.2746831609529,27.0221696278942,121.01563246396864,393.5337338579372,105,Online,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad06,136.36856744999818,34.02423405583772,45.42945179544539,227.30768310455096,24,Online,Average donation by method,AT,...
+Family income category,"$25,000 to $49,999",2018,fg1dad06,109.03508181558477,17.98732936402405,70.59528956330279,147.47487406786678,70,Online,Average donation by method,AT,*
+Family income category,"$50,000 to $74,999",2018,fg1dad06,86.24773975069864,15.835493556749109,59.47903130975186,113.01644819164542,68,Online,Average donation by method,AT,
+Family income category,"$75,000 to $99,999",2018,fg1dad06,212.78382958733098,63.32927401801405,-51.330047999564584,476.8977071742265,121,Online,Average donation by method,AT,...
+Family income category,"$100,000 to $124,999",2018,fg1dad06,113.13435870472327,30.819192579692583,44.79610652852112,181.4726108809254,51,Online,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad06,156.20392139604894,17.889857344754446,101.43339677464081,210.97444601745707,174,Online,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad06,95.42916852861758,45.9226848635814,9.536419647623788,181.3219174096114,16,Online,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad06,145.52607618648236,15.541363395064737,101.19808752259276,189.85406485037197,52,Online,Average donation by method,BC,
+Family income category,"$50,000 to $74,999",2018,fg1dad06,190.87991672699212,40.15473938141604,40.65390435329934,341.1059291006849,49,Online,Average donation by method,BC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad06,279.80294553832476,27.47514659454941,129.12822612598535,430.4776649506642,52,Online,Average donation by method,BC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad06,182.09501142694393,24.304593272503126,95.35199966162989,268.838023192258,37,Online,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad06,351.5416300288465,31.886464841234798,131.84103856050857,571.2422214971845,121,Online,Average donation by method,BC,*
+Family income category,"Less than $25,000",2018,fg1dad06,177.60247700863235,30.67719004837454,70.81687842610671,284.388075591158,34,Online,Average donation by method,ON,*
+Family income category,"$25,000 to $49,999",2018,fg1dad06,90.50922182922774,18.455938403004023,57.76934403273254,123.24909962572295,68,Online,Average donation by method,ON,*
+Family income category,"$50,000 to $74,999",2018,fg1dad06,194.4490626493184,24.305710094159497,101.81680294133236,287.08132235730443,100,Online,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad06,136.3211132623911,26.56329934718157,65.3481020690644,207.2941244557178,94,Online,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad06,138.85173857148075,16.108111594621857,95.01441382708522,182.6890633158763,85,Online,Average donation by method,ON,
+Family income category,"$125,000 and more",2018,fg1dad06,239.5181680241006,13.10017684669815,178.01978305350886,301.01655299469235,282,Online,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad06,122.16116175985897,48.20406380646548,6.745459641014193,237.57686387870376,9,Online,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad06,97.06601227277,21.67780252448509,55.82488432268754,138.30714022285247,28,Online,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad06,108.53173603559202,15.156001398699223,76.29214845055503,140.771323620629,46,Online,Average donation by method,PR,
+Family income category,"$75,000 to $99,999",2018,fg1dad06,171.86541527853842,24.884480691091174,88.0420360649884,255.68879449208845,63,Online,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad06,127.86951091246317,24.825751139423897,65.6513037454686,190.08771807945774,31,Online,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad06,151.3501308595715,17.58230649515896,99.1938352397878,203.50642647935518,97,Online,Average donation by method,PR,*
+Family income category,"Less than $25,000",2018,fg1dad06,92.14553433698677,69.00599332249556,-32.480620478347745,216.7716891523213,9,Online,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad06,76.06711910031225,38.46639402211285,18.718028524057623,133.4162096765669,23,Online,Average donation by method,QC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad06,146.6123777206373,29.53275820654781,61.748526276788525,231.47622916448609,34,Online,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad06,141.70821704289952,27.79086142800265,64.52104430962294,218.8953897761761,37,Online,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad06,71.84047230151616,25.316214181969677,36.194043164159545,107.48690143887276,25,Online,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad06,105.71196910438275,20.50710227595913,63.22296508470347,148.20097312406202,72,Online,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad07,76.41504930044952,21.133652178018522,44.76302109217898,108.06707750872008,17,On own,Average donation by method,AB,*
+Family income category,"$25,000 to $49,999",2018,fg1dad07,493.43709342264265,44.62167048129221,61.8924705374161,924.9817163078692,32,On own,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad07,314.3309677248327,31.784078710711018,118.51644962882276,510.1454858208426,51,On own,Average donation by method,AB,*
+Family income category,"$75,000 to $99,999",2018,fg1dad07,1198.0104053614762,37.64326163115353,314.12507239335616,2081.895738329596,33,On own,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad07,447.52076772169374,26.47162806808111,215.33160933929838,679.7099261040892,38,On own,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad07,922.4789267100655,23.115052387861233,504.55289147516834,1340.4049619449627,116,On own,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad07,163.44576302222598,22.408206726851326,91.66156374794348,235.22996229650846,67,On own,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad07,390.30243692444304,23.317804286903375,211.9261962866034,568.6786775622827,129,On own,Average donation by method,AT,*
+Family income category,"$50,000 to $74,999",2018,fg1dad07,286.34120572180376,20.645051186619597,170.47736934639437,402.20504209721315,116,On own,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad07,352.19799070621974,23.37112683379507,190.86818257028116,513.5277988421583,179,On own,Average donation by method,AT,*
+Family income category,"$100,000 to $124,999",2018,fg1dad07,563.2989414609737,30.46353935447561,226.96756410051836,899.630318821429,81,On own,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad07,637.5455172647881,23.09693096338237,348.9340626191831,926.1569719103932,207,On own,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad07,176.48140065999326,24.477808295469785,91.8133497796879,261.1494515402986,32,On own,Average donation by method,BC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad07,356.16173001470827,23.911475092972353,189.2442914263667,523.0791686030499,66,On own,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad07,468.993215056902,33.42959339128401,161.70511299222943,776.2813171215746,78,On own,Average donation by method,BC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad07,290.0352738792821,23.08859861927259,158.7861283864683,421.2844193720959,59,On own,Average donation by method,BC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad07,282.1126614147256,24.7008857865747,145.53389160817343,418.69143122127775,46,On own,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad07,955.5844054372881,20.688550530636377,568.1062629096411,1343.062547964935,151,On own,Average donation by method,BC,*
+Family income category,"Less than $25,000",2018,fg1dad07,314.4282551024826,24.436329236714762,163.8349640253979,465.0215461795673,47,On own,Average donation by method,ON,*
+Family income category,"$25,000 to $49,999",2018,fg1dad07,324.507999169873,23.36014162821182,175.93189406695845,473.0841042727876,129,On own,Average donation by method,ON,*
+Family income category,"$50,000 to $74,999",2018,fg1dad07,553.5610729364535,17.392243064000606,364.8622332525457,742.2599126203612,139,On own,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad07,427.16361520203526,19.62473480995212,262.8603700597117,591.4668603443588,124,On own,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad07,277.2445462903834,16.4223187043618,188.00741942841535,366.4816731523515,104,On own,Average donation by method,ON,
+Family income category,"$125,000 and more",2018,fg1dad07,1117.1028216025702,21.387411446932106,648.8294479806116,1585.3761952245288,278,On own,Average donation by method,ON,*
+Family income category,"Less than $25,000",2018,fg1dad07,442.15267243492974,35.589617393941715,133.73186878702023,750.5734760828393,34,On own,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad07,623.8951523784983,34.73247037837257,199.1823266954927,1048.607978061504,66,On own,Average donation by method,PR,...
+Family income category,"$50,000 to $74,999",2018,fg1dad07,432.8908461295446,29.815486691349896,179.92120986437146,685.8604823947178,64,On own,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad07,481.3165488681036,19.79167634786951,294.60917714392366,668.0239205922835,81,On own,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad07,725.6815727544243,40.460779762725345,150.20395854047968,1301.1591869683689,38,On own,Average donation by method,PR,...
+Family income category,"$125,000 and more",2018,fg1dad07,515.6738087693112,21.06593995207543,302.7599127723156,728.5877047663068,118,On own,Average donation by method,PR,*
+Family income category,"Less than $25,000",2018,fg1dad07,113.26913556071322,38.43423484545331,27.94381734738296,198.59445377404347,46,On own,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad07,190.8527453326295,20.861716192745597,112.81646946224139,268.8890212030176,81,On own,Average donation by method,QC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad07,253.99484026216754,41.730558237297785,46.25146678429408,461.73821374004103,94,On own,Average donation by method,QC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad07,171.73323979256728,25.540258839287517,85.76703611677283,257.6994434683617,68,On own,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad07,108.6671547065352,24.713433887791236,56.03156646075266,161.30274295231774,56,On own,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad07,316.2510381798856,29.421145268943327,133.8868216061429,498.6152547536283,126,On own,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad08,368.52456797041106,82.12041134338405,-224.62695912351677,961.6760950643388,11,Charity event,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad08,71.79825264095996,25.65675417152781,35.69355777348626,107.90294750843366,25,Charity event,Average donation by method,AB,*
+Family income category,"$50,000 to $74,999",2018,fg1dad08,118.6621052724947,15.83754756440844,81.82817408468,155.4960364603094,34,Charity event,Average donation by method,AB,
+Family income category,"$75,000 to $99,999",2018,fg1dad08,251.6801699910536,48.77257197822003,11.092842475855548,492.26749750625163,29,Charity event,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad08,174.99804738899144,29.845446234699097,72.63119007388221,277.3649047041007,26,Charity event,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad08,210.3169994468217,21.904593806429702,120.02325315408024,300.6107457395632,106,Charity event,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad08,44.27584611527185,21.06160838212184,25.998779546158275,62.55291268438542,57,Charity event,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,79.49776123068101,22.25696025709217,44.81857964060461,114.1769428207574,123,Charity event,Average donation by method,AT,*
+Family income category,"$50,000 to $74,999",2018,fg1dad08,87.14509771267609,20.910488329614342,51.429721648553276,122.8604737767989,126,Charity event,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad08,96.76362626794584,15.522568779130857,67.32457436375206,126.20267817213961,171,Charity event,Average donation by method,AT,
+Family income category,"$100,000 to $124,999",2018,fg1dad08,155.92869846443546,31.50683300034619,59.63920637434721,252.2181905545237,78,Charity event,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad08,148.80401935859817,16.775189304770965,99.87909273872037,197.72894597847596,260,Charity event,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad08,96.91558541699862,22.411858446397805,54.344023414150314,139.48714741984693,28,Charity event,Average donation by method,BC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,110.83758751142489,19.725571243637138,67.98621424291571,153.68896077993406,48,Charity event,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad08,180.23268965070196,39.211523636413645,41.718146876959395,318.7472324244445,56,Charity event,Average donation by method,BC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad08,101.11452194498612,13.371553306300424,74.61466777849495,127.6143761114773,53,Charity event,Average donation by method,BC,
+Family income category,"$100,000 to $124,999",2018,fg1dad08,121.72529336142628,29.56618460359358,51.18712064949034,192.26346607336222,43,Charity event,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad08,205.26966435922435,18.262879536739238,131.7942375185517,278.745091199897,146,Charity event,Average donation by method,BC,*
+Family income category,"Less than $25,000",2018,fg1dad08,77.89553801182905,19.260524897519797,48.4900229490601,107.301053074598,48,Charity event,Average donation by method,ON,*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,101.12002319208601,21.623585989733613,58.26389136918835,143.97615501498368,100,Charity event,Average donation by method,ON,*
+Family income category,"$50,000 to $74,999",2018,fg1dad08,116.20126735237544,11.349048815810002,90.35377474427969,142.0487599604712,126,Charity event,Average donation by method,ON,
+Family income category,"$75,000 to $99,999",2018,fg1dad08,148.7964020021676,18.932831210247215,93.58152819661152,204.0112758077237,133,Charity event,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad08,200.39594148870867,24.461877591259263,104.31731157507512,296.47457140234224,95,Charity event,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad08,189.96953741817822,14.211978074065346,137.05358892867798,242.88548590767846,290,Charity event,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad08,124.28114597684394,30.898593875574843,49.016320954860575,199.54597099882733,30,Charity event,Average donation by method,PR,*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,97.62920729439668,16.259968179652816,66.51580206239699,128.74261252639639,60,Charity event,Average donation by method,PR,
+Family income category,"$50,000 to $74,999",2018,fg1dad08,107.87918706177204,15.833842143325663,74.40021869464312,141.35815542890097,78,Charity event,Average donation by method,PR,
+Family income category,"$75,000 to $99,999",2018,fg1dad08,146.99008297680356,34.25563511961803,48.30121892750938,245.67894702609775,83,Charity event,Average donation by method,PR,...
+Family income category,"$100,000 to $124,999",2018,fg1dad08,105.57823949613903,24.791429835807115,54.27744605111038,156.87903294116768,55,Charity event,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad08,139.4875083074017,11.969165920733472,106.76494663950098,172.21006997530242,149,Charity event,Average donation by method,PR,
+Family income category,"Less than $25,000",2018,fg1dad08,50.55965162506925,24.13213945666845,26.6458848018448,74.4734184482937,34,Charity event,Average donation by method,QC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad08,91.78743946692506,21.47547026903746,53.153052219978754,130.42182671387138,69,Charity event,Average donation by method,QC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad08,62.8688753538501,16.74490786389598,42.23567740465443,83.50207330304576,62,Charity event,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad08,89.75692069746461,28.12959077603871,40.27125123363679,139.2425901612924,53,Charity event,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad08,64.29319677760498,19.506425125791836,39.71269204926033,88.87370150594961,41,Charity event,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad08,93.50800259321899,17.947364651362598,60.61545149359379,126.4005536928442,94,Charity event,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad09,251.0461411148498,58.12252481438538,-34.940740815987766,537.0330230456874,11,In memoriam,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad09,372.0443294612573,57.11986267045054,-44.46998857024727,788.5586474927618,37,In memoriam,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad09,365.4738341156551,46.87999074209844,29.665169579562416,701.2824986517478,37,In memoriam,Average donation by method,AB,...
+Family income category,"$75,000 to $99,999",2018,fg1dad09,116.32240265864631,22.542223685860204,64.92890088366012,167.7159044336325,35,In memoriam,Average donation by method,AB,*
+Family income category,"$100,000 to $124,999",2018,fg1dad09,76.18414893726984,29.16429129566503,32.636557599494125,119.73174027504555,36,In memoriam,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad09,366.8255627797645,36.22688971917407,106.36694435961294,627.284181199916,89,In memoriam,Average donation by method,AB,...
+Family income category,"Less than $25,000",2018,fg1dad09,129.4874639610553,42.60693527387459,21.354996639998618,237.61993128211202,106,In memoriam,Average donation by method,AT,...
+Family income category,"$25,000 to $49,999",2018,fg1dad09,74.14637163873127,15.518113658485069,51.59479431677085,96.69794896069169,254,In memoriam,Average donation by method,AT,
+Family income category,"$50,000 to $74,999",2018,fg1dad09,103.33724470286954,22.50523518881043,57.75575397113504,148.91873543460403,214,In memoriam,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,78.37525040727083,15.85662316441937,54.017468497401964,102.73303231713969,253,In memoriam,Average donation by method,AT,
+Family income category,"$100,000 to $124,999",2018,fg1dad09,67.21288367381847,18.56630678363949,42.754590754165605,91.67117659347133,114,In memoriam,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad09,82.20518067661624,19.46011795367067,50.85119558158962,113.55916577164285,301,In memoriam,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad09,283.9999588775032,34.50983240302988,91.90798540418595,476.09193235082046,22,In memoriam,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad09,125.43168702086265,16.084055519654417,85.8903893426754,164.9729846990499,57,In memoriam,Average donation by method,BC,
+Family income category,"$50,000 to $74,999",2018,fg1dad09,62.81918881180575,16.946808062032844,41.95371141293177,83.68466621067974,53,In memoriam,Average donation by method,BC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,89.92185574153189,18.740712510804293,56.89254959489045,122.95116188817332,51,In memoriam,Average donation by method,BC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad09,72.09969060778145,17.75058178646907,47.0158470214776,97.18353419408531,32,In memoriam,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad09,298.5886137851906,36.67543650203401,83.95554998643848,513.2216775839427,103,In memoriam,Average donation by method,BC,...
+Family income category,"Less than $25,000",2018,fg1dad09,235.19742001716523,63.29080303870899,-56.559557057572846,526.9543970919033,67,In memoriam,Average donation by method,ON,...
+Family income category,"$25,000 to $49,999",2018,fg1dad09,181.55511210557262,28.40656206750814,80.47278096153222,282.637443249613,166,In memoriam,Average donation by method,ON,*
+Family income category,"$50,000 to $74,999",2018,fg1dad09,113.84724568233658,27.054334444831113,53.47915035850748,174.21534100616566,191,In memoriam,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,146.94378313040156,27.475790896893393,67.81226270314659,226.07530355765653,210,In memoriam,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad09,99.49308205998621,18.694812554028704,63.03766336630179,135.94850075367063,149,In memoriam,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad09,162.51837741884216,29.70252167643433,67.90688564835062,257.1298691893337,400,In memoriam,Average donation by method,ON,*
+Family income category,"Less than $25,000",2018,fg1dad09,148.4641635451418,32.570343080167916,53.68954174426061,243.23878534602295,36,In memoriam,Average donation by method,PR,*
+Family income category,"$25,000 to $49,999",2018,fg1dad09,101.72561944542248,21.87630457826904,58.108960492230985,145.34227839861398,78,In memoriam,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad09,102.20703151171752,27.000504030178078,48.11905463085297,156.29500839258208,91,In memoriam,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,155.27354951326126,31.202488592590633,60.31483974849576,250.23225927802676,96,In memoriam,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad09,126.95668867395779,25.287804555978866,64.03290870130597,189.8804686466096,43,In memoriam,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad09,217.86558758490088,45.80075772222665,22.292365092257768,413.43881007754396,123,In memoriam,Average donation by method,PR,...
+Family income category,"Less than $25,000",2018,fg1dad09,60.414711011696035,16.611884950414208,40.7444687823339,80.08495324105817,50,In memoriam,Average donation by method,QC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad09,66.62200125279088,24.231078721076045,34.98185270315358,98.26214980242818,74,In memoriam,Average donation by method,QC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad09,51.56995824529482,19.46641886089971,31.89422460445778,71.24569188613187,61,In memoriam,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad09,47.38607919614297,13.869259074929316,34.505003638516534,60.26715475376941,55,In memoriam,Average donation by method,QC,
+Family income category,"$100,000 to $124,999",2018,fg1dad09,37.91748341580925,14.462206993078624,27.169619235170046,48.665347596448456,39,In memoriam,Average donation by method,QC,
+Family income category,"$125,000 and more",2018,fg1dad09,190.88445277353196,33.01274576973305,67.37497207910529,314.3939334679586,79,In memoriam,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad10,83.57316505659472,56.10545074604596,-8.32778408803712,175.47411420122654,8,At work,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad10,791.6929205964378,100.28539822863645,-764.4251852521646,2347.81102644504,21,At work,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad10,69.73185179761674,23.674237349211158,37.37581751723152,102.08788607800196,26,At work,Average donation by method,AB,*
+Family income category,"$75,000 to $99,999",2018,fg1dad10,117.40684765944373,35.60803121579121,35.468070081836814,199.34562523705063,32,At work,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad10,60.1977164352094,20.865101159941915,35.579952517555085,84.81548035286372,37,At work,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad10,88.27700602949346,19.778683379712056,54.05597700194814,122.49803505703878,124,At work,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad10,35.40650896396668,21.01490521550505,20.823114116355487,49.989903811577875,30,At work,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad10,63.260365750284635,27.78086352089136,28.815417986982965,97.7053135135863,102,At work,Average donation by method,AT,*
+Family income category,"$50,000 to $74,999",2018,fg1dad10,45.715398832084894,25.950157962698533,22.463918399345985,68.9668792648238,99,At work,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad10,54.171592740748466,32.69188925254685,19.46118503826898,88.88200044322795,221,At work,Average donation by method,AT,*
+Family income category,"$100,000 to $124,999",2018,fg1dad10,48.79822349885316,22.793879155534732,26.997528234128037,70.59891876357828,105,At work,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad10,76.83936691545647,20.103778904725143,46.56259505297868,107.11613877793425,303,At work,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad10,40.995781712500715,43.8384759285185,5.77145422010252,76.2201092048989,14,At work,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad10,100.66939109359167,49.24673547043177,3.5014546961855473,197.83732749099778,37,At work,Average donation by method,BC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad10,113.3525393824288,47.92002723149681,6.890102920909641,219.81497584394796,45,At work,Average donation by method,BC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad10,42.90805932444912,16.043544648212567,29.415718889343502,56.40039975955474,59,At work,Average donation by method,BC,
+Family income category,"$100,000 to $124,999",2018,fg1dad10,56.2875923018189,19.20506915317039,35.10024242010985,77.47494218352794,42,At work,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad10,229.98243001800606,46.240169969899924,21.55149763486321,438.4133624011489,153,At work,Average donation by method,BC,...
+Family income category,"Less than $25,000",2018,fg1dad10,42.690458935823024,20.40058465015968,25.620930301202254,59.7599875704438,29,At work,Average donation by method,ON,*
+Family income category,"$25,000 to $49,999",2018,fg1dad10,55.250833307750334,34.69557406453207,17.679119878026853,92.82254673747381,79,At work,Average donation by method,ON,...
+Family income category,"$50,000 to $74,999",2018,fg1dad10,62.87974688551015,15.133289651193053,44.229172113377984,81.53032165764232,128,At work,Average donation by method,ON,
+Family income category,"$75,000 to $99,999",2018,fg1dad10,74.15136919295665,30.201568218976295,30.258218104582,118.0445202813313,125,At work,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad10,64.54511731249212,19.25412055689542,40.18747928419516,88.90275534078908,116,At work,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad10,107.34602330156754,23.74531878209899,57.38721667481941,157.30482992831566,346,At work,Average donation by method,ON,*
+Family income category,"Less than $25,000",2018,fg1dad10,76.33567411373325,47.994269401354146,4.5289653994720425,148.14238282799445,17,At work,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad10,50.45798159340434,19.57170872823511,31.10237845597877,69.81358473082992,37,At work,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad10,77.88578073599464,46.95108693227606,6.213385339651765,149.5581761323375,55,At work,Average donation by method,PR,...
+Family income category,"$75,000 to $99,999",2018,fg1dad10,62.38941502301299,25.755834489008567,30.894921387262308,93.88390865876366,74,At work,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad10,104.01585204742787,57.069898320916835,-12.331022374327418,220.36272646918314,42,At work,Average donation by method,PR,...
+Family income category,"$125,000 and more",2018,fg1dad10,98.72678199136699,22.36327239891265,55.4536403527871,141.9999236299469,162,At work,Average donation by method,PR,*
+Family income category,"Less than $25,000",2018,fg1dad10,14.568026772618143,34.740369636785815,4.648675801166121,24.487377744070166,10,At work,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad10,82.36067013361281,66.37193270457374,-24.779523474001195,189.50086374122682,26,At work,Average donation by method,QC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad10,23.678753305396906,19.424305109343013,14.664029711369551,32.69347689942426,40,At work,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad10,61.253325163135976,49.83488487293848,1.424397365170556,121.0822529611014,43,At work,Average donation by method,QC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad10,51.448047148543594,24.631641770720215,26.610406157957357,76.28568813912983,53,At work,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad10,144.38549203823737,38.59442840086545,35.16697851289932,253.6040055635754,129,At work,Average donation by method,QC,...
+Family income category,"Less than $25,000",2018,fg1dad11,31.978917510859656,25.461089140470133,16.02053659579142,47.93729842592789,8,Door-to-door canvassing,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad11,132.45865256240347,82.07204281914743,-80.61201535754421,345.5293204823512,24,Door-to-door canvassing,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad11,44.916066769249475,34.51207685825117,14.533748790921479,75.29838474757747,28,Door-to-door canvassing,Average donation by method,AB,...
+Family income category,"$75,000 to $99,999",2018,fg1dad11,66.4921579114171,45.06543276707649,7.761878824769859,125.22243699806432,44,Door-to-door canvassing,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad11,73.5795181610453,44.347120952116775,9.625113446702002,137.5339228753886,39,Door-to-door canvassing,Average donation by method,AB,...
+Family income category,"$125,000 and more",2018,fg1dad11,33.7735287772335,11.992066842260215,25.83539211896434,41.71166543550267,119,Door-to-door canvassing,Average donation by method,AB,
+Family income category,"Less than $25,000",2018,fg1dad11,23.333507367837566,19.19799247825256,14.553721322226691,32.11329341344844,66,Door-to-door canvassing,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad11,22.445014489668782,9.097219959107884,18.443018246201728,26.447010733135837,202,Door-to-door canvassing,Average donation by method,AT,
+Family income category,"$50,000 to $74,999",2018,fg1dad11,31.491041050410267,18.65297646423735,19.978180313881715,43.00390178693882,185,Door-to-door canvassing,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad11,20.119909245923022,13.519288481818514,14.788672806900411,25.451145684945633,264,Door-to-door canvassing,Average donation by method,AT,
+Family income category,"$100,000 to $124,999",2018,fg1dad11,19.118421474336188,10.030571613848153,15.359824104169586,22.87701884450279,134,Door-to-door canvassing,Average donation by method,AT,
+Family income category,"$125,000 and more",2018,fg1dad11,27.64399271630734,13.307798361218964,20.43366386326122,34.854321569353466,352,Door-to-door canvassing,Average donation by method,AT,
+Family income category,"Less than $25,000",2018,fg1dad11,58.006148851255546,40.57015628628997,11.88195333030589,104.1303443722052,19,Door-to-door canvassing,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad11,33.94941773148427,25.57909644085699,16.929180054906933,50.9696554080616,30,Door-to-door canvassing,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad11,57.40365204014076,38.67459443367707,13.89121755740598,100.91608652287555,36,Door-to-door canvassing,Average donation by method,BC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad11,33.078249599084636,24.52218241482211,17.179984674418865,48.97651452375041,41,Door-to-door canvassing,Average donation by method,BC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad11,25.532699909676012,19.758548988442072,15.644895205084998,35.420504614267024,42,Door-to-door canvassing,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad11,53.48076250492028,14.955140362216818,37.804729286188895,69.15679572365167,117,Door-to-door canvassing,Average donation by method,BC,
+Family income category,"Less than $25,000",2018,fg1dad11,57.1082464805951,50.67446925035179,0.388259170464444,113.82823379072576,37,Door-to-door canvassing,Average donation by method,ON,...
+Family income category,"$25,000 to $49,999",2018,fg1dad11,45.52461423168944,25.781956070475516,22.520250306805934,68.52897815657295,95,Door-to-door canvassing,Average donation by method,ON,*
+Family income category,"$50,000 to $74,999",2018,fg1dad11,40.8929612134994,20.239649181246314,24.671139195469692,57.1147832315291,105,Door-to-door canvassing,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad11,28.12894260103917,16.384947263247888,19.095640267796007,37.162244934282334,112,Door-to-door canvassing,Average donation by method,ON,
+Family income category,"$100,000 to $124,999",2018,fg1dad11,20.878905431994898,14.52364854793952,14.935552107138554,26.82225875685124,94,Door-to-door canvassing,Average donation by method,ON,
+Family income category,"$125,000 and more",2018,fg1dad11,45.41053154486268,13.126880547705138,33.72721321785827,57.093849871867086,250,Door-to-door canvassing,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad11,52.78617188640403,27.946593159192943,23.872907249434416,81.69943652337363,22,Door-to-door canvassing,Average donation by method,PR,*
+Family income category,"$25,000 to $49,999",2018,fg1dad11,43.28350113164503,16.147309065890052,29.58507627160285,56.98192599168721,68,Door-to-door canvassing,Average donation by method,PR,
+Family income category,"$50,000 to $74,999",2018,fg1dad11,41.33182901142262,20.809810928799997,24.474030860555505,58.18962716228974,79,Door-to-door canvassing,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad11,34.957117072731116,12.851714464813982,26.15180468760211,43.76242945786012,99,Door-to-door canvassing,Average donation by method,PR,
+Family income category,"$100,000 to $124,999",2018,fg1dad11,34.4750768592274,24.265523034159123,18.078885024649285,50.87126869380552,51,Door-to-door canvassing,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad11,38.24605276209542,11.220423030900163,29.83512424916497,46.65698127502586,171,Door-to-door canvassing,Average donation by method,PR,
+Family income category,"Less than $25,000",2018,fg1dad11,28.106182700724382,21.253379499186575,16.398311042212207,39.81405435923656,40,Door-to-door canvassing,Average donation by method,QC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad11,37.97511258806391,39.97339208321269,8.222975628826578,67.72724954730124,63,Door-to-door canvassing,Average donation by method,QC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad11,28.239165189409952,17.60102961566866,18.49739189678658,37.980938482033324,77,Door-to-door canvassing,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad11,26.491083878873592,18.277450482311693,17.001144575089597,35.98102318265759,76,Door-to-door canvassing,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad11,33.17154339527171,30.48468437523407,13.35191659163036,52.99117019891307,34,Door-to-door canvassing,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad11,27.31063195947641,21.232452218300864,15.945355715560797,38.67590820339203,91,Door-to-door canvassing,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad12,47.84541923327794,27.594562125016083,21.968536224582635,73.72230224197324,31,Public place,Average donation by method,AB,*
+Family income category,"$25,000 to $49,999",2018,fg1dad12,54.465555083062554,46.582768028790916,4.73820501890475,104.19290514722036,59,Public place,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad12,25.673123986667516,9.981528017779105,20.650578953820972,30.69566901951406,66,Public place,Average donation by method,AB,
+Family income category,"$75,000 to $99,999",2018,fg1dad12,197.54804401975233,95.23419524713135,-171.18642857265237,566.282516612157,60,Public place,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad12,35.96385914648312,18.38638137555722,23.003690788914493,48.924027504051736,48,Public place,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad12,43.79456855352954,26.6455096777774,20.923188263779874,66.6659488432792,159,Public place,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad12,22.507143789967486,20.81124761949507,13.326638331645842,31.68764924828913,174,Public place,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad12,18.782083597226087,9.39909510217665,15.322069214002363,22.242097980449813,351,Public place,Average donation by method,AT,
+Family income category,"$50,000 to $74,999",2018,fg1dad12,21.95222025284794,10.284758039430123,17.527145401046063,26.377295104649818,314,Public place,Average donation by method,AT,
+Family income category,"$75,000 to $99,999",2018,fg1dad12,23.598477844289363,16.921584048512255,15.771878587851738,31.425077100726988,390,Public place,Average donation by method,AT,*
+Family income category,"$100,000 to $124,999",2018,fg1dad12,18.294912815230827,9.038158589973385,15.0540668287203,21.535758801741352,172,Public place,Average donation by method,AT,
+Family income category,"$125,000 and more",2018,fg1dad12,34.03306155544381,23.647730349654953,18.25918002187239,49.80694308901523,433,Public place,Average donation by method,AT,*
+Family income category,"Less than $25,000",2018,fg1dad12,39.87965870927097,27.684971114021135,18.240339235848463,61.51897818269347,71,Public place,Average donation by method,BC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad12,22.529374946224276,16.480516284651454,15.252112348677798,29.806637543770755,122,Public place,Average donation by method,BC,
+Family income category,"$50,000 to $74,999",2018,fg1dad12,24.57882163496205,19.471559049503213,15.198669654708688,33.95897361521541,105,Public place,Average donation by method,BC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad12,25.066177558455475,26.712826750843664,11.942484928690357,38.189870188220596,88,Public place,Average donation by method,BC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad12,28.766608100420672,18.551594610232954,18.306937847755087,39.22627835308626,72,Public place,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad12,28.359284405090932,13.958807736965042,20.600535724594362,36.118033085587506,187,Public place,Average donation by method,BC,
+Family income category,"Less than $25,000",2018,fg1dad12,23.310839269117036,11.746360983491172,17.94411424125039,28.677564296983682,128,Public place,Average donation by method,ON,
+Family income category,"$25,000 to $49,999",2018,fg1dad12,29.658334702103424,18.50694247314605,18.900384539644342,40.416284864562506,222,Public place,Average donation by method,ON,*
+Family income category,"$50,000 to $74,999",2018,fg1dad12,27.489186780205614,16.02409627115478,18.85575366699748,36.12261989341375,254,Public place,Average donation by method,ON,
+Family income category,"$75,000 to $99,999",2018,fg1dad12,31.43842243605171,16.34946621673529,21.36417961572591,41.51266525637751,249,Public place,Average donation by method,ON,
+Family income category,"$100,000 to $124,999",2018,fg1dad12,30.482520062025817,20.31491193082763,18.345448762058346,42.61959136199329,160,Public place,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad12,24.668195434924492,13.683877857166024,18.052208171028077,31.284182698820906,407,Public place,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad12,20.304865598281786,23.10008843531054,11.111768383351405,29.49796281321217,48,Public place,Average donation by method,PR,*
+Family income category,"$25,000 to $49,999",2018,fg1dad12,21.024218684292315,15.790396068575212,14.517515743559407,27.530921625025222,109,Public place,Average donation by method,PR,
+Family income category,"$50,000 to $74,999",2018,fg1dad12,22.13307665170121,16.67365154409047,14.900041092162674,29.366112211239745,118,Public place,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad12,21.720677668234668,16.07501259938518,14.87726414306732,28.564091193402014,154,Public place,Average donation by method,PR,
+Family income category,"$100,000 to $124,999",2018,fg1dad12,25.97052303980226,19.043878637434783,16.276943182034312,35.6641028975702,76,Public place,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad12,19.37314573980449,12.051926958660419,14.796948576700522,23.949342902908455,185,Public place,Average donation by method,PR,
+Family income category,"Less than $25,000",2018,fg1dad12,16.096062187698852,14.805011193524177,11.425421348530744,20.76670302686696,103,Public place,Average donation by method,QC,
+Family income category,"$25,000 to $49,999",2018,fg1dad12,17.378887390869913,12.208316973223624,13.220491271948436,21.53728350979139,164,Public place,Average donation by method,QC,
+Family income category,"$50,000 to $74,999",2018,fg1dad12,24.944529477953665,21.95959357130762,14.20840086885943,35.6806580870479,147,Public place,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad12,15.807610062350967,14.016707642604018,11.464905146102954,20.15031497859898,109,Public place,Average donation by method,QC,
+Family income category,"$100,000 to $124,999",2018,fg1dad12,20.774479111401863,20.777571439090746,12.314427382292067,29.23453084051166,69,Public place,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad12,27.16785830639339,21.484008057367284,15.728048579027407,38.607668033759374,144,Public place,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad13,854.1208968981773,53.137942670863445,-35.43281120921665,1743.6746050055713,20,Place of worship,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad13,807.7484025123191,33.78810915244112,272.8293245973166,1342.6674804273216,59,Place of worship,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad13,1174.8220274999094,20.401276930964375,705.0604168969544,1644.5836381028644,57,Place of worship,Average donation by method,AB,*
+Family income category,"$75,000 to $99,999",2018,fg1dad13,1457.5852210812855,22.232861979169556,822.433587909776,2092.7368542527947,55,Place of worship,Average donation by method,AB,*
+Family income category,"$100,000 to $124,999",2018,fg1dad13,624.7759523400449,26.366174558788398,301.9120294866042,947.6398751934856,43,Place of worship,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad13,1027.324305059941,20.6396829985844,611.7404409849985,1442.9081691348836,113,Place of worship,Average donation by method,AB,*
+Family income category,"Less than $25,000",2018,fg1dad13,314.91058053715955,18.76055357858735,199.11793064819594,430.7032304261231,135,Place of worship,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,441.23986025356487,11.448735956334351,342.22956201678323,540.2501584903465,309,Place of worship,Average donation by method,AT,
+Family income category,"$50,000 to $74,999",2018,fg1dad13,500.2223897303613,16.849791597936125,335.0240221611798,665.4207572995427,233,Place of worship,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad13,450.981658224803,15.137668871438189,317.17862114992386,584.7846952996822,278,Place of worship,Average donation by method,AT,
+Family income category,"$100,000 to $124,999",2018,fg1dad13,599.8955941686573,22.135717529675887,339.6296360762294,860.1615522610853,118,Place of worship,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad13,609.3654560126936,15.330758397076947,426.26494278897417,792.465969236413,291,Place of worship,Average donation by method,AT,
+Family income category,"Less than $25,000",2018,fg1dad13,208.74352657246942,28.006572306134064,94.16029496529877,323.3267581796401,42,Place of worship,Average donation by method,BC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,572.7123965175891,24.724293889678307,295.1832680012098,850.2415250339684,75,Place of worship,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad13,699.924693254919,24.004012391524853,370.63112441621234,1029.2182620936258,80,Place of worship,Average donation by method,BC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad13,899.7751608928676,25.780232957265337,445.1338153510043,1354.4165064347308,68,Place of worship,Average donation by method,BC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad13,1121.0177980008248,22.923089017801303,617.3621137896703,1624.6734822119793,51,Place of worship,Average donation by method,BC,*
+Family income category,"$125,000 and more",2018,fg1dad13,697.7171886495896,17.753360079906948,454.93988993428434,940.4944873648949,112,Place of worship,Average donation by method,BC,*
+Family income category,"Less than $25,000",2018,fg1dad13,217.34944860487985,22.89336926107803,119.82436144634912,314.87453576341056,81,Place of worship,Average donation by method,ON,*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,431.0861646839321,15.724841289700903,298.2248802579952,563.947449109869,193,Place of worship,Average donation by method,ON,
+Family income category,"$50,000 to $74,999",2018,fg1dad13,483.65233685942974,15.891676825604337,333.0085910114361,634.2960827074234,201,Place of worship,Average donation by method,ON,
+Family income category,"$75,000 to $99,999",2018,fg1dad13,622.0929403192916,21.126643644556946,364.5000508032246,879.6858298353586,219,Place of worship,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad13,510.9515139642225,17.512310867698584,335.57507828969096,686.327949638754,143,Place of worship,Average donation by method,ON,*
+Family income category,"$125,000 and more",2018,fg1dad13,798.2879875228424,12.027030142316429,610.1111850908324,986.4647899548524,358,Place of worship,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad13,688.340840016431,28.744735186720593,300.5389328746708,1076.1427471581912,46,Place of worship,Average donation by method,PR,*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,1037.4042163634554,22.323770017818642,583.5006035265026,1491.3078292004082,116,Place of worship,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad13,627.9864687752528,18.50557320544527,400.2141626507265,855.758774899779,110,Place of worship,Average donation by method,PR,*
+Family income category,"$75,000 to $99,999",2018,fg1dad13,1219.6737592230188,19.800198025331827,746.3467304833008,1693.000787962737,124,Place of worship,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad13,1359.0200604203676,24.488398055931288,706.7396520170194,2011.3004688237158,57,Place of worship,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad13,635.8221227431462,16.11636388768249,434.9818556178416,836.6623898684509,147,Place of worship,Average donation by method,PR,
+Family income category,"Less than $25,000",2018,fg1dad13,105.86016000468167,24.41807256650677,55.197030018322636,156.5232899910407,79,Place of worship,Average donation by method,QC,*
+Family income category,"$25,000 to $49,999",2018,fg1dad13,154.88405197389199,22.607460993418897,86.25522386323871,223.51288008454526,115,Place of worship,Average donation by method,QC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad13,89.27709795513593,24.017316450863884,47.25162245459621,131.30257345567566,111,Place of worship,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad13,180.00683877662178,32.25643777420235,66.20389384985883,293.8097837033847,95,Place of worship,Average donation by method,QC,*
+Family income category,"$100,000 to $124,999",2018,fg1dad13,70.34386443651618,23.346472729011214,38.155746102292966,102.5319827707394,51,Place of worship,Average donation by method,QC,*
+Family income category,"$125,000 and more",2018,fg1dad13,124.82516145379442,29.57177590907632,52.476977527493275,197.17334538009555,96,Place of worship,Average donation by method,QC,*
+Family income category,"Less than $25,000",2018,fg1dad14,58.52769085615079,24.30136042678559,30.651073900262805,86.40430781203878,17,Sponsoring someone,Average donation by method,AB,*
+Family income category,"$25,000 to $49,999",2018,fg1dad14,80.77193856655487,29.692821939395923,33.76520526687405,127.77867186623568,37,Sponsoring someone,Average donation by method,AB,*
+Family income category,"$50,000 to $74,999",2018,fg1dad14,87.19011330291153,25.511655161251905,43.59337797840901,130.78684862741403,53,Sponsoring someone,Average donation by method,AB,*
+Family income category,"$75,000 to $99,999",2018,fg1dad14,66.92966149134028,14.13385099956338,48.388914473969564,85.470408508711,48,Sponsoring someone,Average donation by method,AB,
+Family income category,"$100,000 to $124,999",2018,fg1dad14,99.35712979223705,21.142541440026488,58.184906569111085,140.529353015363,47,Sponsoring someone,Average donation by method,AB,*
+Family income category,"$125,000 and more",2018,fg1dad14,67.13121363650306,12.508754195423064,50.672850204049404,83.58957706895671,151,Sponsoring someone,Average donation by method,AB,
+Family income category,"Less than $25,000",2018,fg1dad14,41.21649145662348,22.674907490023948,22.89905748544709,59.53392542779987,107,Sponsoring someone,Average donation by method,AT,*
+Family income category,"$25,000 to $49,999",2018,fg1dad14,33.00111637637191,13.442047089281347,24.306665959405464,41.69556679333836,249,Sponsoring someone,Average donation by method,AT,
+Family income category,"$50,000 to $74,999",2018,fg1dad14,32.45252829239167,13.399595779024095,23.929609987835697,40.97544659694764,237,Sponsoring someone,Average donation by method,AT,
+Family income category,"$75,000 to $99,999",2018,fg1dad14,46.05281689106858,13.885243131699424,33.51973782869973,58.58589595343743,307,Sponsoring someone,Average donation by method,AT,
+Family income category,"$100,000 to $124,999",2018,fg1dad14,38.53252286631198,19.010485571859864,24.17535607551995,52.88968965710401,150,Sponsoring someone,Average donation by method,AT,*
+Family income category,"$125,000 and more",2018,fg1dad14,46.063977893748124,9.494027999059446,37.49241456205256,54.63554122544369,392,Sponsoring someone,Average donation by method,AT,
+Family income category,"Less than $25,000",2018,fg1dad14,46.639735644697794,36.404342871254734,13.361724161653044,79.91774712774254,26,Sponsoring someone,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad14,57.04576325242815,19.102049130951407,35.688212651377945,78.40331385347835,64,Sponsoring someone,Average donation by method,BC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad14,55.57662628466386,15.724242337843814,38.44849435950203,72.70475820982568,73,Sponsoring someone,Average donation by method,BC,
+Family income category,"$75,000 to $99,999",2018,fg1dad14,56.15616240035653,15.461688271172214,39.13840119168154,73.17392360903152,74,Sponsoring someone,Average donation by method,BC,
+Family income category,"$100,000 to $124,999",2018,fg1dad14,43.995095337004784,16.471394992922196,29.79200870312775,58.19818197088182,45,Sponsoring someone,Average donation by method,BC,
+Family income category,"$125,000 and more",2018,fg1dad14,74.18469093348222,13.38088130681486,54.72898017769435,93.64040168927008,183,Sponsoring someone,Average donation by method,BC,
+Family income category,"Less than $25,000",2018,fg1dad14,37.75420261877786,12.824778567574096,28.26426694558657,47.24413829196915,80,Sponsoring someone,Average donation by method,ON,
+Family income category,"$25,000 to $49,999",2018,fg1dad14,45.60237801024397,12.054581955882757,34.828110972657555,56.37664504783038,176,Sponsoring someone,Average donation by method,ON,
+Family income category,"$50,000 to $74,999",2018,fg1dad14,48.241526504357175,13.825263219397302,35.16951139036222,61.31354161835213,243,Sponsoring someone,Average donation by method,ON,
+Family income category,"$75,000 to $99,999",2018,fg1dad14,53.84727225593583,12.343645809349809,40.819947172562806,66.87459733930885,222,Sponsoring someone,Average donation by method,ON,
+Family income category,"$100,000 to $124,999",2018,fg1dad14,52.77741413763247,11.372029562699984,41.0139785467,64.54084972856494,180,Sponsoring someone,Average donation by method,ON,
+Family income category,"$125,000 and more",2018,fg1dad14,64.48369351369314,6.113347168300507,56.757295869859355,72.21009115752693,526,Sponsoring someone,Average donation by method,ON,
+Family income category,"Less than $25,000",2018,fg1dad14,96.03189434108837,43.33242136285392,14.472020657168102,177.59176802500866,34,Sponsoring someone,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad14,57.548541844554336,19.199361840380096,35.8929923237776,79.20409136533107,89,Sponsoring someone,Average donation by method,PR,*
+Family income category,"$50,000 to $74,999",2018,fg1dad14,40.690752134096634,12.733732480691723,30.5352937650274,50.846210503165864,111,Sponsoring someone,Average donation by method,PR,
+Family income category,"$75,000 to $99,999",2018,fg1dad14,72.94787432633674,20.120799336451135,44.18011994000682,101.71562871266667,129,Sponsoring someone,Average donation by method,PR,*
+Family income category,"$100,000 to $124,999",2018,fg1dad14,53.68458348778665,17.66525766995043,35.09722583689337,72.27194113867992,71,Sponsoring someone,Average donation by method,PR,*
+Family income category,"$125,000 and more",2018,fg1dad14,76.13153639013991,10.815642435815752,59.99296802214319,92.27010475813664,183,Sponsoring someone,Average donation by method,PR,
+Family income category,"Less than $25,000",2018,fg1dad14,39.41943004148944,50.1788983743094,0.6508803848855607,78.18797969809333,25,Sponsoring someone,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad14,66.11412732613836,32.03300611618604,24.60533887179455,107.62291578048217,44,Sponsoring someone,Average donation by method,QC,*
+Family income category,"$50,000 to $74,999",2018,fg1dad14,55.3208522070739,16.31253236065642,37.63368265873622,73.00802175541158,50,Sponsoring someone,Average donation by method,QC,
+Family income category,"$75,000 to $99,999",2018,fg1dad14,84.43727796985607,45.06954959805197,9.849866843439713,159.02468909627243,46,Sponsoring someone,Average donation by method,QC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad14,37.88594686721178,11.389724621062484,29.428496441919087,46.34339729250447,31,Sponsoring someone,Average donation by method,QC,
+Family income category,"$125,000 and more",2018,fg1dad14,63.270781974763985,14.69371264655011,45.04933609477036,81.4922278547576,84,Sponsoring someone,Average donation by method,QC,
+Family income category,"Less than $25,000",2018,fg1dad17,313.85883424105697,61.35875078015269,-63.59075531749909,691.308423799613,7,Any other method,Average donation by method,AB,...
+Family income category,"$25,000 to $49,999",2018,fg1dad17,422.7927897717099,77.26751813534602,-217.49117584708432,1063.076755390504,7,Any other method,Average donation by method,AB,...
+Family income category,"$50,000 to $74,999",2018,fg1dad17,871.4346277634063,40.20514908997064,184.73852722200502,1558.1307283048077,12,Any other method,Average donation by method,AB,...
+Family income category,"$75,000 to $99,999",2018,fg1dad17,362.16109140112155,26.9037611901334,171.19208846373485,553.1300943385082,13,Any other method,Average donation by method,AB,...
+Family income category,"$100,000 to $124,999",2018,fg1dad17,334.565504480443,30.859253941297204,132.21016236556687,536.9208465953191,11,Any other method,Average donation by method,AB,...
+Family income category,"$125,000 and more",2018,fg1dad17,530.8935396973773,44.5144882186774,67.7059483571361,994.0811310376184,37,Any other method,Average donation by method,AB,...
+Family income category,"Less than $25,000",2018,fg1dad17,172.43310257525647,37.9909815849714,44.03776655134874,300.8284385991642,16,Any other method,Average donation by method,AT,...
+Family income category,"$25,000 to $49,999",2018,fg1dad17,338.3930260343643,54.866844173938055,-25.504812742488127,702.2908648112168,41,Any other method,Average donation by method,AT,...
+Family income category,"$50,000 to $74,999",2018,fg1dad17,177.85720082979708,29.59702515178414,74.6838333903178,281.0305682692764,23,Any other method,Average donation by method,AT,*
+Family income category,"$75,000 to $99,999",2018,fg1dad17,216.14355144279435,33.15679278419976,75.68024437858872,356.60685850699997,41,Any other method,Average donation by method,AT,*
+Family income category,"$100,000 to $124,999",2018,fg1dad17,261.18236865091166,36.02378852949191,76.77370031385362,445.5910369879697,25,Any other method,Average donation by method,AT,...
+Family income category,"$125,000 and more",2018,fg1dad17,515.1064851107336,36.02816564034415,151.36967033037422,878.843299891093,50,Any other method,Average donation by method,AT,...
+Family income category,"Less than $25,000",2018,fg1dad17,143.2277238829542,77.6764542820068,-74.8265354689926,361.28198323490096,9,Any other method,Average donation by method,BC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad17,354.09349261771143,37.34235199460868,94.93365155762717,613.2533336777957,18,Any other method,Average donation by method,BC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad17,254.523668447579,76.09466372200801,-125.08005812897315,634.1273950241311,22,Any other method,Average donation by method,BC,...
+Family income category,"$75,000 to $99,999",2018,fg1dad17,337.3435356677644,75.92160039843486,-164.6357979691643,839.3228693046931,22,Any other method,Average donation by method,BC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad17,249.56403956191517,35.34670634749724,76.67038688444606,422.4576922393843,16,Any other method,Average donation by method,BC,...
+Family income category,"$125,000 and more",2018,fg1dad17,487.9582907182927,36.08954566403304,142.80485001588636,833.111731420699,42,Any other method,Average donation by method,BC,...
+Family income category,"Less than $25,000",2018,fg1dad17,57.20174288657806,34.174983004045586,18.887022558860863,95.51646321429526,20,Any other method,Average donation by method,ON,...
+Family income category,"$25,000 to $49,999",2018,fg1dad17,183.26588734222983,37.28955518151043,49.32384159282199,317.20793309163764,42,Any other method,Average donation by method,ON,...
+Family income category,"$50,000 to $74,999",2018,fg1dad17,128.37699782591227,29.403800878313586,54.39283237129038,202.36116328053416,47,Any other method,Average donation by method,ON,*
+Family income category,"$75,000 to $99,999",2018,fg1dad17,304.7098943310407,20.537089830565094,182.05820047219544,427.36158818988594,46,Any other method,Average donation by method,ON,*
+Family income category,"$100,000 to $124,999",2018,fg1dad17,131.66644119610734,34.71949043935306,42.06880937654965,221.26407301566502,31,Any other method,Average donation by method,ON,...
+Family income category,"$125,000 and more",2018,fg1dad17,332.6398399568129,28.667626831646636,145.73777628527782,519.541903628348,109,Any other method,Average donation by method,ON,*
+Family income category,"Less than $25,000",2018,fg1dad17,29.79234093523448,42.50491329001076,4.9729079906113824,54.61177387985758,5,Any other method,Average donation by method,PR,...
+Family income category,"$25,000 to $49,999",2018,fg1dad17,115.29108677504536,34.07047281799622,38.3032734428992,192.27890010719153,26,Any other method,Average donation by method,PR,...
+Family income category,"$50,000 to $74,999",2018,fg1dad17,213.92446898042436,43.89717597561963,29.870521894676642,397.9784160661721,23,Any other method,Average donation by method,PR,...
+Family income category,"$75,000 to $99,999",2018,fg1dad17,364.7029971973105,60.32681119558254,-66.51590845445241,795.9219028490734,30,Any other method,Average donation by method,PR,...
+Family income category,"$100,000 to $124,999",2018,fg1dad17,245.7485903415197,64.96542977745936,-67.16285039100657,558.660031074046,16,Any other method,Average donation by method,PR,...
+Family income category,"$125,000 and more",2018,fg1dad17,246.0993765589871,29.963814078535922,101.57014347084336,390.6286096471308,33,Any other method,Average donation by method,PR,*
+Family income category,"Less than $25,000",2018,fg1dad17,52.80677549056671,48.37583891611665,2.738083061146156,102.87546791998726,8,Any other method,Average donation by method,QC,...
+Family income category,"$25,000 to $49,999",2018,fg1dad17,60.340159955927426,48.70355741628155,2.741121650767454,117.9391982610874,20,Any other method,Average donation by method,QC,...
+Family income category,"$50,000 to $74,999",2018,fg1dad17,54.49691315682235,24.63287160728654,28.186053524131577,80.80777278951312,19,Any other method,Average donation by method,QC,*
+Family income category,"$75,000 to $99,999",2018,fg1dad17,184.4005741881865,40.781884264966756,37.007306275094464,331.79384210127853,18,Any other method,Average donation by method,QC,...
+Family income category,"$100,000 to $124,999",2018,fg1dad17,38.005651290472244,32.21437831961154,14.009255030478876,62.00204755046561,9,Any other method,Average donation by method,QC,...
+Family income category,"$125,000 and more",2018,fg1dad17,190.6000189819278,34.986079067653606,59.90281286369023,321.2972251001654,31,Any other method,Average donation by method,QC,...

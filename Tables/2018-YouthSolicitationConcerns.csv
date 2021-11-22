@@ -1,0 +1,241 @@
+Group,Attribute,Year,QuestionNo.,Estimate,cv,CI Lower,CI Upper,Unweightedn,QuestionText,QuestionGroup,Region,Marker
+Younger,15 to 24,2018,ng_140a,0.18329083654421216,38.54153296581428,0.044832908335477095,0.3217487647529472,39,Time of day,Younger Canadians Reasons for Concers About Requests,CA,...
+Younger,25 to 34,2018,ng_140a,0.20249497056762436,16.24871076237098,0.13800662430916716,0.26698331682608156,230,Time of day,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,>=35,2018,ng_140a,0.3336085223158652,5.2655869548649035,0.29917891919001915,0.3680381254417112,1944,Time of day,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,15 to 24,2018,ng_140b,0.20895229317315472,37.60534000750668,0.05494377137744105,0.3629608149688684,39,Number of requests,Younger Canadians Reasons for Concers About Requests,CA,...
+Younger,25 to 34,2018,ng_140b,0.48578162525801105,10.53202672990704,0.3855046726869501,0.586058577829072,230,Number of requests,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,>=35,2018,ng_140b,0.5359997953035279,3.291192903696966,0.5014244876799482,0.5705751029271077,1944,Number of requests,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,15 to 24,2018,ng_140c,0.5897314362229047,17.91753452985277,0.3826311877199732,0.7968316847258362,39,Tone,Younger Canadians Reasons for Concers About Requests,CA,*
+Younger,25 to 34,2018,ng_140c,0.4495239028096917,11.795217817384298,0.34560205841694347,0.5534457472024399,230,Tone,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,>=35,2018,ng_140c,0.39787899446332525,4.594791628497282,0.3620474998584117,0.4337104890682388,1944,Tone,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,15 to 24,2018,ng_140d,0.30990230993528467,30.706552391509263,0.1233915194587637,0.49641310041180564,39,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA,*
+Younger,25 to 34,2018,ng_140d,0.502622855112326,9.936203799670194,0.40473905657688886,0.600506653647763,230,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,>=35,2018,ng_140d,0.5352055171571724,3.4763142162820135,0.498739553300778,0.5716714810135667,1944,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,15 to 24,2018,ng_140e,0.7192105619104493,13.01411173082766,0.5357601553470616,0.902660968473837,39,Method of contact,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,25 to 34,2018,ng_140e,0.4969091444776864,10.146025909057148,0.3980945603875895,0.5957237285677833,230,Method of contact,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,>=35,2018,ng_140e,0.5028559648723914,3.5615106412324757,0.46775444323289606,0.5379574865118867,1944,Method of contact,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,15 to 24,2018,ng_140f,0.014923167658465816,107.76957026203688,-0.016598215081909236,0.04644455039884087,39,Other,Younger Canadians Reasons for Concers About Requests,CA,...
+Younger,25 to 34,2018,ng_140f,0.06539372204165114,30.786855675489505,0.02593441231049482,0.10485303177280747,230,Other,Younger Canadians Reasons for Concers About Requests,CA,*
+Younger,>=35,2018,ng_140f,0.07751277749343431,10.843049492655423,0.06103977249390893,0.09398578249295969,1944,Other,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,15 to 34,2018,ng_140a,0.1981434001212148,14.98463852081483,0.1399499678272476,0.256336832415182,269,Time of day,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,>=35,2018,ng_140a,0.3336085223158652,5.2655869548649035,0.29917891919001915,0.3680381254417112,1944,Time of day,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,15 to 34,2018,ng_140b,0.42305334296571145,11.237606128387888,0.3298745611240454,0.5162321248073775,269,Number of requests,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,>=35,2018,ng_140b,0.5359997953035279,3.291192903696966,0.5014244876799482,0.5705751029271077,1944,Number of requests,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,15 to 34,2018,ng_140c,0.48129429964305587,9.869815657899204,0.3881904045927894,0.5743981946933223,269,Tone,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,>=35,2018,ng_140c,0.39787899446332525,4.594791628497282,0.3620474998584117,0.4337104890682388,1944,Tone,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,15 to 34,2018,ng_140d,0.45895324586121644,10.052678538710511,0.36852620238905826,0.5493802893333746,269,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,>=35,2018,ng_140d,0.5352055171571724,3.4763142162820135,0.498739553300778,0.5716714810135667,1944,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,15 to 34,2018,ng_140e,0.5472816464148231,8.28984130780502,0.45836047160302024,0.636202821226626,269,Method of contact,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,>=35,2018,ng_140e,0.5028559648723914,3.5615106412324757,0.46775444323289606,0.5379574865118867,1944,Method of contact,Younger Canadians Reasons for Concers About Requests,CA,
+Younger2,15 to 34,2018,ng_140f,0.05395732128543772,29.32482999316024,0.02294502139199425,0.08496962117888118,269,Other,Younger Canadians Reasons for Concers About Requests,CA,*
+Younger2,>=35,2018,ng_140f,0.07751277749343431,10.843049492655423,0.06103977249390893,0.09398578249295969,1944,Other,Younger Canadians Reasons for Concers About Requests,CA,
+Younger,15 to 24,2018,ng_140a,0.2275722261785894,38.028459761903804,0.057952606611452545,0.3971918457457263,36,Time of day,Younger Canadians Reasons for Concers About Requests,CA (without QC),...
+Younger,25 to 34,2018,ng_140a,0.19433543176013432,17.439546302225924,0.12790986586518344,0.2607609976550852,211,Time of day,Younger Canadians Reasons for Concers About Requests,CA (without QC),*
+Younger,>=35,2018,ng_140a,0.3438500302819807,5.198042760764574,0.30881866965364124,0.37888139091032014,1804,Time of day,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,15 to 24,2018,ng_140b,0.2594332560158619,36.0855289561853,0.07594561677195374,0.4429208952597701,36,Number of requests,Younger Canadians Reasons for Concers About Requests,CA (without QC),...
+Younger,25 to 34,2018,ng_140b,0.510233141034605,10.77176511762347,0.4025113340955996,0.6179549479736105,211,Number of requests,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,>=35,2018,ng_140b,0.5222809193440523,3.513384027643527,0.4863161007948357,0.5582457378932688,1804,Number of requests,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,15 to 24,2018,ng_140c,0.6626984384738452,15.742195380937513,0.45822856110175414,0.8671683158459363,36,Tone,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,25 to 34,2018,ng_140c,0.4573399898491448,12.548211187183602,0.3448616006752788,0.5698183790230108,211,Tone,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,>=35,2018,ng_140c,0.40933285656307666,4.5884832456794635,0.372520480708334,0.44614523241781934,1804,Tone,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,15 to 24,2018,ng_140d,0.38477187348560293,28.30741157912219,0.17129463883016033,0.5982491081410455,36,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA (without QC),*
+Younger,25 to 34,2018,ng_140d,0.5170955036839645,10.425735572138564,0.4114318659695451,0.6227591413983838,211,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,>=35,2018,ng_140d,0.5529970003101207,3.421354376014537,0.5159145070662519,0.5900794935539895,1804,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,15 to 24,2018,ng_140e,0.6513744019163731,16.89415890795953,0.43569168118058144,0.8670571226521647,36,Method of contact,Younger Canadians Reasons for Concers About Requests,CA (without QC),*
+Younger,25 to 34,2018,ng_140e,0.5069845745919964,10.803025720578708,0.39963798612161816,0.6143311630623747,211,Method of contact,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,>=35,2018,ng_140e,0.532563164695275,3.4820832246047,0.496217019044678,0.568909310345872,1804,Method of contact,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,15 to 24,2018,ng_140f,0.018528468469585547,109.30173398801368,-0.021164599292188706,0.0582215362313598,36,Other,Younger Canadians Reasons for Concers About Requests,CA (without QC),...
+Younger,25 to 34,2018,ng_140f,0.06475528998306661,33.53226641156433,0.02219679596845356,0.10731378399767966,211,Other,Younger Canadians Reasons for Concers About Requests,CA (without QC),...
+Younger,>=35,2018,ng_140f,0.07467921140427379,10.64237166615332,0.05910212474156579,0.0902562980669818,1804,Other,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,15 to 34,2018,ng_140a,0.20124998506157218,16.024875808330087,0.13804102862833892,0.2644589414948054,247,Time of day,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,>=35,2018,ng_140a,0.3438500302819807,5.198042760764574,0.30881866965364124,0.37888139091032014,1804,Time of day,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,15 to 34,2018,ng_140b,0.4580569548740747,11.093583420650804,0.3584615214071907,0.5576523883409588,247,Number of requests,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,>=35,2018,ng_140b,0.5222809193440523,3.513384027643527,0.4863161007948357,0.5582457378932688,1804,Number of requests,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,15 to 34,2018,ng_140c,0.50006257979084,10.01666804109469,0.4018887509049827,0.5982364086766973,247,Tone,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,>=35,2018,ng_140c,0.40933285656307666,4.5884832456794635,0.372520480708334,0.44614523241781934,1804,Tone,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,15 to 34,2018,ng_140d,0.48956701274326525,10.10211479601177,0.3926338155500094,0.5865002099365211,247,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,>=35,2018,ng_140d,0.5529970003101207,3.421354376014537,0.5159145070662519,0.5900794935539895,1804,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,15 to 34,2018,ng_140e,0.53702330650609,8.893873543768782,0.4434111660715605,0.6306354469406195,247,Method of contact,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,>=35,2018,ng_140e,0.532563164695275,3.4820832246047,0.496217019044678,0.568909310345872,1804,Method of contact,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger2,15 to 34,2018,ng_140f,0.05513830293892684,32.00968280394845,0.020545730683748008,0.08973087519410566,247,Other,Younger Canadians Reasons for Concers About Requests,CA (without QC),*
+Younger2,>=35,2018,ng_140f,0.07467921140427379,10.64237166615332,0.05910212474156579,0.0902562980669818,1804,Other,Younger Canadians Reasons for Concers About Requests,CA (without QC),
+Younger,15 to 24,2018,ng_140a,0.12270272600632226,103.82119100233331,-0.12697989173558122,0.37238534374822574,8,Time of day,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,25 to 34,2018,ng_140a,0.3386240786766606,32.028871269350795,0.1260513431394455,0.5511968142138757,29,Time of day,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger,>=35,2018,ng_140a,0.32187634390974856,12.974740005154745,0.24002311523931208,0.40372957258018505,185,Time of day,Younger Canadians Reasons for Concers About Requests,AB,
+Younger,15 to 24,2018,ng_140a,0.22912149121718625,71.08815939380324,-0.09011401437628017,0.5483569968106526,10,Time of day,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,25 to 34,2018,ng_140a,0.10641363138035452,47.51137701101945,0.007320632342300945,0.2055066304184081,47,Time of day,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,>=35,2018,ng_140a,0.3535216282711332,7.487579203815348,0.30164096624592956,0.40540229029633684,536,Time of day,Younger Canadians Reasons for Concers About Requests,AT,
+Younger,15 to 24,2018,ng_140a,0.12838215719548032,117.84261057430739,-0.16813860974522124,0.4249029241361819,8,Time of day,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,25 to 34,2018,ng_140a,0.19282586105721813,44.668134111377924,0.02401080326234506,0.3616409188520912,31,Time of day,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,>=35,2018,ng_140a,0.2773230402687302,13.370854641100044,0.20464667296137573,0.3499994075760847,297,Time of day,Younger Canadians Reasons for Concers About Requests,BC,
+Younger,15 to 24,2018,ng_140a,0.4520193739556308,54.88467924956998,-0.034226882732379116,0.9382656306436408,5,Time of day,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,25 to 34,2018,ng_140a,0.13850512353644134,30.077237743922513,0.056855933911635015,0.22015431316124767,68,Time of day,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger,>=35,2018,ng_140a,0.37923011025638065,7.901395712323824,0.32050082496419835,0.43795939554856295,510,Time of day,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,15 to 24,2018,ng_140a,0.6388485155249883,40.21869757227981,0.1352621265012719,1.1424349045487048,5,Time of day,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,25 to 34,2018,ng_140a,0.2998822850168026,30.21855258906217,0.12227018017483612,0.477494389858769,36,Time of day,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger,>=35,2018,ng_140a,0.34763818699671323,10.411603641607476,0.27669785869738917,0.4185785152960373,276,Time of day,Younger Canadians Reasons for Concers About Requests,PR,
+Younger,15 to 24,2018,ng_140a,0,NA,0,0,3,Time of day,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,25 to 34,2018,ng_140a,0.27457248013655394,42.824472846012206,0.0441116492767652,0.5050333109963427,19,Time of day,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,>=35,2018,ng_140a,0.2788712317699726,18.984925036071527,0.1751038897288217,0.38263857381112343,140,Time of day,Younger Canadians Reasons for Concers About Requests,QC,*
+Younger,15 to 24,2018,ng_140b,0.12270272600632226,103.82119100233331,-0.12697989173558122,0.37238534374822574,8,Number of requests,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,25 to 34,2018,ng_140b,0.3549610231172024,31.417323362444407,0.13638730474536193,0.5735347414890428,29,Number of requests,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger,>=35,2018,ng_140b,0.5298445885615573,9.342266496291431,0.4328273640885669,0.6268618130345476,185,Number of requests,Younger Canadians Reasons for Concers About Requests,AB,
+Younger,15 to 24,2018,ng_140b,0.37086617384578596,54.14701719757875,-0.0227200168099716,0.7644523645015435,10,Number of requests,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,25 to 34,2018,ng_140b,0.2983120394784675,27.491398867114526,0.13757509393420186,0.45904898502273317,47,Number of requests,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger,>=35,2018,ng_140b,0.5127744093342171,5.4011510632361635,0.4584917947032824,0.5670570239651519,536,Number of requests,Younger Canadians Reasons for Concers About Requests,AT,
+Younger,15 to 24,2018,ng_140b,0.3870592090403864,57.466308907065965,-0.04889291590178635,0.8230113339825591,8,Number of requests,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,25 to 34,2018,ng_140b,0.38578636965144886,30.170526190769042,0.15765875734251686,0.6139139819603808,31,Number of requests,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger,>=35,2018,ng_140b,0.48667948331292005,8.029363444595406,0.4100894522286475,0.5632695143971926,297,Number of requests,Younger Canadians Reasons for Concers About Requests,BC,
+Younger,15 to 24,2018,ng_140b,0.26893956669835356,87.91521274217435,-0.194471950582845,0.7323510839795522,5,Number of requests,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,25 to 34,2018,ng_140b,0.6292847137419859,12.868771333868894,0.4705644570506644,0.7880049704333074,68,Number of requests,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,>=35,2018,ng_140b,0.5445275069137235,5.438453660100874,0.4864853762562825,0.6025696375711646,510,Number of requests,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,15 to 24,2018,ng_140b,0.6125100017750457,40.56685647124351,0.1255058863018867,1.0995141172482046,5,Number of requests,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,25 to 34,2018,ng_140b,0.5011113694963419,17.900191647016445,0.3253028048898612,0.6769199341028227,36,Number of requests,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger,>=35,2018,ng_140b,0.48319260803924013,7.399155892003403,0.41311963398842033,0.5532655820900599,276,Number of requests,Younger Canadians Reasons for Concers About Requests,PR,
+Younger,15 to 24,2018,ng_140b,0,NA,0,0,3,Number of requests,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,25 to 34,2018,ng_140b,0.2697884908489337,41.46487874962169,0.05053227740988947,0.4890447042879779,19,Number of requests,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,>=35,2018,ng_140b,0.6093224057864154,8.758540822788481,0.5047235346102653,0.7139212769625655,140,Number of requests,Younger Canadians Reasons for Concers About Requests,QC,
+Younger,15 to 24,2018,ng_140c,0.5433832968044984,39.55498401234973,0.12211809248720251,0.9646485011217942,8,Tone,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,25 to 34,2018,ng_140c,0.38253502861956873,31.07757119918905,0.149529422304013,0.6155406349351245,29,Tone,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger,>=35,2018,ng_140c,0.5179958614515996,9.77496088512339,0.4187552550813737,0.6172364678218255,185,Tone,Younger Canadians Reasons for Concers About Requests,AB,
+Younger,15 to 24,2018,ng_140c,0.7559693564382672,22.17673665527447,0.42738270099721837,1.084556011879316,10,Tone,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,25 to 34,2018,ng_140c,0.57065587337684,16.720159221210373,0.3836467513342462,0.7576649954194338,47,Tone,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger,>=35,2018,ng_140c,0.4084060523574218,6.831612025498026,0.35372165192258254,0.463090452792261,536,Tone,Younger Canadians Reasons for Concers About Requests,AT,
+Younger,15 to 24,2018,ng_140c,0.6689371049372482,35.25106998481806,0.2067629231012953,1.1311112867732012,8,Tone,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,25 to 34,2018,ng_140c,0.523444603585944,24.459410189516703,0.27250754779424863,0.7743816593776394,31,Tone,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger,>=35,2018,ng_140c,0.32666673513576927,11.359994544277244,0.25393379799790755,0.399399672273631,297,Tone,Younger Canadians Reasons for Concers About Requests,BC,
+Younger,15 to 24,2018,ng_140c,0.8498419105116292,22.321319947833036,0.4780447159815542,1.2216391050417041,5,Tone,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,25 to 34,2018,ng_140c,0.43250673278323426,21.358080229543404,0.251454795143609,0.6135586704228595,68,Tone,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger,>=35,2018,ng_140c,0.4078862821223695,7.29590690667038,0.3495597071862606,0.46621285705847837,510,Tone,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,15 to 24,2018,ng_140c,0.36115148447501166,71.14370657440054,-0.14243490454870478,0.8647378734987281,5,Tone,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,25 to 34,2018,ng_140c,0.5894766781499671,15.3557758068683,0.41206325264745053,0.7668901036524836,36,Tone,Younger Canadians Reasons for Concers About Requests,PR,
+Younger,>=35,2018,ng_140c,0.41246928935702926,8.6305516457348,0.3426977563690024,0.4822408223450561,276,Tone,Younger Canadians Reasons for Concers About Requests,PR,
+Younger,15 to 24,2018,ng_140c,0.2877042642410331,103.86646534012338,-0.2979883431260423,0.8733968716081085,3,Tone,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,25 to 34,2018,ng_140c,0.38048028384183674,33.66883166517744,0.12940249561953387,0.6315580720641396,19,Tone,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,>=35,2018,ng_140c,0.33666209362206384,15.610706111933942,0.23365553957622373,0.4396686476679039,140,Tone,Younger Canadians Reasons for Concers About Requests,QC,
+Younger,15 to 24,2018,ng_140d,0.12270272600632226,103.82119100233331,-0.12697989173558122,0.37238534374822574,8,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,25 to 34,2018,ng_140d,0.5121609027949985,23.384093307871083,0.2774274167009546,0.7468943888890424,29,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger,>=35,2018,ng_140d,0.676025735640766,6.306608292181107,0.5924640527361638,0.7595874185453682,185,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AB,
+Younger,15 to 24,2018,ng_140d,0.5153785742071976,39.64892752039063,0.1148754620887521,0.915881686325643,10,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,25 to 34,2018,ng_140d,0.36775608251734315,25.855871694446247,0.18138988704820241,0.5541222779864838,47,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger,>=35,2018,ng_140d,0.4816919678281261,5.801088908497422,0.42692395075693595,0.5364599848993162,536,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AT,
+Younger,15 to 24,2018,ng_140d,0.6763638834615373,35.24944024780015,0.20908008347018742,1.1436476834528873,8,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,25 to 34,2018,ng_140d,0.3230401189738706,31.921356633891275,0.12093100748600169,0.5251492304617394,31,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger,>=35,2018,ng_140d,0.5155045109745726,7.853082410619051,0.43615930059673214,0.5948497213524131,297,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,BC,
+Younger,15 to 24,2018,ng_140d,0.4520193739556308,54.88467924956998,-0.034226882732379116,0.9382656306436408,5,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,25 to 34,2018,ng_140d,0.5915732475039053,13.836611571372096,0.4311429583644426,0.7520035366433679,68,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,>=35,2018,ng_140d,0.5566840329518753,5.388543759612455,0.49789067438544876,0.6154773915183018,510,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,15 to 24,2018,ng_140d,0.39167004957197105,64.46858741906088,-0.10322898704805661,0.8865690861919987,5,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,25 to 34,2018,ng_140d,0.5424442900617085,18.294535267492414,0.347942046726145,0.736946533397272,36,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger,>=35,2018,ng_140d,0.4600402209083421,8.380691975862891,0.38447468386469474,0.5356057579519895,276,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,PR,
+Younger,15 to 24,2018,ng_140d,0,NA,0,0,3,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,25 to 34,2018,ng_140d,0.3747783175077661,32.11810965307565,0.13885409924303252,0.6107025357724997,19,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,QC,*
+Younger,>=35,2018,ng_140d,0.4401162406749068,12.886053938824983,0.3289595955547596,0.551272885795054,140,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,QC,
+Younger,15 to 24,2018,ng_140e,1,0,1,1,8,Method of contact,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,25 to 34,2018,ng_140e,0.6701598424938523,16.51614450522647,0.45322207556500366,0.887097609422701,29,Method of contact,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger,>=35,2018,ng_140e,0.5122162082707984,10.060248486697898,0.4112188264067718,0.6132135901348249,185,Method of contact,Younger Canadians Reasons for Concers About Requests,AB,
+Younger,15 to 24,2018,ng_140e,0.33342319138267323,59.1538822888286,-0.053145919010839204,0.7199923017761857,10,Method of contact,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,25 to 34,2018,ng_140e,0.6082577858493511,16.656805256079764,0.4096814577090468,0.8068341139896553,47,Method of contact,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger,>=35,2018,ng_140e,0.5178998632000902,5.413165084073175,0.462952714737579,0.5728470116626013,536,Method of contact,Younger Canadians Reasons for Concers About Requests,AT,
+Younger,15 to 24,2018,ng_140e,0.2774512696725233,77.38699118428094,-0.1433749290254438,0.6982774683704904,8,Method of contact,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,25 to 34,2018,ng_140e,0.4354380293488434,27.663864376746993,0.1993427554022908,0.6715333032953961,31,Method of contact,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger,>=35,2018,ng_140e,0.4767875711633615,8.222791528626583,0.39994669705651686,0.5536284452702062,297,Method of contact,Younger Canadians Reasons for Concers About Requests,BC,
+Younger,15 to 24,2018,ng_140e,0.6021774634440018,37.83434141389277,0.1556391090654582,1.0487158178225453,5,Method of contact,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,25 to 34,2018,ng_140e,0.4889742819870758,18.648026635174926,0.31025681950828654,0.6676917444658651,68,Method of contact,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger,>=35,2018,ng_140e,0.5704318585385862,5.0626407254764665,0.5138302240863388,0.6270334929908337,510,Method of contact,Younger Canadians Reasons for Concers About Requests,ON,
+Younger,15 to 24,2018,ng_140e,0.5351715211357784,50.415010878497945,0.006359948376596147,1.0639830938949606,5,Method of contact,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,25 to 34,2018,ng_140e,0.2909242505721994,27.495606827285883,0.13414401081781616,0.44770449032658266,36,Method of contact,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger,>=35,2018,ng_140e,0.5181179199144073,7.319117978185245,0.44379282850417634,0.5924430113246382,276,Method of contact,Younger Canadians Reasons for Concers About Requests,PR,
+Younger,15 to 24,2018,ng_140e,1,0,1,1,3,Method of contact,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,25 to 34,2018,ng_140e,0.4079075565682527,32.20995567427225,0.1503940759270634,0.665421037209442,19,Method of contact,Younger Canadians Reasons for Concers About Requests,QC,*
+Younger,>=35,2018,ng_140e,0.3440813358441206,14.457112152692728,0.24658444715109298,0.44157822453714823,140,Method of contact,Younger Canadians Reasons for Concers About Requests,QC,
+Younger,15 to 24,2018,ng_140f,0,NA,0,0,8,Other,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,25 to 34,2018,ng_140f,0.07283788218251534,66.12594484121985,-0.021563269221524448,0.16723903358655512,29,Other,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,>=35,2018,ng_140f,0.06928248875937683,37.88240422528665,0.01784152401617959,0.12072345350257407,185,Other,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger,15 to 24,2018,ng_140f,0,NA,0,0,10,Other,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,25 to 34,2018,ng_140f,0.0680347192120865,70.14954959160839,-0.025506618134964493,0.16157605655913748,47,Other,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger,>=35,2018,ng_140f,0.07811823275555407,19.360243946980592,0.04847597180911496,0.10776049370199318,536,Other,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger,15 to 24,2018,ng_140f,0.07115153328113903,144.8794696663193,-0.13088932369373268,0.2731923902560107,8,Other,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,25 to 34,2018,ng_140f,0.14309633409776532,61.62651209357816,-0.02974363795975163,0.31593630615528223,31,Other,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger,>=35,2018,ng_140f,0.07251766434416704,23.668066131592376,0.038877766138584686,0.1061575625497494,297,Other,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger,15 to 24,2018,ng_140f,0,NA,0,0,5,Other,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,25 to 34,2018,ng_140f,0.040116735171782464,65.40743974818372,-0.011311405404088204,0.09154487574765313,68,Other,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger,>=35,2018,ng_140f,0.06404973168449161,18.79395919746694,0.04045670355970021,0.08764275980928302,510,Other,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger,15 to 24,2018,ng_140f,0,NA,0,0,5,Other,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,25 to 34,2018,ng_140f,0.046864225197700095,60.54148946794481,-0.008744460886974129,0.10247291128237432,36,Other,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger,>=35,2018,ng_140f,0.14675136845225148,19.959510114444846,0.08934234908638458,0.20416038781811838,276,Other,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger,15 to 24,2018,ng_140f,0,NA,0,0,3,Other,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,25 to 34,2018,ng_140f,0.07103332911962684,80.35022632208853,-0.04083247907712327,0.18289913731637697,19,Other,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger,>=35,2018,ng_140f,0.09265720064054596,35.358300884082716,0.028444837464694644,0.15686956381639727,140,Other,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger2,15 to 34,2018,ng_140a,0.2619970061424616,30.55803046442697,0.10508008467301658,0.4189139276119066,37,Time of day,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger2,>=35,2018,ng_140a,0.32187634390974856,12.974740005154745,0.24002311523931208,0.40372957258018505,185,Time of day,Younger Canadians Reasons for Concers About Requests,AB,
+Younger2,15 to 34,2018,ng_140a,0.13654694972392503,39.596717615399704,0.030575401226314705,0.24251849822153537,57,Time of day,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger2,>=35,2018,ng_140a,0.3535216282711332,7.487579203815348,0.30164096624592956,0.40540229029633684,536,Time of day,Younger Canadians Reasons for Concers About Requests,AT,
+Younger2,15 to 34,2018,ng_140a,0.1734365181861043,39.65860918825591,0.03862527398306681,0.3082477623891418,39,Time of day,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger2,>=35,2018,ng_140a,0.2773230402687302,13.370854641100044,0.20464667296137573,0.3499994075760847,297,Time of day,Younger Canadians Reasons for Concers About Requests,BC,
+Younger2,15 to 34,2018,ng_140a,0.17323403446891483,27.721159862639468,0.07911169610276003,0.26735637283506963,73,Time of day,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger2,>=35,2018,ng_140a,0.37923011025638065,7.901395712323824,0.32050082496419835,0.43795939554856295,510,Time of day,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,15 to 34,2018,ng_140a,0.3301301543173422,25.925597194364553,0.16238033732635776,0.4978799713083267,41,Time of day,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger2,>=35,2018,ng_140a,0.34763818699671323,10.411603641607476,0.27669785869738917,0.4185785152960373,276,Time of day,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,15 to 34,2018,ng_140a,0.175939920271456,49.50038550244511,0.005244816869025587,0.34663502367388643,22,Time of day,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger2,>=35,2018,ng_140a,0.2788712317699726,18.984925036071527,0.1751038897288217,0.38263857381112343,140,Time of day,Younger Canadians Reasons for Concers About Requests,QC,*
+Younger2,15 to 34,2018,ng_140b,0.2725362274252393,32.09630791679866,0.10109020703509258,0.44398224781538603,37,Number of requests,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger2,>=35,2018,ng_140b,0.5298445885615573,9.342266496291431,0.4328273640885669,0.6268618130345476,185,Number of requests,Younger Canadians Reasons for Concers About Requests,AB,
+Younger2,15 to 34,2018,ng_140b,0.31612912822029526,24.643880886458632,0.16343522187843548,0.468823034562155,57,Number of requests,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger2,>=35,2018,ng_140b,0.5127744093342171,5.4011510632361635,0.4584917947032824,0.5670570239651519,536,Number of requests,Younger Canadians Reasons for Concers About Requests,AT,
+Younger2,15 to 34,2018,ng_140b,0.38616933211097665,26.277728249558734,0.18727899259128816,0.5850596716306651,39,Number of requests,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger2,>=35,2018,ng_140b,0.48667948331292005,8.029363444595406,0.4100894522286475,0.5632695143971926,297,Number of requests,Younger Canadians Reasons for Concers About Requests,BC,
+Younger2,15 to 34,2018,ng_140b,0.5893682043651561,13.378591133461335,0.43482668598203533,0.7439097227482769,73,Number of requests,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,>=35,2018,ng_140b,0.5445275069137235,5.438453660100874,0.4864853762562825,0.6025696375711646,510,Number of requests,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,15 to 34,2018,ng_140b,0.5110520980001029,16.398565682047128,0.3467968969217772,0.6753072990784286,41,Number of requests,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,>=35,2018,ng_140b,0.48319260803924013,7.399155892003403,0.41311963398842033,0.5532655820900599,276,Number of requests,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,15 to 34,2018,ng_140b,0.17287444665434473,47.31626254003294,0.012553847631652848,0.3331950456770366,22,Number of requests,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger2,>=35,2018,ng_140b,0.6093224057864154,8.758540822788481,0.5047235346102653,0.7139212769625655,140,Number of requests,Younger Canadians Reasons for Concers About Requests,QC,
+Younger2,15 to 34,2018,ng_140c,0.43961753463751135,25.181980823821977,0.22264089129718223,0.6565941779778405,37,Tone,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger2,>=35,2018,ng_140c,0.5179958614515996,9.77496088512339,0.4187552550813737,0.6172364678218255,185,Tone,Younger Canadians Reasons for Concers About Requests,AB,
+Younger2,15 to 34,2018,ng_140c,0.6161632286992391,13.408105245881668,0.4542392083325696,0.7780872490659086,57,Tone,Younger Canadians Reasons for Concers About Requests,AT,
+Younger2,>=35,2018,ng_140c,0.4084060523574218,6.831612025498026,0.35372165192258254,0.463090452792261,536,Tone,Younger Canadians Reasons for Concers About Requests,AT,
+Younger2,15 to 34,2018,ng_140c,0.5672193065410817,19.493726647058374,0.3505018138803827,0.7839367992017806,39,Tone,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger2,>=35,2018,ng_140c,0.32666673513576927,11.359994544277244,0.25393379799790755,0.399399672273631,297,Tone,Younger Canadians Reasons for Concers About Requests,BC,
+Younger2,15 to 34,2018,ng_140c,0.4787361982602852,17.81862718436916,0.31154300253628464,0.6459293939842857,73,Tone,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger2,>=35,2018,ng_140c,0.4078862821223695,7.29590690667038,0.3495597071862606,0.46621285705847837,510,Tone,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,15 to 34,2018,ng_140c,0.569101932837001,15.196157921033118,0.3996010557593238,0.7386028099146781,41,Tone,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,>=35,2018,ng_140c,0.41246928935702926,8.6305516457348,0.3426977563690024,0.4822408223450561,276,Tone,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,15 to 34,2018,ng_140c,0.34715306800880497,36.85554542817104,0.09638516890933263,0.5979209671082772,22,Tone,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger2,>=35,2018,ng_140c,0.33666209362206384,15.610706111933942,0.23365553957622373,0.4396686476679039,140,Tone,Younger Canadians Reasons for Concers About Requests,QC,
+Younger2,15 to 34,2018,ng_140d,0.3739483564546365,25.06312839115361,0.19025434481535725,0.5576423680939158,37,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AB,*
+Younger2,>=35,2018,ng_140d,0.676025735640766,6.306608292181107,0.5924640527361638,0.7595874185453682,185,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AB,
+Younger2,15 to 34,2018,ng_140d,0.40400767669131527,21.305492140763114,0.23530216209282617,0.5727131912898044,57,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger2,>=35,2018,ng_140d,0.4816919678281261,5.801088908497422,0.42692395075693595,0.5364599848993162,536,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,AT,
+Younger2,15 to 34,2018,ng_140d,0.42934554842066425,25.50451943191423,0.21472455530331133,0.6439665415380171,39,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger2,>=35,2018,ng_140d,0.5155045109745726,7.853082410619051,0.43615930059673214,0.5948497213524131,297,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,BC,
+Younger2,15 to 34,2018,ng_140d,0.5761144476622411,13.423358088359926,0.4245427784737903,0.7276861168506918,73,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,>=35,2018,ng_140d,0.5566840329518753,5.388543759612455,0.49789067438544876,0.6154773915183018,510,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,15 to 34,2018,ng_140d,0.5289898538679191,17.703697744078102,0.3454377276850796,0.7125419800507586,41,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger2,>=35,2018,ng_140d,0.4600402209083421,8.380691975862891,0.38447468386469474,0.5356057579519895,276,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,15 to 34,2018,ng_140d,0.24014958552653712,39.560750844906096,0.05394324797151276,0.42635592308156145,22,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger2,>=35,2018,ng_140d,0.4401162406749068,12.886053938824983,0.3289595955547596,0.551272885795054,140,Multiple requests from one organization,Younger Canadians Reasons for Concers About Requests,QC,
+Younger2,15 to 34,2018,ng_140e,0.7872148968520182,10.270295978997765,0.6287531808777105,0.9456766128263259,37,Method of contact,Younger Canadians Reasons for Concers About Requests,AB,
+Younger2,>=35,2018,ng_140e,0.5122162082707984,10.060248486697898,0.4112188264067718,0.6132135901348249,185,Method of contact,Younger Canadians Reasons for Concers About Requests,AB,
+Younger2,15 to 34,2018,ng_140e,0.5407667682576263,16.523709047525138,0.3656347206805468,0.7158988158347057,57,Method of contact,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger2,>=35,2018,ng_140e,0.5178998632000902,5.413165084073175,0.462952714737579,0.5728470116626013,536,Method of contact,Younger Canadians Reasons for Concers About Requests,AT,
+Younger2,15 to 34,2018,ng_140e,0.38790414676765955,25.984058437370834,0.19035302613546098,0.5854552673998581,39,Method of contact,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger2,>=35,2018,ng_140e,0.4767875711633615,8.222791528626583,0.39994669705651686,0.5536284452702062,297,Method of contact,Younger Canadians Reasons for Concers About Requests,BC,
+Younger2,15 to 34,2018,ng_140e,0.5015141368767138,16.822476158924545,0.3361576670214306,0.6668706067319969,73,Method of contact,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger2,>=35,2018,ng_140e,0.5704318585385862,5.0626407254764665,0.5138302240863388,0.6270334929908337,510,Method of contact,Younger Canadians Reasons for Concers About Requests,ON,
+Younger2,15 to 34,2018,ng_140e,0.3127198126432189,24.504820410540763,0.16252497274561717,0.46291465254082065,41,Method of contact,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger2,>=35,2018,ng_140e,0.5181179199144073,7.319117978185245,0.44379282850417634,0.5924430113246382,276,Method of contact,Younger Canadians Reasons for Concers About Requests,PR,
+Younger2,15 to 34,2018,ng_140e,0.6206003702960157,20.4398209657718,0.3719797138240814,0.8692210267679499,22,Method of contact,Younger Canadians Reasons for Concers About Requests,QC,*
+Younger2,>=35,2018,ng_140e,0.3440813358441206,14.457112152692728,0.24658444715109298,0.44157822453714823,140,Method of contact,Younger Canadians Reasons for Concers About Requests,QC,
+Younger2,15 to 34,2018,ng_140f,0.04698886997408188,66.0877268009428,-0.013875608596320407,0.10785334854448417,37,Other,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger2,>=35,2018,ng_140f,0.06928248875937683,37.88240422528665,0.01784152401617959,0.12072345350257407,185,Other,Younger Canadians Reasons for Concers About Requests,AB,...
+Younger2,15 to 34,2018,ng_140f,0.051327461379056645,69.00093954339833,-0.018087467048740848,0.12074238980685414,57,Other,Younger Canadians Reasons for Concers About Requests,AT,...
+Younger2,>=35,2018,ng_140f,0.07811823275555407,19.360243946980592,0.04847597180911496,0.10776049370199318,536,Other,Younger Canadians Reasons for Concers About Requests,AT,*
+Younger2,15 to 34,2018,ng_140f,0.12145011689987721,58.06136255792611,-0.016757905141133386,0.2596581389408878,39,Other,Younger Canadians Reasons for Concers About Requests,BC,...
+Younger2,>=35,2018,ng_140f,0.07251766434416704,23.668066131592376,0.038877766138584686,0.1061575625497494,297,Other,Younger Canadians Reasons for Concers About Requests,BC,*
+Younger2,15 to 34,2018,ng_140f,0.03567288446700703,64.0423671070669,-0.009103981603411491,0.08044975053742556,73,Other,Younger Canadians Reasons for Concers About Requests,ON,...
+Younger2,>=35,2018,ng_140f,0.06404973168449161,18.79395919746694,0.04045670355970021,0.08764275980928302,510,Other,Younger Canadians Reasons for Concers About Requests,ON,*
+Younger2,15 to 34,2018,ng_140f,0.04268226596085849,59.57975583963593,-0.007159598265115669,0.09252413018683264,41,Other,Younger Canadians Reasons for Concers About Requests,PR,...
+Younger2,>=35,2018,ng_140f,0.14675136845225148,19.959510114444846,0.08934234908638458,0.20416038781811838,276,Other,Younger Canadians Reasons for Concers About Requests,PR,*
+Younger2,15 to 34,2018,ng_140f,0.045516572730478204,83.77388457564031,-0.02921881612393453,0.12025196158489093,22,Other,Younger Canadians Reasons for Concers About Requests,QC,...
+Younger2,>=35,2018,ng_140f,0.09265720064054596,35.358300884082716,0.028444837464694644,0.15686956381639727,140,Other,Younger Canadians Reasons for Concers About Requests,QC,...
